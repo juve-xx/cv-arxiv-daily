@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.01.30
-> Usage instructions: [here](./docs/README.md#usage)
+> Usage instructions
 
 
 ## ICL
