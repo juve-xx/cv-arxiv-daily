@@ -22,18 +22,16 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "ICL": 
+        filters: ["In Context Learning", "ICL"]
+    "Transformer":
+        filters: ["Transformer", "Self Attention"]
+    "Optimization":
+        filters: ["Optimization","Optimization Theory",
+                  "Gradient Descent"]
+    "Over paramterized":
+        filters: ["Over Parameterized", "Benign Overfitting"]
+    "Machine Learning":
+        filters: ["Loss landscape", "Machine Leanring Theory", "Gradient Descent"]
+    "Reinforcement":
+        filters: ["Reinforcement learning", "Award"]
