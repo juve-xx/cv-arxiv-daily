@@ -25,13 +25,12 @@ keywords:
     "ICL": 
         filters: ["In Context Learning", "ICL","Transformer", "Algorithm"]
     "Transformer":
-        filters: ["Transformer", "Self Attention"]
+        filters: ["Transformer", "Self Attention", "Algorithm","Linear", "Single"]
     "Optimization":
-        filters: ["Optimization","Optimization Theory",
-                  "Gradient Descent"]
+        filters: ["Optimization", "Gradient Descent"]
     "Over paramterized":
-        filters: ["Over Parameterized", "Benign Overfitting"]
+        filters: ["Over Parameterized"]
     "Machine Learning":
         filters: ["Loss landscape", "Machine Leanring Theory", "Gradient Descent"]
     "Reinforcement":
-        filters: ["Reinforcement learning", "Award"]
+        filters: ["Reinforcement learning"]
