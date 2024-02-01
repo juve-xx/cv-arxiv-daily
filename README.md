@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## SFM
 
@@ -631,7 +631,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1279,7 +1279,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1488,7 +1488,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1687,7 +1687,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## NeRF
 
@@ -2464,7 +2464,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## ICL
 
@@ -2572,7 +2572,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Transformer
 
@@ -2582,11 +2582,11 @@
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|null|
 |**2024-01-27**|**SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection**|Foozhan Ataiefard et.al.|[2401.15293](http://arxiv.org/abs/2401.15293)|null|
-|**2024-01-26**|**Deep Learning with Tabular Data: A Self-supervised Approach**|Tirth Kiranbhai Vyas et.al.|[2401.15238](http://arxiv.org/abs/2401.15238)|null|
+|**2024-01-26**|**Deep Learning with Tabular Data: A Self-supervised Approach**|Tirth Kiranbhai Vyas et.al.|[2401.15238](http://arxiv.org/abs/2401.15238)|**[link](https://github.com/tirthvyas-tk-labs/deep-learning-with-tabular-data-a-self-supervised-approach)**|
 |**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
-|**2024-01-22**|**Accelerating Material Property Prediction using Generically Complete Isometry Invariants**|Jonathan Balasingham et.al.|[2401.15089](http://arxiv.org/abs/2401.15089)|null|
+|**2024-01-22**|**Accelerating Material Property Prediction using Generically Complete Isometry Invariants**|Jonathan Balasingham et.al.|[2401.15089](http://arxiv.org/abs/2401.15089)|**[link](https://github.com/jonathanbalasingham/periodic-set-transformer)**|
 |**2024-01-26**|**Endowing Protein Language Models with Structural Knowledge**|Dexiong Chen et.al.|[2401.14819](http://arxiv.org/abs/2401.14819)|**[link](https://github.com/borgwardtlab/pst)**|
-|**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|null|
+|**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
 |**2024-01-25**|**Rethinking Patch Dependence for Masked Autoencoders**|Letian Fu et.al.|[2401.14391](http://arxiv.org/abs/2401.14391)|null|
 |**2024-01-25**|**Transformers and Cortical Waves: Encoders for Pulling In Context Across Time**|Lyle Muller et.al.|[2401.14267](http://arxiv.org/abs/2401.14267)|null|
 |**2024-01-25**|**GQHAN: A Grover-inspired Quantum Hard Attention Network**|Ren-Xin Zhao et.al.|[2401.14089](http://arxiv.org/abs/2401.14089)|null|
@@ -2605,7 +2605,7 @@
 |**2024-01-22**|**Friends Across Time: Multi-Scale Action Segmentation Transformer for Surgical Phase Recognition**|Bokai Zhang et.al.|[2401.11644](http://arxiv.org/abs/2401.11644)|null|
 |**2024-01-21**|**Another Way to the Top: Exploit Contextual Clustering in Learned Image Coding**|Yichi Zhang et.al.|[2401.11615](http://arxiv.org/abs/2401.11615)|null|
 |**2024-01-21**|**AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology**|Rongqing Cong et.al.|[2401.11459](http://arxiv.org/abs/2401.11459)|null|
-|**2024-01-24**|**VIPTR: A Vision Permutable Extractor for Fast and Efficient Scene Text Recognition**|Xianfu Cheng et.al.|[2401.10110](http://arxiv.org/abs/2401.10110)|null|
+|**2024-01-24**|**VIPTR: A Vision Permutable Extractor for Fast and Efficient Scene Text Recognition**|Xianfu Cheng et.al.|[2401.10110](http://arxiv.org/abs/2401.10110)|**[link](https://github.com/cxfyxl/viptr)**|
 |**2024-01-25**|**SymTC: A Symbiotic Transformer-CNN Net for Instance Segmentation of Lumbar Spine MRI**|Jiasong Chen et.al.|[2401.09627](http://arxiv.org/abs/2401.09627)|**[link](https://github.com/jiasongchen/symtc)**|
 |**2024-01-17**|**Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**|Lianghui Zhu et.al.|[2401.09417](http://arxiv.org/abs/2401.09417)|**[link](https://github.com/hustvl/vim)**|
 |**2024-01-17**|**A Novel Interpretable Fusion Analytic Framework for Investigating Functional Brain Connectivity Differences in Cognitive Impairments**|Yeseul Jeon et.al.|[2401.09028](http://arxiv.org/abs/2401.09028)|null|
@@ -2682,7 +2682,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Optimization
 
@@ -2691,7 +2691,7 @@
 |**2024-01-30**|**Optimal control approach for moving bottom detection in one-dimensional shallow waters by surface measurements**|Gino Montecinos et.al.|[2401.17239](http://arxiv.org/abs/2401.17239)|null|
 |**2024-01-30**|**Interactive Byzantine-Resilient Gradient Coding for General Data Assignments**|Shreyas Jain et.al.|[2401.16915](http://arxiv.org/abs/2401.16915)|null|
 |**2024-01-30**|**A Tournament of Transformation Models: B-Spline-based vs. Mesh-based Multi-Objective Deformable Image Registration**|Georgios Andreadis et.al.|[2401.16867](http://arxiv.org/abs/2401.16867)|null|
-|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760](http://arxiv.org/abs/2401.16760)|null|
+|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760](http://arxiv.org/abs/2401.16760)|**[link](https://github.com/paperProof24/Appendix_BLAQ)**|
 |**2024-01-29**|**Computing High-Degree Polynomial Gradients in Memory**|T. Bhattacharya et.al.|[2401.16204](http://arxiv.org/abs/2401.16204)|null|
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-29**|**A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery**|Yuanwei Zhang et.al.|[2401.15925](http://arxiv.org/abs/2401.15925)|null|
@@ -2700,7 +2700,7 @@
 |**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
 |**2024-01-26**|**Probabilistic Design of Multi-Dimensional Spatially-Coupled Codes**|Canberk İrimağzı et.al.|[2401.15166](http://arxiv.org/abs/2401.15166)|null|
 |**2024-01-25**|**Optimal Potential Shaping on SE(3) via Neural ODEs on Lie Groups**|Yannik P. Wotte et.al.|[2401.15107](http://arxiv.org/abs/2401.15107)|null|
-|**2024-01-25**|**PruneSymNet: A Symbolic Neural Network and Pruning Algorithm for Symbolic Regression**|Min Wu et.al.|[2401.15103](http://arxiv.org/abs/2401.15103)|null|
+|**2024-01-25**|**PruneSymNet: A Symbolic Neural Network and Pruning Algorithm for Symbolic Regression**|Min Wu et.al.|[2401.15103](http://arxiv.org/abs/2401.15103)|**[link](https://github.com/wumin86/prunesymnet)**|
 |**2024-01-26**|**Data-Enabled Policy Optimization for Direct Adaptive Learning of the LQR**|Feiran Zhao et.al.|[2401.14871](http://arxiv.org/abs/2401.14871)|null|
 |**2024-01-26**|**Online Distributed Optimization with Clipped Stochastic Gradients: High Probability Bound of Regrets**|Yuchen Yang et.al.|[2401.14776](http://arxiv.org/abs/2401.14776)|null|
 |**2024-01-26**|**Gradient descent optimization of acoustic holograms for transcranial focused ultrasound**|Ahmed Sallam et.al.|[2401.14756](http://arxiv.org/abs/2401.14756)|null|
@@ -2793,7 +2793,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2901,7 +2901,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -2910,7 +2910,7 @@
 |**2024-01-30**|**Optimal control approach for moving bottom detection in one-dimensional shallow waters by surface measurements**|Gino Montecinos et.al.|[2401.17239](http://arxiv.org/abs/2401.17239)|null|
 |**2024-01-30**|**Interactive Byzantine-Resilient Gradient Coding for General Data Assignments**|Shreyas Jain et.al.|[2401.16915](http://arxiv.org/abs/2401.16915)|null|
 |**2024-01-30**|**A Tournament of Transformation Models: B-Spline-based vs. Mesh-based Multi-Objective Deformable Image Registration**|Georgios Andreadis et.al.|[2401.16867](http://arxiv.org/abs/2401.16867)|null|
-|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760](http://arxiv.org/abs/2401.16760)|null|
+|**2024-01-30**|**One-Step Forward and Backtrack: Overcoming Zig-Zagging in Loss-Aware Quantization Training**|Lianbo Ma et.al.|[2401.16760](http://arxiv.org/abs/2401.16760)|**[link](https://github.com/paperProof24/Appendix_BLAQ)**|
 |**2024-01-29**|**Computing High-Degree Polynomial Gradients in Memory**|T. Bhattacharya et.al.|[2401.16204](http://arxiv.org/abs/2401.16204)|null|
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-29**|**A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery**|Yuanwei Zhang et.al.|[2401.15925](http://arxiv.org/abs/2401.15925)|null|
@@ -2919,7 +2919,7 @@
 |**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
 |**2024-01-26**|**Probabilistic Design of Multi-Dimensional Spatially-Coupled Codes**|Canberk İrimağzı et.al.|[2401.15166](http://arxiv.org/abs/2401.15166)|null|
 |**2024-01-25**|**Optimal Potential Shaping on SE(3) via Neural ODEs on Lie Groups**|Yannik P. Wotte et.al.|[2401.15107](http://arxiv.org/abs/2401.15107)|null|
-|**2024-01-25**|**PruneSymNet: A Symbolic Neural Network and Pruning Algorithm for Symbolic Regression**|Min Wu et.al.|[2401.15103](http://arxiv.org/abs/2401.15103)|null|
+|**2024-01-25**|**PruneSymNet: A Symbolic Neural Network and Pruning Algorithm for Symbolic Regression**|Min Wu et.al.|[2401.15103](http://arxiv.org/abs/2401.15103)|**[link](https://github.com/wumin86/prunesymnet)**|
 |**2024-01-26**|**Data-Enabled Policy Optimization for Direct Adaptive Learning of the LQR**|Feiran Zhao et.al.|[2401.14871](http://arxiv.org/abs/2401.14871)|null|
 |**2024-01-26**|**Online Distributed Optimization with Clipped Stochastic Gradients: High Probability Bound of Regrets**|Yuchen Yang et.al.|[2401.14776](http://arxiv.org/abs/2401.14776)|null|
 |**2024-01-26**|**Gradient descent optimization of acoustic holograms for transcranial focused ultrasound**|Ahmed Sallam et.al.|[2401.14756](http://arxiv.org/abs/2401.14756)|null|
@@ -3012,7 +3012,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -3027,9 +3027,9 @@
 |**2024-01-30**|**Deep Contextual Bandit and Reinforcement Learning for IRS-Assisted MU-MIMO Systems**|Dariel Pereira-Ruisánchez et.al.|[2401.16901](http://arxiv.org/abs/2401.16901)|null|
 |**2024-01-30**|**Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control**|Zhongyu Li et.al.|[2401.16889](http://arxiv.org/abs/2401.16889)|null|
 |**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772](http://arxiv.org/abs/2401.16772)|null|
-|**2024-01-30**|**Gradient-Based Language Model Red Teaming**|Nevan Wichers et.al.|[2401.16656](http://arxiv.org/abs/2401.16656)|null|
-|**2024-01-30**|**Augmenting Replay in World Models for Continual Reinforcement Learning**|Luke Yang et.al.|[2401.16650](http://arxiv.org/abs/2401.16650)|null|
-|**2024-01-30**|**IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion**|Bolun Li et.al.|[2401.16637](http://arxiv.org/abs/2401.16637)|null|
+|**2024-01-30**|**Gradient-Based Language Model Red Teaming**|Nevan Wichers et.al.|[2401.16656](http://arxiv.org/abs/2401.16656)|**[link](https://github.com/google-research/google-research)**|
+|**2024-01-30**|**Augmenting Replay in World Models for Continual Reinforcement Learning**|Luke Yang et.al.|[2401.16650](http://arxiv.org/abs/2401.16650)|**[link](https://github.com/cerenaut/wmar)**|
+|**2024-01-30**|**IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion**|Bolun Li et.al.|[2401.16637](http://arxiv.org/abs/2401.16637)|**[link](https://github.com/libolun-star/ircoco)**|
 |**2024-01-30**|**Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble**|Shun Zhang et.al.|[2401.16635](http://arxiv.org/abs/2401.16635)|null|
 |**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi et.al.|[2401.16618](http://arxiv.org/abs/2401.16618)|**[link](https://github.com/farazlotfi/underwater-object-tracking)**|
 |**2024-01-29**|**Attention-based Reinforcement Learning for Combinatorial Optimization: Application to Job Shop Scheduling Problem**|Jaejin Lee et.al.|[2401.16580](http://arxiv.org/abs/2401.16580)|null|
@@ -3041,7 +3041,7 @@
 |**2024-01-29**|**Iterative Data Smoothing: Mitigating Reward Overfitting and Overoptimization in RLHF**|Banghua Zhu et.al.|[2401.16335](http://arxiv.org/abs/2401.16335)|null|
 |**2024-01-29**|**Optimal Control of Renewable Energy Communities subject to Network Peak Fees with Model Predictive Control and Reinforcement Learning Algorithms**|Samy Aittahar et.al.|[2401.16321](http://arxiv.org/abs/2401.16321)|null|
 |**2024-01-29**|**Prepare Non-classical Collective Spin State by Reinforcement Learning**|X. L. Zhao et.al.|[2401.16320](http://arxiv.org/abs/2401.16320)|null|
-|**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236](http://arxiv.org/abs/2401.16236)|null|
+|**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236](http://arxiv.org/abs/2401.16236)|**[link](https://github.com/pietro-talli/tmlcn_code)**|
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-29**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108](http://arxiv.org/abs/2401.16108)|null|
 |**2024-01-29**|**Emergence of cooperation under punishment: A reinforcement learning perspective**|Chenyang Zhao et.al.|[2401.16073](http://arxiv.org/abs/2401.16073)|null|
@@ -3063,8 +3063,8 @@
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
 |**2024-01-26**|**Reinforcement Learning-based Relay Selection for Cooperative WSNs in the Presence of Bursty Impulsive Noise**|Hazem Barka et.al.|[2401.15008](http://arxiv.org/abs/2401.15008)|null|
 |**2024-01-26**|**Reinforcement Learning Interventions on Boundedly Rational Human Agents in Frictionful Tasks**|Eura Nofshin et.al.|[2401.14923](http://arxiv.org/abs/2401.14923)|null|
-|**2024-01-26**|**RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning**|Federico Ceola et.al.|[2401.14858](http://arxiv.org/abs/2401.14858)|null|
-|**2024-01-26**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols in Mobile Networks**|Peter J. Gu et.al.|[2401.14823](http://arxiv.org/abs/2401.14823)|null|
+|**2024-01-26**|**RESPRECT: Speeding-up Multi-fingered Grasping with Residual Reinforcement Learning**|Federico Ceola et.al.|[2401.14858](http://arxiv.org/abs/2401.14858)|**[link](https://github.com/hsp-iit/rl-icub-dexterous-manipulation)**|
+|**2024-01-26**|**A Deep Reinforcement Learning-based Approach for Adaptive Handover Protocols in Mobile Networks**|Peter J. Gu et.al.|[2401.14823](http://arxiv.org/abs/2401.14823)|**[link](https://github.com/kit-cel/handoveroptimdrl)**|
 |**2024-01-26**|**On the Limitations of Markovian Rewards to Express Multi-Objective, Risk-Sensitive, and Modal Tasks**|Joar Skalse et.al.|[2401.14811](http://arxiv.org/abs/2401.14811)|null|
 |**2024-01-26**|**Off-Policy Primal-Dual Safe Reinforcement Learning**|Zifan Wu et.al.|[2401.14758](http://arxiv.org/abs/2401.14758)|**[link](https://github.com/zifanwu/cal)**|
 |**2024-01-26**|**FairSample: Training Fair and Accurate Graph Convolutional Neural Networks Efficiently**|Zicun Cong et.al.|[2401.14702](http://arxiv.org/abs/2401.14702)|null|
@@ -3138,7 +3138,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
