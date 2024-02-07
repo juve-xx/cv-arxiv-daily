@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.06
+## Updated on 2024.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3102,7 +3102,7 @@ layout: default
 |**2024-02-05**|**Deep autoregressive density nets vs neural ensembles for model-based offline reinforcement learning**|Abdelhakim Benechehab et.al.|[2402.02858](http://arxiv.org/abs/2402.02858)|null|
 |**2024-02-05**|**Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**|Sobihan Surendran et.al.|[2402.02857](http://arxiv.org/abs/2402.02857)|null|
 |**2024-02-05**|**Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning**|Yixiang Shan et.al.|[2402.02772](http://arxiv.org/abs/2402.02772)|null|
-|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|null|
+|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|**[link](https://github.com/jincan333/lot)**|
 |**2024-02-05**|**Crosstalk Attacks and Defence in a Shared Quantum Computing Environment**|Benjamin Harper et.al.|[2402.02753](http://arxiv.org/abs/2402.02753)|null|
 |**2024-02-05**|**Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence**|Jiafei Lyu et.al.|[2402.02701](http://arxiv.org/abs/2402.02701)|null|
 |**2024-02-05**|**Sample Complexity Characterization for Linear Contextual MDPs**|Junze Deng et.al.|[2402.02700](http://arxiv.org/abs/2402.02700)|null|
