@@ -676,7 +676,7 @@
 |**2023-12-12**|**Contextually Affinitive Neighborhood Refinery for Deep Clustering**|Chunlin Yu et.al.|[2312.07806](http://arxiv.org/abs/2312.07806)|**[link](https://github.com/cly234/deepclustering-connr)**|
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|null|
 |**2023-12-12**|**Attacking the Loop: Adversarial Attacks on Graph-based Loop Closure Detection**|Jonathan J. Y. Kim et.al.|[2312.06991](http://arxiv.org/abs/2312.06991)|null|
-|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|null|
+|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
@@ -763,7 +763,7 @@
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
-|**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|null|
+|**2023-09-18**|**Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer**|Yaoting Wang et.al.|[2309.07929](http://arxiv.org/abs/2309.07929)|**[link](https://github.com/GeWu-Lab/Generalizable-Audio-Visual-Segmentation)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094](http://arxiv.org/abs/2309.07094)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
@@ -1866,7 +1866,7 @@
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
@@ -2568,7 +2568,7 @@
 |**2023-12-20**|**Benchmarking and Analyzing In-context Learning, Fine-tuning and Supervised Learning for Biomedical Knowledge Curation: a focused study on chemical entities of biological interest**|Emily Groves et.al.|[2312.12989](http://arxiv.org/abs/2312.12989)|null|
 |**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|**[link](https://github.com/ymoslem/adaptive-mt-llm-fine-tuning)**|
 |**2023-12-21**|**Can Transformers Learn Sequential Function Classes In Context?**|Ryan Campbell et.al.|[2312.12655](http://arxiv.org/abs/2312.12655)|**[link](https://github.com/emmaguo13/in-context-learning)**|
-|**2023-12-19**|**Emergence of In-Context Reinforcement Learning from Noise Distillation**|Ilya Zisman et.al.|[2312.12275](http://arxiv.org/abs/2312.12275)|null|
+|**2023-12-19**|**Emergence of In-Context Reinforcement Learning from Noise Distillation**|Ilya Zisman et.al.|[2312.12275](http://arxiv.org/abs/2312.12275)|**[link](https://github.com/corl-team/ad-eps)**|
 |**2023-12-18**|**DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation**|Yu Wang et.al.|[2312.11336](http://arxiv.org/abs/2312.11336)|null|
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075](http://arxiv.org/abs/2312.11075)|null|
 |**2024-01-10**|**APIDocBooster: An Extract-Then-Abstract Framework Leveraging Large Language Models for Augmenting API Documentation**|Chengran Yang et.al.|[2312.10934](http://arxiv.org/abs/2312.10934)|null|
@@ -3369,7 +3369,7 @@
 |**2024-02-01**|**FM3Q: Factorized Multi-Agent MiniMax Q-Learning for Two-Team Zero-Sum Markov Game**|Guangzheng Hu et.al.|[2402.00738](http://arxiv.org/abs/2402.00738)|null|
 |**2024-02-01**|**Neural Policy Style Transfer**|Raul Fernandez-Fernandez et.al.|[2402.00677](http://arxiv.org/abs/2402.00677)|null|
 |**2024-02-01**|**Deep Robot Sketching: An application of Deep Q-Learning Networks for human-like sketching**|Raul Fernandez-Fernandez et.al.|[2402.00676](http://arxiv.org/abs/2402.00676)|null|
-|**2024-02-03**|**Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management**|Zhenglong Li et.al.|[2402.00515](http://arxiv.org/abs/2402.00515)|null|
+|**2024-02-03**|**Developing A Multi-Agent and Self-Adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management**|Zhenglong Li et.al.|[2402.00515](http://arxiv.org/abs/2402.00515)|**[link](https://github.com/steamerlee/masa)**|
 |**2024-02-01**|**RadDQN: a Deep Q Learning-based Architecture for Finding Time-efficient Minimum Radiation Exposure Pathway**|Biswajit Sadhu et.al.|[2402.00468](http://arxiv.org/abs/2402.00468)|**[link](https://github.com/biswajitsadhu/raddqn)**|
 |**2024-02-01**|**Investigating Bias Representations in Llama 2 Chat via Activation Steering**|Dawn Lu et.al.|[2402.00402](http://arxiv.org/abs/2402.00402)|null|
 |**2024-02-01**|**Adaptive Primal-Dual Method for Safe Reinforcement Learning**|Weiqin Chen et.al.|[2402.00355](http://arxiv.org/abs/2402.00355)|null|
@@ -3389,7 +3389,7 @@
 |**2024-01-31**|**Graph Attention-based Reinforcement Learning for Trajectory Design and Resource Assignment in Multi-UAV Assisted Communication**|Zikai Feng et.al.|[2401.17880](http://arxiv.org/abs/2401.17880)|null|
 |**2024-01-31**|**Safe Reinforcement Learning-Based Eco-Driving Control for Mixed Traffic Flows With Disturbances**|Ke Lu et.al.|[2401.17837](http://arxiv.org/abs/2401.17837)|null|
 |**2024-02-02**|**A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees**|Toshinori Kitamura et.al.|[2401.17780](http://arxiv.org/abs/2401.17780)|**[link](https://github.com/matsuolab/uniform-pac-primal-dual-cmdp)**|
-|**2024-01-31**|**SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models**|Xiao Shao et.al.|[2401.17749](http://arxiv.org/abs/2401.17749)|null|
+|**2024-01-31**|**SwarmBrain: Embodied agent for real-time strategy game StarCraft II via large language models**|Xiao Shao et.al.|[2401.17749](http://arxiv.org/abs/2401.17749)|**[link](https://github.com/ramsayxiaoshao/SwarmBrain-Embodied-agent-for-real-time-strategy-game-StarCraft-II-via-large-language-models)**|
 |**2024-02-02**|**Learning to Stop Cut Generation for Efficient Mixed-Integer Linear Programming**|Haotian Ling et.al.|[2401.17527](http://arxiv.org/abs/2401.17527)|null|
 |**2024-01-30**|**Camouflage Adversarial Attacks on Multiple Agent Systems**|Ziqing Lu et.al.|[2401.17405](http://arxiv.org/abs/2401.17405)|null|
 |**2024-01-30**|**Improving robustness of quantum feedback control with reinforcement learning**|Manuel Guatto et.al.|[2401.17190](http://arxiv.org/abs/2401.17190)|null|
