@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3285,7 +3285,7 @@ layout: default
 |**2024-02-11**|**Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine**|Shayan Meshkat Alsadat et.al.|[2402.07069](http://arxiv.org/abs/2402.07069)|null|
 |**2024-02-10**|**Bayesian Optimization with Adaptive Kernels for Robot Control**|Ruben Martinez-Cantin et.al.|[2402.07021](http://arxiv.org/abs/2402.07021)|null|
 |**2024-02-10**|**Informativeness of Reward Functions in Reinforcement Learning**|Rati Devidze et.al.|[2402.07019](http://arxiv.org/abs/2402.07019)|**[link](https://github.com/machine-teaching-group/aamas2024-informativeness-of-reward-functions)**|
-|**2024-02-10**|**Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks**|Jiacheng Wang et.al.|[2402.06942](http://arxiv.org/abs/2402.06942)|null|
+|**2024-02-10**|**Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks**|Jiacheng Wang et.al.|[2402.06942](http://arxiv.org/abs/2402.06942)|**[link](https://github.com/hongyangdu/net4moe)**|
 |**2024-02-10**|**Solving Deep Reinforcement Learning Benchmarks with Linear Policy Networks**|Annie Wong et.al.|[2402.06912](http://arxiv.org/abs/2402.06912)|null|
 |**2024-02-10**|**Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF**|Han Shen et.al.|[2402.06886](http://arxiv.org/abs/2402.06886)|null|
 |**2024-02-09**|**Monitored Markov Decision Processes**|Simone Parisi et.al.|[2402.06819](http://arxiv.org/abs/2402.06819)|**[link](https://github.com/amiithinks/mon_mdp_aamas24)**|
