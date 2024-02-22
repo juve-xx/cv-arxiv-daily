@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2450,7 +2450,7 @@ layout: default
 |**2024-02-20**|**On Sensitivity of Learning with Limited Labelled Data to the Effects of Randomness: Impact of Interactions and Systematic Choices**|Branislav Pecher et.al.|[2402.12817](http://arxiv.org/abs/2402.12817)|null|
 |**2024-02-19**|**Standardize: Aligning Language Models with Expert-Defined Standards for Content Generation**|Joseph Marvin Imperial et.al.|[2402.12593](http://arxiv.org/abs/2402.12593)|null|
 |**2024-02-19**|**Parallel Structures in Pre-training Data Yield In-Context Learning**|Yanda Chen et.al.|[2402.12530](http://arxiv.org/abs/2402.12530)|null|
-|**2024-02-19**|**Task-Oriented Dialogue with In-Context Learning**|Tom Bocklisch et.al.|[2402.12234](http://arxiv.org/abs/2402.12234)|null|
+|**2024-02-19**|**Task-Oriented Dialogue with In-Context Learning**|Tom Bocklisch et.al.|[2402.12234](http://arxiv.org/abs/2402.12234)|**[link](https://github.com/rasahq/tod-in-context-learning)**|
 |**2024-02-19**|**Do Large Language Models Understand Logic or Just Mimick Context?**|Junbing Yan et.al.|[2402.12091](http://arxiv.org/abs/2402.12091)|null|
 |**2024-02-19**|**Self-AMPLIFY: Improving Small Language Models with Self Post Hoc Explanations**|Milan Bhan et.al.|[2402.12038](http://arxiv.org/abs/2402.12038)|null|
 |**2024-02-19**|**Modularized Networks for Few-shot Hateful Meme Detection**|Rui Cao et.al.|[2402.11845](http://arxiv.org/abs/2402.11845)|**[link](https://github.com/social-ai-studio/mod_hate)**|
@@ -2467,7 +2467,7 @@ layout: default
 |**2024-02-16**|**The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains**|Benjamin L. Edelman et.al.|[2402.11004](http://arxiv.org/abs/2402.11004)|null|
 |**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[2402.10828](http://arxiv.org/abs/2402.10828)|null|
 |**2024-02-16**|**Let's Learn Step by Step: Enhancing In-Context Learning Ability with Curriculum Learning**|Yinpeng Liu et.al.|[2402.10738](http://arxiv.org/abs/2402.10738)|**[link](https://github.com/61peng/curri_learning)**|
-|**2024-02-16**|**Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**|Yuanzhen Xie et.al.|[2402.10671](http://arxiv.org/abs/2402.10671)|null|
+|**2024-02-16**|**Decomposition for Enhancing Attention: Improving LLM-based Text-to-SQL through Workflow Paradigm**|Yuanzhen Xie et.al.|[2402.10671](http://arxiv.org/abs/2402.10671)|**[link](https://github.com/flyingfeather/dea-sql)**|
 |**2024-02-16**|**Improving Demonstration Diversity by Human-Free Fusing for Text-to-SQL**|Dingzirui Wang et.al.|[2402.10663](http://arxiv.org/abs/2402.10663)|null|
 |**2024-02-16**|**Linear Transformers with Learnable Kernel Functions are Better In-Context Models**|Yaroslav Aksenov et.al.|[2402.10644](http://arxiv.org/abs/2402.10644)|**[link](https://github.com/corl-team/rebased)**|
 |**2024-02-16**|**LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty**|Zhen Zhang et.al.|[2402.10573](http://arxiv.org/abs/2402.10573)|null|
@@ -2832,7 +2832,7 @@ layout: default
 |**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628](http://arxiv.org/abs/2402.10628)|**[link](https://github.com/xuchen0427/fairsync)**|
 |**2024-02-16**|**Fundamental Benefit of Alternating Updates in Minimax Optimization**|Jaewook Lee et.al.|[2402.10475](http://arxiv.org/abs/2402.10475)|null|
 |**2024-02-14**|**Discovering Sensorimotor Agency in Cellular Automata using Diversity Search**|Gautier Hamon et.al.|[2402.10236](http://arxiv.org/abs/2402.10236)|null|
-|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229](http://arxiv.org/abs/2402.10229)|null|
+|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229](http://arxiv.org/abs/2402.10229)|**[link](https://github.com/kasakh/mixture-models)**|
 |**2024-02-15**|**Trainability Barriers in Low-Depth QAOA Landscapes**|Joel Rajakumar et.al.|[2402.10188](http://arxiv.org/abs/2402.10188)|null|
 |**2024-02-15**|**Modeling the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates**|Tianyi Zhou et.al.|[2402.10053](http://arxiv.org/abs/2402.10053)|**[link](https://github.com/tianyichow-tcs/gdpm)**|
 |**2024-02-15**|**Privacy Attacks in Decentralized Learning**|Abdellah El Mrini et.al.|[2402.10001](http://arxiv.org/abs/2402.10001)|null|
@@ -3172,7 +3172,7 @@ layout: default
 |**2024-02-16**|**FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval**|Chen Xu et.al.|[2402.10628](http://arxiv.org/abs/2402.10628)|**[link](https://github.com/xuchen0427/fairsync)**|
 |**2024-02-16**|**Fundamental Benefit of Alternating Updates in Minimax Optimization**|Jaewook Lee et.al.|[2402.10475](http://arxiv.org/abs/2402.10475)|null|
 |**2024-02-14**|**Discovering Sensorimotor Agency in Cellular Automata using Diversity Search**|Gautier Hamon et.al.|[2402.10236](http://arxiv.org/abs/2402.10236)|null|
-|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229](http://arxiv.org/abs/2402.10229)|null|
+|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229](http://arxiv.org/abs/2402.10229)|**[link](https://github.com/kasakh/mixture-models)**|
 |**2024-02-15**|**Trainability Barriers in Low-Depth QAOA Landscapes**|Joel Rajakumar et.al.|[2402.10188](http://arxiv.org/abs/2402.10188)|null|
 |**2024-02-15**|**Modeling the Impact of Timeline Algorithms on Opinion Dynamics Using Low-rank Updates**|Tianyi Zhou et.al.|[2402.10053](http://arxiv.org/abs/2402.10053)|**[link](https://github.com/tianyichow-tcs/gdpm)**|
 |**2024-02-15**|**Privacy Attacks in Decentralized Learning**|Abdellah El Mrini et.al.|[2402.10001](http://arxiv.org/abs/2402.10001)|null|
