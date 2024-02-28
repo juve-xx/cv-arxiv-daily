@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2671,7 +2671,7 @@ layout: default
 |**2024-02-24**|**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**|Chi-Sheng Chen et.al.|[2402.15761](http://arxiv.org/abs/2402.15761)|**[link](https://github.com/chishengchen/resvmamba)**|
 |**2024-02-23**|**Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis**|Hongkang Li et.al.|[2402.15607](http://arxiv.org/abs/2402.15607)|null|
 |**2024-02-23**|**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**|Lu Ye et.al.|[2402.15220](http://arxiv.org/abs/2402.15220)|null|
-|**2024-02-21**|**SISSA: Real-time Monitoring of Hardware Functional Safety and Cybersecurity with In-vehicle SOME/IP Ethernet Traffic**|Qi Liu et.al.|[2402.14862](http://arxiv.org/abs/2402.14862)|null|
+|**2024-02-21**|**SISSA: Real-time Monitoring of Hardware Functional Safety and Cybersecurity with In-vehicle SOME/IP Ethernet Traffic**|Qi Liu et.al.|[2402.14862](http://arxiv.org/abs/2402.14862)|**[link](https://github.com/jamesnulliu/sissa)**|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
 |**2024-02-22**|**How Transformers Learn Causal Structure with Gradient Descent**|Eshaan Nichani et.al.|[2402.14735](http://arxiv.org/abs/2402.14735)|null|
 |**2024-02-22**|**Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation**|Jiajie Su et.al.|[2402.14473](http://arxiv.org/abs/2402.14473)|**[link](https://github.com/tiliaceaesu/pbat)**|
@@ -2737,7 +2737,7 @@ layout: default
 |**2024-02-03**|**Deep Semantic-Visual Alignment for Zero-Shot Remote Sensing Image Scene Classification**|Wenjia Xu et.al.|[2402.02094](http://arxiv.org/abs/2402.02094)|**[link](https://github.com/wenjiaxu/rs_scene_zsl)**|
 |**2024-02-03**|**DiffVein: A Unified Diffusion Network for Finger Vein Segmentation and Authentication**|Yanjun Liu et.al.|[2402.02060](http://arxiv.org/abs/2402.02060)|null|
 |**2024-02-02**|**Self-Attention through Kernel-Eigen Pair Sparse Variational Gaussian Processes**|Yingyi Chen et.al.|[2402.01476](http://arxiv.org/abs/2402.01476)|null|
-|**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723](http://arxiv.org/abs/2402.00723)|null|
+|**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723](http://arxiv.org/abs/2402.00723)|**[link](https://github.com/snowyj/t5vqvae)**|
 |**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
 |**2024-02-14**|**Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling**|Mingze Wang et.al.|[2402.00522](http://arxiv.org/abs/2402.00522)|null|
 |**2024-01-31**|**HyperZ $\cdot$Z$\cdot$ W Operator Connects Slow-Fast Networks for Full Context Interaction**|Harvie Zhang et.al.|[2401.17948](http://arxiv.org/abs/2401.17948)|null|
@@ -2853,7 +2853,7 @@ layout: default
 |**2024-02-25**|**On the dynamics of three-layer neural networks: initial condensation**|Zheng-an Chen et.al.|[2402.15958](http://arxiv.org/abs/2402.15958)|null|
 |**2024-02-24**|**Large Stepsize Gradient Descent for Logistic Loss: Non-Monotonicity of the Loss Improves Optimization Efficiency**|Jingfeng Wu et.al.|[2402.15926](http://arxiv.org/abs/2402.15926)|null|
 |**2024-02-24**|**Analysis of Off-Policy Multi-Step TD-Learning with Linear Function Approximation**|Donghwan Lee et.al.|[2402.15781](http://arxiv.org/abs/2402.15781)|null|
-|**2024-02-23**|**Bagged Deep Image Prior for Recovering Images in the Presence of Speckle Noise**|Xi Chen et.al.|[2402.15635](http://arxiv.org/abs/2402.15635)|null|
+|**2024-02-23**|**Bagged Deep Image Prior for Recovering Images in the Presence of Speckle Noise**|Xi Chen et.al.|[2402.15635](http://arxiv.org/abs/2402.15635)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
 |**2024-02-23**|**Iteration and Stochastic First-order Oracle Complexities of Stochastic Gradient Descent using Constant and Decaying Learning Rates**|Kento Imaizumi et.al.|[2402.15344](http://arxiv.org/abs/2402.15344)|null|
 |**2024-02-23**|**Machine Unlearning of Pre-trained Large Language Models**|Jin Yao et.al.|[2402.15159](http://arxiv.org/abs/2402.15159)|**[link](https://github.com/yaojin17/unlearning_llm)**|
 |**2024-02-23**|**Accelerating Convergence of Stein Variational Gradient Descent via Deep Unfolding**|Yuya Kawamura et.al.|[2402.15125](http://arxiv.org/abs/2402.15125)|null|
@@ -3217,7 +3217,7 @@ layout: default
 |**2024-02-25**|**On the dynamics of three-layer neural networks: initial condensation**|Zheng-an Chen et.al.|[2402.15958](http://arxiv.org/abs/2402.15958)|null|
 |**2024-02-24**|**Large Stepsize Gradient Descent for Logistic Loss: Non-Monotonicity of the Loss Improves Optimization Efficiency**|Jingfeng Wu et.al.|[2402.15926](http://arxiv.org/abs/2402.15926)|null|
 |**2024-02-24**|**Analysis of Off-Policy Multi-Step TD-Learning with Linear Function Approximation**|Donghwan Lee et.al.|[2402.15781](http://arxiv.org/abs/2402.15781)|null|
-|**2024-02-23**|**Bagged Deep Image Prior for Recovering Images in the Presence of Speckle Noise**|Xi Chen et.al.|[2402.15635](http://arxiv.org/abs/2402.15635)|null|
+|**2024-02-23**|**Bagged Deep Image Prior for Recovering Images in the Presence of Speckle Noise**|Xi Chen et.al.|[2402.15635](http://arxiv.org/abs/2402.15635)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
 |**2024-02-23**|**Iteration and Stochastic First-order Oracle Complexities of Stochastic Gradient Descent using Constant and Decaying Learning Rates**|Kento Imaizumi et.al.|[2402.15344](http://arxiv.org/abs/2402.15344)|null|
 |**2024-02-23**|**Machine Unlearning of Pre-trained Large Language Models**|Jin Yao et.al.|[2402.15159](http://arxiv.org/abs/2402.15159)|**[link](https://github.com/yaojin17/unlearning_llm)**|
 |**2024-02-23**|**On the Duality Between Sharpness-Aware Minimization and Adversarial Training**|Yihao Zhang et.al.|[2402.15152](http://arxiv.org/abs/2402.15152)|**[link](https://github.com/weizeming/sam_at)**|
