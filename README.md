@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
+|**2024-03-07**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
+|**2024-03-07**|**Where does In-context Translation Happen in Large Language Models**|Suzanna Sia et.al.|[2403.04510](http://arxiv.org/abs/2403.04510)|null|
+|**2024-03-07**|**DEEP-ICL: Definition-Enriched Experts for Language Model In-Context Learning**|Xingwei Qu et.al.|[2403.04233](http://arxiv.org/abs/2403.04233)|null|
+|**2024-03-07**|**On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models**|Xinpeng Wang et.al.|[2403.04204](http://arxiv.org/abs/2403.04204)|null|
 |**2024-03-06**|**German also Hallucinates! Inconsistency Detection in News Summaries with the Absinth Dataset**|Laura Mascarell et.al.|[2403.03750](http://arxiv.org/abs/2403.03750)|**[link](https://github.com/mediatechnologycenter/absinth)**|
 |**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
 |**2024-03-06**|**Japanese-English Sentence Translation Exercises Dataset for Automatic Grading**|Naoki Miura et.al.|[2403.03396](http://arxiv.org/abs/2403.03396)|null|
@@ -2521,7 +2526,7 @@
 |**2024-03-06**|**$Se^2$ : Sequential Example Selection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|null|
 |**2024-02-21**|**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**|Guozheng Li et.al.|[2402.13741](http://arxiv.org/abs/2402.13741)|null|
 |**2024-02-21**|**Unsupervised Text Style Transfer via LLMs and Attention Masking with Multi-way Interactions**|Lei Pan et.al.|[2402.13647](http://arxiv.org/abs/2402.13647)|null|
-|**2024-02-21**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|null|
+|**2024-03-07**|**A Multimodal In-Context Tuning Approach for E-Commerce Product Description Generation**|Yunxin Li et.al.|[2402.13587](http://arxiv.org/abs/2402.13587)|**[link](https://github.com/hitsz-tmg/multimodal-in-context-tuning)**|
 |**2024-02-21**|**CAMELoT: Towards Large Language Models with Training-Free Consolidated Associative Memory**|Zexue He et.al.|[2402.13449](http://arxiv.org/abs/2402.13449)|null|
 |**2024-02-20**|**Harnessing Large Language Models as Post-hoc Correctors**|Zhiqiang Zhong et.al.|[2402.13414](http://arxiv.org/abs/2402.13414)|null|
 |**2024-02-20**|**Identifying Semantic Induction Heads to Understand In-Context Learning**|Jie Ren et.al.|[2402.13055](http://arxiv.org/abs/2402.13055)|null|
@@ -2725,6 +2730,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level**|Ali Hassani et.al.|[2403.04690](http://arxiv.org/abs/2403.04690)|**[link](https://github.com/shi-labs/natten)**|
+|**2024-03-07**|**Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model**|Hao Peng et.al.|[2403.04175](http://arxiv.org/abs/2403.04175)|null|
 |**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465](http://arxiv.org/abs/2403.03465)|**[link](https://github.com/mengyingjiang/gcn-sa)**|
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-06**|**CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation**|Vahid Ahmadi Kalkhorani et.al.|[2403.03411](http://arxiv.org/abs/2403.03411)|null|
@@ -2737,6 +2744,7 @@
 |**2024-03-04**|**Modality-Aware and Shift Mixer for Multi-modal Brain Tumor Segmentation**|Zhongzhen Huang et.al.|[2403.02074](http://arxiv.org/abs/2403.02074)|null|
 |**2024-03-04**|**SA-SOT: Speaker-Aware Serialized Output Training for Multi-Talker ASR**|Zhiyun Fan et.al.|[2403.02010](http://arxiv.org/abs/2403.02010)|null|
 |**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|**[link](https://github.com/power-operation/ckdformer)**|
+|**2024-03-07**|**OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on**|Yuhao Xu et.al.|[2403.01779](http://arxiv.org/abs/2403.01779)|**[link](https://github.com/levihsu/ootdiffusion)**|
 |**2024-03-04**|**Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models**|Feihu Jin et.al.|[2403.01754](http://arxiv.org/abs/2403.01754)|null|
 |**2024-03-03**|**The Hidden Attention of Mamba Models**|Ameen Ali et.al.|[2403.01590](http://arxiv.org/abs/2403.01590)|**[link](https://github.com/ameenali/hiddenmambaattn)**|
 |**2024-03-03**|**Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation**|Dipesh Gyawali et.al.|[2403.01407](http://arxiv.org/abs/2403.01407)|null|
@@ -2781,7 +2789,7 @@
 |**2024-02-20**|**Cell Graph Transformer for Nuclei Classification**|Wei Lou et.al.|[2402.12946](http://arxiv.org/abs/2402.12946)|**[link](https://github.com/lhaof/cgt)**|
 |**2024-02-20**|**RhythmFormer: Extracting rPPG Signals Based on Hierarchical Temporal Periodic Transformer**|Bochao Zou et.al.|[2402.12788](http://arxiv.org/abs/2402.12788)|**[link](https://github.com/zizheng-guo/rhythmformer)**|
 |**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712](http://arxiv.org/abs/2402.12712)|null|
-|**2024-03-04**|**Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling**|Guoqi Yu et.al.|[2402.12694](http://arxiv.org/abs/2402.12694)|null|
+|**2024-03-07**|**Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling**|Guoqi Yu et.al.|[2402.12694](http://arxiv.org/abs/2402.12694)|null|
 |**2024-02-19**|**Human Video Translation via Query Warping**|Haiming Zhu et.al.|[2402.12099](http://arxiv.org/abs/2402.12099)|null|
 |**2024-02-19**|**CodeArt: Better Code Models by Attention Regularization When Symbols Are Lacking**|Zian Su et.al.|[2402.11842](http://arxiv.org/abs/2402.11842)|**[link](https://github.com/ziansu/codeart)**|
 |**2024-02-19**|**Rock Classification Based on Residual Networks**|Sining Zhoubian et.al.|[2402.11831](http://arxiv.org/abs/2402.11831)|null|
@@ -2945,6 +2953,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
 |**2024-03-06**|**Denoising Gradient Descent in Variational Quantum Algorithms**|Lars Simon et.al.|[2403.03826](http://arxiv.org/abs/2403.03826)|null|
 |**2024-03-06**|**CNN-based End-to-End Adaptive Controller with Stability Guarantees**|Myeongseok Ryu et.al.|[2403.03499](http://arxiv.org/abs/2403.03499)|null|
@@ -3357,6 +3367,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**Privacy-preserving Fine-tuning of Large Language Models through Flatness**|Tiejin Chen et.al.|[2403.04124](http://arxiv.org/abs/2403.04124)|null|
+|**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
 |**2024-03-06**|**Denoising Gradient Descent in Variational Quantum Algorithms**|Lars Simon et.al.|[2403.03826](http://arxiv.org/abs/2403.03826)|null|
 |**2024-03-06**|**CNN-based End-to-End Adaptive Controller with Stability Guarantees**|Myeongseok Ryu et.al.|[2403.03499](http://arxiv.org/abs/2403.03499)|null|
@@ -3386,7 +3399,7 @@
 |**2024-03-02**|**Blockage-Aware Robust Beamforming in RIS-Aided Mobile Millimeter Wave MIMO Systems**|Yan Yang et.al.|[2403.01249](http://arxiv.org/abs/2403.01249)|null|
 |**2024-03-02**|**Stochastic gradient descent for streaming linear and rectified linear systems with Massart noise**|Halyun Jeong et.al.|[2403.01204](http://arxiv.org/abs/2403.01204)|null|
 |**2024-03-05**|**Sensitivity Analysis On Loss Landscape**|Salman Faroz et.al.|[2403.01128](http://arxiv.org/abs/2403.01128)|null|
-|**2024-03-01**|**Merging Text Transformer Models from Different Initializations**|Neha Verma et.al.|[2403.00986](http://arxiv.org/abs/2403.00986)|null|
+|**2024-03-07**|**Merging Text Transformer Models from Different Initializations**|Neha Verma et.al.|[2403.00986](http://arxiv.org/abs/2403.00986)|null|
 |**2024-03-05**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
 |**2024-02-29**|**Distributed Momentum Methods Under Biased Gradient Estimations**|Ali Beikmohammadi et.al.|[2403.00853](http://arxiv.org/abs/2403.00853)|null|
 |**2024-02-23**|**Helen: Optimizing CTR Prediction Models with Frequency-wise Hessian Eigenvalue Regularization**|Zirui Zhu et.al.|[2403.00798](http://arxiv.org/abs/2403.00798)|**[link](https://github.com/nus-hpc-ai-lab/helen)**|
@@ -3666,10 +3679,36 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Teaching Large Language Models to Reason with Reinforcement Learning**|Alex Havrilla et.al.|[2403.04642](http://arxiv.org/abs/2403.04642)|null|
+|**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588](http://arxiv.org/abs/2403.04588)|null|
+|**2024-03-07**|**Learning Agility Adaptation for Flight in Clutter**|Guangyu Zhao et.al.|[2403.04586](http://arxiv.org/abs/2403.04586)|null|
+|**2024-03-07**|**Improved Algorithm for Adversarial Linear Mixture MDPs with Bandit Feedback and Unknown Transition**|Long-Fei Li et.al.|[2403.04568](http://arxiv.org/abs/2403.04568)|null|
+|**2024-03-07**|**Vlearn: Off-Policy Learning with Efficient State-Value Function Estimation**|Fabian Otto et.al.|[2403.04453](http://arxiv.org/abs/2403.04453)|null|
+|**2024-03-07**|**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**|Tairan He et.al.|[2403.04436](http://arxiv.org/abs/2403.04436)|null|
+|**2024-03-07**|**iTRPL: An Intelligent and Trusted RPL Protocol based on Multi-Agent Reinforcement Learning**|Debasmita Dey et.al.|[2403.04416](http://arxiv.org/abs/2403.04416)|null|
+|**2024-03-07**|**Model-free $H_{\infty}$ control of Itô stochastic system via off-policy reinforcement learning**|Jing Guo Jing Guo et.al.|[2403.04412](http://arxiv.org/abs/2403.04412)|null|
+|**2024-03-07**|**Model-Free Load Frequency Control of Nonlinear Power Systems Based on Deep Reinforcement Learning**|Xiaodi Chen et.al.|[2403.04374](http://arxiv.org/abs/2403.04374)|null|
+|**2024-03-07**|**Symmetry Considerations for Learning Task Symmetric Robot Policies**|Mayank Mittal et.al.|[2403.04359](http://arxiv.org/abs/2403.04359)|null|
+|**2024-03-07**|**RL-CFR: Improving Action Abstraction for Imperfect Information Extensive-Form Games with Reinforcement Learning**|Boning Li et.al.|[2403.04344](http://arxiv.org/abs/2403.04344)|null|
+|**2024-03-07**|**A mechanism-informed reinforcement learning framework for shape optimization of airfoils**|Jingfeng Wang et.al.|[2403.04329](http://arxiv.org/abs/2403.04329)|null|
+|**2024-03-07**|**Proxy-RLHF: Decoupling Generation and Alignment in Large Language Model with Proxy**|Yu Zhu et.al.|[2403.04283](http://arxiv.org/abs/2403.04283)|null|
+|**2024-03-07**|**Qubit-Wise Architecture Search Method for Variational Quantum Circuits**|Jialin Chen et.al.|[2403.04268](http://arxiv.org/abs/2403.04268)|null|
+|**2024-03-07**|**Mastering Memory Tasks with World Models**|Mohammad Reza Samsami et.al.|[2403.04253](http://arxiv.org/abs/2403.04253)|null|
+|**2024-03-07**|**Generalizing Cooperative Eco-driving via Multi-residual Task Learning**|Vindula Jayawardana et.al.|[2403.04232](http://arxiv.org/abs/2403.04232)|null|
+|**2024-03-07**|**Why Online Reinforcement Learning is Causal**|Oliver Schulte et.al.|[2403.04221](http://arxiv.org/abs/2403.04221)|null|
+|**2024-03-07**|**On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models**|Xinpeng Wang et.al.|[2403.04204](http://arxiv.org/abs/2403.04204)|null|
+|**2024-03-07**|**Dynamics of Moral Behavior in Heterogeneous Populations of Learning Agents**|Elizaveta Tennant et.al.|[2403.04202](http://arxiv.org/abs/2403.04202)|null|
+|**2024-03-07**|**Fill-and-Spill: Deep Reinforcement Learning Policy Gradient Methods for Reservoir Operation Decision and Control**|Sadegh Sadeghi Tabas et.al.|[2403.04195](http://arxiv.org/abs/2403.04195)|null|
+|**2024-03-07**|**Noisy Spiking Actor Network for Exploration**|Ding Chen et.al.|[2403.04162](http://arxiv.org/abs/2403.04162)|null|
+|**2024-03-07**|**Stabilizing Policy Gradients for Stochastic Differential Equations via Consistency with Perturbation Process**|Xiangxin Zhou et.al.|[2403.04154](http://arxiv.org/abs/2403.04154)|null|
+|**2024-03-06**|**Belief-Enriched Pessimistic Q-Learning against Adversarial State Perturbations**|Xiaolin Sun et.al.|[2403.04050](http://arxiv.org/abs/2403.04050)|**[link](https://github.com/sliencerx/belief-enriched-robust-q-learning)**|
+|**2024-03-06**|**Knockoff-Guided Feature Selection via A Single Pre-trained Reinforced Agent**|Xinyuan Wang et.al.|[2403.04015](http://arxiv.org/abs/2403.04015)|**[link](https://github.com/anord-wang/kgptfs)**|
+|**2024-03-06**|**Sampling-based Safe Reinforcement Learning for Nonlinear Dynamical Systems**|Wesley A. Suttle et.al.|[2403.04007](http://arxiv.org/abs/2403.04007)|**[link](https://github.com/sharma1256/cbf-constrained_ppo)**|
+|**2024-03-06**|**Bidirectional Progressive Neural Networks with Episodic Return Progress for Emergent Task Sequencing and Robotic Skill Transfer**|Suzan Ece Ada et.al.|[2403.04001](http://arxiv.org/abs/2403.04001)|null|
 |**2024-03-06**|**Stop Regressing: Training Value Functions via Classification for Scalable Deep RL**|Jesse Farebrother et.al.|[2403.03950](http://arxiv.org/abs/2403.03950)|null|
 |**2024-03-06**|**Reconciling Reality through Simulation: A Real-to-Sim-to-Real Approach for Robust Manipulation**|Marcel Torne et.al.|[2403.03949](http://arxiv.org/abs/2403.03949)|null|
 |**2024-03-06**|**Dexterous Legged Locomotion in Confined 3D Spaces with Reinforcement Learning**|Zifan Xu et.al.|[2403.03848](http://arxiv.org/abs/2403.03848)|null|
-|**2024-03-06**|**A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation**|Di Zhang et.al.|[2403.03643](http://arxiv.org/abs/2403.03643)|null|
+|**2024-03-07**|**A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation**|Di Zhang et.al.|[2403.03643](http://arxiv.org/abs/2403.03643)|null|
 |**2024-03-06**|**Benchmarking Hallucination in Large Language Models based on Unanswerable Math Word Problem**|Yuhong Sun et.al.|[2403.03558](http://arxiv.org/abs/2403.03558)|**[link](https://github.com/yuki-asuuna/umwp)**|
 |**2024-03-06**|**Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning**|Zida Wu et.al.|[2403.03552](http://arxiv.org/abs/2403.03552)|null|
 |**2024-03-05**|**RACE-SM: Reinforcement Learning Based Autonomous Control for Social On-Ramp Merging**|Jordan Poots et.al.|[2403.03359](http://arxiv.org/abs/2403.03359)|null|
@@ -3690,7 +3729,7 @@
 |**2024-03-04**|**Twisting Lids Off with Two Hands**|Toru Lin et.al.|[2403.02338](http://arxiv.org/abs/2403.02338)|null|
 |**2024-03-04**|**Koopman-Assisted Reinforcement Learning**|Preston Rozwood et.al.|[2403.02290](http://arxiv.org/abs/2403.02290)|null|
 |**2024-03-04**|**Reinforcement Learning for Inverse Non-Cooperative Linear-Quadratic Output-feedback Differential Games**|Emin Martirosyan et.al.|[2403.02146](http://arxiv.org/abs/2403.02146)|null|
-|**2024-03-06**|**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**|Hongshu Guo et.al.|[2403.02131](http://arxiv.org/abs/2403.02131)|null|
+|**2024-03-07**|**Deep Reinforcement Learning for Dynamic Algorithm Selection: A Proof-of-Principle Study on Differential Evolution**|Hongshu Guo et.al.|[2403.02131](http://arxiv.org/abs/2403.02131)|null|
 |**2024-03-04**|**Iterated $Q$ -Network: Beyond the One-Step Bellman Operator**|Théo Vincent et.al.|[2403.02107](http://arxiv.org/abs/2403.02107)|null|
 |**2024-03-04**|**A Scoping Review of Energy-Efficient Driving Behaviors and Applied State-of-the-Art AI Methods**|Zhipeng Ma et.al.|[2403.02053](http://arxiv.org/abs/2403.02053)|null|
 |**2024-03-04**|**Cross Domain Policy Transfer with Effect Cycle-Consistency**|Ruiqi Zhu et.al.|[2403.02018](http://arxiv.org/abs/2403.02018)|null|
@@ -3710,7 +3749,7 @@
 |**2024-03-02**|**Improving the Validity of Automatically Generated Feedback via Reinforcement Learning**|Alexander Scarlatos et.al.|[2403.01304](http://arxiv.org/abs/2403.01304)|**[link](https://github.com/umass-ml4ed/feedback-gen-dpo)**|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
 |**2024-03-02**|**Balancing Exploration and Exploitation in LLM using Soft RLLF for Enhanced Negation Understanding**|Ha-Thanh Nguyen et.al.|[2403.01185](http://arxiv.org/abs/2403.01185)|null|
-|**2024-03-02**|**Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2403.01112](http://arxiv.org/abs/2403.01112)|null|
+|**2024-03-07**|**Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning**|Hyungho Na et.al.|[2403.01112](http://arxiv.org/abs/2403.01112)|**[link](https://github.com/hyunghona/emu)**|
 |**2024-03-02**|**Continuous Mean-Zero Disagreement-Regularized Imitation Learning (CMZ-DRIL)**|Noah Ford et.al.|[2403.01059](http://arxiv.org/abs/2403.01059)|null|
 |**2024-03-01**|**A Holistic Power Optimization Approach for Microgrid Control Based on Deep Reinforcement Learning**|Fulong Yao et.al.|[2403.01013](http://arxiv.org/abs/2403.01013)|null|
 |**2024-03-01**|**Policy Optimization for PDE Control with a Warm Start**|Xiangyuan Zhang et.al.|[2403.01005](http://arxiv.org/abs/2403.01005)|null|
@@ -3718,7 +3757,7 @@
 |**2024-03-01**|**SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation**|Noriaki Hirose et.al.|[2403.00991](http://arxiv.org/abs/2403.00991)|null|
 |**2024-03-01**|**Scale-free Adversarial Reinforcement Learning**|Mingyu Chen et.al.|[2403.00930](http://arxiv.org/abs/2403.00930)|null|
 |**2024-03-05**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
-|**2024-02-29**|**Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**|Raghavv Goel et.al.|[2403.00858](http://arxiv.org/abs/2403.00858)|null|
+|**2024-03-07**|**Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**|Raghavv Goel et.al.|[2403.00858](http://arxiv.org/abs/2403.00858)|null|
 |**2024-02-29**|**Distributed Momentum Methods Under Biased Gradient Estimations**|Ali Beikmohammadi et.al.|[2403.00853](http://arxiv.org/abs/2403.00853)|null|
 |**2024-02-29**|**Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning**|Wentao Shi et.al.|[2403.00843](http://arxiv.org/abs/2403.00843)|null|
 |**2024-02-29**|**Offline Fictitious Self-Play for Competitive Games**|Jingxiao Chen et.al.|[2403.00841](http://arxiv.org/abs/2403.00841)|null|
