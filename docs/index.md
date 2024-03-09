@@ -2539,7 +2539,7 @@ layout: default
 |**2024-02-15**|**Beyond Imitation: Generating Human Mobility from Context-aware Reasoning with Large Language Models**|Chenyang Shao et.al.|[2402.09836](http://arxiv.org/abs/2402.09836)|null|
 |**2024-02-15**|**QuRating: Selecting High-Quality Data for Training Language Models**|Alexander Wettig et.al.|[2402.09739](http://arxiv.org/abs/2402.09739)|**[link](https://github.com/princeton-nlp/qurating)**|
 |**2024-02-14**|**Large Language Model-Based Interpretable Machine Learning Control in Building Energy Systems**|Liang Zhang et.al.|[2402.09584](http://arxiv.org/abs/2402.09584)|null|
-|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
+|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|**[link](https://github.com/fangyihao/hgot)**|
 |**2024-02-14**|**ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization**|Feifan Song et.al.|[2402.09320](http://arxiv.org/abs/2402.09320)|**[link](https://github.com/f2-song/icdpo)**|
 |**2024-02-14**|**GrounDial: Human-norm Grounded Safe Dialog Response Generation**|Siwon Kim et.al.|[2402.08968](http://arxiv.org/abs/2402.08968)|null|
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
@@ -2707,7 +2707,7 @@ layout: default
 |**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465](http://arxiv.org/abs/2403.03465)|**[link](https://github.com/mengyingjiang/gcn-sa)**|
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-06**|**CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation**|Vahid Ahmadi Kalkhorani et.al.|[2403.03411](http://arxiv.org/abs/2403.03411)|null|
-|**2024-03-05**|**ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures**|Salim Rukhsar et.al.|[2403.03276](http://arxiv.org/abs/2403.03276)|null|
+|**2024-03-05**|**ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures**|Salim Rukhsar et.al.|[2403.03276](http://arxiv.org/abs/2403.03276)|**[link](https://github.com/salim-lysiun/arnn)**|
 |**2024-03-05**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
 |**2024-03-05**|**TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax**|Tobias Christian Nauen et.al.|[2403.02920](http://arxiv.org/abs/2403.02920)|**[link](https://github.com/tobna/taylorshift)**|
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
@@ -3365,7 +3365,7 @@ layout: default
 |**2024-03-02**|**Blockage-Aware Robust Beamforming in RIS-Aided Mobile Millimeter Wave MIMO Systems**|Yan Yang et.al.|[2403.01249](http://arxiv.org/abs/2403.01249)|null|
 |**2024-03-02**|**Stochastic gradient descent for streaming linear and rectified linear systems with Massart noise**|Halyun Jeong et.al.|[2403.01204](http://arxiv.org/abs/2403.01204)|null|
 |**2024-03-05**|**Sensitivity Analysis On Loss Landscape**|Salman Faroz et.al.|[2403.01128](http://arxiv.org/abs/2403.01128)|null|
-|**2024-03-07**|**Merging Text Transformer Models from Different Initializations**|Neha Verma et.al.|[2403.00986](http://arxiv.org/abs/2403.00986)|null|
+|**2024-03-07**|**Merging Text Transformer Models from Different Initializations**|Neha Verma et.al.|[2403.00986](http://arxiv.org/abs/2403.00986)|**[link](https://github.com/nverma1/merging-text-transformers)**|
 |**2024-03-05**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
 |**2024-02-29**|**Distributed Momentum Methods Under Biased Gradient Estimations**|Ali Beikmohammadi et.al.|[2403.00853](http://arxiv.org/abs/2403.00853)|null|
 |**2024-02-23**|**Helen: Optimizing CTR Prediction Models with Frequency-wise Hessian Eigenvalue Regularization**|Zirui Zhu et.al.|[2403.00798](http://arxiv.org/abs/2403.00798)|**[link](https://github.com/nus-hpc-ai-lab/helen)**|
@@ -3689,7 +3689,7 @@ layout: default
 |**2024-03-04**|**Balancing Enhancement, Harmlessness, and General Capabilities: Enhancing Conversational LLMs with Direct RLHF**|Chen Zheng et.al.|[2403.02513](http://arxiv.org/abs/2403.02513)|null|
 |**2024-03-04**|**Pseudo-Labeling and Contextual Curriculum Learning for Online Grasp Learning in Robotic Bin Picking**|Huy Le et.al.|[2403.02495](http://arxiv.org/abs/2403.02495)|null|
 |**2024-03-04**|**Enhancing LLM Safety via Constrained Direct Preference Optimization**|Zixuan Liu et.al.|[2403.02475](http://arxiv.org/abs/2403.02475)|null|
-|**2024-03-04**|**A Multi-agent Reinforcement Learning Study of Evolution of Communication and Teaching under Libertarian and Utilitarian Governing Systems**|Aslan S. Dizaji et.al.|[2403.02369](http://arxiv.org/abs/2403.02369)|null|
+|**2024-03-04**|**A Multi-agent Reinforcement Learning Study of Evolution of Communication and Teaching under Libertarian and Utilitarian Governing Systems**|Aslan S. Dizaji et.al.|[2403.02369](http://arxiv.org/abs/2403.02369)|**[link](https://github.com/aslansd/modified-ai-economist-wc)**|
 |**2024-03-04**|**Twisting Lids Off with Two Hands**|Toru Lin et.al.|[2403.02338](http://arxiv.org/abs/2403.02338)|null|
 |**2024-03-04**|**Koopman-Assisted Reinforcement Learning**|Preston Rozwood et.al.|[2403.02290](http://arxiv.org/abs/2403.02290)|null|
 |**2024-03-04**|**Reinforcement Learning for Inverse Non-Cooperative Linear-Quadratic Output-feedback Differential Games**|Emin Martirosyan et.al.|[2403.02146](http://arxiv.org/abs/2403.02146)|null|
