@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018](http://arxiv.org/abs/2403.05018)|null|
+|**2024-03-05**|**JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models**|Arefa et.al.|[2403.04798](http://arxiv.org/abs/2403.04798)|null|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
 |**2024-03-08**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
 |**2024-03-07**|**Where does In-context Translation Happen in Large Language Models**|Suzanna Sia et.al.|[2403.04510](http://arxiv.org/abs/2403.04510)|null|
@@ -2730,6 +2732,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**|Zijie Fang et.al.|[2403.05160](http://arxiv.org/abs/2403.05160)|null|
+|**2024-03-08**|**Improving Diffusion Models for Virtual Try-on**|Yisol Choi et.al.|[2403.05139](http://arxiv.org/abs/2403.05139)|null|
+|**2024-03-08**|**Multimodal Infusion Tuning for Large Models**|Hao Sun et.al.|[2403.05060](http://arxiv.org/abs/2403.05060)|null|
+|**2024-03-08**|**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering**|Yibin Wang et.al.|[2403.05053](http://arxiv.org/abs/2403.05053)|**[link](https://github.com/codegoat24/primecomposer)**|
+|**2024-03-08**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
+|**2024-03-08**|**StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models**|Lezhong Wang et.al.|[2403.04965](http://arxiv.org/abs/2403.04965)|null|
 |**2024-03-07**|**Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level**|Ali Hassani et.al.|[2403.04690](http://arxiv.org/abs/2403.04690)|**[link](https://github.com/shi-labs/natten)**|
 |**2024-03-07**|**Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model**|Hao Peng et.al.|[2403.04175](http://arxiv.org/abs/2403.04175)|null|
 |**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465](http://arxiv.org/abs/2403.03465)|**[link](https://github.com/mengyingjiang/gcn-sa)**|
@@ -2953,6 +2961,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT**|Aisha Khatun et.al.|[2403.05519](http://arxiv.org/abs/2403.05519)|null|
+|**2024-03-08**|**Control-Oriented Identification for the Linear Quadratic Regulator: Technical Report**|Sean Anderson et.al.|[2403.05455](http://arxiv.org/abs/2403.05455)|null|
+|**2024-03-08**|**Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent**|Nathan Buskulic et.al.|[2403.05395](http://arxiv.org/abs/2403.05395)|null|
+|**2024-03-08**|**Leveraging Continuous Time to Understand Momentum When Training Diagonal Linear Networks**|Hristo Papazov et.al.|[2403.05293](http://arxiv.org/abs/2403.05293)|null|
+|**2024-03-08**|**Stacking as Accelerated Gradient Descent**|Naman Agarwal et.al.|[2403.04978](http://arxiv.org/abs/2403.04978)|null|
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
 |**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
@@ -3367,6 +3380,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT**|Aisha Khatun et.al.|[2403.05519](http://arxiv.org/abs/2403.05519)|null|
+|**2024-03-08**|**Control-Oriented Identification for the Linear Quadratic Regulator: Technical Report**|Sean Anderson et.al.|[2403.05455](http://arxiv.org/abs/2403.05455)|null|
+|**2024-03-08**|**Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent**|Nathan Buskulic et.al.|[2403.05395](http://arxiv.org/abs/2403.05395)|null|
+|**2024-03-08**|**Leveraging Continuous Time to Understand Momentum When Training Diagonal Linear Networks**|Hristo Papazov et.al.|[2403.05293](http://arxiv.org/abs/2403.05293)|null|
+|**2024-03-08**|**Stacking as Accelerated Gradient Descent**|Naman Agarwal et.al.|[2403.04978](http://arxiv.org/abs/2403.04978)|null|
 |**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
 |**2024-03-07**|**Privacy-preserving Fine-tuning of Large Language Models through Flatness**|Tiejin Chen et.al.|[2403.04124](http://arxiv.org/abs/2403.04124)|null|
 |**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
@@ -3679,6 +3697,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Will GPT-4 Run DOOM?**|Adrian de Wynter et.al.|[2403.05468](http://arxiv.org/abs/2403.05468)|null|
+|**2024-03-08**|**Switching the Loss Reduces the Cost in Batch Reinforcement Learning**|Alex Ayoub et.al.|[2403.05385](http://arxiv.org/abs/2403.05385)|null|
+|**2024-03-08**|**Overcoming Reward Overoptimization via Adversarial Policy Optimization with Lightweight Uncertainty Estimation**|Xiaoying Zhang et.al.|[2403.05171](http://arxiv.org/abs/2403.05171)|null|
+|**2024-03-08**|**Inverse Design of Photonic Crystal Surface Emitting Lasers is a Sequence Modeling Problem**|Ceyao Zhang et.al.|[2403.05149](http://arxiv.org/abs/2403.05149)|null|
+|**2024-03-08**|**ChatUIE: Exploring Chat-based Unified Information Extraction using Large Language Models**|Jun Xu et.al.|[2403.05132](http://arxiv.org/abs/2403.05132)|null|
+|**2024-03-08**|**RLPeri: Accelerating Visual Perimetry Test with Reinforcement Learning and Convolutional Feature Extraction**|Tanvi Verma et.al.|[2403.05112](http://arxiv.org/abs/2403.05112)|null|
+|**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106](http://arxiv.org/abs/2403.05106)|null|
+|**2024-03-08**|**Reset & Distill: A Recipe for Overcoming Negative Transfer in Continual Reinforcement Learning**|Hongjoon Ahn et.al.|[2403.05066](http://arxiv.org/abs/2403.05066)|null|
+|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
+|**2024-03-08**|**Provable Multi-Party Reinforcement Learning with Diverse Human Feedback**|Huiying Zhong et.al.|[2403.05006](http://arxiv.org/abs/2403.05006)|null|
+|**2024-03-08**|**DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation**|Jiapeng Wang et.al.|[2403.04997](http://arxiv.org/abs/2403.04997)|null|
+|**2024-03-07**|**Aligning GPTRec with Beyond-Accuracy Goals with Reinforcement Learning**|Aleksandr Petrov et.al.|[2403.04875](http://arxiv.org/abs/2403.04875)|**[link](https://github.com/asash/gptrec_rl)**|
 |**2024-03-07**|**Teaching Large Language Models to Reason with Reinforcement Learning**|Alex Havrilla et.al.|[2403.04642](http://arxiv.org/abs/2403.04642)|null|
 |**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588](http://arxiv.org/abs/2403.04588)|null|
 |**2024-03-07**|**Learning Agility Adaptation for Flight in Clutter**|Guangyu Zhao et.al.|[2403.04586](http://arxiv.org/abs/2403.04586)|null|
