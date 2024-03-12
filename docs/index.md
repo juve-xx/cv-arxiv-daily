@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.11
+## Updated on 2024.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3758,7 +3758,7 @@ layout: default
 |**2024-02-28**|**Explainable Session-based Recommendation via Path Reasoning**|Yang Cao et.al.|[2403.00832](http://arxiv.org/abs/2403.00832)|null|
 |**2024-02-28**|**MedAide: Leveraging Large Language Models for On-Premise Medical Assistance on Edge Devices**|Abdul Basit et.al.|[2403.00830](http://arxiv.org/abs/2403.00830)|null|
 |**2024-03-01**|**Reusing Historical Trajectories in Natural Policy Gradient via Importance Sampling: Convergence and Convergence Rate**|Yifan Lin et.al.|[2403.00675](http://arxiv.org/abs/2403.00675)|null|
-|**2024-03-01**|**Snapshot Reinforcement Learning: Leveraging Prior Trajectories for Efficiency**|Yanxiao Zhao et.al.|[2403.00673](http://arxiv.org/abs/2403.00673)|null|
+|**2024-03-01**|**Snapshot Reinforcement Learning: Leveraging Prior Trajectories for Efficiency**|Yanxiao Zhao et.al.|[2403.00673](http://arxiv.org/abs/2403.00673)|**[link](https://github.com/sdpkjc/snapshotrl)**|
 |**2024-03-01**|**EfficientZero V2: Mastering Discrete and Continuous Control with Limited Data**|Shengjie Wang et.al.|[2403.00564](http://arxiv.org/abs/2403.00564)|null|
 |**2024-03-01**|**Epsilon-Greedy Thompson Sampling to Bayesian Optimization**|Bach Do et.al.|[2403.00540](http://arxiv.org/abs/2403.00540)|null|
 |**2024-03-01**|**Overestimation, Overfitting, and Plasticity in Actor-Critic: the Bitter Lesson of Reinforcement Learning**|Michal Nauman et.al.|[2403.00514](http://arxiv.org/abs/2403.00514)|null|
