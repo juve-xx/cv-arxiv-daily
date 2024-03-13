@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3704,14 +3704,14 @@ layout: default
 |**2024-03-11**|**Generalising Multi-Agent Cooperation through Task-Agnostic Communication**|Dulhan Jayalath et.al.|[2403.06750](http://arxiv.org/abs/2403.06750)|**[link](https://github.com/proroklab/task-agnostic-comms)**|
 |**2024-03-11**|**Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback**|Adarsh N L et.al.|[2403.06735](http://arxiv.org/abs/2403.06735)|null|
 |**2024-03-11**|**Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning**|Zijian Zhou et.al.|[2403.06728](http://arxiv.org/abs/2403.06728)|null|
-|**2024-03-11**|**Lander.AI: Adaptive Landing Behavior Agent for Expertise in 3D Dynamic Platform Landings**|Robinroy Peter et.al.|[2403.06572](http://arxiv.org/abs/2403.06572)|null|
+|**2024-03-12**|**Lander.AI: Adaptive Landing Behavior Agent for Expertise in 3D Dynamic Platform Landings**|Robinroy Peter et.al.|[2403.06572](http://arxiv.org/abs/2403.06572)|null|
 |**2024-03-11**|**Scalable Online Exploration via Coverability**|Philip Amortila et.al.|[2403.06571](http://arxiv.org/abs/2403.06571)|**[link](https://github.com/philip-amortila/l1-coverability)**|
 |**2024-03-11**|**Tactical Decision Making for Autonomous Trucks by Deep Reinforcement Learning with Total Cost of Operation Based Reward**|Deepthi Pathare et.al.|[2403.06524](http://arxiv.org/abs/2403.06524)|null|
 |**2024-03-11**|**Advancing Text-Driven Chest X-Ray Generation with Policy-Based Reinforcement Learning**|Woojung Han et.al.|[2403.06516](http://arxiv.org/abs/2403.06516)|null|
 |**2024-03-11**|**RL-MSA: a Reinforcement Learning-based Multi-line bus Scheduling Approach**|Yingzhuo Liu et.al.|[2403.06466](http://arxiv.org/abs/2403.06466)|null|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
 |**2024-03-11**|**RLingua: Improving Reinforcement Learning Sample Efficiency in Robotic Manipulations With Large Language Models**|Liangliang Chen et.al.|[2403.06420](http://arxiv.org/abs/2403.06420)|null|
-|**2024-03-11**|**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2403.06397](http://arxiv.org/abs/2403.06397)|null|
+|**2024-03-12**|**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2403.06397](http://arxiv.org/abs/2403.06397)|null|
 |**2024-03-11**|**Finite-Time Error Analysis of Soft Q-Learning: Switching System Approach**|Narim Jeong et.al.|[2403.06366](http://arxiv.org/abs/2403.06366)|null|
 |**2024-03-10**|**Transferable Reinforcement Learning via Generalized Occupancy Models**|Chuning Zhu et.al.|[2403.06328](http://arxiv.org/abs/2403.06328)|null|
 |**2024-03-10**|**ACM MMSys 2024 Bandwidth Estimation in Real Time Communications Challenge**|Sami Khairy et.al.|[2403.06324](http://arxiv.org/abs/2403.06324)|null|
