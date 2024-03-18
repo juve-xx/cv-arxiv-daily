@@ -1278,7 +1278,7 @@ layout: default
 |**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
 |**2023-12-01**|**Tracking Object Positions in Reinforcement Learning: A Metric for Keypoint Detection (extended version)**|Emma Cramer et.al.|[2312.00592](http://arxiv.org/abs/2312.00592)|null|
 |**2023-11-30**|**Utilizing Radiomic Feature Analysis For Automated MRI Keypoint Detection: Enhancing Graph Applications**|Sahar Almahfouz Nasser et.al.|[2311.18281](http://arxiv.org/abs/2311.18281)|null|
-|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|null|
+|**2023-11-29**|**Back to 3D: Few-Shot 3D Keypoint Detection with Back-Projected 2D Features**|Thomas Wimmer et.al.|[2311.18113](http://arxiv.org/abs/2311.18113)|**[link](https://github.com/wimmerth/back-to-3d-few-shot-keypoints)**|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
@@ -2379,7 +2379,7 @@ layout: default
 |**2022-10-15**|**IBL-NeRF: Image-Based Lighting Formulation of Neural Radiance Fields**|Changwoon Choi et.al.|[2210.08202](http://arxiv.org/abs/2210.08202)|**[link](https://github.com/changwoonchoi/IBL-NeRF)**|
 |**2022-10-17**|**3D GAN Inversion with Pose Optimization**|Jaehoon Ko et.al.|[2210.07301](http://arxiv.org/abs/2210.07301)|**[link](https://github.com/KU-CVLAB/3DGAN-Inversion)**|
 |**2022-10-13**|**Multiplane NeRF-Supervised Disentanglement of Depth and Camera Pose from Videos**|Yang Fu et.al.|[2210.07181](http://arxiv.org/abs/2210.07181)|null|
-|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575](http://arxiv.org/abs/2210.06575)|null|
+|**2022-10-12**|**GraspNeRF: Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF**|Qiyu Dai et.al.|[2210.06575](http://arxiv.org/abs/2210.06575)|**[link](https://github.com/PKU-EPIC/GraspNeRF)**|
 |**2022-10-12**|**Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video**|Xuan Gao et.al.|[2210.06108](http://arxiv.org/abs/2210.06108)|**[link](https://github.com/USTC3DV/NeRFBlendShape-code)**|
 |**2022-10-11**|**X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360 $^{\circ}$ Insufficient RGB-D Views**|Haoyi Zhu et.al.|[2210.05135](http://arxiv.org/abs/2210.05135)|**[link](https://github.com/haoyizhu/xnerf)**|
 |**2022-10-10**|**NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields**|Arunkumar Byravan et.al.|[2210.04932](http://arxiv.org/abs/2210.04932)|null|
@@ -2834,7 +2834,7 @@ layout: default
 |**2024-02-12**|**The I/O Complexity of Attention, or How Optimal is Flash Attention?**|Barna Saha et.al.|[2402.07443](http://arxiv.org/abs/2402.07443)|null|
 |**2024-02-11**|**Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**|Ziyang Wang et.al.|[2402.07245](http://arxiv.org/abs/2402.07245)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
 |**2024-02-08**|**HistoHDR-Net: Histogram Equalization for Single LDR to HDR Image Translation**|Hrishav Bakul Barua et.al.|[2402.06692](http://arxiv.org/abs/2402.06692)|null|
-|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892](http://arxiv.org/abs/2402.05892)|null|
+|**2024-02-08**|**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**|Shufan Li et.al.|[2402.05892](http://arxiv.org/abs/2402.05892)|**[link](https://github.com/jacklishufan/mamba-nd)**|
 |**2024-02-08**|**Implicit Bias and Fast Convergence Rates for Self-attention**|Bhavya Vasudeva et.al.|[2402.05738](http://arxiv.org/abs/2402.05738)|null|
 |**2024-03-04**|**Mesoscale Traffic Forecasting for Real-Time Bottleneck and Shockwave Prediction**|Raphael Chekroun et.al.|[2402.05663](http://arxiv.org/abs/2402.05663)|null|
 |**2024-02-08**|**Binding Dynamics in Rotating Features**|Sindy Löwe et.al.|[2402.05627](http://arxiv.org/abs/2402.05627)|null|
@@ -3149,13 +3149,13 @@ layout: default
 |**2024-02-07**|**G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection**|Fan Wu et.al.|[2402.04672](http://arxiv.org/abs/2402.04672)|**[link](https://github.com/wufan-cse/g-nas)**|
 |**2024-02-07**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
 |**2024-02-18**|**Online Quantile Regression**|Yinan Shen et.al.|[2402.04602](http://arxiv.org/abs/2402.04602)|null|
-|**2024-02-07**|**Curvature-Informed SGD via General Purpose Lie-Group Preconditioners**|Omead Pooladzandi et.al.|[2402.04553](http://arxiv.org/abs/2402.04553)|null|
+|**2024-02-07**|**Curvature-Informed SGD via General Purpose Lie-Group Preconditioners**|Omead Pooladzandi et.al.|[2402.04553](http://arxiv.org/abs/2402.04553)|**[link](https://github.com/lixilinx/psgd_torch)**|
 |**2024-02-19**|**Analysis of Linear Mode Connectivity via Permutation-Based Weight Matching**|Akira Ito et.al.|[2402.04051](http://arxiv.org/abs/2402.04051)|null|
 |**2024-02-06**|**Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private Stochastic Optimisation**|Ossi Räisä et.al.|[2402.03990](http://arxiv.org/abs/2402.03990)|null|
 |**2024-02-06**|**On Convergence of Adam for Stochastic Optimization under Relaxed Assumptions**|Yusu Hong et.al.|[2402.03982](http://arxiv.org/abs/2402.03982)|null|
 |**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|**[link](https://github.com/amkrajewski/nimplex)**|
 |**2024-02-02**|**Stochastic Modified Flows for Riemannian Stochastic Gradient Descent**|Benjamin Gess et.al.|[2402.03467](http://arxiv.org/abs/2402.03467)|null|
-|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
+|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|**[link](https://github.com/ShahryarBQ/DSpodFL)**|
 |**2024-02-05**|**The Benefits of Reusing Batches for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents**|Yatin Dandi et.al.|[2402.03220](http://arxiv.org/abs/2402.03220)|null|
 |**2024-02-05**|**Optimal sampling for stochastic and natural gradient descent**|Robert Gruhlke et.al.|[2402.03113](http://arxiv.org/abs/2402.03113)|null|
 |**2024-02-06**|**Data-induced multiscale losses and efficient multirate gradient descent schemes**|Juncai He et.al.|[2402.03021](http://arxiv.org/abs/2402.03021)|null|
@@ -3614,7 +3614,7 @@ layout: default
 |**2024-02-07**|**G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection**|Fan Wu et.al.|[2402.04672](http://arxiv.org/abs/2402.04672)|**[link](https://github.com/wufan-cse/g-nas)**|
 |**2024-02-07**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
 |**2024-02-18**|**Online Quantile Regression**|Yinan Shen et.al.|[2402.04602](http://arxiv.org/abs/2402.04602)|null|
-|**2024-02-07**|**Curvature-Informed SGD via General Purpose Lie-Group Preconditioners**|Omead Pooladzandi et.al.|[2402.04553](http://arxiv.org/abs/2402.04553)|null|
+|**2024-02-07**|**Curvature-Informed SGD via General Purpose Lie-Group Preconditioners**|Omead Pooladzandi et.al.|[2402.04553](http://arxiv.org/abs/2402.04553)|**[link](https://github.com/lixilinx/psgd_torch)**|
 |**2024-02-06**|**Attention with Markov: A Framework for Principled Analysis of Transformers via Markov Chains**|Ashok Vardhan Makkuva et.al.|[2402.04161](http://arxiv.org/abs/2402.04161)|**[link](https://github.com/bond1995/markov)**|
 |**2024-02-19**|**Analysis of Linear Mode Connectivity via Permutation-Based Weight Matching**|Akira Ito et.al.|[2402.04051](http://arxiv.org/abs/2402.04051)|null|
 |**2024-02-06**|**Gradient Sketches for Training Data Attribution and Studying the Loss Landscape**|Andrea Schioppa et.al.|[2402.03994](http://arxiv.org/abs/2402.03994)|null|
@@ -3623,7 +3623,7 @@ layout: default
 |**2024-02-06**|**A phase transition between positional and semantic learning in a solvable model of dot-product attention**|Hugo Cui et.al.|[2402.03902](http://arxiv.org/abs/2402.03902)|null|
 |**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|**[link](https://github.com/amkrajewski/nimplex)**|
 |**2024-02-02**|**Stochastic Modified Flows for Riemannian Stochastic Gradient Descent**|Benjamin Gess et.al.|[2402.03467](http://arxiv.org/abs/2402.03467)|null|
-|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
+|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|**[link](https://github.com/ShahryarBQ/DSpodFL)**|
 |**2024-02-05**|**The Benefits of Reusing Batches for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents**|Yatin Dandi et.al.|[2402.03220](http://arxiv.org/abs/2402.03220)|null|
 |**2024-02-05**|**How Good is a Single Basin?**|Kai Lion et.al.|[2402.03187](http://arxiv.org/abs/2402.03187)|null|
 |**2024-02-05**|**Optimal sampling for stochastic and natural gradient descent**|Robert Gruhlke et.al.|[2402.03113](http://arxiv.org/abs/2402.03113)|null|
@@ -4097,7 +4097,7 @@ layout: default
 |**2024-02-27**|**COPR: Continual Human Preference Learning via Optimal Policy Regularization**|Han Zhang et.al.|[2402.14228](http://arxiv.org/abs/2402.14228)|null|
 |**2024-02-22**|**Learning to Reduce: Optimal Representations of Structured Data in Prompting Large Language Models**|Younghun Lee et.al.|[2402.14195](http://arxiv.org/abs/2402.14195)|null|
 |**2024-02-21**|**Reinforcement Learning with Dynamic Multi-Reward Weighting for Multi-Style Controllable Generation**|Karin de Langis et.al.|[2402.14146](http://arxiv.org/abs/2402.14146)|null|
-|**2024-02-21**|**Social Environment Design**|Edwin Zhang et.al.|[2402.14090](http://arxiv.org/abs/2402.14090)|null|
+|**2024-02-21**|**Social Environment Design**|Edwin Zhang et.al.|[2402.14090](http://arxiv.org/abs/2402.14090)|**[link](https://github.com/ezhang7423/social-environment-design)**|
 |**2024-02-21**|**PolyNet: Learning Diverse Solution Strategies for Neural Combinatorial Optimization**|André Hottung et.al.|[2402.14048](http://arxiv.org/abs/2402.14048)|null|
 |**2024-02-21**|**Generating Realistic Arm Movements in Reinforcement Learning: A Quantitative Comparison of Reward Terms and Task Requirements**|Jhon Charaja et.al.|[2402.13949](http://arxiv.org/abs/2402.13949)|null|
 |**2024-02-26**|**AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning**|Vasudev Gohil et.al.|[2402.13946](http://arxiv.org/abs/2402.13946)|null|
