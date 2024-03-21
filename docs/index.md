@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2448,7 +2448,7 @@ layout: default
 |**2024-03-19**|**CrossTune: Black-Box Few-Shot Classification with Label Enhancement**|Danqing Luo et.al.|[2403.12468](http://arxiv.org/abs/2403.12468)|null|
 |**2024-03-19**|**An Empirical Study of Speech Language Models for Prompt-Conditioned Speech Synthesis**|Yifan Peng et.al.|[2403.12402](http://arxiv.org/abs/2403.12402)|null|
 |**2024-03-18**|**Transfer Learning Beyond Bounded Density Ratios**|Alkis Kalavasis et.al.|[2403.11963](http://arxiv.org/abs/2403.11963)|null|
-|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|null|
+|**2024-03-18**|**CICLe: Conformal In-Context Learning for Largescale Multi-Class Food Risk Classification**|Korbinian Randl et.al.|[2403.11904](http://arxiv.org/abs/2403.11904)|**[link](https://github.com/k-randl/conformal_prompting)**|
 |**2024-03-18**|**Towards Understanding the Relationship between In-context Learning and Compositional Generalization**|Sungjun Han et.al.|[2403.11834](http://arxiv.org/abs/2403.11834)|null|
 |**2024-03-18**|**Can LLMs Generate Human-Like Wayfinding Instructions? Towards Platform-Agnostic Embodied Instruction Synthesis**|Vishnu Sashank Dorbala et.al.|[2403.11487](http://arxiv.org/abs/2403.11487)|null|
 |**2024-03-16**|**Interpretable Machine Learning for TabPFN**|David Rundel et.al.|[2403.10923](http://arxiv.org/abs/2403.10923)|**[link](https://github.com/david-rundel/tabpfn_iml)**|
@@ -2741,8 +2741,8 @@ layout: default
 |**2024-03-19**|**ViTGaze: Gaze Following with Interaction Features in Vision Transformers**|Yuehao Song et.al.|[2403.12778](http://arxiv.org/abs/2403.12778)|null|
 |**2024-03-19**|**Tuning-Free Image Customization with Image and Text Guidance**|Pengzhi Li et.al.|[2403.12658](http://arxiv.org/abs/2403.12658)|null|
 |**2024-03-19**|**Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs**|Md Ashiqur Rahman et.al.|[2403.12553](http://arxiv.org/abs/2403.12553)|null|
-|**2024-03-19**|**A Hybrid Transformer-Sequencer approach for Age and Gender classification from in-wild facial images**|Aakash Singh et.al.|[2403.12483](http://arxiv.org/abs/2403.12483)|null|
-|**2024-03-18**|**TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**|Hui Lu et.al.|[2403.11818](http://arxiv.org/abs/2403.11818)|null|
+|**2024-03-20**|**A Hybrid Transformer-Sequencer approach for Age and Gender classification from in-wild facial images**|Aakash Singh et.al.|[2403.12483](http://arxiv.org/abs/2403.12483)|null|
+|**2024-03-18**|**TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**|Hui Lu et.al.|[2403.11818](http://arxiv.org/abs/2403.11818)|**[link](https://github.com/hotfinda/tcnet)**|
 |**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627](http://arxiv.org/abs/2403.11627)|**[link](https://github.com/young98cn/lora_composer)**|
 |**2024-03-18**|**QEAN: Quaternion-Enhanced Attention Network for Visual Dance Generation**|Zhizhen Zhou et.al.|[2403.11626](http://arxiv.org/abs/2403.11626)|null|
 |**2024-03-18**|**AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**|Junming Wang et.al.|[2403.11607](http://arxiv.org/abs/2403.11607)|null|
@@ -3833,7 +3833,7 @@ layout: default
 |**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946](http://arxiv.org/abs/2403.12946)|null|
 |**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
 |**2024-03-19**|**Equivariant Ensembles and Regularization for Reinforcement Learning in Map-based Path Planning**|Mirco Theile et.al.|[2403.12856](http://arxiv.org/abs/2403.12856)|null|
-|**2024-03-19**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
+|**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-19**|**Oriented and Non-oriented Cubical Surfaces in The Penteract**|Manuel Estevez et.al.|[2403.12825](http://arxiv.org/abs/2403.12825)|null|
 |**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
 |**2024-03-19**|**FootstepNet: an Efficient Actor-Critic Method for Fast On-line Bipedal Footstep Planning and Forecasting**|Clément Gaspard et.al.|[2403.12589](http://arxiv.org/abs/2403.12589)|null|
@@ -3860,7 +3860,7 @@ layout: default
 |**2024-03-18**|**Distill2Explain: Differentiable decision trees for explainable reinforcement learning in energy application controllers**|Gargya Gokhale et.al.|[2403.11907](http://arxiv.org/abs/2403.11907)|null|
 |**2024-03-19**|**Reinforcement Learning with Latent State Inference for Autonomous On-ramp Merging under Observation Delay**|Amin Tabrizian et.al.|[2403.11852](http://arxiv.org/abs/2403.11852)|null|
 |**2024-03-18**|**Pessimistic Causal Reinforcement Learning with Mediators for Confounded Offline Data**|Danyang Wang et.al.|[2403.11841](http://arxiv.org/abs/2403.11841)|null|
-|**2024-03-18**|**Locomotion Generation for a Rat Robot based on Environmental Changes via Reinforcement Learning**|Xinhui Shan et.al.|[2403.11788](http://arxiv.org/abs/2403.11788)|null|
+|**2024-03-19**|**Locomotion Generation for a Rat Robot based on Environmental Changes via Reinforcement Learning**|Xinhui Shan et.al.|[2403.11788](http://arxiv.org/abs/2403.11788)|null|
 |**2024-03-18**|**The Value of Reward Lookahead in Reinforcement Learning**|Nadav Merlis et.al.|[2403.11637](http://arxiv.org/abs/2403.11637)|null|
 |**2024-03-18**|**Offline Multitask Representation Learning for Reinforcement Learning**|Haque Ishfaq et.al.|[2403.11574](http://arxiv.org/abs/2403.11574)|null|
 |**2024-03-18**|**Reinforcement Learning with Token-level Feedback for Controllable Text Generation**|Wendi Li et.al.|[2403.11558](http://arxiv.org/abs/2403.11558)|null|
@@ -3875,7 +3875,7 @@ layout: default
 |**2024-03-17**|**Deep Neural Crossover**|Eliad Shem-Tov et.al.|[2403.11159](http://arxiv.org/abs/2403.11159)|null|
 |**2024-03-17**|**Phasic Diversity Optimization for Population-Based Reinforcement Learning**|Jingcheng Jiang et.al.|[2403.11114](http://arxiv.org/abs/2403.11114)|null|
 |**2024-03-17**|**PyroTrack: Belief-Based Deep Reinforcement Learning Path Planning for Aerial Wildfire Monitoring in Partially Observable Environments**|Sahand Khoshdel et.al.|[2403.11095](http://arxiv.org/abs/2403.11095)|null|
-|**2024-03-17**|**A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization**|Yudong Luo et.al.|[2403.11062](http://arxiv.org/abs/2403.11062)|null|
+|**2024-03-20**|**A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization**|Yudong Luo et.al.|[2403.11062](http://arxiv.org/abs/2403.11062)|null|
 |**2024-03-17**|**JustQ: Automated Deployment of Fair and Accurate Quantum Neural Networks**|Ruhan Wang et.al.|[2403.11048](http://arxiv.org/abs/2403.11048)|null|
 |**2024-03-16**|**A Scalable and Parallelizable Digital Twin Framework for Sustainable Sim2Real Transition of Multi-Agent Reinforcement Learning Systems**|Chinmay Vilas Samak et.al.|[2403.10996](http://arxiv.org/abs/2403.10996)|null|
 |**2024-03-16**|**Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization**|Sai Prasanna et.al.|[2403.10967](http://arxiv.org/abs/2403.10967)|**[link](https://github.com/sai-prasanna/dreaming_of_many_worlds)**|
