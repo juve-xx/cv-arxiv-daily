@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2762,7 +2762,7 @@ layout: default
 |**2024-03-18**|**AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**|Junming Wang et.al.|[2403.11607](http://arxiv.org/abs/2403.11607)|**[link](https://github.com/jmwang0117/agrnav)**|
 |**2024-03-17**|**Fast Personalized Text-to-Image Syntheses With Attention Injection**|Yuxuan Zhang et.al.|[2403.11284](http://arxiv.org/abs/2403.11284)|null|
 |**2024-03-17**|**NeoNeXt: Novel neural network operator and architecture based on the patch-wise matrix multiplications**|Vladimir Korviakov et.al.|[2403.11251](http://arxiv.org/abs/2403.11251)|null|
-|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-22**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
 |**2024-03-16**|**StableGarment: Garment-Centric Generation via Stable Diffusion**|Rui Wang et.al.|[2403.10783](http://arxiv.org/abs/2403.10783)|null|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/abs/2403.10413)|**[link](https://github.com/marvinyu1995/hyctas)**|
 |**2024-03-15**|**PASTA: Towards Flexible and Efficient HDR Imaging Via Progressively Aggregated Spatio-Temporal Aligment**|Xiaoning Liu et.al.|[2403.10376](http://arxiv.org/abs/2403.10376)|null|
@@ -2802,7 +2802,7 @@ layout: default
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-06**|**CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation**|Vahid Ahmadi Kalkhorani et.al.|[2403.03411](http://arxiv.org/abs/2403.03411)|null|
 |**2024-03-05**|**ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures**|Salim Rukhsar et.al.|[2403.03276](http://arxiv.org/abs/2403.03276)|**[link](https://github.com/salim-lysiun/arnn)**|
-|**2024-03-11**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
+|**2024-03-21**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
 |**2024-03-05**|**TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax**|Tobias Christian Nauen et.al.|[2403.02920](http://arxiv.org/abs/2403.02920)|**[link](https://github.com/tobna/taylorshift)**|
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Enhancing Weakly Supervised 3D Medical Image Segmentation through Probabilistic-aware Learning**|Zhaoxin Fan et.al.|[2403.02566](http://arxiv.org/abs/2403.02566)|**[link](https://github.com/runminjiang/pw4medseg)**|
@@ -2838,7 +2838,7 @@ layout: default
 |**2024-02-25**|**PIDformer: Transformer Meets Control Theory**|Tam Nguyen et.al.|[2402.15989](http://arxiv.org/abs/2402.15989)|null|
 |**2024-02-24**|**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**|Chi-Sheng Chen et.al.|[2402.15761](http://arxiv.org/abs/2402.15761)|**[link](https://github.com/chishengchen/resvmamba)**|
 |**2024-02-23**|**Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis**|Hongkang Li et.al.|[2402.15607](http://arxiv.org/abs/2402.15607)|null|
-|**2024-02-23**|**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**|Lu Ye et.al.|[2402.15220](http://arxiv.org/abs/2402.15220)|null|
+|**2024-03-22**|**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**|Lu Ye et.al.|[2402.15220](http://arxiv.org/abs/2402.15220)|null|
 |**2024-02-21**|**SISSA: Real-time Monitoring of Hardware Functional Safety and Cybersecurity with In-vehicle SOME/IP Ethernet Traffic**|Qi Liu et.al.|[2402.14862](http://arxiv.org/abs/2402.14862)|**[link](https://github.com/jamesnulliu/sissa)**|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
 |**2024-02-22**|**How Transformers Learn Causal Structure with Gradient Descent**|Eshaan Nichani et.al.|[2402.14735](http://arxiv.org/abs/2402.14735)|null|
