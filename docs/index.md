@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.25
+## Updated on 2024.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2475,7 +2475,7 @@ layout: default
 |**2024-03-12**|**BAGEL: Bootstrapping Agents by Guiding Exploration with Language**|Shikhar Murty et.al.|[2403.08140](http://arxiv.org/abs/2403.08140)|null|
 |**2024-02-28**|**ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training**|Le Zhuo et.al.|[2403.07920](http://arxiv.org/abs/2403.07920)|null|
 |**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
-|**2024-03-19**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
+|**2024-03-23**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
 |**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
 |**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|**[link](https://github.com/bigheiniu/mend)**|
 |**2024-03-11**|**In-context Exploration-Exploitation for Reinforcement Learning**|Zhenwen Dai et.al.|[2403.06826](http://arxiv.org/abs/2403.06826)|null|
@@ -2778,7 +2778,7 @@ layout: default
 |**2024-03-15**|**Multi-criteria Token Fusion with One-step-ahead Attention for Efficient Vision Transformers**|Sanghyeok Lee et.al.|[2403.10030](http://arxiv.org/abs/2403.10030)|**[link](https://github.com/mlvlab/mctf)**|
 |**2024-03-15**|**FBPT: A Fully Binary Point Transformer**|Zhixing Hou et.al.|[2403.09998](http://arxiv.org/abs/2403.09998)|null|
 |**2024-03-14**|**SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition**|Jeonghyeok Do et.al.|[2403.09508](http://arxiv.org/abs/2403.09508)|**[link](https://github.com/KAIST-VICLab/SkateFormer)**|
-|**2024-03-14**|**Adversarial Training with OCR Modality Perturbation for Scene-Text Visual Question Answering**|Zhixuan Shen et.al.|[2403.09288](http://arxiv.org/abs/2403.09288)|null|
+|**2024-03-14**|**Adversarial Training with OCR Modality Perturbation for Scene-Text Visual Question Answering**|Zhixuan Shen et.al.|[2403.09288](http://arxiv.org/abs/2403.09288)|**[link](https://github.com/FrankZxShen/ATS)**|
 |**2024-03-14**|**SHAN: Object-Level Privacy Detection via Inference on Scene Heterogeneous Graph**|Zhuohang Jiang et.al.|[2403.09172](http://arxiv.org/abs/2403.09172)|null|
 |**2024-03-13**|**Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation**|Zicheng Zhang et.al.|[2403.08426](http://arxiv.org/abs/2403.08426)|null|
 |**2024-03-12**|**Mechanics of Next Token Prediction with Self-Attention**|Yingcong Li et.al.|[2403.08081](http://arxiv.org/abs/2403.08081)|null|
@@ -3033,7 +3033,7 @@ layout: default
 |**2024-03-21**|**Reinforcement Learning Design for Quickest Change Detection**|Austin Cooper et.al.|[2403.14109](http://arxiv.org/abs/2403.14109)|null|
 |**2024-03-20**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
 |**2024-03-20**|**Analysing heavy-tail properties of Stochastic Gradient Descent by means of Stochastic Recurrence Equations**|Ewa Damek et.al.|[2403.13868](http://arxiv.org/abs/2403.13868)|null|
-|**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
+|**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport**|Raphaël Barboni et.al.|[2403.12887](http://arxiv.org/abs/2403.12887)|null|
 |**2024-03-18**|**Gradient-based Fuzzy System Optimisation via Automatic Differentiation -- FuzzyR as a Use Case**|Chao Chen et.al.|[2403.12308](http://arxiv.org/abs/2403.12308)|null|
 |**2024-03-18**|**Context-aware LLM-based Safe Control Against Latent Risks**|Quan Khanh Luu et.al.|[2403.11863](http://arxiv.org/abs/2403.11863)|null|
@@ -3508,7 +3508,7 @@ layout: default
 |**2024-03-20**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
 |**2024-03-20**|**Analysing heavy-tail properties of Stochastic Gradient Descent by means of Stochastic Recurrence Equations**|Ewa Damek et.al.|[2403.13868](http://arxiv.org/abs/2403.13868)|null|
 |**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|null|
-|**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
+|**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport**|Raphaël Barboni et.al.|[2403.12887](http://arxiv.org/abs/2403.12887)|null|
 |**2024-03-18**|**Gradient-based Fuzzy System Optimisation via Automatic Differentiation -- FuzzyR as a Use Case**|Chao Chen et.al.|[2403.12308](http://arxiv.org/abs/2403.12308)|null|
 |**2024-03-18**|**Context-aware LLM-based Safe Control Against Latent Risks**|Quan Khanh Luu et.al.|[2403.11863](http://arxiv.org/abs/2403.11863)|null|
