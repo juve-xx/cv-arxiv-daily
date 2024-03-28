@@ -2759,6 +2759,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**|Zhiheng Cheng et.al.|[2403.18271](http://arxiv.org/abs/2403.18271)|**[link](https://github.com/cccccczh404/h-sam)**|
+|**2024-03-27**|**Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**|Xilin Jiang et.al.|[2403.18257](http://arxiv.org/abs/2403.18257)|null|
+|**2024-03-27**|**Fourier or Wavelet bases as counterpart self-attention in spikformer for efficient visual classification**|Qingyu Wang et.al.|[2403.18228](http://arxiv.org/abs/2403.18228)|null|
+|**2024-03-27**|**A Transformer-Based Framework for Payload Malware Detection and Classification**|Kyle Stein et.al.|[2403.18223](http://arxiv.org/abs/2403.18223)|null|
 |**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924](http://arxiv.org/abs/2403.17924)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
 |**2024-03-26**|**ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection**|Mubashir Noman et.al.|[2403.17909](http://arxiv.org/abs/2403.17909)|**[link](https://github.com/techmn/elgcnet)**|
 |**2024-03-26**|**CCDSReFormer: Traffic Flow Prediction with a Criss-Crossed Dual-Stream Enhanced Rectified Transformer Model**|Zhiqi Shao et.al.|[2403.17753](http://arxiv.org/abs/2403.17753)|null|
@@ -3057,6 +3061,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
+|**2024-03-27**|**Global convergence of iterative solvers for problems of nonlinear magnetostatics**|Herbert Egger et.al.|[2403.18520](http://arxiv.org/abs/2403.18520)|null|
+|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|null|
+|**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506](http://arxiv.org/abs/2403.18506)|**[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)**|
+|**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-26**|**Neural Distributed Controllers with Port-Hamiltonian Structures**|Muhammad Zakwan et.al.|[2403.17785](http://arxiv.org/abs/2403.17785)|null|
 |**2024-03-26**|**How Private is DP-SGD?**|Lynn Chua et.al.|[2403.17673](http://arxiv.org/abs/2403.17673)|null|
 |**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572](http://arxiv.org/abs/2403.17572)|null|
@@ -3111,7 +3120,7 @@ layout: default
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
 |**2024-03-13**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
-|**2024-03-13**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
+|**2024-03-27**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
 |**2024-03-13**|**Mean-Field Microcanonical Gradient Descent**|Marcus Häggbom et.al.|[2403.08362](http://arxiv.org/abs/2403.08362)|**[link](https://github.com/marcushaggbom/mf-mgdm)**|
 |**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294](http://arxiv.org/abs/2403.08294)|null|
 |**2024-03-13**|**Learning-driven Physically-aware Large-scale Circuit Gate Sizing**|Yuyang Ye et.al.|[2403.08193](http://arxiv.org/abs/2403.08193)|null|
@@ -3553,6 +3562,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
+|**2024-03-27**|**Global convergence of iterative solvers for problems of nonlinear magnetostatics**|Herbert Egger et.al.|[2403.18520](http://arxiv.org/abs/2403.18520)|null|
+|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|null|
+|**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506](http://arxiv.org/abs/2403.18506)|**[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)**|
+|**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-26**|**Neural Distributed Controllers with Port-Hamiltonian Structures**|Muhammad Zakwan et.al.|[2403.17785](http://arxiv.org/abs/2403.17785)|null|
 |**2024-03-26**|**How Private is DP-SGD?**|Lynn Chua et.al.|[2403.17673](http://arxiv.org/abs/2403.17673)|null|
 |**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572](http://arxiv.org/abs/2403.17572)|null|
@@ -3611,7 +3625,7 @@ layout: default
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
 |**2024-03-13**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
-|**2024-03-13**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
+|**2024-03-27**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
 |**2024-03-13**|**Mean-Field Microcanonical Gradient Descent**|Marcus Häggbom et.al.|[2403.08362](http://arxiv.org/abs/2403.08362)|**[link](https://github.com/marcushaggbom/mf-mgdm)**|
 |**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294](http://arxiv.org/abs/2403.08294)|null|
 |**2024-03-14**|**Random Search as a Baseline for Sparse Neural Network Architecture Search**|Rezsa Farahani et.al.|[2403.08265](http://arxiv.org/abs/2403.08265)|null|
@@ -3950,6 +3964,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment**|Li Siyao et.al.|[2403.18811](http://arxiv.org/abs/2403.18811)|null|
+|**2024-03-27**|**CaT: Constraints as Terminations for Legged Locomotion Reinforcement Learning**|Elliot Chane-Sane et.al.|[2403.18765](http://arxiv.org/abs/2403.18765)|null|
+|**2024-03-27**|**Probabilistic Model Checking of Stochastic Reinforcement Learning Policies**|Dennis Gross et.al.|[2403.18725](http://arxiv.org/abs/2403.18725)|null|
+|**2024-03-27**|**Fpga-Based Neural Thrust Controller for UAVs**|Sharif Azem et.al.|[2403.18703](http://arxiv.org/abs/2403.18703)|null|
+|**2024-03-27**|**Safe and Robust Reinforcement-Learning: Principles and Practice**|Taku Yamagata et.al.|[2403.18539](http://arxiv.org/abs/2403.18539)|null|
+|**2024-03-27**|**Bridging the Gap: Regularized Reinforcement Learning for Improved Classical Motion Planning with Safety Modules**|Elias Goldsztejn et.al.|[2403.18524](http://arxiv.org/abs/2403.18524)|null|
+|**2024-03-27**|**VersaT2I: Improving Text-to-Image Models with Versatile Reward**|Jianshu Guo et.al.|[2403.18493](http://arxiv.org/abs/2403.18493)|null|
+|**2024-03-27**|**Scaling Vision-and-Language Navigation With Offline RL**|Valay Bundele et.al.|[2403.18454](http://arxiv.org/abs/2403.18454)|null|
+|**2024-03-27**|**FRESCO: Federated Reinforcement Energy System for Cooperative Optimization**|Nicolas Mauricio Cuadrado et.al.|[2403.18444](http://arxiv.org/abs/2403.18444)|null|
+|**2024-03-27**|**Reinforcement learning for graph theory, I. Reimplementation of Wagner's approach**|Salem Al-Yakoob et.al.|[2403.18429](http://arxiv.org/abs/2403.18429)|null|
+|**2024-03-27**|**Intent-Aware DRL-Based Uplink Dynamic Scheduler for 5G-NR**|Salwa Mostafa et.al.|[2403.18364](http://arxiv.org/abs/2403.18364)|null|
+|**2024-03-27**|**Rejection Improves Reliability: Training LLMs to Refuse Unknown Questions Using RL from Knowledge Feedback**|Hongshen Xu et.al.|[2403.18349](http://arxiv.org/abs/2403.18349)|null|
+|**2024-03-27**|**IterAlign: Iterative Constitutional Alignment of Large Language Models**|Xiusi Chen et.al.|[2403.18341](http://arxiv.org/abs/2403.18341)|null|
+|**2024-03-27**|**Image Deraining via Self-supervised Reinforcement Learning**|He-Hao Liao et.al.|[2403.18270](http://arxiv.org/abs/2403.18270)|null|
+|**2024-03-27**|**Multi-AGV Path Planning Method via Reinforcement Learning and Particle Filters**|Shao Shuo et.al.|[2403.18236](http://arxiv.org/abs/2403.18236)|null|
+|**2024-03-27**|**From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries**|Ergon Cugler de Moraes Silva et.al.|[2403.18219](http://arxiv.org/abs/2403.18219)|null|
+|**2024-03-27**|**Long and Short-Term Constraints Driven Safe Reinforcement Learning for Autonomous Driving**|Xuemin Hu et.al.|[2403.18209](http://arxiv.org/abs/2403.18209)|null|
+|**2024-03-27**|**Learning Optimal Behavior Through Reasoning and Experiences**|Cosmin Ilut et.al.|[2403.18185](http://arxiv.org/abs/2403.18185)|null|
+|**2024-03-26**|**Paths to Equilibrium in Normal-Form Games**|Bora Yongacoglu et.al.|[2403.18079](http://arxiv.org/abs/2403.18079)|null|
+|**2024-03-26**|**Prioritized League Reinforcement Learning for Large-Scale Heterogeneous Multiagent Systems**|Qingxu Fu et.al.|[2403.18057](http://arxiv.org/abs/2403.18057)|null|
+|**2024-03-26**|**Self-Clustering Hierarchical Multi-Agent Reinforcement Learning with Extensible Cooperation Graph**|Qingxu Fu et.al.|[2403.18056](http://arxiv.org/abs/2403.18056)|null|
 |**2024-03-26**|**TractOracle: towards an anatomically-informed reward function for RL-based tractography**|Antoine Théberge et.al.|[2403.17845](http://arxiv.org/abs/2403.17845)|null|
 |**2024-03-26**|**Learning the Optimal Power Flow: Environment Design Matters**|Thomas Wolgast et.al.|[2403.17831](http://arxiv.org/abs/2403.17831)|**[link](https://github.com/digitalized-energy-systems/rl-opf-env-design)**|
 |**2024-03-26**|**Depending on yourself when you should: Mentoring LLM with RL agents to become the master in cybersecurity games**|Yikuan Yan et.al.|[2403.17674](http://arxiv.org/abs/2403.17674)|null|
