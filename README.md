@@ -2476,7 +2476,7 @@
 |**2024-03-28**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688](http://arxiv.org/abs/2403.17688)|null|
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661](http://arxiv.org/abs/2403.17661)|null|
-|**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|null|
+|**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|**[link](https://github.com/amurtadha/nbce-master)**|
 |**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536](http://arxiv.org/abs/2403.17536)|**[link](https://github.com/opengptx/illuminer)**|
 |**2024-03-25**|**A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2403.17218](http://arxiv.org/abs/2403.17218)|null|
 |**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|null|
