@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.31
+## Updated on 2024.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2481,11 +2481,11 @@ layout: default
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287](http://arxiv.org/abs/2403.10287)|null|
 |**2024-03-15**|**Team Trifecta at Factify5WQA: Setting the Standard in Fact Verification with Fine-Tuning**|Shang-Hsuan Chiang et.al.|[2403.10281](http://arxiv.org/abs/2403.10281)|**[link](https://github.com/andychiangsh/pre-cofactv3)**|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
-|**2024-03-18**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|null|
+|**2024-03-29**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|null|
 |**2024-03-08**|**Concept-aware Data Construction Improves In-context Learning of Language Models**|Michal Štefánik et.al.|[2403.09703](http://arxiv.org/abs/2403.09703)|null|
 |**2024-03-22**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
 |**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|**[link](https://github.com/jinhualiang/wavcraft)**|
-|**2024-03-14**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|null|
+|**2024-03-29**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|null|
 |**2024-03-26**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|**[link](https://github.com/ZhuoZHI-UCL/ICL_multimodal)**|
 |**2024-03-14**|**Unveiling the Generalization Power of Fine-Tuned Large Language Models**|Haoran Yang et.al.|[2403.09162](http://arxiv.org/abs/2403.09162)|**[link](https://github.com/lhryang/generalization_of_ft-llm)**|
 |**2024-03-14**|**Large Language Models are Parallel Multilingual Learners**|Yongyu Mu et.al.|[2403.09073](http://arxiv.org/abs/2403.09073)|**[link](https://github.com/takagi97/llms-are-parallel-multilingual-learners)**|
@@ -2763,7 +2763,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|null|
+|**2024-03-29**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|null|
 |**2024-03-28**|**Risk prediction of pathological gambling on social media**|Angelina Parfenova et.al.|[2403.19358](http://arxiv.org/abs/2403.19358)|null|
 |**2024-03-27**|**AIC-UNet: Anatomy-informed Cascaded UNet for Robust Multi-Organ Segmentation**|Young Seok Jeon et.al.|[2403.18878](http://arxiv.org/abs/2403.18878)|null|
 |**2024-03-27**|**Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding**|Zhiheng Cheng et.al.|[2403.18271](http://arxiv.org/abs/2403.18271)|**[link](https://github.com/cccccczh404/h-sam)**|
@@ -3128,7 +3128,7 @@ layout: default
 |**2024-03-14**|**Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization**|Jinsheng Li et.al.|[2403.09031](http://arxiv.org/abs/2403.09031)|null|
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
-|**2024-03-13**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
+|**2024-03-29**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
 |**2024-03-27**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
 |**2024-03-13**|**Mean-Field Microcanonical Gradient Descent**|Marcus Häggbom et.al.|[2403.08362](http://arxiv.org/abs/2403.08362)|**[link](https://github.com/marcushaggbom/mf-mgdm)**|
 |**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294](http://arxiv.org/abs/2403.08294)|null|
@@ -3635,7 +3635,7 @@ layout: default
 |**2024-03-15**|**Robust COVID-19 Detection in CT Images with CLIP**|Li Lin et.al.|[2403.08947](http://arxiv.org/abs/2403.08947)|**[link](https://github.com/purdue-m2/covid-19_detection_m2_purdue)**|
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
-|**2024-03-13**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
+|**2024-03-29**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
 |**2024-03-27**|**Machine Learning Optimized Orthogonal Basis Piecewise Polynomial Approximation**|Hannes Waclawek et.al.|[2403.08579](http://arxiv.org/abs/2403.08579)|**[link](https://github.com/hawaclawek/ml-optimized-orthogonal-basis-pp)**|
 |**2024-03-13**|**Mean-Field Microcanonical Gradient Descent**|Marcus Häggbom et.al.|[2403.08362](http://arxiv.org/abs/2403.08362)|**[link](https://github.com/marcushaggbom/mf-mgdm)**|
 |**2024-03-13**|**Attack Deterministic Conditional Image Generative Models for Diverse and Controllable Generation**|Tianyi Chu et.al.|[2403.08294](http://arxiv.org/abs/2403.08294)|null|
@@ -3985,7 +3985,7 @@ layout: default
 |**2024-03-28**|**Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2403.19253](http://arxiv.org/abs/2403.19253)|null|
 |**2024-03-28**|**Disentangling Length from Quality in Direct Preference Optimization**|Ryan Park et.al.|[2403.19159](http://arxiv.org/abs/2403.19159)|null|
 |**2024-03-27**|**GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety considerations and Reinforcement Learning**|Hsin-Jung Yang et.al.|[2403.19062](http://arxiv.org/abs/2403.19062)|null|
-|**2024-03-27**|**Towards Human-Centered Construction Robotics: An RL-Driven Companion Robot For Contextually Assisting Carpentry Workers**|Yuning Wu et.al.|[2403.19060](http://arxiv.org/abs/2403.19060)|null|
+|**2024-03-29**|**Towards Human-Centered Construction Robotics: An RL-Driven Companion Robot For Contextually Assisting Carpentry Workers**|Yuning Wu et.al.|[2403.19060](http://arxiv.org/abs/2403.19060)|null|
 |**2024-03-27**|**Exploiting Symmetry in Dynamics for Model-Based Reinforcement Learning with Asymmetric Rewards**|Yasin Sonmez et.al.|[2403.19024](http://arxiv.org/abs/2403.19024)|null|
 |**2024-03-27**|**Robustness and Visual Explanation for Black Box Image, Video, and ECG Signal Classification with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2403.18985](http://arxiv.org/abs/2403.18985)|null|
 |**2024-03-27**|**LORD: Large Models based Opposite Reward Design for Autonomous Driving**|Xin Ye et.al.|[2403.18965](http://arxiv.org/abs/2403.18965)|null|
@@ -4071,7 +4071,7 @@ layout: default
 |**2024-03-22**|**Planning with a Learned Policy Basis to Optimally Solve Complex Tasks**|Guillermo Infante et.al.|[2403.15301](http://arxiv.org/abs/2403.15301)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**Parametric PDE Control with Deep Reinforcement Learning and Differentiable L0-Sparse Polynomial Policies**|Nicolò Botteghi et.al.|[2403.15267](http://arxiv.org/abs/2403.15267)|null|
-|**2024-03-22**|**Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement**|Jonathan Pirnay et.al.|[2403.15180](http://arxiv.org/abs/2403.15180)|null|
+|**2024-03-22**|**Self-Improvement for Neural Combinatorial Optimization: Sample without Replacement, but Improvement**|Jonathan Pirnay et.al.|[2403.15180](http://arxiv.org/abs/2403.15180)|**[link](https://github.com/grimmlab/gumbeldore)**|
 |**2024-03-22**|**Subequivariant Reinforcement Learning Framework for Coordinated Motion Control**|Haoyu Wang et.al.|[2403.15100](http://arxiv.org/abs/2403.15100)|null|
 |**2024-03-22**|**Improved Long Short-Term Memory-based Wastewater Treatment Simulators for Deep Reinforcement Learning**|Esmaeel Mohammadi et.al.|[2403.15091](http://arxiv.org/abs/2403.15091)|null|
 |**2024-03-22**|**Automated Feature Selection for Inverse Reinforcement Learning**|Daulet Baimukashev et.al.|[2403.15079](http://arxiv.org/abs/2403.15079)|null|
