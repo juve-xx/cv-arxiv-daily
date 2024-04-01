@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208](http://arxiv.org/abs/2403.20208)|null|
 |**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
 |**2024-03-28**|**Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2403.19285](http://arxiv.org/abs/2403.19285)|null|
 |**2024-03-28**|**Ungrammatical-syntax-based In-context Example Selection for Grammatical Error Correction**|Chenming Tang et.al.|[2403.19283](http://arxiv.org/abs/2403.19283)|null|
@@ -2763,6 +2764,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Motion Inversion for Video Customization**|Luozhou Wang et.al.|[2403.20193](http://arxiv.org/abs/2403.20193)|null|
+|**2024-03-29**|**Efficient Modulation for Vision Networks**|Xu Ma et.al.|[2403.19963](http://arxiv.org/abs/2403.19963)|**[link](https://github.com/ma-xu/efficientmod)**|
+|**2024-03-29**|**Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**|Toshihiro Ota et.al.|[2403.19925](http://arxiv.org/abs/2403.19925)|**[link](https://github.com/toshihiro-ota/decision-mamba)**|
+|**2024-03-28**|**AlloyBERT: Alloy Property Prediction with Large Language Models**|Akshat Chaudhari et.al.|[2403.19783](http://arxiv.org/abs/2403.19783)|null|
 |**2024-03-29**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|null|
 |**2024-03-28**|**Risk prediction of pathological gambling on social media**|Angelina Parfenova et.al.|[2403.19358](http://arxiv.org/abs/2403.19358)|null|
 |**2024-03-27**|**AIC-UNet: Anatomy-informed Cascaded UNet for Robust Multi-Organ Segmentation**|Young Seok Jeon et.al.|[2403.18878](http://arxiv.org/abs/2403.18878)|null|
@@ -3068,6 +3073,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Generalized Gradient Descent is a Hypergraph Functor**|Tyler Hanks et.al.|[2403.19845](http://arxiv.org/abs/2403.19845)|null|
 |**2024-03-28**|**Monitoring the Convergence Speed of PDHG to Find Better Primal and Dual Step Sizes**|Olivier Fercoq et.al.|[2403.19202](http://arxiv.org/abs/2403.19202)|null|
 |**2024-03-08**|**The Blind Normalized Stein Variational Gradient Descent-Based Detection for Intelligent Massive Random Access**|Xin Zhu et.al.|[2403.18846](http://arxiv.org/abs/2403.18846)|null|
 |**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
@@ -3442,6 +3448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
 |**2024-03-26**|**On the Benefits of Over-parameterization for Out-of-Distribution Generalization**|Yifan Hao et.al.|[2403.17592](http://arxiv.org/abs/2403.17592)|null|
 |**2024-03-25**|**Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes**|Seokhyun Chung et.al.|[2403.16377](http://arxiv.org/abs/2403.16377)|null|
 |**2024-03-23**|**The Effectiveness of Local Updates for Decentralized Learning under Data Heterogeneity**|Tongle Wu et.al.|[2403.15654](http://arxiv.org/abs/2403.15654)|null|
@@ -3571,6 +3578,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Generalized Gradient Descent is a Hypergraph Functor**|Tyler Hanks et.al.|[2403.19845](http://arxiv.org/abs/2403.19845)|null|
 |**2024-03-28**|**Monitoring the Convergence Speed of PDHG to Find Better Primal and Dual Step Sizes**|Olivier Fercoq et.al.|[2403.19202](http://arxiv.org/abs/2403.19202)|null|
 |**2024-03-08**|**The Blind Normalized Stein Variational Gradient Descent-Based Detection for Intelligent Massive Random Access**|Xin Zhu et.al.|[2403.18846](http://arxiv.org/abs/2403.18846)|null|
 |**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
@@ -3975,6 +3983,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
+|**2024-03-29**|**Active flow control of a turbulent separation bubble through deep reinforcement learning**|Bernat Font et.al.|[2403.20295](http://arxiv.org/abs/2403.20295)|null|
+|**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
+|**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
+|**2024-03-29**|**Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning**|Duzhen Zhang et.al.|[2403.20163](http://arxiv.org/abs/2403.20163)|null|
+|**2024-03-29**|**CAESAR: Enhancing Federated RL in Heterogeneous MDPs through Convergence-Aware Sampling with Screening**|Hei Yi Mak et.al.|[2403.20156](http://arxiv.org/abs/2403.20156)|null|
+|**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|
+|**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
+|**2024-03-29**|**Reinforcement learning for graph theory, II. Small Ramsey numbers**|Mohammad Ghebleh et.al.|[2403.20055](http://arxiv.org/abs/2403.20055)|null|
+|**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020](http://arxiv.org/abs/2403.20020)|null|
+|**2024-03-29**|**EnCoMP: Enhanced Covert Maneuver Planning using Offline Reinforcement Learning**|Jumman Hossain et.al.|[2403.20016](http://arxiv.org/abs/2403.20016)|null|
+|**2024-03-29**|**Adaptive Energy Regularization for Autonomous Gait Transition and Energy-Efficient Quadruped Locomotion**|Boyuan Liang et.al.|[2403.20001](http://arxiv.org/abs/2403.20001)|null|
+|**2024-03-29**|**A Peg-in-hole Task Strategy for Holes in Concrete**|André Yuji Yasutomi et.al.|[2403.19946](http://arxiv.org/abs/2403.19946)|null|
+|**2024-03-29**|**Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**|Toshihiro Ota et.al.|[2403.19925](http://arxiv.org/abs/2403.19925)|**[link](https://github.com/toshihiro-ota/decision-mamba)**|
+|**2024-03-29**|**CtRL-Sim: Reactive and Controllable Driving Agents with Offline Reinforcement Learning**|Luke Rowe et.al.|[2403.19918](http://arxiv.org/abs/2403.19918)|null|
+|**2024-03-29**|**Fusion Dynamical Systems with Machine Learning in Imitation Learning: A Comprehensive Overview**|Yingbai Hu et.al.|[2403.19916](http://arxiv.org/abs/2403.19916)|null|
+|**2024-03-28**|**The New Agronomists: Language Models are Experts in Crop Management**|Jing Wu et.al.|[2403.19839](http://arxiv.org/abs/2403.19839)|**[link](https://github.com/jingwu6/lm_ag)**|
+|**2024-03-28**|**ChatTracer: Large Language Model Powered Real-time Bluetooth Device Tracking System**|Qijun Wang et.al.|[2403.19833](http://arxiv.org/abs/2403.19833)|null|
+|**2024-03-28**|**Reinforcement Learning in Agent-Based Market Simulation: Unveiling Realistic Stylized Facts and Behavior**|Zhiyuan Yao et.al.|[2403.19781](http://arxiv.org/abs/2403.19781)|null|
 |**2024-03-28**|**Human-compatible driving partners through data-regularized self-play reinforcement learning**|Daphne Cornelisse et.al.|[2403.19648](http://arxiv.org/abs/2403.19648)|**[link](https://github.com/emerge-lab/nocturne_lab)**|
 |**2024-03-28**|**Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment**|Alireza Ganjdanesh et.al.|[2403.19490](http://arxiv.org/abs/2403.19490)|null|
 |**2024-03-28**|**Offline Imitation Learning from Multiple Baselines with Applications to Compiler Optimization**|Teodor V. Marinov et.al.|[2403.19462](http://arxiv.org/abs/2403.19462)|null|
