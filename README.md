@@ -2490,7 +2490,7 @@
 |**2024-04-01**|**Structured Information Matters: Incorporating Abstract Meaning Representation into LLMs for Improved Open-Domain Dialogue Evaluation**|Bohao Yang et.al.|[2404.01129](http://arxiv.org/abs/2404.01129)|null|
 |**2024-04-01**|**Efficient Prompting Methods for Large Language Models: A Survey**|Kaiyan Chang et.al.|[2404.01077](http://arxiv.org/abs/2404.01077)|null|
 |**2024-04-01**|**Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models**|Wei He et.al.|[2404.00884](http://arxiv.org/abs/2404.00884)|**[link](https://github.com/hewei2001/Self-Demos)**|
-|**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|null|
+|**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|**[link](https://github.com/uw-bionlp/pedshac)**|
 |**2024-03-31**|**RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**|Chi-Min Chan et.al.|[2404.00610](http://arxiv.org/abs/2404.00610)|**[link](https://github.com/chanchimin/rq-rag)**|
 |**2024-03-31**|**ParaICL: Towards Robust Parallel In-Context Learning**|Xingxuan Li et.al.|[2404.00570](http://arxiv.org/abs/2404.00570)|null|
 |**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
@@ -2823,7 +2823,7 @@
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
 |**2024-04-04**|**Enhancing the Performance of Aspect-Based Sentiment Analysis Systems**|Chen Li et.al.|[2404.03259](http://arxiv.org/abs/2404.03259)|null|
-|**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|null|
+|**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|**[link](https://github.com/walbouss/legrad)**|
 |**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
 |**2024-04-03**|**Optimizing the Deployment of Tiny Transformers on Low-Power MCUs**|Victor J. B. Jung et.al.|[2404.02945](http://arxiv.org/abs/2404.02945)|**[link](https://github.com/pulp-platform/pulp-transformer)**|
 |**2024-04-03**|**DeiT-LT Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets**|Harsh Rangwani et.al.|[2404.02900](http://arxiv.org/abs/2404.02900)|**[link](https://github.com/val-iisc/DeiT-LT)**|
@@ -3175,7 +3175,7 @@
 |**2024-03-08**|**The Blind Normalized Stein Variational Gradient Descent-Based Detection for Intelligent Massive Random Access**|Xin Zhu et.al.|[2403.18846](http://arxiv.org/abs/2403.18846)|null|
 |**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
 |**2024-03-27**|**Global convergence of iterative solvers for problems of nonlinear magnetostatics**|Herbert Egger et.al.|[2403.18520](http://arxiv.org/abs/2403.18520)|null|
-|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|null|
+|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|**[link](https://github.com/themody/improving-line-search-methods-for-large-scale-neural-network-training)**|
 |**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506](http://arxiv.org/abs/2403.18506)|**[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)**|
 |**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-26**|**Neural Distributed Controllers with Port-Hamiltonian Structures**|Muhammad Zakwan et.al.|[2403.17785](http://arxiv.org/abs/2403.17785)|null|
@@ -3698,7 +3698,7 @@
 |**2024-03-08**|**The Blind Normalized Stein Variational Gradient Descent-Based Detection for Intelligent Massive Random Access**|Xin Zhu et.al.|[2403.18846](http://arxiv.org/abs/2403.18846)|null|
 |**2024-03-27**|**Wirtinger gradient descent methods for low-dose Poisson phase retrieval**|Benedikt Diederichs et.al.|[2403.18527](http://arxiv.org/abs/2403.18527)|null|
 |**2024-03-27**|**Global convergence of iterative solvers for problems of nonlinear magnetostatics**|Herbert Egger et.al.|[2403.18520](http://arxiv.org/abs/2403.18520)|null|
-|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|null|
+|**2024-03-27**|**Improving Line Search Methods for Large Scale Neural Network Training**|Philip Kenneweg et.al.|[2403.18519](http://arxiv.org/abs/2403.18519)|**[link](https://github.com/themody/improving-line-search-methods-for-large-scale-neural-network-training)**|
 |**2024-03-27**|**Faster Convergence for Transformer Fine-tuning with Line Search Methods**|Philip Kenneweg et.al.|[2403.18506](http://arxiv.org/abs/2403.18506)|**[link](https://github.com/themody/faster-convergence-for-transformer-fine-tuning-with-line-search-methods)**|
 |**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-26**|**Neural Distributed Controllers with Port-Hamiltonian Structures**|Muhammad Zakwan et.al.|[2403.17785](http://arxiv.org/abs/2403.17785)|null|
@@ -4137,7 +4137,7 @@
 |**2024-04-02**|**VLRM: Vision-Language Models act as Reward Models for Image Captioning**|Maksim Dzabraev et.al.|[2404.01911](http://arxiv.org/abs/2404.01911)|null|
 |**2024-04-02**|**Active Exploration in Bayesian Model-based Reinforcement Learning for Robot Manipulation**|Carlos Plou et.al.|[2404.01867](http://arxiv.org/abs/2404.01867)|null|
 |**2024-04-02**|**Keeping Behavioral Programs Alive: Specifying and Executing Liveness Requirements**|Tom Yaacov et.al.|[2404.01858](http://arxiv.org/abs/2404.01858)|null|
-|**2024-04-02**|**EV2Gym: A Flexible V2G Simulator for EV Smart Charging Research and Benchmarking**|Stavros Orfanoudakis et.al.|[2404.01849](http://arxiv.org/abs/2404.01849)|null|
+|**2024-04-02**|**EV2Gym: A Flexible V2G Simulator for EV Smart Charging Research and Benchmarking**|Stavros Orfanoudakis et.al.|[2404.01849](http://arxiv.org/abs/2404.01849)|**[link](https://github.com/stavrosorf/ev2gym)**|
 |**2024-04-02**|**Doubly-Robust Off-Policy Evaluation with Estimated Logging Policy**|Kyungbok Lee et.al.|[2404.01830](http://arxiv.org/abs/2404.01830)|null|
 |**2024-04-02**|**Imitation Game: A Model-based and Imitation Learning Deep Reinforcement Learning Hybrid**|Eric MSP Veith et.al.|[2404.01794](http://arxiv.org/abs/2404.01794)|null|
 |**2024-04-02**|**Unifying Qualitative and Quantitative Safety Verification of DNN-Controlled Systems**|Dapeng Zhi et.al.|[2404.01769](http://arxiv.org/abs/2404.01769)|null|
@@ -4177,14 +4177,14 @@
 |**2024-03-30**|**A PPO-based DRL Auto-Tuning Nonlinear PID Drone Controller for Robust Autonomous Flights**|Junyang Zhang et.al.|[2404.00204](http://arxiv.org/abs/2404.00204)|null|
 |**2024-03-29**|**Molecular Generative Adversarial Network with Multi-Property Optimization**|Huidong Tang et.al.|[2404.00081](http://arxiv.org/abs/2404.00081)|null|
 |**2024-03-29**|**Learning Visual Quadrupedal Loco-Manipulation from Demonstrations**|Zhengmao He et.al.|[2403.20328](http://arxiv.org/abs/2403.20328)|null|
-|**2024-04-03**|**Active flow control of a turbulent separation bubble through deep reinforcement learning**|Bernat Font et.al.|[2403.20295](http://arxiv.org/abs/2403.20295)|null|
+|**2024-04-03**|**Active flow control of a turbulent separation bubble through deep reinforcement learning**|Bernat Font et.al.|[2403.20295](http://arxiv.org/abs/2403.20295)|**[link](https://github.com/b-fg/smartsod2d)**|
 |**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
 |**2024-03-29**|**Decentralized Multimedia Data Sharing in IoV: A Learning-based Equilibrium of Supply and Demand**|Jiani Fan et.al.|[2403.20218](http://arxiv.org/abs/2403.20218)|null|
 |**2024-03-29**|**Biologically-Plausible Topology Improved Spiking Actor Network for Efficient Deep Reinforcement Learning**|Duzhen Zhang et.al.|[2403.20163](http://arxiv.org/abs/2403.20163)|null|
 |**2024-03-29**|**CAESAR: Enhancing Federated RL in Heterogeneous MDPs through Convergence-Aware Sampling with Screening**|Hei Yi Mak et.al.|[2403.20156](http://arxiv.org/abs/2403.20156)|null|
 |**2024-03-29**|**A Learning-based Incentive Mechanism for Mobile AIGC Service in Decentralized Internet of Vehicles**|Jiani Fan et.al.|[2403.20151](http://arxiv.org/abs/2403.20151)|null|
 |**2024-03-29**|**Mol-AIR: Molecular Reinforcement Learning with Adaptive Intrinsic Rewards for Goal-directed Molecular Generation**|Jinyeong Park et.al.|[2403.20109](http://arxiv.org/abs/2403.20109)|**[link](https://github.com/DevSlem/Mol-AIR)**|
-|**2024-03-29**|**Reinforcement learning for graph theory, II. Small Ramsey numbers**|Mohammad Ghebleh et.al.|[2403.20055](http://arxiv.org/abs/2403.20055)|null|
+|**2024-03-29**|**Reinforcement learning for graph theory, II. Small Ramsey numbers**|Mohammad Ghebleh et.al.|[2403.20055](http://arxiv.org/abs/2403.20055)|**[link](https://github.com/dragance106/cema-ramsey)**|
 |**2024-03-29**|**Nonparametric Bellman Mappings for Reinforcement Learning: Application to Robust Adaptive Filtering**|Yuki Akiyama et.al.|[2403.20020](http://arxiv.org/abs/2403.20020)|null|
 |**2024-03-29**|**EnCoMP: Enhanced Covert Maneuver Planning using Offline Reinforcement Learning**|Jumman Hossain et.al.|[2403.20016](http://arxiv.org/abs/2403.20016)|null|
 |**2024-03-29**|**Adaptive Energy Regularization for Autonomous Gait Transition and Energy-Efficient Quadruped Locomotion**|Boyuan Liang et.al.|[2403.20001](http://arxiv.org/abs/2403.20001)|null|
