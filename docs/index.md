@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4080,7 +4080,7 @@ layout: default
 |**2024-04-03**|**MARL-LNS: Cooperative Multi-agent Reinforcement Learning via Large Neighborhoods Search**|Weizhe Chen et.al.|[2404.03101](http://arxiv.org/abs/2404.03101)|null|
 |**2024-04-03**|**Rethinking Teacher-Student Curriculum Learning through the Cooperative Mechanics of Experience**|Manfred Diaz et.al.|[2404.03084](http://arxiv.org/abs/2404.03084)|null|
 |**2024-04-03**|**Model-based Reinforcement Learning for Parameterized Action Spaces**|Renhao Zhang et.al.|[2404.03037](http://arxiv.org/abs/2404.03037)|null|
-|**2024-04-03**|**Distributionally Robust Policy and Lyapunov-Certificate Learning**|Kehan Long et.al.|[2404.03017](http://arxiv.org/abs/2404.03017)|null|
+|**2024-04-03**|**Distributionally Robust Policy and Lyapunov-Certificate Learning**|Kehan Long et.al.|[2404.03017](http://arxiv.org/abs/2404.03017)|**[link](https://github.com/KehanLong/DR_Stabilizing_Policy)**|
 |**2024-04-03**|**Learning Quadrupedal Locomotion via Differentiable Simulation**|Clemens Schwarke et.al.|[2404.02887](http://arxiv.org/abs/2404.02887)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
