@@ -4089,7 +4089,7 @@ layout: default
 |**2024-04-03**|**Grid-Mapping Pseudo-Count Constraint for Offline Reinforcement Learning**|Yi Shen et.al.|[2404.02545](http://arxiv.org/abs/2404.02545)|**[link](https://github.com/lasttarnished/gpc-sac)**|
 |**2024-04-03**|**Joint Optimization on Uplink OFDMA and MU-MIMO for IEEE 802.11ax: Deep Hierarchical Reinforcement Learning Approach**|Hyeonho Noh et.al.|[2404.02486](http://arxiv.org/abs/2404.02486)|null|
 |**2024-04-03**|**Deep Reinforcement Learning for Traveling Purchaser Problems**|Haofeng Yuan et.al.|[2404.02476](http://arxiv.org/abs/2404.02476)|null|
-|**2024-04-03**|**Electric Vehicle Routing Problem for Emergency Power Supply: Towards Telecom Base Station Relief**|Daisuke Kikuta et.al.|[2404.02448](http://arxiv.org/abs/2404.02448)|null|
+|**2024-04-03**|**Electric Vehicle Routing Problem for Emergency Power Supply: Towards Telecom Base Station Relief**|Daisuke Kikuta et.al.|[2404.02448](http://arxiv.org/abs/2404.02448)|**[link](https://github.com/ntt-dkiku/evrp-eps)**|
 |**2024-04-03**|**AD4RL: Autonomous Driving Benchmarks for Offline Reinforcement Learning with Value-based Dataset**|Dongsu Lee et.al.|[2404.02429](http://arxiv.org/abs/2404.02429)|null|
 |**2024-04-02**|**Task-priority Intermediated Hierarchical Distributed Policies: Reinforcement Learning of Adaptive Multi-robot Cooperative Transport**|Yusei Naito et.al.|[2404.02362](http://arxiv.org/abs/2404.02362)|null|
 |**2024-04-02**|**EnergAIze: Multi Agent Deep Deterministic Policy Gradient for Vehicle to Grid Energy Management**|Tiago Fonseca et.al.|[2404.02361](http://arxiv.org/abs/2404.02361)|null|
