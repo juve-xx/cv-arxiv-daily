@@ -2444,6 +2444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
+|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129](http://arxiv.org/abs/2404.07129)|null|
+|**2024-04-10**|**What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs**|Anna Wegmann et.al.|[2404.06670](http://arxiv.org/abs/2404.06670)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
 |**2024-04-09**|**Privacy Preserving Prompt Engineering: A Survey**|Kennedy Edemacu et.al.|[2404.06001](http://arxiv.org/abs/2404.06001)|null|
 |**2024-04-08**|**WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents**|Michael Lutz et.al.|[2404.05902](http://arxiv.org/abs/2404.05902)|null|
@@ -2800,6 +2803,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
+|**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
 |**2024-04-09**|**QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding**|Yash Mehan et.al.|[2404.06442](http://arxiv.org/abs/2404.06442)|null|
 |**2024-04-09**|**Spatial-Temporal Multi-level Association for Video Object Segmentation**|Deshui Miao et.al.|[2404.06265](http://arxiv.org/abs/2404.06265)|null|
 |**2024-04-09**|**Mansformer: Efficient Transformer of Mixed Attention for Image Deblurring and Beyond**|Pin-Hung Kuo et.al.|[2404.06135](http://arxiv.org/abs/2404.06135)|null|
@@ -3160,6 +3165,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
+|**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
+|**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
+|**2024-04-09**|**Variational Stochastic Gradient Descent for Deep Neural Networks**|Haotian Chen et.al.|[2404.06549](http://arxiv.org/abs/2404.06549)|**[link](https://github.com/generativeai-tue/vsgd)**|
 |**2024-04-09**|**NoiseNCA: Noisy Seed Improves Spatio-Temporal Continuity of Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2404.06279](http://arxiv.org/abs/2404.06279)|null|
 |**2024-04-09**|**Symmetry-guided gradient descent for quantum neural networks**|Kaiming Bian et.al.|[2404.06108](http://arxiv.org/abs/2404.06108)|null|
 |**2024-04-09**|**Unifying Low Dimensional Observations in Deep Learning Through the Deep Linear Unconstrained Feature Model**|Connall Garrod et.al.|[2404.06106](http://arxiv.org/abs/2404.06106)|null|
@@ -3693,6 +3702,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
+|**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
+|**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
+|**2024-04-09**|**Variational Stochastic Gradient Descent for Deep Neural Networks**|Haotian Chen et.al.|[2404.06549](http://arxiv.org/abs/2404.06549)|**[link](https://github.com/generativeai-tue/vsgd)**|
 |**2024-04-09**|**Simultaneous linear connectivity of neural networks modulo permutation**|Ekansh Sharma et.al.|[2404.06498](http://arxiv.org/abs/2404.06498)|null|
 |**2024-04-09**|**NoiseNCA: Noisy Seed Improves Spatio-Temporal Continuity of Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2404.06279](http://arxiv.org/abs/2404.06279)|null|
 |**2024-04-09**|**Symmetry-guided gradient descent for quantum neural networks**|Kaiming Bian et.al.|[2404.06108](http://arxiv.org/abs/2404.06108)|null|
@@ -4127,6 +4140,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
+|**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|null|
+|**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
+|**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017](http://arxiv.org/abs/2404.07017)|null|
+|**2024-04-10**|**Agent-driven Generative Semantic Communication for Remote Surveillance**|Wanting Yang et.al.|[2404.06997](http://arxiv.org/abs/2404.06997)|null|
+|**2024-04-10**|**Deep Reinforcement Learning for Mobile Robot Path Planning**|Hao Liu et.al.|[2404.06974](http://arxiv.org/abs/2404.06974)|null|
+|**2024-04-10**|**UAV-Assisted Enhanced Coverage and Capacity in Dynamic MU-mMIMO IoT Systems: A Deep Reinforcement Learning Approach**|MohammadMahdi Ghadaksaz et.al.|[2404.06726](http://arxiv.org/abs/2404.06726)|null|
+|**2024-04-10**|**Dual Ensemble Kalman Filter for Stochastic Optimal Control**|Anant A. Joshi et.al.|[2404.06696](http://arxiv.org/abs/2404.06696)|null|
+|**2024-04-09**|**Emergent Braitenberg-style Behaviours for Navigating the ViZDoom `My Way Home' Labyrinth**|Caleidgh Bayer et.al.|[2404.06529](http://arxiv.org/abs/2404.06529)|null|
+|**2024-04-05**|**Best Response Shaping**|Milad Aghajohari et.al.|[2404.06519](http://arxiv.org/abs/2404.06519)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
 |**2024-04-09**|**Deep Reinforcement Learning-Based Approach for a Single Vehicle Persistent Surveillance Problem with Fuel Constraints**|Hritik Bana et.al.|[2404.06423](http://arxiv.org/abs/2404.06423)|null|
 |**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|
