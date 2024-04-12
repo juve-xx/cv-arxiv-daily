@@ -2470,8 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Discourse-Aware In-Context Learning for Temporal Expression Normalization**|Akash Kumar Gautam et.al.|[2404.07775](http://arxiv.org/abs/2404.07775)|null|
+|**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546](http://arxiv.org/abs/2404.07546)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
-|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129](http://arxiv.org/abs/2404.07129)|null|
+|**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129](http://arxiv.org/abs/2404.07129)|**[link](https://github.com/aadityasingh/icl-dynamics)**|
 |**2024-04-10**|**What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs**|Anna Wegmann et.al.|[2404.06670](http://arxiv.org/abs/2404.06670)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
 |**2024-04-11**|**Privacy Preserving Prompt Engineering: A Survey**|Kennedy Edemacu et.al.|[2404.06001](http://arxiv.org/abs/2404.06001)|null|
@@ -2831,6 +2834,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
 |**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
 |**2024-04-09**|**QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding**|Yash Mehan et.al.|[2404.06442](http://arxiv.org/abs/2404.06442)|null|
@@ -2841,7 +2846,7 @@
 |**2024-04-09**|**Band-Attention Modulated RetNet for Face Forgery Detection**|Zhida Zhang et.al.|[2404.06022](http://arxiv.org/abs/2404.06022)|null|
 |**2024-04-09**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
 |**2024-04-08**|**Localizing Moments of Actions in Untrimmed Videos of Infants with Autism Spectrum Disorder**|Halil Ismail Helvaci et.al.|[2404.05849](http://arxiv.org/abs/2404.05849)|null|
-|**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|null|
+|**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|**[link](https://github.com/saeyoon17/code-structure-aware-transformer)**|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657](http://arxiv.org/abs/2404.05657)|**[link](https://github.com/sihaoevery/lambda_vit)**|
 |**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384](http://arxiv.org/abs/2404.05384)|**[link](https://github.com/smilesdzgk/s-cfg)**|
@@ -3195,6 +3200,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
+|**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
 |**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
 |**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
 |**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
@@ -3203,7 +3210,7 @@
 |**2024-04-09**|**Symmetry-guided gradient descent for quantum neural networks**|Kaiming Bian et.al.|[2404.06108](http://arxiv.org/abs/2404.06108)|null|
 |**2024-04-09**|**Unifying Low Dimensional Observations in Deep Learning Through the Deep Linear Unconstrained Feature Model**|Connall Garrod et.al.|[2404.06106](http://arxiv.org/abs/2404.06106)|null|
 |**2024-04-09**|**fastcpd: Fast Change Point Detection in R**|Xingchi Li et.al.|[2404.05933](http://arxiv.org/abs/2404.05933)|**[link](https://github.com/doccstat/fastcpd)**|
-|**2024-04-08**|**Dynamical stability and chaos in artificial neural network trajectories along training**|Kaloyan Danovski et.al.|[2404.05782](http://arxiv.org/abs/2404.05782)|null|
+|**2024-04-08**|**Dynamical stability and chaos in artificial neural network trajectories along training**|Kaloyan Danovski et.al.|[2404.05782](http://arxiv.org/abs/2404.05782)|**[link](https://github.com/gitkalo/ann_dynamics)**|
 |**2024-04-08**|**Tensor neural networks for high-dimensional Fokker-Planck equations**|Taorui Wang et.al.|[2404.05615](http://arxiv.org/abs/2404.05615)|null|
 |**2024-04-08**|**On the Convergence of Continual Learning with Adaptive Methods**|Seungyub Han et.al.|[2404.05555](http://arxiv.org/abs/2404.05555)|null|
 |**2024-04-08**|**Stochastic Online Optimization for Cyber-Physical and Robotic Systems**|Hao Ma et.al.|[2404.05318](http://arxiv.org/abs/2404.05318)|null|
@@ -3736,6 +3743,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Towards Faster Training of Diffusion Models: An Inspiration of A Consistency Phenomenon**|Tianshuo Xu et.al.|[2404.07946](http://arxiv.org/abs/2404.07946)|null|
+|**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
+|**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
 |**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
 |**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
 |**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
@@ -3746,7 +3756,7 @@
 |**2024-04-09**|**Unifying Low Dimensional Observations in Deep Learning Through the Deep Linear Unconstrained Feature Model**|Connall Garrod et.al.|[2404.06106](http://arxiv.org/abs/2404.06106)|null|
 |**2024-04-09**|**fastcpd: Fast Change Point Detection in R**|Xingchi Li et.al.|[2404.05933](http://arxiv.org/abs/2404.05933)|**[link](https://github.com/doccstat/fastcpd)**|
 |**2024-04-08**|**Slax: A Composable JAX Library for Rapid and Flexible Prototyping of Spiking Neural Networks**|Thomas M. Summe et.al.|[2404.05807](http://arxiv.org/abs/2404.05807)|null|
-|**2024-04-08**|**Dynamical stability and chaos in artificial neural network trajectories along training**|Kaloyan Danovski et.al.|[2404.05782](http://arxiv.org/abs/2404.05782)|null|
+|**2024-04-08**|**Dynamical stability and chaos in artificial neural network trajectories along training**|Kaloyan Danovski et.al.|[2404.05782](http://arxiv.org/abs/2404.05782)|**[link](https://github.com/gitkalo/ann_dynamics)**|
 |**2024-04-08**|**Tensor neural networks for high-dimensional Fokker-Planck equations**|Taorui Wang et.al.|[2404.05615](http://arxiv.org/abs/2404.05615)|null|
 |**2024-04-08**|**On the Convergence of Continual Learning with Adaptive Methods**|Seungyub Han et.al.|[2404.05555](http://arxiv.org/abs/2404.05555)|null|
 |**2024-04-08**|**Stochastic Online Optimization for Cyber-Physical and Robotic Systems**|Hao Ma et.al.|[2404.05318](http://arxiv.org/abs/2404.05318)|null|
@@ -4176,9 +4186,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
+|**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
+|**2024-04-11**|**On the Sample Efficiency of Abstractions and Potential-Based Reward Shaping in Reinforcement Learning**|Giuseppe Canonaco et.al.|[2404.07826](http://arxiv.org/abs/2404.07826)|null|
+|**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
+|**2024-04-11**|**Differentially Private Reinforcement Learning with Self-Play**|Dan Qiao et.al.|[2404.07559](http://arxiv.org/abs/2404.07559)|null|
+|**2024-04-11**|**Enhancing Policy Gradient with the Polyak Step-Size Adaption**|Yunxiang Li et.al.|[2404.07525](http://arxiv.org/abs/2404.07525)|null|
+|**2024-04-11**|**Generative Probabilistic Planning for Optimizing Supply Chain Networks**|Hyung-il Ahn et.al.|[2404.07511](http://arxiv.org/abs/2404.07511)|null|
+|**2024-04-11**|**Neural Fault Injection: Generating Software Faults from Natural Language**|Domenico Cotroneo et.al.|[2404.07491](http://arxiv.org/abs/2404.07491)|null|
+|**2024-04-11**|**Leveraging Domain-Unlabeled Data in Offline Reinforcement Learning across Two Domains**|Soichiro Nishimori et.al.|[2404.07465](http://arxiv.org/abs/2404.07465)|null|
+|**2024-04-11**|**UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning**|Saichao Liu et.al.|[2404.07453](http://arxiv.org/abs/2404.07453)|null|
+|**2024-04-11**|**Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning**|Jiahui Li et.al.|[2404.07450](http://arxiv.org/abs/2404.07450)|null|
+|**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351](http://arxiv.org/abs/2404.07351)|null|
+|**2024-04-10**|**Structured Reinforcement Learning for Media Streaming at the Wireless Edge**|Archana Bura et.al.|[2404.07315](http://arxiv.org/abs/2404.07315)|null|
+|**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|null|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
-|**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|null|
+|**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|**[link](https://github.com/cmudig/ai-clinician-mimiciv)**|
 |**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
 |**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017](http://arxiv.org/abs/2404.07017)|null|
 |**2024-04-10**|**Agent-driven Generative Semantic Communication for Remote Surveillance**|Wanting Yang et.al.|[2404.06997](http://arxiv.org/abs/2404.06997)|null|
