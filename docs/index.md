@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Variance-reduced Zeroth-Order Methods for Fine-Tuning Language Models**|Tanmay Gautam et.al.|[2404.08080](http://arxiv.org/abs/2404.08080)|null|
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**Discourse-Aware In-Context Learning for Temporal Expression Normalization**|Akash Kumar Gautam et.al.|[2404.07775](http://arxiv.org/abs/2404.07775)|null|
 |**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546](http://arxiv.org/abs/2404.07546)|null|
@@ -2806,6 +2807,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Generic controllability of equivariant systems and applications to particle systems and neural networks**|Andrei Agrachev et.al.|[2404.08289](http://arxiv.org/abs/2404.08289)|null|
+|**2024-04-12**|**Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation**|Sina Hajimiri et.al.|[2404.08181](http://arxiv.org/abs/2404.08181)|**[link](https://github.com/sinahmr/naclip)**|
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
@@ -2816,7 +2819,7 @@ layout: default
 |**2024-04-09**|**LIPT: Latency-aware Image Processing Transformer**|Junbo Qiao et.al.|[2404.06075](http://arxiv.org/abs/2404.06075)|null|
 |**2024-04-10**|**Little Strokes Fell Great Oaks: Boosting the Hierarchical Features for Multi-exposure Image Fusion**|Pan Mu et.al.|[2404.06033](http://arxiv.org/abs/2404.06033)|**[link](https://github.com/zhiyingdu/bhfmef)**|
 |**2024-04-09**|**Band-Attention Modulated RetNet for Face Forgery Detection**|Zhida Zhang et.al.|[2404.06022](http://arxiv.org/abs/2404.06022)|null|
-|**2024-04-09**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
+|**2024-04-12**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
 |**2024-04-08**|**Localizing Moments of Actions in Untrimmed Videos of Infants with Autism Spectrum Disorder**|Halil Ismail Helvaci et.al.|[2404.05849](http://arxiv.org/abs/2404.05849)|null|
 |**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|**[link](https://github.com/saeyoon17/code-structure-aware-transformer)**|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
@@ -3170,6 +3173,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Federated Optimization with Doubly Regularized Drift Correction**|Xiaowen Jiang et.al.|[2404.08447](http://arxiv.org/abs/2404.08447)|null|
 |**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
 |**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
 |**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
@@ -3237,7 +3242,7 @@ layout: default
 |**2024-03-21**|**$\nabla τ$ : Gradient-based and Task-Agnostic machine Unlearning**|Daniel Trippa et.al.|[2403.14339](http://arxiv.org/abs/2403.14339)|null|
 |**2024-03-21**|**Recovering Latent Confounders from High-dimensional Proxy Variables**|Nathan Mankovich et.al.|[2403.14228](http://arxiv.org/abs/2403.14228)|**[link](https://github.com/ipl-uv/confound_it)**|
 |**2024-03-21**|**Reinforcement Learning Design for Quickest Change Detection**|Austin Cooper et.al.|[2403.14109](http://arxiv.org/abs/2403.14109)|null|
-|**2024-04-03**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
+|**2024-04-12**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
 |**2024-03-20**|**Analysing heavy-tail properties of Stochastic Gradient Descent by means of Stochastic Recurrence Equations**|Ewa Damek et.al.|[2403.13868](http://arxiv.org/abs/2403.13868)|null|
 |**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport**|Raphaël Barboni et.al.|[2403.12887](http://arxiv.org/abs/2403.12887)|null|
@@ -3260,7 +3265,7 @@ layout: default
 |**2024-03-14**|**Large deviations of one-hidden-layer neural networks**|Christian Hirsch et.al.|[2403.09310](http://arxiv.org/abs/2403.09310)|null|
 |**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
 |**2024-03-14**|**Dissipative Gradient Descent Ascent Method: A Control Theory Inspired Algorithm for Min-max Optimization**|Tianqi Zheng et.al.|[2403.09090](http://arxiv.org/abs/2403.09090)|null|
-|**2024-03-14**|**Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization**|Jinsheng Li et.al.|[2403.09031](http://arxiv.org/abs/2403.09031)|null|
+|**2024-03-14**|**Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization**|Jinsheng Li et.al.|[2403.09031](http://arxiv.org/abs/2403.09031)|**[link](https://github.com/Jinshengg/SHGD)**|
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
 |**2024-03-29**|**Improving Implicit Regularization of SGD with Preconditioning for Least Square Problems**|Junwei Su et.al.|[2403.08585](http://arxiv.org/abs/2403.08585)|null|
@@ -3709,6 +3714,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Sliding down the stairs: how correlated latent variables accelerate learning with neural networks**|Lorenzo Bardone et.al.|[2404.08602](http://arxiv.org/abs/2404.08602)|null|
+|**2024-04-12**|**Federated Optimization with Doubly Regularized Drift Correction**|Xiaowen Jiang et.al.|[2404.08447](http://arxiv.org/abs/2404.08447)|null|
 |**2024-03-14**|**Towards Faster Training of Diffusion Models: An Inspiration of A Consistency Phenomenon**|Tianshuo Xu et.al.|[2404.07946](http://arxiv.org/abs/2404.07946)|null|
 |**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
 |**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
@@ -3781,7 +3788,7 @@ layout: default
 |**2024-03-21**|**$\nabla τ$ : Gradient-based and Task-Agnostic machine Unlearning**|Daniel Trippa et.al.|[2403.14339](http://arxiv.org/abs/2403.14339)|null|
 |**2024-03-21**|**Recovering Latent Confounders from High-dimensional Proxy Variables**|Nathan Mankovich et.al.|[2403.14228](http://arxiv.org/abs/2403.14228)|**[link](https://github.com/ipl-uv/confound_it)**|
 |**2024-03-21**|**Reinforcement Learning Design for Quickest Change Detection**|Austin Cooper et.al.|[2403.14109](http://arxiv.org/abs/2403.14109)|null|
-|**2024-04-03**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
+|**2024-04-12**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
 |**2024-03-20**|**Analysing heavy-tail properties of Stochastic Gradient Descent by means of Stochastic Recurrence Equations**|Ewa Damek et.al.|[2403.13868](http://arxiv.org/abs/2403.13868)|null|
 |**2024-04-10**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
@@ -3806,7 +3813,7 @@ layout: default
 |**2024-03-14**|**Large deviations of one-hidden-layer neural networks**|Christian Hirsch et.al.|[2403.09310](http://arxiv.org/abs/2403.09310)|null|
 |**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
 |**2024-03-14**|**Dissipative Gradient Descent Ascent Method: A Control Theory Inspired Algorithm for Min-max Optimization**|Tianqi Zheng et.al.|[2403.09090](http://arxiv.org/abs/2403.09090)|null|
-|**2024-03-14**|**Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization**|Jinsheng Li et.al.|[2403.09031](http://arxiv.org/abs/2403.09031)|null|
+|**2024-03-14**|**Projected Gradient Descent for Spectral Compressed Sensing via Symmetric Hankel Factorization**|Jinsheng Li et.al.|[2403.09031](http://arxiv.org/abs/2403.09031)|**[link](https://github.com/Jinshengg/SHGD)**|
 |**2024-03-15**|**Robust COVID-19 Detection in CT Images with CLIP**|Li Lin et.al.|[2403.08947](http://arxiv.org/abs/2403.08947)|**[link](https://github.com/purdue-m2/covid-19_detection_m2_purdue)**|
 |**2024-02-24**|**Effective Gradient Sample Size via Variation Estimation for Accelerating Sharpness aware Minimization**|Jiaxin Deng et.al.|[2403.08821](http://arxiv.org/abs/2403.08821)|null|
 |**2024-03-13**|**Implicit Regularization of Gradient Flow on One-Layer Softmax Attention**|Heejune Sheen et.al.|[2403.08699](http://arxiv.org/abs/2403.08699)|null|
@@ -4150,6 +4157,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation**|Hanlin Tian et.al.|[2404.08570](http://arxiv.org/abs/2404.08570)|null|
+|**2024-04-12**|**RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs**|Shreyas Chaudhari et.al.|[2404.08555](http://arxiv.org/abs/2404.08555)|null|
+|**2024-04-12**|**Advancing Forest Fire Prevention: Deep Reinforcement Learning for Effective Firebreak Placement**|Lucas Murray et.al.|[2404.08523](http://arxiv.org/abs/2404.08523)|null|
+|**2024-04-12**|**Prescribing Optimal Health-Aware Operation for Urban Air Mobility with Deep Reinforcement Learning**|Mina Montazeri et.al.|[2404.08497](http://arxiv.org/abs/2404.08497)|null|
+|**2024-04-12**|**Dataset Reset Policy Optimization for RLHF**|Jonathan D. Chang et.al.|[2404.08495](http://arxiv.org/abs/2404.08495)|**[link](https://github.com/cornell-rl/drpo)**|
+|**2024-04-12**|**Anti-Byzantine Attacks Enabled Vehicle Selection for Asynchronous Federated Learning in Vehicular Edge Computing**|Cui Zhang et.al.|[2404.08444](http://arxiv.org/abs/2404.08444)|null|
+|**2024-04-12**|**SIR-RL: Reinforcement Learning for Optimized Policy Control during Epidemiological Outbreaks in Emerging Market and Developing Economies**|Maeghal Jain et.al.|[2404.08423](http://arxiv.org/abs/2404.08423)|null|
+|**2024-04-12**|**TDANet: Target-Directed Attention Network For Object-Goal Visual Navigation With Zero-Shot Ability**|Shiwei Lian et.al.|[2404.08353](http://arxiv.org/abs/2404.08353)|null|
+|**2024-04-12**|**Agile and versatile bipedal robot tracking control through reinforcement learning**|Jiayi Li et.al.|[2404.08246](http://arxiv.org/abs/2404.08246)|null|
+|**2024-04-12**|**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**|Hongqiao Lian et.al.|[2404.08242](http://arxiv.org/abs/2404.08242)|null|
+|**2024-04-12**|**Auto-configuring Exploration-Exploitation Tradeoff in Evolutionary Computation via Deep Reinforcement Learning**|Zeyuan Ma et.al.|[2404.08239](http://arxiv.org/abs/2404.08239)|null|
+|**2024-04-12**|**Generalized Population-Based Training for Hyperparameter Optimization in Reinforcement Learning**|Hui Bai et.al.|[2404.08233](http://arxiv.org/abs/2404.08233)|null|
+|**2024-04-11**|**R2 Indicator and Deep Reinforcement Learning Enhanced Adaptive Multi-Objective Evolutionary Algorithm**|Farajollah Tahernezhad-Javazm et.al.|[2404.08161](http://arxiv.org/abs/2404.08161)|null|
+|**2024-04-11**|**Efficient Duple Perturbation Robustness in Low-rank MDPs**|Yang Hu et.al.|[2404.08089](http://arxiv.org/abs/2404.08089)|null|
+|**2024-04-09**|**Learning Efficient and Fair Policies for Uncertainty-Aware Collaborative Human-Robot Order Picking**|Igor G. Smit et.al.|[2404.08006](http://arxiv.org/abs/2404.08006)|null|
+|**2024-04-09**|**Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis**|Guangchen Lan et.al.|[2404.08003](http://arxiv.org/abs/2404.08003)|null|
 |**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
 |**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
 |**2024-04-11**|**On the Sample Efficiency of Abstractions and Potential-Based Reward Shaping in Reinforcement Learning**|Giuseppe Canonaco et.al.|[2404.07826](http://arxiv.org/abs/2404.07826)|null|
@@ -4211,7 +4234,7 @@ layout: default
 |**2024-04-07**|**Convergence Analysis of Stochastic Saddle Point Mirror Descent Algorithm -- A Projected Dynamical View Point**|Anik Kumar Paul et.al.|[2404.04907](http://arxiv.org/abs/2404.04907)|null|
 |**2024-04-07**|**Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions**|Ziheng Liu et.al.|[2404.04898](http://arxiv.org/abs/2404.04898)|null|
 |**2024-04-07**|**Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs**|Yiqun Duan et.al.|[2404.04869](http://arxiv.org/abs/2404.04869)|null|
-|**2024-04-07**|**Learning Adaptive Multi-Objective Robot Navigation with Demonstrations**|Jorge de Heuvel et.al.|[2404.04857](http://arxiv.org/abs/2404.04857)|null|
+|**2024-04-12**|**Learning Adaptive Multi-Objective Robot Navigation with Demonstrations**|Jorge de Heuvel et.al.|[2404.04857](http://arxiv.org/abs/2404.04857)|null|
 |**2024-04-07**|**EnQuery: Ensemble Policies for Diverse Query-Generation in Preference Alignment of Robot Navigation**|Jorge de Heuvel et.al.|[2404.04852](http://arxiv.org/abs/2404.04852)|null|
 |**2024-04-07**|**Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving**|Jinlong Li et.al.|[2404.04804](http://arxiv.org/abs/2404.04804)|null|
 |**2024-04-07**|**Efficient Reinforcement Learning of Task Planners for Robotic Palletization through Iterative Action Masking Learning**|Zheng Wu et.al.|[2404.04772](http://arxiv.org/abs/2404.04772)|null|
@@ -4225,7 +4248,7 @@ layout: default
 |**2024-04-04**|**Conversational Disease Diagnosis via External Planner-Controlled Large Language Models**|Zhoujian Sun et.al.|[2404.04292](http://arxiv.org/abs/2404.04292)|**[link](https://github.com/danielsun94/conversational_diagnosis)**|
 |**2024-04-04**|**Investigating Regularization of Self-Play Language Models**|Reda Alami et.al.|[2404.04291](http://arxiv.org/abs/2404.04291)|null|
 |**2024-04-05**|**Growing Q-Networks: Solving Continuous Control Tasks with Adaptive Control Resolution**|Tim Seyde et.al.|[2404.04253](http://arxiv.org/abs/2404.04253)|null|
-|**2024-04-05**|**Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation**|Lanpei Li et.al.|[2404.04219](http://arxiv.org/abs/2404.04219)|null|
+|**2024-04-05**|**Continual Policy Distillation of Reinforcement Learning-based Controllers for Soft Robotic In-Hand Manipulation**|Lanpei Li et.al.|[2404.04219](http://arxiv.org/abs/2404.04219)|**[link](https://github.com/lilanpei/Continual-Policy-Distillation-for-Soft-Robotic)**|
 |**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205](http://arxiv.org/abs/2404.04205)|null|
 |**2024-04-05**|**Intervention-Assisted Policy Gradient Methods for Online Stochastic Queuing Network Optimization: Technical Report**|Jerrod Wigmore et.al.|[2404.04106](http://arxiv.org/abs/2404.04106)|null|
 |**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
