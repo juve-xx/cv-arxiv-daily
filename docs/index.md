@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2507,7 +2507,7 @@ layout: default
 |**2024-03-21**|**Sequence-to-Sequence Language Models for Character and Emotion Detection in Dream Narratives**|Gustave Cortal et.al.|[2403.15486](http://arxiv.org/abs/2403.15486)|null|
 |**2024-03-13**|**Distilling Named Entity Recognition Models for Endangered Species from Large Language Models**|Jesse Atuhurra et.al.|[2403.15430](http://arxiv.org/abs/2403.15430)|null|
 |**2024-03-22**|**ESG Classification by Implicit Rule Learning via GPT-4**|Hyo Jeong Yun et.al.|[2403.15040](http://arxiv.org/abs/2403.15040)|null|
-|**2024-03-22**|**Comprehensive Evaluation and Insights into the Use of Large Language Models in the Automation of Behavior-Driven Development Acceptance Test Formulation**|Shanthi Karpurapu et.al.|[2403.14965](http://arxiv.org/abs/2403.14965)|null|
+|**2024-03-22**|**Comprehensive Evaluation and Insights into the Use of Large Language Models in the Automation of Behavior-Driven Development Acceptance Test Formulation**|Shanthi Karpurapu et.al.|[2403.14965](http://arxiv.org/abs/2403.14965)|**[link](https://github.com/karpurapus/bddgpt-automate-tests)**|
 |**2024-03-22**|**Stance Reasoner: Zero-Shot Stance Detection on Social Media with Explicit Reasoning**|Maksym Taranukhin et.al.|[2403.14895](http://arxiv.org/abs/2403.14895)|**[link](https://github.com/maksym-taranukhin/stance_reasoner)**|
 |**2024-03-21**|**Building Accurate Translation-Tailored LLMs with Language Aware Instruction Tuning**|Changtong Zan et.al.|[2403.14399](http://arxiv.org/abs/2403.14399)|null|
 |**2024-03-21**|**PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design**|Fanfan Lin et.al.|[2403.14059](http://arxiv.org/abs/2403.14059)|null|
@@ -2812,7 +2812,7 @@ layout: default
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
-|**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
+|**2024-04-13**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
 |**2024-04-09**|**QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding**|Yash Mehan et.al.|[2404.06442](http://arxiv.org/abs/2404.06442)|null|
 |**2024-04-09**|**Spatial-Temporal Multi-level Association for Video Object Segmentation**|Deshui Miao et.al.|[2404.06265](http://arxiv.org/abs/2404.06265)|null|
 |**2024-04-09**|**Mansformer: Efficient Transformer of Mixed Attention for Image Deblurring and Beyond**|Pin-Hung Kuo et.al.|[2404.06135](http://arxiv.org/abs/2404.06135)|null|
@@ -4199,7 +4199,7 @@ layout: default
 |**2024-04-09**|**Emergent Braitenberg-style Behaviours for Navigating the ViZDoom `My Way Home' Labyrinth**|Caleidgh Bayer et.al.|[2404.06529](http://arxiv.org/abs/2404.06529)|null|
 |**2024-04-05**|**Best Response Shaping**|Milad Aghajohari et.al.|[2404.06519](http://arxiv.org/abs/2404.06519)|null|
 |**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
-|**2024-04-09**|**Deep Reinforcement Learning-Based Approach for a Single Vehicle Persistent Surveillance Problem with Fuel Constraints**|Hritik Bana et.al.|[2404.06423](http://arxiv.org/abs/2404.06423)|null|
+|**2024-04-13**|**Deep Reinforcement Learning-Based Approach for a Single Vehicle Persistent Surveillance Problem with Fuel Constraints**|Hritik Bana et.al.|[2404.06423](http://arxiv.org/abs/2404.06423)|null|
 |**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|
 |**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|**[link](https://github.com/emptyjackson/policy-guided-diffusion)**|
 |**2024-04-09**|**Generative Pre-Trained Transformer for Symbolic Regression Base In-Context Reinforcement Learning**|Yanjie Li et.al.|[2404.06330](http://arxiv.org/abs/2404.06330)|null|
