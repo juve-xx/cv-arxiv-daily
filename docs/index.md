@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-21**|**AnyPattern: Towards In-context Image Copy Detection**|Wenhao Wang et.al.|[2404.13788](http://arxiv.org/abs/2404.13788)|**[link](https://github.com/wangwenhao0716/anypattern)**|
+|**2024-04-21**|**"A good pun is its own reword": Can Large Language Models Understand Puns?**|Zhijun Xu et.al.|[2404.13599](http://arxiv.org/abs/2404.13599)|**[link](https://github.com/zhijun-xu/puneval)**|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**Stronger Random Baselines for In-Context Learning**|Gregory Yauney et.al.|[2404.13020](http://arxiv.org/abs/2404.13020)|**[link](https://github.com/gyauney/max-random-baseline)**|
 |**2024-04-19**|**Towards Reliable Latent Knowledge Estimation in LLMs: In-Context Learning vs. Prompting Based Factual Knowledge Extraction**|Qinyuan Wu et.al.|[2404.12957](http://arxiv.org/abs/2404.12957)|null|
@@ -2826,6 +2828,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|
+|**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
+|**2024-04-21**|**Data-independent Module-aware Pruning for Hierarchical Vision Transformers**|Yang He et.al.|[2404.13648](http://arxiv.org/abs/2404.13648)|**[link](https://github.com/he-y/data-independent-module-aware-pruning)**|
+|**2024-04-21**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
+|**2024-04-20**|**AMMUNet: Multi-Scale Attention Map Merging for Remote Sensing Image Segmentation**|Yang Yang et.al.|[2404.13408](http://arxiv.org/abs/2404.13408)|null|
+|**2024-04-20**|**Seismic Interpolation Transformer for Consecutively Missing Data: A Case Study in DAS-VSP Data**|Ming Cheng et.al.|[2404.13312](http://arxiv.org/abs/2404.13312)|null|
+|**2024-04-20**|**StrideNET: Swin Transformer for Terrain Recognition with Dynamic Roughness Extraction**|Maitreya Shelare et.al.|[2404.13270](http://arxiv.org/abs/2404.13270)|null|
+|**2024-04-20**|**3D-Convolution Guided Spectral-Spatial Transformer for Hyperspectral Image Classification**|Shyam Varahagiri et.al.|[2404.13252](http://arxiv.org/abs/2404.13252)|**[link](https://github.com/shyamvarahagiri/3d-convsst)**|
 |**2024-04-19**|**A New Multi-Picture Architecture for Learned Video Deinterlacing and Demosaicing with Parallel Deformable Convolution and Self-Attention Blocks**|Ronglei Ji et.al.|[2404.13018](http://arxiv.org/abs/2404.13018)|null|
 |**2024-04-19**|**Training-and-prompt-free General Painterly Harmonization Using Image-wise Attention Sharing**|Teng-Fang Hsiao et.al.|[2404.12900](http://arxiv.org/abs/2404.12900)|**[link](https://github.com/bluedyee/tf-gph)**|
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886](http://arxiv.org/abs/2404.12886)|null|
@@ -2833,6 +2843,7 @@ layout: default
 |**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634](http://arxiv.org/abs/2404.12634)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
 |**2024-04-18**|**When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out**|Tristan Piater et.al.|[2404.12295](http://arxiv.org/abs/2404.12295)|null|
+|**2024-04-22**|**AccidentBlip2: Accident Detection With Multi-View MotionBlip2**|Yihua Shao et.al.|[2404.12149](http://arxiv.org/abs/2404.12149)|**[link](https://github.com/yihuajerry/accidentblip2)**|
 |**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081](http://arxiv.org/abs/2404.12081)|**[link](https://github.com/ericyu97/maskcd)**|
 |**2024-04-19**|**Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture**|Sonit Singh et.al.|[2404.11843](http://arxiv.org/abs/2404.11843)|null|
 |**2024-04-18**|**SNP: Structured Neuron-level Pruning to Preserve Attention Scores**|Kyunghwan Shim et.al.|[2404.11630](http://arxiv.org/abs/2404.11630)|null|
@@ -2869,7 +2880,7 @@ layout: default
 |**2024-04-12**|**EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker**|Baojie Fan et.al.|[2404.05960](http://arxiv.org/abs/2404.05960)|null|
 |**2024-04-08**|**Localizing Moments of Actions in Untrimmed Videos of Infants with Autism Spectrum Disorder**|Halil Ismail Helvaci et.al.|[2404.05849](http://arxiv.org/abs/2404.05849)|null|
 |**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|**[link](https://github.com/saeyoon17/code-structure-aware-transformer)**|
-|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|**[link](https://github.com/bytedance/MoMA)**|
 |**2024-04-08**|**MLP Can Be A Good Transformer Learner**|Sihao Lin et.al.|[2404.05657](http://arxiv.org/abs/2404.05657)|**[link](https://github.com/sihaoevery/lambda_vit)**|
 |**2024-04-08**|**Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance**|Dazhong Shen et.al.|[2404.05384](http://arxiv.org/abs/2404.05384)|**[link](https://github.com/smilesdzgk/s-cfg)**|
 |**2024-04-06**|**InitNO: Boosting Text-to-Image Diffusion Models via Initial Noise Optimization**|Xiefan Guo et.al.|[2404.04650](http://arxiv.org/abs/2404.04650)|**[link](https://github.com/xiefan-guo/initno)**|
@@ -3220,6 +3231,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
+|**2024-04-22**|**Neural Control Systems**|Paolo Colusso et.al.|[2404.13967](http://arxiv.org/abs/2404.13967)|null|
+|**2024-04-22**|**ColA: Collaborative Adaptation with Gradient Learning**|Enmao Diao et.al.|[2404.13844](http://arxiv.org/abs/2404.13844)|null|
+|**2024-04-21**|**How to Inverting the Leverage Score Distribution?**|Zhihang Li et.al.|[2404.13785](http://arxiv.org/abs/2404.13785)|null|
+|**2024-04-20**|**A Massive MIMO Sampling Detection Strategy Based on Denoising Diffusion Model**|Lanxin He et.al.|[2404.13281](http://arxiv.org/abs/2404.13281)|null|
 |**2024-04-19**|**Online Policy Optimization in Unknown Nonlinear Systems**|Yiheng Lin et.al.|[2404.13009](http://arxiv.org/abs/2404.13009)|null|
 |**2024-04-19**|**The Positivity of the Neural Tangent Kernel**|Luís Carvalho et.al.|[2404.12928](http://arxiv.org/abs/2404.12928)|null|
 |**2024-04-19**|**Low solution rank of the matrix LASSO under RIP with consequences for rank-constrained algorithms**|Andrew D. McRae et.al.|[2404.12828](http://arxiv.org/abs/2404.12828)|null|
@@ -3659,6 +3675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-20**|**Accelerated Methods with Compression for Horizontal and Vertical Federated Learning**|Sergey Stanko et.al.|[2404.13328](http://arxiv.org/abs/2404.13328)|null|
 |**2024-04-07**|**Coordinated Sparse Recovery of Label Noise**|Yukun Yang et.al.|[2404.04800](http://arxiv.org/abs/2404.04800)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084](http://arxiv.org/abs/2404.02084)|null|
 |**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
@@ -3792,6 +3809,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](http://arxiv.org/abs/2404.14024)|null|
+|**2024-04-22**|**Neural Control Systems**|Paolo Colusso et.al.|[2404.13967](http://arxiv.org/abs/2404.13967)|null|
+|**2024-04-22**|**ColA: Collaborative Adaptation with Gradient Learning**|Enmao Diao et.al.|[2404.13844](http://arxiv.org/abs/2404.13844)|null|
+|**2024-04-21**|**How to Inverting the Leverage Score Distribution?**|Zhihang Li et.al.|[2404.13785](http://arxiv.org/abs/2404.13785)|null|
+|**2024-04-20**|**A Massive MIMO Sampling Detection Strategy Based on Denoising Diffusion Model**|Lanxin He et.al.|[2404.13281](http://arxiv.org/abs/2404.13281)|null|
 |**2024-04-19**|**Online Policy Optimization in Unknown Nonlinear Systems**|Yiheng Lin et.al.|[2404.13009](http://arxiv.org/abs/2404.13009)|null|
 |**2024-04-19**|**The Positivity of the Neural Tangent Kernel**|Luís Carvalho et.al.|[2404.12928](http://arxiv.org/abs/2404.12928)|null|
 |**2024-04-19**|**Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images**|Santosh et.al.|[2404.12908](http://arxiv.org/abs/2404.12908)|**[link](https://github.com/purdue-m2/robust_dm_generated_image_detection)**|
@@ -4267,6 +4289,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Multi-Agent Hybrid SAC for Joint SS-DSA in CRNs**|David R. Nickel et.al.|[2404.14319](http://arxiv.org/abs/2404.14319)|null|
+|**2024-04-22**|**Beyond the Edge: An Advanced Exploration of Reinforcement Learning for Mobile Edge Computing, its Applications, and Future Research Trajectories**|Ning Yang et.al.|[2404.14238](http://arxiv.org/abs/2404.14238)|null|
+|**2024-04-22**|**Multi-agent Reinforcement Learning-based Joint Precoding and Phase Shift Optimization for RIS-aided Cell-Free Massive MIMO Systems**|Yiyang Zhu et.al.|[2404.14092](http://arxiv.org/abs/2404.14092)|null|
+|**2024-04-22**|**Mechanistic Interpretability for AI Safety -- A Review**|Leonard Bereska et.al.|[2404.14082](http://arxiv.org/abs/2404.14082)|null|
+|**2024-04-22**|**Research on Robot Path Planning Based on Reinforcement Learning**|Wang Ruiqi et.al.|[2404.14077](http://arxiv.org/abs/2404.14077)|**[link](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)**|
+|**2024-04-22**|**Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras**|Mhairi Dunion et.al.|[2404.14064](http://arxiv.org/abs/2404.14064)|**[link](https://github.com/uoe-agents/mvd)**|
+|**2024-04-22**|**A survey of air combat behavior modeling using machine learning**|Patrick Ribu Gorton et.al.|[2404.13954](http://arxiv.org/abs/2404.13954)|null|
+|**2024-04-22**|**Generating Attractive and Authentic Copywriting from Customer Reviews**|Yu-Xiang Lin et.al.|[2404.13906](http://arxiv.org/abs/2404.13906)|null|
+|**2024-04-22**|**Explicit Lipschitz Value Estimation Enhances Policy Robustness Against Perturbation**|Xulin Chen et.al.|[2404.13879](http://arxiv.org/abs/2404.13879)|null|
+|**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|
+|**2024-04-22**|**Filtered Direct Preference Optimization**|Tetsuro Morimura et.al.|[2404.13846](http://arxiv.org/abs/2404.13846)|**[link](https://github.com/cyberagentailab/filtered-dpo)**|
+|**2024-04-21**|**Counterfactual Reasoning Using Predicted Latent Personality Dimensions for Optimizing Persuasion Outcome**|Donghuo Zeng et.al.|[2404.13792](http://arxiv.org/abs/2404.13792)|null|
+|**2024-04-21**|**Efficient Digital Twin Data Processing for Low-Latency Multicast Short Video Streaming**|Xinyu Huang et.al.|[2404.13749](http://arxiv.org/abs/2404.13749)|null|
+|**2024-04-21**|**Adaptive Social Force Window Planner with Reinforcement Learning**|Mauro Martini et.al.|[2404.13678](http://arxiv.org/abs/2404.13678)|null|
+|**2024-04-21**|**Multi-AUV Cooperative Underwater Multi-Target Tracking Based on Dynamic-Switching-enabled Multi-Agent Reinforcement Learning**|Shengbo Wang et.al.|[2404.13654](http://arxiv.org/abs/2404.13654)|null|
+|**2024-04-21**|**An Integrated Communication and Computing Scheme for Wi-Fi Networks based on Generative AI and Reinforcement Learning**|Xinyang Du et.al.|[2404.13598](http://arxiv.org/abs/2404.13598)|null|
+|**2024-04-20**|**PIPER: Primitive-Informed Preference-based Hierarchical Reinforcement Learning via Hindsight Relabeling**|Utsav Singh et.al.|[2404.13423](http://arxiv.org/abs/2404.13423)|null|
+|**2024-04-20**|**On the stability of Lipschitz continuous control problems and its application to reinforcement learning**|Namkyeong Cho et.al.|[2404.13316](http://arxiv.org/abs/2404.13316)|null|
+|**2024-04-20**|**Personalized Wireless Federated Learning for Large Language Models**|Feibo Jiang et.al.|[2404.13238](http://arxiv.org/abs/2404.13238)|null|
+|**2024-04-19**|**Resource Slicing with Cross-Cell Coordination in Satellite-Terrestrial Integrated Networks**|Mingcheng He et.al.|[2404.13158](http://arxiv.org/abs/2404.13158)|null|
+|**2024-04-19**|**Decentralized Coordination of Distributed Energy Resources through Local Energy Markets and Deep Reinforcement Learning**|Daniel May et.al.|[2404.13142](http://arxiv.org/abs/2404.13142)|null|
+|**2024-04-19**|**Reducing Redundant Computation in Multi-Agent Coordination through Locally Centralized Execution**|Yidong Bai et.al.|[2404.13096](http://arxiv.org/abs/2404.13096)|null|
+|**2024-04-17**|**TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection**|Xuechen Zhang et.al.|[2404.13082](http://arxiv.org/abs/2404.13082)|null|
 |**2024-04-19**|**Mapping Social Choice Theory to RLHF**|Jessica Dai et.al.|[2404.13038](http://arxiv.org/abs/2404.13038)|null|
 |**2024-04-19**|**Deep Reinforcement Learning-Based Active Flow Control of an Elliptical Cylinder: Transitioning from an Elliptical Cylinder to a Circular Cylinder and a Flat Plate**|Wang Jia et.al.|[2404.13003](http://arxiv.org/abs/2404.13003)|null|
 |**2024-04-19**|**Goal Exploration via Adaptive Skill Distribution for Goal-Conditioned Reinforcement Learning**|Lisheng Wu et.al.|[2404.12999](http://arxiv.org/abs/2404.12999)|null|
