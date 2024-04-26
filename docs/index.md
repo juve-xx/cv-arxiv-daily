@@ -2444,6 +2444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
+|**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
+|**2024-04-25**|**What Makes Multimodal In-Context Learning Work?**|Folco Bertini Baldassini et.al.|[2404.15736](http://arxiv.org/abs/2404.15736)|**[link](https://gitlab.com/folbaeni/multimodal-icl)**|
 |**2024-04-23**|**XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**|João Monteiro et.al.|[2404.15420](http://arxiv.org/abs/2404.15420)|null|
 |**2024-04-21**|**Socratic Planner: Inquiry-Based Zero-Shot Planning for Embodied Instruction Following**|Suyeon Shin et.al.|[2404.15190](http://arxiv.org/abs/2404.15190)|null|
 |**2024-04-23**|**Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond**|Pengyu Xue et.al.|[2404.14824](http://arxiv.org/abs/2404.14824)|null|
@@ -2834,6 +2837,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555](http://arxiv.org/abs/2404.16555)|null|
+|**2024-04-24**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
+|**2024-04-24**|**Gradformer: Graph Transformer with Exponential Decay**|Chuang Liu et.al.|[2404.15729](http://arxiv.org/abs/2404.15729)|**[link](https://github.com/liuchuang0059/gradformer)**|
 |**2024-04-23**|**XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**|João Monteiro et.al.|[2404.15420](http://arxiv.org/abs/2404.15420)|null|
 |**2024-04-21**|**Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning**|Myeung Suk Oh et.al.|[2404.15374](http://arxiv.org/abs/2404.15374)|null|
 |**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
@@ -3240,8 +3246,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
+|**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
+|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|null|
+|**2024-04-24**|**Efficient NAS with FaDE on Hierarchical Spaces**|Simon Neumeyer et.al.|[2404.16218](http://arxiv.org/abs/2404.16218)|null|
+|**2024-04-24**|**Organizing Physics with Open Energy-Driven Systems**|Matteo Capucci et.al.|[2404.16140](http://arxiv.org/abs/2404.16140)|null|
+|**2024-04-24**|**Learning deep Koopman operators with convex stability constraints**|Marc Mitjans et.al.|[2404.15978](http://arxiv.org/abs/2404.15978)|null|
 |**2024-04-23**|**Private Optimal Inventory Policy Learning for Feature-based Newsvendor with Unknown Demand**|Tuoyi Zhao et.al.|[2404.15466](http://arxiv.org/abs/2404.15466)|null|
-|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|null|
+|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|**[link](https://github.com/dcharatan/flowmap)**|
 |**2024-04-24**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042](http://arxiv.org/abs/2404.15042)|**[link](https://github.com/jjzgeeks/vgae-based_model_poisoning_attack_fl)**|
 |**2024-04-23**|**Device-Free 3D Drone Localization in RIS-Assisted mmWave MIMO Networks**|Jiguang He et.al.|[2404.14879](http://arxiv.org/abs/2404.14879)|null|
 |**2024-04-23**|**Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection**|Lingzhi Wang et.al.|[2404.14720](http://arxiv.org/abs/2404.14720)|null|
@@ -3823,8 +3835,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
+|**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
+|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|null|
+|**2024-04-24**|**Efficient NAS with FaDE on Hierarchical Spaces**|Simon Neumeyer et.al.|[2404.16218](http://arxiv.org/abs/2404.16218)|null|
+|**2024-04-24**|**Organizing Physics with Open Energy-Driven Systems**|Matteo Capucci et.al.|[2404.16140](http://arxiv.org/abs/2404.16140)|null|
+|**2024-04-24**|**Learning deep Koopman operators with convex stability constraints**|Marc Mitjans et.al.|[2404.15978](http://arxiv.org/abs/2404.15978)|null|
+|**2024-04-24**|**Generalization Measures for Zero-Shot Cross-Lingual Transfer**|Saksham Bassi et.al.|[2404.15928](http://arxiv.org/abs/2404.15928)|null|
 |**2024-04-23**|**Private Optimal Inventory Policy Learning for Feature-based Newsvendor with Unknown Demand**|Tuoyi Zhao et.al.|[2404.15466](http://arxiv.org/abs/2404.15466)|null|
-|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|null|
+|**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|**[link](https://github.com/dcharatan/flowmap)**|
 |**2024-04-24**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042](http://arxiv.org/abs/2404.15042)|**[link](https://github.com/jjzgeeks/vgae-based_model_poisoning_attack_fl)**|
 |**2024-04-23**|**Device-Free 3D Drone Localization in RIS-Assisted mmWave MIMO Networks**|Jiguang He et.al.|[2404.14879](http://arxiv.org/abs/2404.14879)|null|
 |**2024-04-23**|**Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection**|Lingzhi Wang et.al.|[2404.14720](http://arxiv.org/abs/2404.14720)|null|
@@ -4308,6 +4327,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721](http://arxiv.org/abs/2404.16721)|null|
+|**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
+|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621](http://arxiv.org/abs/2404.16621)|null|
+|**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508](http://arxiv.org/abs/2404.16508)|null|
+|**2024-04-25**|**A Dual Perspective of Reinforcement Learning for Imposing Policy Constraints**|Bram De Cooman et.al.|[2404.16468](http://arxiv.org/abs/2404.16468)|null|
+|**2024-04-25**|**Offline Reinforcement Learning with Behavioral Supervisor Tuning**|Padmanaba Srinivasan et.al.|[2404.16399](http://arxiv.org/abs/2404.16399)|null|
+|**2024-04-25**|**SwarmRL: Building the Future of Smart Active Systems**|Samuel Tovey et.al.|[2404.16388](http://arxiv.org/abs/2404.16388)|**[link](https://github.com/swarmrl/swarmrl)**|
+|**2024-04-25**|**Reinforcement Learning with Generative Models for Compact Support Sets**|Nico Schiavone et.al.|[2404.16300](http://arxiv.org/abs/2404.16300)|**[link](https://github.com/mesophil/deeprl)**|
+|**2024-04-24**|**ActiveRIR: Active Audio-Visual Exploration for Acoustic Environment Modeling**|Arjun Somayazulu et.al.|[2404.16216](http://arxiv.org/abs/2404.16216)|null|
+|**2024-04-24**|**Supercompiler Code Optimization with Zero-Shot Reinforcement Learning**|Jialong Wu et.al.|[2404.16077](http://arxiv.org/abs/2404.16077)|null|
+|**2024-04-24**|**ORBIT-Surgical: An Open-Simulation Framework for Learning Surgical Augmented Dexterity**|Qinxi Yu et.al.|[2404.16027](http://arxiv.org/abs/2404.16027)|null|
+|**2024-04-24**|**Recursive Backwards Q-Learning in Deterministic Environments**|Jan Diekhoff et.al.|[2404.15822](http://arxiv.org/abs/2404.15822)|null|
+|**2024-04-24**|**Guided-SPSA: Simultaneous Perturbation Stochastic Approximation assisted by the Parameter Shift Rule**|Maniraman Periyasamy et.al.|[2404.15751](http://arxiv.org/abs/2404.15751)|null|
+|**2024-04-24**|**ViViDex: Learning Vision-based Dexterous Manipulation from Human Videos**|Zerui Chen et.al.|[2404.15709](http://arxiv.org/abs/2404.15709)|null|
+|**2024-04-24**|**Delay-Aware Multi-Agent Reinforcement Learning for Cooperative Adaptive Cruise Control with Model-based Stability Enhancement**|Jiaqi Liu et.al.|[2404.15696](http://arxiv.org/abs/2404.15696)|null|
+|**2024-04-24**|**Generative Diffusion Model (GDM) for Optimization of Wi-Fi Networks**|Tie Liu et.al.|[2404.15684](http://arxiv.org/abs/2404.15684)|null|
+|**2024-04-24**|**Artificial Intelligence for Multi-Unit Auction design**|Peyman Khezr et.al.|[2404.15633](http://arxiv.org/abs/2404.15633)|null|
 |**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
 |**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
