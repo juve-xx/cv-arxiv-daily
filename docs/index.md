@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3254,7 +3254,7 @@ layout: default
 |**2024-04-19**|**The Positivity of the Neural Tangent Kernel**|Luís Carvalho et.al.|[2404.12928](http://arxiv.org/abs/2404.12928)|null|
 |**2024-04-19**|**Low solution rank of the matrix LASSO under RIP with consequences for rank-constrained algorithms**|Andrew D. McRae et.al.|[2404.12828](http://arxiv.org/abs/2404.12828)|null|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
-|**2024-04-19**|**Graph Learning Dual Graph Convolutional Network For Semi-Supervised Node Classification With Subgraph Sketch**|Zibin Huang et.al.|[2404.12724](http://arxiv.org/abs/2404.12724)|null|
+|**2024-04-25**|**Graph Convolutional Network For Semi-supervised Node Classification With Subgraph Sketching**|Zibin Huang et.al.|[2404.12724](http://arxiv.org/abs/2404.12724)|null|
 |**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
 |**2024-04-18**|**A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to Functional Conditional Moment Equations**|Yuchen Zhu et.al.|[2404.12312](http://arxiv.org/abs/2404.12312)|null|
 |**2024-04-18**|**Singular-limit analysis of gradient descent with noise injection**|Anna Shalova et.al.|[2404.12293](http://arxiv.org/abs/2404.12293)|null|
@@ -3740,7 +3740,7 @@ layout: default
 |**2023-10-26**|**Implicit Regularization in Over-Parameterized Support Vector Machine**|Yang Sui et.al.|[2310.17124](http://arxiv.org/abs/2310.17124)|null|
 |**2023-10-23**|**Delayed Memory Unit: Modelling Temporal Dependency Through Delay Gate**|Pengfei Sun et.al.|[2310.14982](http://arxiv.org/abs/2310.14982)|null|
 |**2023-10-20**|**Linear matrix inequality based Type-III compensator synthesis for DC-DC converters**|Rıdvan Keskin et.al.|[2310.14910](http://arxiv.org/abs/2310.14910)|null|
-|**2023-12-05**|**Unraveling the Enigma of Double Descent: An In-depth Analysis through the Lens of Learned Feature Space**|Yufei Gu et.al.|[2310.13572](http://arxiv.org/abs/2310.13572)|**[link](https://github.com/yufei-gu-451/double_descent_inference)**|
+|**2024-04-25**|**Unraveling the Enigma of Double Descent: An In-depth Analysis through the Lens of Learned Feature Space**|Yufei Gu et.al.|[2310.13572](http://arxiv.org/abs/2310.13572)|**[link](https://github.com/yufei-gu-451/double_descent_inference)**|
 |**2023-10-11**|**Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters**|Mateusz Michalkiewicz et.al.|[2310.07361](http://arxiv.org/abs/2310.07361)|null|
 |**2024-02-18**|**On Double Descent in Reinforcement Learning with LSTD and Random Features**|David Brellmann et.al.|[2310.05518](http://arxiv.org/abs/2310.05518)|null|
 |**2024-02-02**|**On the Convergence of Federated Averaging under Partial Participation for Over-parameterized Neural Networks**|Xin Liu et.al.|[2310.05495](http://arxiv.org/abs/2310.05495)|null|
@@ -3838,7 +3838,7 @@ layout: default
 |**2024-04-19**|**Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images**|Santosh et.al.|[2404.12908](http://arxiv.org/abs/2404.12908)|**[link](https://github.com/purdue-m2/robust_dm_generated_image_detection)**|
 |**2024-04-19**|**Low solution rank of the matrix LASSO under RIP with consequences for rank-constrained algorithms**|Andrew D. McRae et.al.|[2404.12828](http://arxiv.org/abs/2404.12828)|null|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
-|**2024-04-19**|**Graph Learning Dual Graph Convolutional Network For Semi-Supervised Node Classification With Subgraph Sketch**|Zibin Huang et.al.|[2404.12724](http://arxiv.org/abs/2404.12724)|null|
+|**2024-04-25**|**Graph Convolutional Network For Semi-supervised Node Classification With Subgraph Sketching**|Zibin Huang et.al.|[2404.12724](http://arxiv.org/abs/2404.12724)|null|
 |**2024-04-18**|**Matching the Statistical Query Lower Bound for k-sparse Parity Problems with Stochastic Gradient Descent**|Yiwen Kou et.al.|[2404.12376](http://arxiv.org/abs/2404.12376)|null|
 |**2024-04-18**|**A Mean-Field Analysis of Neural Gradient Descent-Ascent: Applications to Functional Conditional Moment Equations**|Yuchen Zhu et.al.|[2404.12312](http://arxiv.org/abs/2404.12312)|null|
 |**2024-04-18**|**Singular-limit analysis of gradient descent with noise injection**|Anna Shalova et.al.|[2404.12293](http://arxiv.org/abs/2404.12293)|null|
@@ -4364,7 +4364,7 @@ layout: default
 |**2024-04-19**|**Demonstration of quantum projective simulation on a single-photon-based quantum computer**|Giacomo Franceschetto et.al.|[2404.12729](http://arxiv.org/abs/2404.12729)|null|
 |**2024-04-19**|**Energy Conserved Failure Detection for NS-IoT Systems**|Guojin Liu et.al.|[2404.12713](http://arxiv.org/abs/2404.12713)|null|
 |**2024-04-19**|**Single-Task Continual Offline Reinforcement Learning**|Sibo Gai et.al.|[2404.12639](http://arxiv.org/abs/2404.12639)|null|
-|**2024-04-24**|**FlagVNE: A Flexible and Generalizable Reinforcement Learning Framework for Network Resource Allocation**|Tianfu Wang et.al.|[2404.12633](http://arxiv.org/abs/2404.12633)|**[link](https://github.com/GeminiLight/flag-vne)**|
+|**2024-04-25**|**FlagVNE: A Flexible and Generalizable Reinforcement Learning Framework for Network Resource Allocation**|Tianfu Wang et.al.|[2404.12633](http://arxiv.org/abs/2404.12633)|**[link](https://github.com/GeminiLight/flag-vne)**|
 |**2024-04-19**|**Breaching the Bottleneck: Evolutionary Transition from Reward-Driven Learning to Reward-Agnostic Domain-Adapted Learning in Neuromodulated Neural Nets**|Solvi Arnold et.al.|[2404.12631](http://arxiv.org/abs/2404.12631)|null|
 |**2024-04-19**|**Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty**|Yanwei Jia et.al.|[2404.12598](http://arxiv.org/abs/2404.12598)|null|
 |**2024-04-19**|**Deep Reinforcement Learning-aided Transmission Design for Energy-efficient Link Optimization in Vehicular Communications**|Zhengpeng Wang et.al.|[2404.12595](http://arxiv.org/abs/2404.12595)|null|
