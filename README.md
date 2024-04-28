@@ -2553,7 +2553,7 @@
 |**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|**[link](https://github.com/amurtadha/nbce-master)**|
 |**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536](http://arxiv.org/abs/2403.17536)|**[link](https://github.com/opengptx/illuminer)**|
 |**2024-03-25**|**A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2403.17218](http://arxiv.org/abs/2403.17218)|null|
-|**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|null|
+|**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|**[link](https://github.com/stevekgyang/metaaligner)**|
 |**2024-03-25**|**The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition**|Georgios Chochlakis et.al.|[2403.17125](http://arxiv.org/abs/2403.17125)|null|
 |**2024-04-02**|**SegICL: A Universal In-context Learning Framework for Enhanced Segmentation in Medical Imaging**|Lingdong Shen et.al.|[2403.16578](http://arxiv.org/abs/2403.16578)|null|
 |**2024-03-27**|**LLMs Are Few-Shot In-Context Low-Resource Language Learners**|Samuel Cahyawijaya et.al.|[2403.16512](http://arxiv.org/abs/2403.16512)|null|
@@ -2891,7 +2891,7 @@
 |**2024-04-19**|**Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture**|Sonit Singh et.al.|[2404.11843](http://arxiv.org/abs/2404.11843)|null|
 |**2024-04-18**|**SNP: Structured Neuron-level Pruning to Preserve Attention Scores**|Kyunghwan Shim et.al.|[2404.11630](http://arxiv.org/abs/2404.11630)|null|
 |**2024-04-17**|**Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**|Xinghan Wang et.al.|[2404.11375](http://arxiv.org/abs/2404.11375)|null|
-|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|null|
+|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|**[link](https://github.com/mandalinadagi/wavelettention)**|
 |**2024-04-18**|**LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory**|Zicheng Liu et.al.|[2404.11163](http://arxiv.org/abs/2404.11163)|null|
 |**2024-04-16**|**Tao: Re-Thinking DL-based Microarchitecture Simulation**|Santosh Pandey et.al.|[2404.10921](http://arxiv.org/abs/2404.10921)|null|
 |**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342](http://arxiv.org/abs/2404.10342)|**[link](https://github.com/guanrunwei/fir-cp)**|
@@ -3278,7 +3278,7 @@
 |---|---|---|---|---|
 |**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
 |**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
-|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|null|
+|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|**[link](https://github.com/luofqfrank/cid-jgd)**|
 |**2024-04-24**|**Efficient NAS with FaDE on Hierarchical Spaces**|Simon Neumeyer et.al.|[2404.16218](http://arxiv.org/abs/2404.16218)|null|
 |**2024-04-24**|**Organizing Physics with Open Energy-Driven Systems**|Matteo Capucci et.al.|[2404.16140](http://arxiv.org/abs/2404.16140)|null|
 |**2024-04-24**|**Learning deep Koopman operators with convex stability constraints**|Marc Mitjans et.al.|[2404.15978](http://arxiv.org/abs/2404.15978)|null|
@@ -3871,7 +3871,7 @@
 |---|---|---|---|---|
 |**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
 |**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
-|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|null|
+|**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|**[link](https://github.com/luofqfrank/cid-jgd)**|
 |**2024-04-24**|**Efficient NAS with FaDE on Hierarchical Spaces**|Simon Neumeyer et.al.|[2404.16218](http://arxiv.org/abs/2404.16218)|null|
 |**2024-04-24**|**Organizing Physics with Open Energy-Driven Systems**|Matteo Capucci et.al.|[2404.16140](http://arxiv.org/abs/2404.16140)|null|
 |**2024-04-24**|**Learning deep Koopman operators with convex stability constraints**|Marc Mitjans et.al.|[2404.15978](http://arxiv.org/abs/2404.15978)|null|
