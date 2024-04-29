@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study**|Yang Wu et.al.|[2404.17136](http://arxiv.org/abs/2404.17136)|null|
+|**2024-04-25**|**Türkçe Dil Modellerinin Performans Karşılaştırması Performance Comparison of Turkish Language Models**|Eren Dogan et.al.|[2404.17010](http://arxiv.org/abs/2404.17010)|null|
 |**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
 |**2024-04-25**|**In-Context Freeze-Thaw Bayesian Optimization for Hyperparameter Optimization**|Herilalaina Rakotoarison et.al.|[2404.16795](http://arxiv.org/abs/2404.16795)|null|
 |**2024-04-25**|**What Makes Multimodal In-Context Learning Work?**|Folco Bertini Baldassini et.al.|[2404.15736](http://arxiv.org/abs/2404.15736)|**[link](https://gitlab.com/folbaeni/multimodal-icl)**|
@@ -2865,6 +2867,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Transformer For Low-frequency Extrapolating of Seismic Data**|Zheng Cong et.al.|[2404.17437](http://arxiv.org/abs/2404.17437)|null|
+|**2024-04-26**|**Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**|Kazi Shahriar Sanjid et.al.|[2404.17235](http://arxiv.org/abs/2404.17235)|null|
+|**2024-04-26**|**Optimizing Cycle Life Prediction of Lithium-ion Batteries via a Physics-Informed Model**|Constantin-Daniel Nicolae et.al.|[2404.17174](http://arxiv.org/abs/2404.17174)|null|
 |**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555](http://arxiv.org/abs/2404.16555)|null|
 |**2024-04-26**|**A Survey on Visual Mamba**|Hanwei Zhang et.al.|[2404.15956](http://arxiv.org/abs/2404.15956)|null|
 |**2024-04-24**|**Gradformer: Graph Transformer with Exponential Decay**|Chuang Liu et.al.|[2404.15729](http://arxiv.org/abs/2404.15729)|**[link](https://github.com/liuchuang0059/gradformer)**|
@@ -3276,6 +3281,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Conformal Prediction with Learned Features**|Shayan Kiyani et.al.|[2404.17487](http://arxiv.org/abs/2404.17487)|null|
+|**2024-04-26**|**Online Policy Learning and Inference by Matrix Completion**|Congyuan Duan et.al.|[2404.17398](http://arxiv.org/abs/2404.17398)|null|
+|**2024-04-25**|**Piecewise Stochastic Barrier Functions**|Rayan Mazouz et.al.|[2404.16986](http://arxiv.org/abs/2404.16986)|null|
+|**2024-04-25**|**Grad Queue : A probabilistic framework to reinforce sparse gradients**|Irfan Mohammad Al Hasib et.al.|[2404.16917](http://arxiv.org/abs/2404.16917)|null|
+|**2024-04-22**|**AdaQAT: Adaptive Bit-Width Quantization-Aware Training**|Cédric Gernigon et.al.|[2404.16876](http://arxiv.org/abs/2404.16876)|null|
 |**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
 |**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
 |**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|**[link](https://github.com/luofqfrank/cid-jgd)**|
@@ -3869,6 +3879,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Conformal Prediction with Learned Features**|Shayan Kiyani et.al.|[2404.17487](http://arxiv.org/abs/2404.17487)|null|
+|**2024-04-26**|**Online Policy Learning and Inference by Matrix Completion**|Congyuan Duan et.al.|[2404.17398](http://arxiv.org/abs/2404.17398)|null|
+|**2024-04-25**|**Piecewise Stochastic Barrier Functions**|Rayan Mazouz et.al.|[2404.16986](http://arxiv.org/abs/2404.16986)|null|
+|**2024-04-25**|**Grad Queue : A probabilistic framework to reinforce sparse gradients**|Irfan Mohammad Al Hasib et.al.|[2404.16917](http://arxiv.org/abs/2404.16917)|null|
+|**2024-04-22**|**AdaQAT: Adaptive Bit-Width Quantization-Aware Training**|Cédric Gernigon et.al.|[2404.16876](http://arxiv.org/abs/2404.16876)|null|
 |**2024-04-25**|**Efficient algorithms for regularized Poisson Non-negative Matrix Factorization**|Nathanaël Perraudin et.al.|[2404.16505](http://arxiv.org/abs/2404.16505)|null|
 |**2024-04-25**|**MegaParticles: Range-based 6-DoF Monte Carlo Localization with GPU-Accelerated Stein Particle Filter**|Kenji Koide et.al.|[2404.16370](http://arxiv.org/abs/2404.16370)|null|
 |**2024-04-25**|**Nonsmooth, Nonconvex Optimization Using Functional Encoding and Component Transition Information**|Fengqiao Luo et.al.|[2404.16273](http://arxiv.org/abs/2404.16273)|**[link](https://github.com/luofqfrank/cid-jgd)**|
@@ -4363,6 +4378,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
+|**2024-04-26**|**Q-Learning to navigate turbulence without a map**|Marco Rando et.al.|[2404.17495](http://arxiv.org/abs/2404.17495)|null|
+|**2024-04-26**|**Adaptive speed planning for Unmanned Vehicle Based on Deep Reinforcement Learning**|Hao Liu et.al.|[2404.17379](http://arxiv.org/abs/2404.17379)|null|
+|**2024-04-26**|**When to Trust LLMs: Aligning Confidence with Response Quality**|Shuchang Tao et.al.|[2404.17287](http://arxiv.org/abs/2404.17287)|null|
+|**2024-04-26**|**Enhancing Privacy and Security of Autonomous UAV Navigation**|Vatsal Aggarwal et.al.|[2404.17225](http://arxiv.org/abs/2404.17225)|null|
+|**2024-04-26**|**An Explainable Deep Reinforcement Learning Model for Warfarin Maintenance Dosing Using Policy Distillation and Action Forging**|Sadjad Anzabi Zadeh et.al.|[2404.17187](http://arxiv.org/abs/2404.17187)|null|
+|**2024-04-25**|**Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach**|Panagiotis Promponas et.al.|[2404.17077](http://arxiv.org/abs/2404.17077)|null|
+|**2024-04-25**|**Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey**|Lingfan Bao et.al.|[2404.17070](http://arxiv.org/abs/2404.17070)|null|
+|**2024-04-25**|**Evaluating Collaborative Autonomy in Opposed Environments using Maritime Capture-the-Flag Competitions**|Jordan Beason et.al.|[2404.17038](http://arxiv.org/abs/2404.17038)|null|
+|**2024-04-25**|**DRL2FC: An Attack-Resilient Controller for Automatic Generation Control Based on Deep Reinforcement Learning**|Vasileios Dimitropoulos et.al.|[2404.16974](http://arxiv.org/abs/2404.16974)|null|
+|**2024-04-25**|**Structured Reinforcement Learning for Delay-Optimal Data Transmission in Dense mmWave Networks**|Shufan Wang et.al.|[2404.16920](http://arxiv.org/abs/2404.16920)|null|
+|**2024-04-22**|**Learning Control Barrier Functions and their application in Reinforcement Learning: A Survey**|Maeva Guerrier et.al.|[2404.16879](http://arxiv.org/abs/2404.16879)|null|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
 |**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721](http://arxiv.org/abs/2404.16721)|null|
 |**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
