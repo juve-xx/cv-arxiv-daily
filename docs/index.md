@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2455,7 +2455,7 @@ layout: default
 |**2024-04-23**|**Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities**|Siyin Wang et.al.|[2404.14716](http://arxiv.org/abs/2404.14716)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-23**|**FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model**|Zezheng Song et.al.|[2404.14688](http://arxiv.org/abs/2404.14688)|null|
-|**2024-04-21**|**AnyPattern: Towards In-context Image Copy Detection**|Wenhao Wang et.al.|[2404.13788](http://arxiv.org/abs/2404.13788)|**[link](https://github.com/wangwenhao0716/anypattern)**|
+|**2024-04-28**|**AnyPattern: Towards In-context Image Copy Detection**|Wenhao Wang et.al.|[2404.13788](http://arxiv.org/abs/2404.13788)|**[link](https://github.com/wangwenhao0716/anypattern)**|
 |**2024-04-21**|**"A good pun is its own reword": Can Large Language Models Understand Puns?**|Zhijun Xu et.al.|[2404.13599](http://arxiv.org/abs/2404.13599)|**[link](https://github.com/zhijun-xu/puneval)**|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**Stronger Random Baselines for In-Context Learning**|Gregory Yauney et.al.|[2404.13020](http://arxiv.org/abs/2404.13020)|**[link](https://github.com/gyauney/max-random-baseline)**|
@@ -3326,7 +3326,7 @@ layout: default
 |**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026](http://arxiv.org/abs/2404.04026)|null|
 |**2024-04-03**|**Faster Convergence of Stochastic Accelerated Gradient Descent under Interpolation**|Aaron Mishkin et.al.|[2404.02378](http://arxiv.org/abs/2404.02378)|null|
 |**2024-04-02**|**LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP**|Yunshi Huang et.al.|[2404.02285](http://arxiv.org/abs/2404.02285)|**[link](https://github.com/fereshteshakeri/fewshot-clip-strong-baseline)**|
-|**2024-03-31**|**Block-Diagonal Guided DBSCAN Clustering**|Zheng Xing et.al.|[2404.01341](http://arxiv.org/abs/2404.01341)|null|
+|**2024-04-27**|**Block-Diagonal Guided DBSCAN Clustering**|Weibing Zhao et.al.|[2404.01341](http://arxiv.org/abs/2404.01341)|null|
 |**2024-04-01**|**New logarithmic step size for stochastic gradient descent**|M. Soheil Shamaee et.al.|[2404.01257](http://arxiv.org/abs/2404.01257)|null|
 |**2024-04-01**|**Gradient Methods for Scalable Multi-value Electricity Network Expansion Planning**|Anthony Degleris et.al.|[2404.01255](http://arxiv.org/abs/2404.01255)|null|
 |**2024-04-01**|**Capturing Shock Waves by Relaxation Neural Networks**|Nan Zhou et.al.|[2404.01163](http://arxiv.org/abs/2404.01163)|null|
@@ -3718,7 +3718,7 @@ layout: default
 |**2024-03-26**|**On the Benefits of Over-parameterization for Out-of-Distribution Generalization**|Yifan Hao et.al.|[2403.17592](http://arxiv.org/abs/2403.17592)|null|
 |**2024-03-25**|**Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes**|Seokhyun Chung et.al.|[2403.16377](http://arxiv.org/abs/2403.16377)|null|
 |**2024-03-23**|**The Effectiveness of Local Updates for Decentralized Learning under Data Heterogeneity**|Tongle Wu et.al.|[2403.15654](http://arxiv.org/abs/2403.15654)|null|
-|**2024-03-20**|**Tackling Noisy Labels with Network Parameter Additive Decomposition**|Jingyi Wang et.al.|[2403.13241](http://arxiv.org/abs/2403.13241)|null|
+|**2024-04-28**|**Tackling Noisy Labels with Network Parameter Additive Decomposition**|Jingyi Wang et.al.|[2403.13241](http://arxiv.org/abs/2403.13241)|null|
 |**2024-03-19**|**FedFisher: Leveraging Fisher Information for One-Shot Federated Learning**|Divyansh Jhunjhunwala et.al.|[2403.12329](http://arxiv.org/abs/2403.12329)|**[link](https://github.com/divyansh03/fedfisher)**|
 |**2024-03-15**|**Understanding the Double Descent Phenomenon in Deep Learning**|Marc Lafon et.al.|[2403.10459](http://arxiv.org/abs/2403.10459)|null|
 |**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
@@ -3926,7 +3926,7 @@ layout: default
 |**2024-04-05**|**MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**|Chenyang Wu et.al.|[2404.04026](http://arxiv.org/abs/2404.04026)|null|
 |**2024-04-03**|**Faster Convergence of Stochastic Accelerated Gradient Descent under Interpolation**|Aaron Mishkin et.al.|[2404.02378](http://arxiv.org/abs/2404.02378)|null|
 |**2024-04-02**|**LP++: A Surprisingly Strong Linear Probe for Few-Shot CLIP**|Yunshi Huang et.al.|[2404.02285](http://arxiv.org/abs/2404.02285)|**[link](https://github.com/fereshteshakeri/fewshot-clip-strong-baseline)**|
-|**2024-03-31**|**Block-Diagonal Guided DBSCAN Clustering**|Zheng Xing et.al.|[2404.01341](http://arxiv.org/abs/2404.01341)|null|
+|**2024-04-27**|**Block-Diagonal Guided DBSCAN Clustering**|Weibing Zhao et.al.|[2404.01341](http://arxiv.org/abs/2404.01341)|null|
 |**2024-04-01**|**New logarithmic step size for stochastic gradient descent**|M. Soheil Shamaee et.al.|[2404.01257](http://arxiv.org/abs/2404.01257)|null|
 |**2024-04-01**|**Gradient Methods for Scalable Multi-value Electricity Network Expansion Planning**|Anthony Degleris et.al.|[2404.01255](http://arxiv.org/abs/2404.01255)|null|
 |**2024-04-01**|**Capturing Shock Waves by Relaxation Neural Networks**|Nan Zhou et.al.|[2404.01163](http://arxiv.org/abs/2404.01163)|null|
@@ -4375,7 +4375,7 @@ layout: default
 |**2024-04-24**|**Artificial Intelligence for Multi-Unit Auction design**|Peyman Khezr et.al.|[2404.15633](http://arxiv.org/abs/2404.15633)|null|
 |**2024-04-24**|**DPO: Differential reinforcement learning with application to optimal configuration search**|Chandrajit Bajaj et.al.|[2404.15617](http://arxiv.org/abs/2404.15617)|null|
 |**2024-04-24**|**GRSN: Gated Recurrent Spiking Neurons for POMDPs and MARL**|Lang Qin et.al.|[2404.15597](http://arxiv.org/abs/2404.15597)|null|
-|**2024-04-24**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
+|**2024-04-28**|**Multi-Agent Reinforcement Learning for Energy Networks: Computational Challenges, Progress and Open Problems**|Sarah Keren et.al.|[2404.15583](http://arxiv.org/abs/2404.15583)|null|
 |**2024-04-23**|**An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models**|Yangchen Pan et.al.|[2404.15518](http://arxiv.org/abs/2404.15518)|null|
 |**2024-04-26**|**The Power of Resets in Online Reinforcement Learning**|Zakaria Mhammedi et.al.|[2404.15417](http://arxiv.org/abs/2404.15417)|null|
 |**2024-04-23**|**Planning the path with Reinforcement Learning: Optimal Robot Motion Planning in RoboCup Small Size League Environments**|Mateus G. Machado et.al.|[2404.15410](http://arxiv.org/abs/2404.15410)|**[link](https://github.com/goncamateus/Planning-the-path-with-rl)**|
