@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Graphical Reasoning: LLM-based Semi-Open Relation Extraction**|Yicheng Tao et.al.|[2405.00216](http://arxiv.org/abs/2405.00216)|null|
+|**2024-04-30**|**In-Context Learning with Long-Context Models: An In-Depth Exploration**|Amanda Bertsch et.al.|[2405.00200](http://arxiv.org/abs/2405.00200)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
 |**2024-05-01**|**Capabilities of Gemini Models in Medicine**|Khaled Saab et.al.|[2404.18416](http://arxiv.org/abs/2404.18416)|null|
 |**2024-04-28**|**From Persona to Personalization: A Survey on Role-Playing Language Agents**|Jiangjie Chen et.al.|[2404.18231](http://arxiv.org/abs/2404.18231)|null|
@@ -2847,6 +2849,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection**|Shihan Dou et.al.|[2405.00428](http://arxiv.org/abs/2405.00428)|null|
+|**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/abs/2405.00130)|null|
 |**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639](http://arxiv.org/abs/2404.19639)|null|
 |**2024-04-29**|**Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism**|Lei Kang et.al.|[2404.19024](http://arxiv.org/abs/2404.19024)|**[link](https://github.com/leitro/selfattnscoring-mpdocvqa)**|
 |**2024-04-27**|**CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention**|Damith Chamalke Senadeera et.al.|[2404.18952](http://arxiv.org/abs/2404.18952)|**[link](https://github.com/damith92/cuenet)**|
@@ -3269,6 +3273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Conformalized Tensor Completion with Riemannian Optimization**|Hu Sun et.al.|[2405.00581](http://arxiv.org/abs/2405.00581)|null|
+|**2024-04-30**|**Hybrid Quantum-Classical Scheduling for Accelerating Neural Network Training with Newton's Gradient Descent**|Pingzhi Li et.al.|[2405.00252](http://arxiv.org/abs/2405.00252)|**[link](https://github.com/unites-lab/q-newton)**|
 |**2024-04-30**|**Scale-Robust Timely Asynchronous Decentralized Learning**|Purbesh Mitra et.al.|[2404.19749](http://arxiv.org/abs/2404.19749)|null|
 |**2024-04-30**|**Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**|Felix Soest et.al.|[2404.19659](http://arxiv.org/abs/2404.19659)|null|
 |**2024-04-30**|**Online and Offline Robust Multivariate Linear Regression**|Antoine Godichon-Baggioni et.al.|[2404.19496](http://arxiv.org/abs/2404.19496)|null|
@@ -3882,6 +3888,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Conformalized Tensor Completion with Riemannian Optimization**|Hu Sun et.al.|[2405.00581](http://arxiv.org/abs/2405.00581)|null|
+|**2024-04-30**|**Hybrid Quantum-Classical Scheduling for Accelerating Neural Network Training with Newton's Gradient Descent**|Pingzhi Li et.al.|[2405.00252](http://arxiv.org/abs/2405.00252)|**[link](https://github.com/unites-lab/q-newton)**|
 |**2024-04-30**|**Scale-Robust Timely Asynchronous Decentralized Learning**|Purbesh Mitra et.al.|[2404.19749](http://arxiv.org/abs/2404.19749)|null|
 |**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**|Felix Soest et.al.|[2404.19659](http://arxiv.org/abs/2404.19659)|null|
@@ -4397,6 +4405,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-01**|**Self-Play Preference Optimization for Language Model Alignment**|Yue Wu et.al.|[2405.00675](http://arxiv.org/abs/2405.00675)|null|
+|**2024-05-01**|**No Representation, No Trust: Connecting Representation, Collapse, and Trust Issues in PPO**|Skander Moalla et.al.|[2405.00662](http://arxiv.org/abs/2405.00662)|**[link](https://github.com/claire-labo/no-representation-no-trust)**|
+|**2024-05-01**|**HUGO -- Highlighting Unseen Grid Options: Combining Deep Reinforcement Learning with a Heuristic Target Topology Approach**|Malte Lehna et.al.|[2405.00629](http://arxiv.org/abs/2405.00629)|null|
+|**2024-05-01**|**Koopman-based Deep Learning for Nonlinear System Estimation**|Zexin Sun et.al.|[2405.00627](http://arxiv.org/abs/2405.00627)|null|
+|**2024-05-01**|**Queue-based Eco-Driving at Roundabouts with Reinforcement Learning**|Anna-Lena Schlamp et.al.|[2405.00625](http://arxiv.org/abs/2405.00625)|null|
+|**2024-05-01**|**The Real, the Better: Aligning Large Language Models with Online Human Behaviors**|Guanying Jiang et.al.|[2405.00578](http://arxiv.org/abs/2405.00578)|null|
+|**2024-05-01**|**Mixture of insighTful Experts (MoTE): The Synergy of Thought Chains and Expert Mixtures in Self-Alignment**|Zhili Liu et.al.|[2405.00557](http://arxiv.org/abs/2405.00557)|null|
+|**2024-05-01**|**Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning**|Lucas-Andreï Thil et.al.|[2405.00516](http://arxiv.org/abs/2405.00516)|null|
+|**2024-05-01**|**MetaRM: Shifted Distributions Alignment via Meta-Learning**|Shihan Dou et.al.|[2405.00438](http://arxiv.org/abs/2405.00438)|null|
+|**2024-05-01**|**UCB-driven Utility Function Search for Multi-objective Reinforcement Learning**|Yucheng Shi et.al.|[2405.00410](http://arxiv.org/abs/2405.00410)|**[link](https://github.com/sycamore-1/ucb-moppo)**|
+|**2024-05-01**|**Employing Federated Learning for Training Autonomous HVAC Systems**|Fredrik Hagström et.al.|[2405.00389](http://arxiv.org/abs/2405.00389)|null|
+|**2024-05-01**|**Learning Tactile Insertion in the Real World**|Daniel Palenicek et.al.|[2405.00383](http://arxiv.org/abs/2405.00383)|null|
+|**2024-05-01**|**iMTSP: Solving Min-Max Multiple Traveling Salesman Problem with Imperative Learning**|Yifan Guo et.al.|[2405.00285](http://arxiv.org/abs/2405.00285)|**[link](https://github.com/sair-lab/imtsp)**|
+|**2024-05-01**|**MF-OML: Online Mean-Field Reinforcement Learning with Occupation Measures for Large Population Games**|Anran Hu et.al.|[2405.00282](http://arxiv.org/abs/2405.00282)|null|
+|**2024-04-30**|**Principled RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation**|Chanwoo Park et.al.|[2405.00254](http://arxiv.org/abs/2405.00254)|null|
+|**2024-04-30**|**A Meta-Game Evaluation Framework for Deep Multiagent Reinforcement Learning**|Zun Li et.al.|[2405.00243](http://arxiv.org/abs/2405.00243)|null|
 |**2024-04-30**|**Collaborative Control Method of Transit Signal Priority Based on Cooperative Game and Reinforcement Learning**|Hao Qin et.al.|[2404.19683](http://arxiv.org/abs/2404.19683)|null|
 |**2024-04-30**|**Towards Generalist Robot Learning from Internet Video: A Survey**|Robert McCarthy et.al.|[2404.19664](http://arxiv.org/abs/2404.19664)|null|
 |**2024-04-30**|**Short term vs. long term: optimization of microswimmer navigation on different time horizons**|Navid Mousavi et.al.|[2404.19561](http://arxiv.org/abs/2404.19561)|null|
