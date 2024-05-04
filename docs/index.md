@@ -2447,7 +2447,7 @@ layout: default
 |**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
 |**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116](http://arxiv.org/abs/2405.01116)|null|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
-|**2024-04-30**|**Graphical Reasoning: LLM-based Semi-Open Relation Extraction**|Yicheng Tao et.al.|[2405.00216](http://arxiv.org/abs/2405.00216)|null|
+|**2024-04-30**|**Graphical Reasoning: LLM-based Semi-Open Relation Extraction**|Yicheng Tao et.al.|[2405.00216](http://arxiv.org/abs/2405.00216)|**[link](https://github.com/longjubai/eecs598_llm_relationextraction)**|
 |**2024-04-30**|**In-Context Learning with Long-Context Models: An In-Depth Exploration**|Amanda Bertsch et.al.|[2405.00200](http://arxiv.org/abs/2405.00200)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832](http://arxiv.org/abs/2404.18832)|null|
 |**2024-05-01**|**Capabilities of Gemini Models in Medicine**|Khaled Saab et.al.|[2404.18416](http://arxiv.org/abs/2404.18416)|null|
@@ -2493,7 +2493,7 @@ layout: default
 |**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**Discourse-Aware In-Context Learning for Temporal Expression Normalization**|Akash Kumar Gautam et.al.|[2404.07775](http://arxiv.org/abs/2404.07775)|null|
 |**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546](http://arxiv.org/abs/2404.07546)|null|
-|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|**[link](https://github.com/cristianocapone/abss)**|
 |**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129](http://arxiv.org/abs/2404.07129)|**[link](https://github.com/aadityasingh/icl-dynamics)**|
 |**2024-04-10**|**What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs**|Anna Wegmann et.al.|[2404.06670](http://arxiv.org/abs/2404.06670)|null|
 |**2024-04-09**|**Neuromorphic In-Context Learning for Energy-Efficient MIMO Symbol Detection**|Zihang Song et.al.|[2404.06469](http://arxiv.org/abs/2404.06469)|null|
@@ -2858,7 +2858,7 @@ layout: default
 |**2024-05-02**|**Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2405.01095](http://arxiv.org/abs/2405.01095)|null|
 |**2024-05-01**|**Brighteye: Glaucoma Screening with Color Fundus Photographs based on Vision Transformer**|Hui Lin et.al.|[2405.00857](http://arxiv.org/abs/2405.00857)|null|
 |**2024-05-01**|**CC2Vec: Combining Typed Tokens with Contrastive Learning for Effective Code Clone Detection**|Shihan Dou et.al.|[2405.00428](http://arxiv.org/abs/2405.00428)|null|
-|**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/abs/2405.00130)|null|
+|**2024-04-30**|**A Flexible 2.5D Medical Image Segmentation Approach with In-Slice and Cross-Slice Attention**|Amarjeet Kumar et.al.|[2405.00130](http://arxiv.org/abs/2405.00130)|**[link](https://github.com/mirthai/csa-net)**|
 |**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639](http://arxiv.org/abs/2404.19639)|null|
 |**2024-04-29**|**Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism**|Lei Kang et.al.|[2404.19024](http://arxiv.org/abs/2404.19024)|**[link](https://github.com/leitro/selfattnscoring-mpdocvqa)**|
 |**2024-04-27**|**CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention**|Damith Chamalke Senadeera et.al.|[2404.18952](http://arxiv.org/abs/2404.18952)|**[link](https://github.com/damith92/cuenet)**|
@@ -2945,7 +2945,7 @@ layout: default
 |**2024-04-05**|**Nonlinear Kalman Filtering based on Self-Attention Mechanism and Lattice Trajectory Piecewise Linear Approximation**|Jiaming Wang et.al.|[2404.03915](http://arxiv.org/abs/2404.03915)|null|
 |**2024-04-04**|**InsectMamba: Insect Pest Classification with State Space Model**|Qianning Wang et.al.|[2404.03611](http://arxiv.org/abs/2404.03611)|null|
 |**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
-|**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
+|**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|**[link](https://github.com/zhouc20/k-transformer)**|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
 |**2024-04-19**|**Enhancing the Performance of Aspect-Based Sentiment Analysis Systems**|Chen Li et.al.|[2404.03259](http://arxiv.org/abs/2404.03259)|null|
 |**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|**[link](https://github.com/walbouss/legrad)**|
@@ -4500,7 +4500,7 @@ layout: default
 |**2024-04-26**|**Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Furniture Assembly**|Haohong Lin et.al.|[2404.17684](http://arxiv.org/abs/2404.17684)|null|
 |**2024-04-26**|**Learning Manipulation Tasks in Dynamic and Shared 3D Spaces**|Hariharan Arunachalam et.al.|[2404.17673](http://arxiv.org/abs/2404.17673)|**[link](https://github.com/hariharan20/mldenv)**|
 |**2024-04-26**|**Precise Object Placement Using Force-Torque Feedback**|Osher Lerner et.al.|[2404.17668](http://arxiv.org/abs/2404.17668)|null|
-|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
+|**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|**[link](https://github.com/silent-zebra/twisted-smc-lm)**|
 |**2024-04-26**|**Quantum Multi-Agent Reinforcement Learning for Aerial Ad-hoc Networks**|Theodora-Augustina Drăgan et.al.|[2404.17499](http://arxiv.org/abs/2404.17499)|null|
 |**2024-04-26**|**Q-Learning to navigate turbulence without a map**|Marco Rando et.al.|[2404.17495](http://arxiv.org/abs/2404.17495)|null|
 |**2024-04-26**|**Adaptive speed planning for Unmanned Vehicle Based on Deep Reinforcement Learning**|Hao Liu et.al.|[2404.17379](http://arxiv.org/abs/2404.17379)|null|
@@ -4516,7 +4516,7 @@ layout: default
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|**[link](https://github.com/Owen-Oertell/rlcm)**|
 |**2024-04-25**|**Distilling Privileged Information for Dubins Traveling Salesman Problems with Neighborhoods**|Min Kyu Shin et.al.|[2404.16721](http://arxiv.org/abs/2404.16721)|null|
 |**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
-|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621](http://arxiv.org/abs/2404.16621)|null|
+|**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621](http://arxiv.org/abs/2404.16621)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508](http://arxiv.org/abs/2404.16508)|null|
 |**2024-04-25**|**A Dual Perspective of Reinforcement Learning for Imposing Policy Constraints**|Bram De Cooman et.al.|[2404.16468](http://arxiv.org/abs/2404.16468)|null|
 |**2024-04-25**|**Offline Reinforcement Learning with Behavioral Supervisor Tuning**|Padmanaba Srinivasan et.al.|[2404.16399](http://arxiv.org/abs/2404.16399)|null|
