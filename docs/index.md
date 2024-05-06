@@ -2444,6 +2444,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
+|**2024-05-03**|**Understanding LLMs Requires More Than Statistical Generalization**|Patrik Reizinger et.al.|[2405.01964](http://arxiv.org/abs/2405.01964)|null|
+|**2024-05-02**|**Question Suggestion for Conversational Shopping Assistants Using Product Metadata**|Nikhita Vedula et.al.|[2405.01738](http://arxiv.org/abs/2405.01738)|null|
+|**2024-04-29**|**Simplifying Multimodality: Unimodal Approach to Multimodal Challenges in Radiology with General-Domain Large Language Model**|Seonhee Cho et.al.|[2405.01591](http://arxiv.org/abs/2405.01591)|null|
 |**2024-05-02**|**DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection**|Yanjing Yang et.al.|[2405.01202](http://arxiv.org/abs/2405.01202)|null|
 |**2024-05-02**|**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**|Andrew Parry et.al.|[2405.01116](http://arxiv.org/abs/2405.01116)|null|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
@@ -3281,6 +3286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints**|Ksenija Stepanovic et.al.|[2405.01984](http://arxiv.org/abs/2405.01984)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
 |**2024-05-02**|**S $^2$ AC: Energy-Based Reinforcement Learning with Stein Soft Actor Critic**|Safa Messaoud et.al.|[2405.00987](http://arxiv.org/abs/2405.00987)|**[link](https://github.com/safamessaoud/s2ac-energy-based-rl-with-stein-soft-actor-critic)**|
@@ -3900,6 +3906,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints**|Ksenija Stepanovic et.al.|[2405.01984](http://arxiv.org/abs/2405.01984)|null|
+|**2024-05-03**|**Universal Performance Gap of Neural Quantum States Applied to the Hofstadter-Bose-Hubbard Model**|Eimantas Ledinauskas et.al.|[2405.01981](http://arxiv.org/abs/2405.01981)|null|
+|**2024-05-02**|**Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations**|Nima Hosseini Dashtbayaz et.al.|[2405.01680](http://arxiv.org/abs/2405.01680)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
 |**2024-05-02**|**S $^2$ AC: Energy-Based Reinforcement Learning with Stein Soft Actor Critic**|Safa Messaoud et.al.|[2405.00987](http://arxiv.org/abs/2405.00987)|**[link](https://github.com/safamessaoud/s2ac-energy-based-rl-with-stein-soft-actor-critic)**|
@@ -4421,6 +4430,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250](http://arxiv.org/abs/2405.02250)|null|
+|**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
+|**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
+|**2024-05-03**|**Simulating the economic impact of rationality through reinforcement learning and agent-based modelling**|Simone Brusatin et.al.|[2405.02161](http://arxiv.org/abs/2405.02161)|null|
+|**2024-05-03**|**Zero-Sum Positional Differential Games as a Framework for Robust Reinforcement Learning: Deep Q-Learning Approach**|Anton Plaksin et.al.|[2405.02044](http://arxiv.org/abs/2405.02044)|null|
+|**2024-05-03**|**Model-based reinforcement learning for protein backbone design**|Frederic Renard et.al.|[2405.01983](http://arxiv.org/abs/2405.01983)|null|
+|**2024-05-03**|**Rescale-Invariant Federated Reinforcement Learning for Resource Allocation in V2X Networks**|Kaidi Xu et.al.|[2405.01961](http://arxiv.org/abs/2405.01961)|null|
+|**2024-05-03**|**Instance-Conditioned Adaptation for Large-scale Generalization of Neural Combinatorial Optimization**|Changliang Zhou et.al.|[2405.01906](http://arxiv.org/abs/2405.01906)|null|
+|**2024-05-03**|**Reinforcement Learning control strategies for Electric Vehicles and Renewable energy sources Virtual Power Plants**|Francesco Maldonato et.al.|[2405.01889](http://arxiv.org/abs/2405.01889)|**[link](https://github.com/francescomaldonato/RL_VPP_Thesis)**|
+|**2024-05-03**|**A Model-based Multi-Agent Personalized Short-Video Recommender System**|Peilun Zhou et.al.|[2405.01847](http://arxiv.org/abs/2405.01847)|null|
+|**2024-05-03**|**SocialGFs: Learning Social Gradient Fields for Multi-Agent Reinforcement Learning**|Qian Long et.al.|[2405.01839](http://arxiv.org/abs/2405.01839)|null|
+|**2024-05-03**|**Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots**|Joonho Lee et.al.|[2405.01792](http://arxiv.org/abs/2405.01792)|null|
+|**2024-05-02**|**Reinforcement Learning-Guided Semi-Supervised Learning**|Marzi Heidari et.al.|[2405.01760](http://arxiv.org/abs/2405.01760)|null|
+|**2024-05-02**|**Robust Risk-Sensitive Reinforcement Learning with Conditional Value-at-Risk**|Xinyi Ni et.al.|[2405.01718](http://arxiv.org/abs/2405.01718)|null|
+|**2024-05-02**|**Adversarial Attacks on Reinforcement Learning Agents for Command and Control**|Ahaan Dabholkar et.al.|[2405.01693](http://arxiv.org/abs/2405.01693)|null|
+|**2024-05-02**|**Intelligent Switching for Reset-Free RL**|Darshan Patil et.al.|[2405.01684](http://arxiv.org/abs/2405.01684)|**[link](https://github.com/chandar-lab/risc)**|
+|**2024-05-02**|**Balance Reward and Safety Optimization for Safe Reinforcement Learning: A Perspective of Gradient Manipulation**|Shangding Gu et.al.|[2405.01677](http://arxiv.org/abs/2405.01677)|**[link](https://github.com/pku-alignment/omnisafe)**|
+|**2024-05-02**|**Generative Active Learning for the Search of Small-molecule Protein Binders**|Maksym Korablyov et.al.|[2405.01616](http://arxiv.org/abs/2405.01616)|null|
+|**2024-05-02**|**Hard-Thresholding Meets Evolution Strategies in Reinforcement Learning**|Chengqian Gao et.al.|[2405.01615](http://arxiv.org/abs/2405.01615)|**[link](https://github.com/cangcn/nes-ht)**|
+|**2024-05-01**|**Portfolio Management using Deep Reinforcement Learning**|Ashish Anil Pawar et.al.|[2405.01604](http://arxiv.org/abs/2405.01604)|null|
 |**2024-05-02**|**Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks**|Murtaza Dalal et.al.|[2405.01534](http://arxiv.org/abs/2405.01534)|null|
 |**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525](http://arxiv.org/abs/2405.01525)|null|
 |**2024-05-02**|**NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment**|Gerald Shen et.al.|[2405.01481](http://arxiv.org/abs/2405.01481)|**[link](https://github.com/nvidia/nemo-aligner)**|
