@@ -2470,6 +2470,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
+|**2024-05-06**|**OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization**|Weidong Wang et.al.|[2405.03215](http://arxiv.org/abs/2405.03215)|null|
+|**2024-05-04**|**CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions**|Hanchong Zhang et.al.|[2405.02712](http://arxiv.org/abs/2405.02712)|null|
+|**2024-05-04**|**Enhancing News Summarization with ELearnFit through Efficient In-Context Learning and Efficient Fine-Tuning**|Che Guan et.al.|[2405.02710](http://arxiv.org/abs/2405.02710)|null|
+|**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
+|**2024-05-03**|**Beyond Helpfulness and Harmlessness: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning**|Hyeong Kyu Choi et.al.|[2405.02501](http://arxiv.org/abs/2405.02501)|null|
+|**2024-05-03**|**Finite Sample Analysis and Bounds of Generalization Error of Gradient Descent in In-Context Linear Regression**|Karthik Duraisamy et.al.|[2405.02462](http://arxiv.org/abs/2405.02462)|null|
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
 |**2024-05-03**|**Understanding LLMs Requires More Than Statistical Generalization**|Patrik Reizinger et.al.|[2405.01964](http://arxiv.org/abs/2405.01964)|null|
@@ -2517,7 +2524,7 @@
 |**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|**[link](https://github.com/ghupppp/memorysharingllm)**|
 |**2024-04-15**|**Evolving Interpretable Visual Classifiers with Large Language Models**|Mia Chiquier et.al.|[2404.09941](http://arxiv.org/abs/2404.09941)|null|
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
-|**2024-04-15**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
+|**2024-05-06**|**Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning**|Sungwon Han et.al.|[2404.09491](http://arxiv.org/abs/2404.09491)|**[link](https://github.com/sungwon-han/featllm)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 |**2024-04-13**|**Adapting Mental Health Prediction Tasks for Cross-lingual Learning via Meta-Training and In-context Learning with Large Language Model**|Zita Lifelo et.al.|[2404.09045](http://arxiv.org/abs/2404.09045)|null|
 |**2024-04-11**|**Variance-reduced Zeroth-Order Methods for Fine-Tuning Language Models**|Tanmay Gautam et.al.|[2404.08080](http://arxiv.org/abs/2404.08080)|null|
@@ -2885,6 +2892,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers**|Wenhao Zhu et.al.|[2405.03481](http://arxiv.org/abs/2405.03481)|null|
+|**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
+|**2024-05-06**|**Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation**|Yingying Zhang et.al.|[2405.03318](http://arxiv.org/abs/2405.03318)|null|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251](http://arxiv.org/abs/2405.03251)|null|
+|**2024-05-06**|**PTQ4SAM: Post-Training Quantization for Segment Anything**|Chengtao Lv et.al.|[2405.03144](http://arxiv.org/abs/2405.03144)|**[link](https://github.com/chengtao-lv/ptq4sam)**|
+|**2024-05-05**|**Multi-hop graph transformer network for 3D human pose estimation**|Zaedul Islam et.al.|[2405.03055](http://arxiv.org/abs/2405.03055)|null|
+|**2024-05-05**|**Exploring prompts to elicit memorization in masked language model-based named entity recognition**|Yuxi Xia et.al.|[2405.03004](http://arxiv.org/abs/2405.03004)|null|
+|**2024-05-05**|**IceFormer: Accelerated Inference with Long-Sequence Transformers on CPUs**|Yuzhen Mao et.al.|[2405.02842](http://arxiv.org/abs/2405.02842)|null|
+|**2024-05-04**|**U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**|Yuchuan Tian et.al.|[2405.02730](http://arxiv.org/abs/2405.02730)|null|
 |**2024-05-02**|**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation**|Yupeng Zhou et.al.|[2405.01434](http://arxiv.org/abs/2405.01434)|**[link](https://github.com/hvision-nku/storydiffusion)**|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337](http://arxiv.org/abs/2405.01337)|null|
 |**2024-05-02**|**GroupedMixer: An Entropy Model with Group-wise Token-Mixers for Learned Image Compression**|Daxin Li et.al.|[2405.01170](http://arxiv.org/abs/2405.01170)|null|
@@ -3316,6 +3332,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
+|**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
+|**2024-05-06**|**Optimisation challenge for superconducting adiabatic neural network implementing XOR and OR boolean functions**|D. S. Pashin et.al.|[2405.03521](http://arxiv.org/abs/2405.03521)|null|
+|**2024-05-06**|**Adaptive Accelerated Composite Minimization**|Reza Rahimi Baghbadorani et.al.|[2405.03414](http://arxiv.org/abs/2405.03414)|null|
+|**2024-05-06**|**Distributed Adaptive Spatial Filtering with Inexact Local Solvers**|Charles Hovine et.al.|[2405.03277](http://arxiv.org/abs/2405.03277)|null|
+|**2024-05-05**|**Finite-Time Convergence and Sample Complexity of Actor-Critic Multi-Objective Reinforcement Learning**|Tianchen Zhou et.al.|[2405.03082](http://arxiv.org/abs/2405.03082)|null|
+|**2024-05-05**|**Convergence and Complexity Guarantee for Inexact First-order Riemannian Optimization Algorithms**|Yuchen Li et.al.|[2405.03073](http://arxiv.org/abs/2405.03073)|null|
+|**2024-05-05**|**Projected gradient descent algorithm for $\textit{ab initio}$ crystal structure relaxation under a fixed unit cell volume**|Yukuan Hu et.al.|[2405.02934](http://arxiv.org/abs/2405.02934)|null|
+|**2024-05-03**|**Finite Sample Analysis and Bounds of Generalization Error of Gradient Descent in In-Context Linear Regression**|Karthik Duraisamy et.al.|[2405.02462](http://arxiv.org/abs/2405.02462)|null|
 |**2024-05-03**|**A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints**|Ksenija Stepanovic et.al.|[2405.01984](http://arxiv.org/abs/2405.01984)|null|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
@@ -3326,7 +3351,7 @@
 |**2024-04-30**|**Scale-Robust Timely Asynchronous Decentralized Learning**|Purbesh Mitra et.al.|[2404.19749](http://arxiv.org/abs/2404.19749)|null|
 |**2024-04-30**|**Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**|Felix Soest et.al.|[2404.19659](http://arxiv.org/abs/2404.19659)|null|
 |**2024-04-30**|**Online and Offline Robust Multivariate Linear Regression**|Antoine Godichon-Baggioni et.al.|[2404.19496](http://arxiv.org/abs/2404.19496)|null|
-|**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|null|
+|**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|**[link](https://github.com/nust-machine-intelligence-laboratory/ddtas)**|
 |**2024-04-30**|**On a Family of Relaxed Gradient Descent Methods for Quadratic Minimization**|Liam MacDonald et.al.|[2404.19255](http://arxiv.org/abs/2404.19255)|null|
 |**2024-04-29**|**Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**|Javier Antoran et.al.|[2404.19157](http://arxiv.org/abs/2404.19157)|null|
 |**2024-04-29**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
@@ -3940,6 +3965,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
+|**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
+|**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
+|**2024-05-06**|**Optimisation challenge for superconducting adiabatic neural network implementing XOR and OR boolean functions**|D. S. Pashin et.al.|[2405.03521](http://arxiv.org/abs/2405.03521)|null|
+|**2024-05-06**|**Adaptive Accelerated Composite Minimization**|Reza Rahimi Baghbadorani et.al.|[2405.03414](http://arxiv.org/abs/2405.03414)|null|
+|**2024-05-06**|**Distributed Adaptive Spatial Filtering with Inexact Local Solvers**|Charles Hovine et.al.|[2405.03277](http://arxiv.org/abs/2405.03277)|null|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251](http://arxiv.org/abs/2405.03251)|null|
+|**2024-05-05**|**Finite-Time Convergence and Sample Complexity of Actor-Critic Multi-Objective Reinforcement Learning**|Tianchen Zhou et.al.|[2405.03082](http://arxiv.org/abs/2405.03082)|null|
+|**2024-05-05**|**Convergence and Complexity Guarantee for Inexact First-order Riemannian Optimization Algorithms**|Yuchen Li et.al.|[2405.03073](http://arxiv.org/abs/2405.03073)|null|
+|**2024-05-05**|**Projected gradient descent algorithm for $\textit{ab initio}$ crystal structure relaxation under a fixed unit cell volume**|Yukuan Hu et.al.|[2405.02934](http://arxiv.org/abs/2405.02934)|null|
+|**2024-05-04**|**Random Masking Finds Winning Tickets for Parameter Efficient Fine-tuning**|Jing Xu et.al.|[2405.02596](http://arxiv.org/abs/2405.02596)|null|
+|**2024-05-03**|**Finite Sample Analysis and Bounds of Generalization Error of Gradient Descent in In-Context Linear Regression**|Karthik Duraisamy et.al.|[2405.02462](http://arxiv.org/abs/2405.02462)|null|
 |**2024-05-03**|**A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints**|Ksenija Stepanovic et.al.|[2405.01984](http://arxiv.org/abs/2405.01984)|null|
 |**2024-05-03**|**Universal Performance Gap of Neural Quantum States Applied to the Hofstadter-Bose-Hubbard Model**|Eimantas Ledinauskas et.al.|[2405.01981](http://arxiv.org/abs/2405.01981)|null|
 |**2024-05-02**|**Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations**|Nima Hosseini Dashtbayaz et.al.|[2405.01680](http://arxiv.org/abs/2405.01680)|**[link](https://github.com/nimahsn/pinns_tf2)**|
@@ -3953,7 +3990,7 @@
 |**2024-05-03**|**Fairness Without Demographics in Human-Centered Federated Learning**|Shaily Roy et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**|Felix Soest et.al.|[2404.19659](http://arxiv.org/abs/2404.19659)|null|
 |**2024-04-30**|**Online and Offline Robust Multivariate Linear Regression**|Antoine Godichon-Baggioni et.al.|[2404.19496](http://arxiv.org/abs/2404.19496)|null|
-|**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|null|
+|**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|**[link](https://github.com/nust-machine-intelligence-laboratory/ddtas)**|
 |**2024-04-30**|**On a Family of Relaxed Gradient Descent Methods for Quadratic Minimization**|Liam MacDonald et.al.|[2404.19255](http://arxiv.org/abs/2404.19255)|null|
 |**2024-04-29**|**Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**|Javier Antoran et.al.|[2404.19157](http://arxiv.org/abs/2404.19157)|null|
 |**2024-04-29**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
@@ -4466,6 +4503,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
+|**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
+|**2024-05-06**|**ReinWiFi: A Reinforcement-Learning-Based Framework for the Application-Layer QoS Optimization of WiFi Networks**|Qianren Li et.al.|[2405.03526](http://arxiv.org/abs/2405.03526)|null|
+|**2024-05-06**|**Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning**|Stone Tao et.al.|[2405.03379](http://arxiv.org/abs/2405.03379)|null|
+|**2024-05-06**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341](http://arxiv.org/abs/2405.03341)|null|
+|**2024-05-06**|**Artificial Intelligence in the Autonomous Navigation of Endovascular Interventions: A Systematic Review**|Harry Robertshaw et.al.|[2405.03305](http://arxiv.org/abs/2405.03305)|null|
+|**2024-05-06**|**End-to-End Reinforcement Learning of Curative Curtailment with Partial Measurement Availability**|Hinrikus Wolf et.al.|[2405.03262](http://arxiv.org/abs/2405.03262)|null|
+|**2024-05-06**|**Federated Reinforcement Learning with Constraint Heterogeneity**|Hao Jin et.al.|[2405.03236](http://arxiv.org/abs/2405.03236)|null|
+|**2024-05-06**|**Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning**|Caleb Chuck et.al.|[2405.03113](http://arxiv.org/abs/2405.03113)|null|
+|**2024-05-05**|**Finite-Time Convergence and Sample Complexity of Actor-Critic Multi-Objective Reinforcement Learning**|Tianchen Zhou et.al.|[2405.03082](http://arxiv.org/abs/2405.03082)|null|
+|**2024-05-05**|**RICE: Breaking Through the Training Bottlenecks of Reinforcement Learning with Explanation**|Zelei Cheng et.al.|[2405.03064](http://arxiv.org/abs/2405.03064)|null|
+|**2024-05-05**|**Safe Reinforcement Learning with Learned Non-Markovian Safety Constraints**|Siow Meng Low et.al.|[2405.03005](http://arxiv.org/abs/2405.03005)|null|
+|**2024-05-05**|**Multi-Agent RL-Based Industrial AIGC Service Offloading over Wireless Edge Networks**|Siyuan Li et.al.|[2405.02972](http://arxiv.org/abs/2405.02972)|null|
+|**2024-05-05**|**Modelling Opaque Bilateral Market Dynamics in Financial Trading: Insights from a Multi-Agent Simulation Study**|Alicia Vidler et.al.|[2405.02849](http://arxiv.org/abs/2405.02849)|null|
+|**2024-05-05**|**Algorithmic collusion in a two-sided market: A rideshare example**|Pravesh Koirala et.al.|[2405.02835](http://arxiv.org/abs/2405.02835)|null|
+|**2024-05-04**|**PhilHumans: Benchmarking Machine Learning for Personal Health**|Vadim Liventsev et.al.|[2405.02770](http://arxiv.org/abs/2405.02770)|null|
+|**2024-05-04**|**Linear Convergence of Independent Natural Policy Gradient in Games with Entropy Regularization**|Youbang Sun et.al.|[2405.02769](http://arxiv.org/abs/2405.02769)|null|
+|**2024-05-04**|**Implicit Safe Set Algorithm for Provably Safe Reinforcement Learning**|Weiye Zhao et.al.|[2405.02754](http://arxiv.org/abs/2405.02754)|null|
+|**2024-05-04**|**Taming Equilibrium Bias in Risk-Sensitive Multi-Agent Reinforcement Learning**|Yingjie Fei et.al.|[2405.02724](http://arxiv.org/abs/2405.02724)|null|
+|**2024-05-04**|**Hand-Object Interaction Controller (HOIC): Deep Reinforcement Learning for Reconstructing Interactions with Physics**|Haoyu Hu et.al.|[2405.02676](http://arxiv.org/abs/2405.02676)|**[link](https://github.com/hu-hy17/hoic)**|
+|**2024-05-04**|**Fast Online Movement Optimization of Aerial Base Stations Based on Global Connectivity Map**|Yiling Wang et.al.|[2405.02655](http://arxiv.org/abs/2405.02655)|null|
+|**2024-05-04**|**Enhancing Cooperation through Selective Interaction and Long-term Experiences in Multi-Agent Reinforcement Learning**|Tianyu Ren et.al.|[2405.02654](http://arxiv.org/abs/2405.02654)|**[link](https://github.com/itstyren/InteractionMARL-Coop)**|
+|**2024-05-04**|**UDUC: An Uncertainty-driven Approach for Learning-based Robust Control**|Yuan Zhang et.al.|[2405.02598](http://arxiv.org/abs/2405.02598)|null|
+|**2024-05-04**|**CTD4 - A Deep Continuous Distributional Actor-Critic Agent with a Kalman Fusion of Multiple Critics**|David Valencia et.al.|[2405.02576](http://arxiv.org/abs/2405.02576)|null|
+|**2024-05-04**|**Off-OAB: Off-Policy Policy Gradient Method with Optimal Action-Dependent Baseline**|Wenjia Meng et.al.|[2405.02572](http://arxiv.org/abs/2405.02572)|null|
+|**2024-05-03**|**RLStop: A Reinforcement Learning Stopping Method for TAR**|Reem Bin-Hezam et.al.|[2405.02525](http://arxiv.org/abs/2405.02525)|null|
+|**2024-05-03**|**Artificial-Intelligence-Driven Shot Reduction in Quantum Measurement**|Senwei Liang et.al.|[2405.02493](http://arxiv.org/abs/2405.02493)|null|
+|**2024-05-03**|**Proximal Curriculum with Task Correlations for Deep Reinforcement Learning**|Georgios Tzannetos et.al.|[2405.02481](http://arxiv.org/abs/2405.02481)|null|
+|**2024-05-03**|**Natural Policy Gradient and Actor Critic Methods for Constrained Multi-Task Reinforcement Learning**|Sihan Zeng et.al.|[2405.02456](http://arxiv.org/abs/2405.02456)|null|
+|**2024-05-03**|**Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design**|Quan Nguyen et.al.|[2405.02449](http://arxiv.org/abs/2405.02449)|null|
+|**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425](http://arxiv.org/abs/2405.02425)|null|
+|**2024-05-03**|**Exponentially Weighted Algorithm for Online Network Resource Allocation with Long-Term Constraints**|Ahmed Sid-Ali et.al.|[2405.02373](http://arxiv.org/abs/2405.02373)|null|
 |**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250](http://arxiv.org/abs/2405.02250)|null|
 |**2024-05-03**|**Learning Optimal Deterministic Policies with Stochastic Policy Gradients**|Alessandro Montenegro et.al.|[2405.02235](http://arxiv.org/abs/2405.02235)|null|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198](http://arxiv.org/abs/2405.02198)|null|
