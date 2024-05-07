@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3908,7 +3908,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-03**|**A Penalty-Based Guardrail Algorithm for Non-Decreasing Optimization with Inequality Constraints**|Ksenija Stepanovic et.al.|[2405.01984](http://arxiv.org/abs/2405.01984)|null|
 |**2024-05-03**|**Universal Performance Gap of Neural Quantum States Applied to the Hofstadter-Bose-Hubbard Model**|Eimantas Ledinauskas et.al.|[2405.01981](http://arxiv.org/abs/2405.01981)|null|
-|**2024-05-02**|**Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations**|Nima Hosseini Dashtbayaz et.al.|[2405.01680](http://arxiv.org/abs/2405.01680)|null|
+|**2024-05-02**|**Physics-Informed Neural Networks: Minimizing Residual Loss with Wide Networks and Effective Activations**|Nima Hosseini Dashtbayaz et.al.|[2405.01680](http://arxiv.org/abs/2405.01680)|**[link](https://github.com/nimahsn/pinns_tf2)**|
 |**2024-05-02**|**Model-based Deep Learning for Rate Split Multiple Access in Vehicular Communications**|Hanwen Zhang et.al.|[2405.01515](http://arxiv.org/abs/2405.01515)|null|
 |**2024-05-02**|**Common pitfalls to avoid while using multiobjective optimization in machine learning**|Junaid Akhter et.al.|[2405.01480](http://arxiv.org/abs/2405.01480)|null|
 |**2024-05-02**|**S $^2$ AC: Energy-Based Reinforcement Learning with Stein Soft Actor Critic**|Safa Messaoud et.al.|[2405.00987](http://arxiv.org/abs/2405.00987)|**[link](https://github.com/safamessaoud/s2ac-energy-based-rl-with-stein-soft-actor-critic)**|
@@ -4506,7 +4506,7 @@ layout: default
 |**2024-04-29**|**Synthesizing the Born rule with reinforcement learning**|Rodrigo S. Piera et.al.|[2404.19011](http://arxiv.org/abs/2404.19011)|null|
 |**2024-04-29**|**Towards Generalizable Agents in Text-Based Educational Environments: A Study of Integrating RL with LLMs**|Bahar Radmehr et.al.|[2404.18978](http://arxiv.org/abs/2404.18978)|null|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
-|**2024-04-29**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
+|**2024-05-03**|**Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty**|Laixi Shi et.al.|[2404.18909](http://arxiv.org/abs/2404.18909)|null|
 |**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
 |**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
 |**2024-04-30**|**Winning the Social Media Influence Battle: Uncertainty-Aware Opinions to Understand and Spread True Information via Competitive Influence Maximization**|Qi Zhang et.al.|[2404.18826](http://arxiv.org/abs/2404.18826)|null|
