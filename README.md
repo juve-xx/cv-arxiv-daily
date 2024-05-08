@@ -2470,6 +2470,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135](http://arxiv.org/abs/2405.04135)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901](http://arxiv.org/abs/2405.03901)|null|
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-06**|**OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization**|Weidong Wang et.al.|[2405.03215](http://arxiv.org/abs/2405.03215)|null|
 |**2024-05-04**|**CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions**|Hanchong Zhang et.al.|[2405.02712](http://arxiv.org/abs/2405.02712)|null|
@@ -2892,6 +2896,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
+|**2024-05-07**|**Speaker Characterization by means of Attention Pooling**|Federico Costa et.al.|[2405.04096](http://arxiv.org/abs/2405.04096)|null|
+|**2024-05-07**|**DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects**|Da Fu et.al.|[2405.04093](http://arxiv.org/abs/2405.04093)|null|
+|**2024-05-07**|**Learning Linear Block Error Correction Codes**|Yoni Choukroun et.al.|[2405.04050](http://arxiv.org/abs/2405.04050)|**[link](https://github.com/yonilc/e2e_dc_ecct)**|
+|**2024-05-07**|**Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model**|Joo Young Choi et.al.|[2405.03958](http://arxiv.org/abs/2405.03958)|null|
+|**2024-05-07**|**Intelligent Cardiac Auscultation for Murmur Detection via Parallel-Attentive Models with Uncertainty Estimation**|Zixing Zhang et.al.|[2405.03953](http://arxiv.org/abs/2405.03953)|null|
+|**2024-05-07**|**HAFFormer: A Hierarchical Attention-Free Framework for Alzheimer's Disease Detection From Spontaneous Speech**|Zhongren Dong et.al.|[2405.03952](http://arxiv.org/abs/2405.03952)|null|
 |**2024-05-06**|**AnchorGT: Efficient and Flexible Attention Architecture for Scalable Graph Transformers**|Wenhao Zhu et.al.|[2405.03481](http://arxiv.org/abs/2405.03481)|null|
 |**2024-05-06**|**Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**|Jiesong Bai et.al.|[2405.03349](http://arxiv.org/abs/2405.03349)|null|
 |**2024-05-06**|**Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation**|Yingying Zhang et.al.|[2405.03318](http://arxiv.org/abs/2405.03318)|null|
@@ -3332,6 +3343,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-07**|**Explainability-Informed Targeted Malware Misclassification**|Quincy Card et.al.|[2405.04010](http://arxiv.org/abs/2405.04010)|null|
 |**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
 |**2024-05-06**|**Optimisation challenge for superconducting adiabatic neural network implementing XOR and OR boolean functions**|D. S. Pashin et.al.|[2405.03521](http://arxiv.org/abs/2405.03521)|null|
@@ -3965,6 +3979,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
+|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-07**|**Explainability-Informed Targeted Malware Misclassification**|Quincy Card et.al.|[2405.04010](http://arxiv.org/abs/2405.04010)|null|
 |**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
 |**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
@@ -4503,6 +4520,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
+|**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
+|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-07**|**The Curse of Diversity in Ensemble-Based Exploration**|Zhixuan Lin et.al.|[2405.04342](http://arxiv.org/abs/2405.04342)|**[link](https://github.com/zhixuan-lin/ensemble-rl-discrete)**|
+|**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
+|**2024-05-07**|**Genetic Drift Regularization: on preventing Actor Injection from breaking Evolution Strategies**|Paul Templier et.al.|[2405.04322](http://arxiv.org/abs/2405.04322)|null|
+|**2024-05-07**|**Improving Offline Reinforcement Learning with Inaccurate Simulators**|Yiwen Hou et.al.|[2405.04307](http://arxiv.org/abs/2405.04307)|null|
+|**2024-05-07**|**Deep Reinforcement Learning for Multi-User RF Charging with Non-linear Energy Harvesters**|Amirhossein Azarbahram et.al.|[2405.04218](http://arxiv.org/abs/2405.04218)|null|
+|**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135](http://arxiv.org/abs/2405.04135)|null|
+|**2024-05-07**|**Logic-Skill Programming: An Optimization-based Approach to Sequential Skill Planning**|Teng Xue et.al.|[2405.04082](http://arxiv.org/abs/2405.04082)|null|
+|**2024-05-07**|**An Improved Finite-time Analysis of Temporal Difference Learning with Deep Neural Networks**|Zhifa Ke et.al.|[2405.04017](http://arxiv.org/abs/2405.04017)|null|
+|**2024-05-07**|**Latency and Energy Minimization in NOMA-Assisted MEC Network: A Federated Deep Reinforcement Learning Approach**|Arian Ahmadi et.al.|[2405.04012](http://arxiv.org/abs/2405.04012)|null|
+|**2024-05-07**|**SwiftRL: Towards Efficient Reinforcement Learning on Real Processing-In-Memory Systems**|Kailash Gogineni et.al.|[2405.03967](http://arxiv.org/abs/2405.03967)|**[link](https://github.com/kailashg26/swiftrl)**|
+|**2024-05-07**|**Roadside Units Assisted Localized Automated Vehicle Maneuvering: An Offline Reinforcement Learning Approach**|Kui Wang et.al.|[2405.03935](http://arxiv.org/abs/2405.03935)|null|
+|**2024-05-06**|**Out-of-Distribution Adaptation in Offline RL: Counterfactual Reasoning via Causal Normalizing Flows**|Minjae Cho et.al.|[2405.03892](http://arxiv.org/abs/2405.03892)|null|
+|**2024-05-06**|**Enhancing O-RAN Security: Evasion Attacks and Robust Defenses for Graph Reinforcement Learning-based Connection Management**|Ravikumar Balakrishnan et.al.|[2405.03891](http://arxiv.org/abs/2405.03891)|null|
+|**2024-05-06**|**Sequence Compression Speeds Up Credit Assignment in Reinforcement Learning**|Aditya A. Ramesh et.al.|[2405.03878](http://arxiv.org/abs/2405.03878)|**[link](https://github.com/aditya-ramesh-10/chunktd)**|
+|**2024-05-02**|**CityLearn v2: Energy-flexible, resilient, occupant-centric, and carbon-aware management of grid-interactive communities**|Kingsley Nweye et.al.|[2405.03848](http://arxiv.org/abs/2405.03848)|null|
+|**2024-05-06**|**Large Language Models as Instruments of Power: New Regimes of Autonomous Manipulation and Control**|Yaqub Chaudhary et.al.|[2405.03813](http://arxiv.org/abs/2405.03813)|null|
+|**2024-05-04**|**Guidance Design for Escape Flight Vehicle Using Evolution Strategy Enhanced Deep Reinforcement Learning**|Xiao Hu et.al.|[2405.03711](http://arxiv.org/abs/2405.03711)|null|
 |**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
 |**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
 |**2024-05-06**|**ReinWiFi: A Reinforcement-Learning-Based Framework for the Application-Layer QoS Optimization of WiFi Networks**|Qianren Li et.al.|[2405.03526](http://arxiv.org/abs/2405.03526)|null|
