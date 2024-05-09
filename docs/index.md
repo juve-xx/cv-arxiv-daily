@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2446,7 +2446,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
 |**2024-05-07**|**In-context Learning for Automated Driving Scenarios**|Ziqi Zhou et.al.|[2405.04135](http://arxiv.org/abs/2405.04135)|null|
-|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-08**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
 |**2024-05-06**|**OmniActions: Predicting Digital Actions in Response to Real-World Multimodal Sensory Inputs with LLMs**|Jiahao Nick Li et.al.|[2405.03901](http://arxiv.org/abs/2405.03901)|null|
 |**2024-05-06**|**Are Human Rules Necessary? Generating Reusable APIs with CoT Reasoning and In-Context Learning**|Yubo Mai et.al.|[2405.03509](http://arxiv.org/abs/2405.03509)|null|
 |**2024-05-06**|**OMP-Engineer: Bridging Syntax Analysis and In-Context Learning for Efficient Automated OpenMP Parallelization**|Weidong Wang et.al.|[2405.03215](http://arxiv.org/abs/2405.03215)|null|
@@ -3314,7 +3314,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
-|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-08**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
 |**2024-05-07**|**Explainability-Informed Targeted Malware Misclassification**|Quincy Card et.al.|[2405.04010](http://arxiv.org/abs/2405.04010)|null|
 |**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
 |**2024-05-06**|**One nose but two nostrils: Learn to align with sparse connections between two olfactory cortices**|Bo Liu et.al.|[2405.03602](http://arxiv.org/abs/2405.03602)|null|
@@ -3338,7 +3338,7 @@ layout: default
 |**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|**[link](https://github.com/nust-machine-intelligence-laboratory/ddtas)**|
 |**2024-04-30**|**On a Family of Relaxed Gradient Descent Methods for Quadratic Minimization**|Liam MacDonald et.al.|[2404.19255](http://arxiv.org/abs/2404.19255)|null|
 |**2024-04-29**|**Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**|Javier Antoran et.al.|[2404.19157](http://arxiv.org/abs/2404.19157)|null|
-|**2024-04-29**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
+|**2024-05-08**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
 |**2024-04-29**|**Fast Quantum Process Tomography via Riemannian Gradient Descent**|Daniel Volya et.al.|[2404.18840](http://arxiv.org/abs/2404.18840)|null|
 |**2024-04-29**|**Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems**|Jin Huang et.al.|[2404.18640](http://arxiv.org/abs/2404.18640)|**[link](https://github.com/betsyhj/multifactorialbias)**|
 |**2024-04-29**|**Learning a Sparse Neural Network using IHT**|Saeed Damadi et.al.|[2404.18414](http://arxiv.org/abs/2404.18414)|null|
@@ -3380,7 +3380,7 @@ layout: default
 |**2024-04-18**|**Singular-limit analysis of gradient descent with noise injection**|Anna Shalova et.al.|[2404.12293](http://arxiv.org/abs/2404.12293)|null|
 |**2024-04-18**|**Investigating Variance Definitions for Mirror Descent with Relative Smoothness**|Hadrien Hendrikx et.al.|[2404.12213](http://arxiv.org/abs/2404.12213)|null|
 |**2024-04-17**|**Constrained Stochastic Recursive Momentum Successive Convex Approximation**|Basil M. Idrees et.al.|[2404.11790](http://arxiv.org/abs/2404.11790)|null|
-|**2024-04-17**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
+|**2024-05-08**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
 |**2024-04-17**|**Implementation and Evaluation of a Gradient Descent-Trained Defensible Blackboard Architecture System**|Jordan Milbrath et.al.|[2404.11714](http://arxiv.org/abs/2404.11714)|null|
 |**2024-04-17**|**A New Algorithm With Lower Complexity for Bilevel Optimization**|Haimei Huo et.al.|[2404.11377](http://arxiv.org/abs/2404.11377)|null|
 |**2024-04-17**|**Distributed Fractional Bayesian Learning for Adaptive Optimization**|Yaqun Yang et.al.|[2404.11354](http://arxiv.org/abs/2404.11354)|null|
@@ -3946,7 +3946,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
-|**2024-05-07**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
+|**2024-05-08**|**Locally Differentially Private In-Context Learning**|Chunyan Zheng et.al.|[2405.04032](http://arxiv.org/abs/2405.04032)|null|
 |**2024-05-07**|**Explainability-Informed Targeted Malware Misclassification**|Quincy Card et.al.|[2405.04010](http://arxiv.org/abs/2405.04010)|null|
 |**2024-05-06**|**Why is SAM Robust to Label Noise?**|Christina Baek et.al.|[2405.03676](http://arxiv.org/abs/2405.03676)|null|
 |**2024-05-06**|**$ε$ -Policy Gradient for Online Pricing**|Lukasz Szpruch et.al.|[2405.03624](http://arxiv.org/abs/2405.03624)|null|
@@ -3976,7 +3976,7 @@ layout: default
 |**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|**[link](https://github.com/nust-machine-intelligence-laboratory/ddtas)**|
 |**2024-04-30**|**On a Family of Relaxed Gradient Descent Methods for Quadratic Minimization**|Liam MacDonald et.al.|[2404.19255](http://arxiv.org/abs/2404.19255)|null|
 |**2024-04-29**|**Scalable Bayesian Inference in the Era of Deep Learning: From Gaussian Processes to Deep Neural Networks**|Javier Antoran et.al.|[2404.19157](http://arxiv.org/abs/2404.19157)|null|
-|**2024-04-29**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
+|**2024-05-08**|**Better Optimization of Variational Quantum Eigensolvers by combining the Unitary Block Optimization Scheme with Classical Post-Processing**|Xiaochuan Ding et.al.|[2404.19027](http://arxiv.org/abs/2404.19027)|null|
 |**2024-04-29**|**Fast Quantum Process Tomography via Riemannian Gradient Descent**|Daniel Volya et.al.|[2404.18840](http://arxiv.org/abs/2404.18840)|null|
 |**2024-04-29**|**Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems**|Jin Huang et.al.|[2404.18640](http://arxiv.org/abs/2404.18640)|**[link](https://github.com/betsyhj/multifactorialbias)**|
 |**2024-04-29**|**Learning a Sparse Neural Network using IHT**|Saeed Damadi et.al.|[2404.18414](http://arxiv.org/abs/2404.18414)|null|
@@ -4021,7 +4021,7 @@ layout: default
 |**2024-04-18**|**Investigating Variance Definitions for Mirror Descent with Relative Smoothness**|Hadrien Hendrikx et.al.|[2404.12213](http://arxiv.org/abs/2404.12213)|null|
 |**2024-04-17**|**Constrained Stochastic Recursive Momentum Successive Convex Approximation**|Basil M. Idrees et.al.|[2404.11790](http://arxiv.org/abs/2404.11790)|null|
 |**2024-04-19**|**QGen: On the Ability to Generalize in Quantization Aware Training**|MohammadHossein AskariHemmat et.al.|[2404.11769](http://arxiv.org/abs/2404.11769)|null|
-|**2024-04-17**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
+|**2024-05-08**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
 |**2024-04-17**|**Implementation and Evaluation of a Gradient Descent-Trained Defensible Blackboard Architecture System**|Jordan Milbrath et.al.|[2404.11714](http://arxiv.org/abs/2404.11714)|null|
 |**2024-04-17**|**A New Algorithm With Lower Complexity for Bilevel Optimization**|Haimei Huo et.al.|[2404.11377](http://arxiv.org/abs/2404.11377)|null|
 |**2024-04-17**|**Distributed Fractional Bayesian Learning for Adaptive Optimization**|Yaqun Yang et.al.|[2404.11354](http://arxiv.org/abs/2404.11354)|null|
@@ -4486,7 +4486,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
 |**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
-|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-08**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
 |**2024-05-07**|**The Curse of Diversity in Ensemble-Based Exploration**|Zhixuan Lin et.al.|[2405.04342](http://arxiv.org/abs/2405.04342)|**[link](https://github.com/zhixuan-lin/ensemble-rl-discrete)**|
 |**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
 |**2024-05-07**|**Genetic Drift Regularization: on preventing Actor Injection from breaking Evolution Strategies**|Paul Templier et.al.|[2405.04322](http://arxiv.org/abs/2405.04322)|null|
