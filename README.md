@@ -2901,6 +2901,7 @@
 |---|---|---|---|---|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219](http://arxiv.org/abs/2405.05219)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001](http://arxiv.org/abs/2405.05001)|**[link](https://github.com/korouuuuu/hma)**|
+|**2024-05-09**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807](http://arxiv.org/abs/2405.04807)|**[link](https://github.com/kn0wthing/netsdb)**|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
 |**2024-05-07**|**Speaker Characterization by means of Attention Pooling**|Federico Costa et.al.|[2405.04096](http://arxiv.org/abs/2405.04096)|null|
 |**2024-05-07**|**DCNN: Dual Cross-current Neural Networks Realized Using An Interactive Deep Learning Discriminator for Fine-grained Objects**|Da Fu et.al.|[2405.04093](http://arxiv.org/abs/2405.04093)|null|
@@ -3348,6 +3349,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865](http://arxiv.org/abs/2405.05865)|null|
+|**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
+|**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
 |**2024-05-08**|**A Gauss-Newton Method for ODE Optimal Tracking Control**|Vicky Holfeld et.al.|[2405.05124](http://arxiv.org/abs/2405.05124)|null|
 |**2024-05-08**|**One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms**|Junren Chen et.al.|[2405.04733](http://arxiv.org/abs/2405.04733)|null|
 |**2024-05-07**|**Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics**|Hanlin Zhu et.al.|[2405.04669](http://arxiv.org/abs/2405.04669)|null|
@@ -3987,6 +3991,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865](http://arxiv.org/abs/2405.05865)|null|
+|**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
+|**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
 |**2024-05-08**|**A Gauss-Newton Method for ODE Optimal Tracking Control**|Vicky Holfeld et.al.|[2405.05124](http://arxiv.org/abs/2405.05124)|null|
 |**2024-05-08**|**One-Bit Phase Retrieval: Optimal Rates and Efficient Algorithms**|Junren Chen et.al.|[2405.04733](http://arxiv.org/abs/2405.04733)|null|
 |**2024-05-07**|**Towards a Theoretical Understanding of the 'Reversal Curse' via Training Dynamics**|Hanlin Zhu et.al.|[2405.04669](http://arxiv.org/abs/2405.04669)|null|
@@ -4531,6 +4538,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**An RNN-policy gradient approach for quantum architecture search**|Gang Wang et.al.|[2405.05892](http://arxiv.org/abs/2405.05892)|null|
+|**2024-05-09**|**Safe Exploration Using Bayesian World Models and Log-Barrier Optimization**|Yarden As et.al.|[2405.05890](http://arxiv.org/abs/2405.05890)|null|
+|**2024-05-09**|**Policy Gradient with Active Importance Sampling**|Matteo Papini et.al.|[2405.05630](http://arxiv.org/abs/2405.05630)|null|
+|**2024-05-09**|**An Automatic Prompt Generation System for Tabular Data Tasks**|Ashlesha Akella et.al.|[2405.05618](http://arxiv.org/abs/2405.05618)|null|
+|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|null|
+|**2024-05-08**|**Model-Free Robust $φ$ -Divergence Reinforcement Learning Using Both Offline and Online Data**|Kishan Panaganti et.al.|[2405.05468](http://arxiv.org/abs/2405.05468)|null|
+|**2024-05-08**|**Markowitz Meets Bellman: Knowledge-distilled Reinforcement Learning for Portfolio Management**|Gang Hu et.al.|[2405.05449](http://arxiv.org/abs/2405.05449)|null|
+|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372](http://arxiv.org/abs/2405.05372)|null|
+|**2024-05-08**|**Offline Model-Based Optimization via Policy-Guided Gradient Search**|Yassine Chemingui et.al.|[2405.05349](http://arxiv.org/abs/2405.05349)|**[link](https://github.com/yassinech/pgs)**|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
 |**2024-05-08**|**Fault Identification Enhancement with Reinforcement Learning (FIERL)**|Valentina Zaccaria et.al.|[2405.04938](http://arxiv.org/abs/2405.04938)|**[link](https://github.com/davidesartor/FIERL)**|
 |**2024-05-07**|**RACER: Epistemic Risk-Sensitive RL Enables Fast Driving with Fewer Crashes**|Kyle Stachowicz et.al.|[2405.04714](http://arxiv.org/abs/2405.04714)|null|
@@ -4586,7 +4602,7 @@
 |**2024-05-03**|**Artificial-Intelligence-Driven Shot Reduction in Quantum Measurement**|Senwei Liang et.al.|[2405.02493](http://arxiv.org/abs/2405.02493)|null|
 |**2024-05-03**|**Proximal Curriculum with Task Correlations for Deep Reinforcement Learning**|Georgios Tzannetos et.al.|[2405.02481](http://arxiv.org/abs/2405.02481)|null|
 |**2024-05-03**|**Natural Policy Gradient and Actor Critic Methods for Constrained Multi-Task Reinforcement Learning**|Sihan Zeng et.al.|[2405.02456](http://arxiv.org/abs/2405.02456)|null|
-|**2024-05-03**|**Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design**|Quan Nguyen et.al.|[2405.02449](http://arxiv.org/abs/2405.02449)|null|
+|**2024-05-03**|**Quality-Weighted Vendi Scores And Their Application To Diverse Experimental Design**|Quan Nguyen et.al.|[2405.02449](http://arxiv.org/abs/2405.02449)|**[link](https://github.com/vertaix/quality-weighted-vendi-score)**|
 |**2024-05-03**|**Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning**|Dhruva Tirumala et.al.|[2405.02425](http://arxiv.org/abs/2405.02425)|null|
 |**2024-05-03**|**Exponentially Weighted Algorithm for Online Network Resource Allocation with Long-Term Constraints**|Ahmed Sid-Ali et.al.|[2405.02373](http://arxiv.org/abs/2405.02373)|null|
 |**2024-05-03**|**Geometric Fabrics: a Safe Guiding Medium for Policy Learning**|Karl Van Wyk et.al.|[2405.02250](http://arxiv.org/abs/2405.02250)|null|
