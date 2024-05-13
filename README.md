@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
+|**2024-05-10**|**Memory Mosaics**|Jianyu Zhang et.al.|[2405.06394](http://arxiv.org/abs/2405.06394)|null|
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|**[link](https://github.com/cisnlp/xampler)**|
 |**2024-05-08**|**P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models**|Guochao Jiang et.al.|[2405.04960](http://arxiv.org/abs/2405.04960)|null|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753](http://arxiv.org/abs/2405.04753)|null|
@@ -2899,6 +2902,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
+|**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219](http://arxiv.org/abs/2405.05219)|null|
 |**2024-05-08**|**HMANet: Hybrid Multi-Axis Aggregation Network for Image Super-Resolution**|Shu-Chuan Chu et.al.|[2405.05001](http://arxiv.org/abs/2405.05001)|**[link](https://github.com/korouuuuu/hma)**|
 |**2024-05-09**|**Transformer Architecture for NetsDB**|Subodh Kamble et.al.|[2405.04807](http://arxiv.org/abs/2405.04807)|**[link](https://github.com/kn0wthing/netsdb)**|
@@ -3349,6 +3354,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
+|**2024-05-10**|**Efficient Federated Low Rank Matrix Completion**|Ahmed Ali Abbasi et.al.|[2405.06569](http://arxiv.org/abs/2405.06569)|null|
+|**2024-05-10**|**Gradient Descent for Noisy Optimization**|Annie Hu et.al.|[2405.06539](http://arxiv.org/abs/2405.06539)|null|
+|**2024-05-10**|**Geometric Approaches to Matrix Normalization and Graph Balancing**|Tom Needham et.al.|[2405.06190](http://arxiv.org/abs/2405.06190)|null|
+|**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186](http://arxiv.org/abs/2405.06186)|null|
 |**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865](http://arxiv.org/abs/2405.05865)|null|
 |**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
 |**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
@@ -3991,6 +4001,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
+|**2024-05-10**|**Efficient Federated Low Rank Matrix Completion**|Ahmed Ali Abbasi et.al.|[2405.06569](http://arxiv.org/abs/2405.06569)|null|
+|**2024-05-10**|**Gradient Descent for Noisy Optimization**|Annie Hu et.al.|[2405.06539](http://arxiv.org/abs/2405.06539)|null|
+|**2024-05-10**|**Geometric Approaches to Matrix Normalization and Graph Balancing**|Tom Needham et.al.|[2405.06190](http://arxiv.org/abs/2405.06190)|null|
+|**2024-05-10**|**Sensing-Assisted Adaptive Channel Contention for Mobile Delay-Sensitive Communications**|Bojie Lv et.al.|[2405.06186](http://arxiv.org/abs/2405.06186)|null|
 |**2024-05-09**|**Faster Linear Systems and Matrix Norm Approximation via Multi-level Sketched Preconditioning**|Michał Dereziński et.al.|[2405.05865](http://arxiv.org/abs/2405.05865)|null|
 |**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
 |**2024-05-09**|**Towards Accurate and Robust Architectures via Neural Architecture Search**|Yuwei Ou et.al.|[2405.05502](http://arxiv.org/abs/2405.05502)|null|
@@ -4538,6 +4553,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**EcoEdgeTwin: Enhanced 6G Network via Mobile Edge Computing and Digital Twin Integration**|Synthia Hossain Karobi et.al.|[2405.06507](http://arxiv.org/abs/2405.06507)|null|
+|**2024-05-10**|**Advantageous and disadvantageous inequality aversion can be taught through vicarious learning of others' preferences**|Shen Zhang et.al.|[2405.06500](http://arxiv.org/abs/2405.06500)|null|
+|**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422](http://arxiv.org/abs/2405.06422)|null|
+|**2024-05-10**|**Projection by Convolution: Optimal Sample Complexity for Reinforcement Learning in Continuous-Space MDPs**|Davide Maran et.al.|[2405.06363](http://arxiv.org/abs/2405.06363)|null|
+|**2024-05-10**|**Learning Latent Dynamic Robust Representations for World Models**|Ruixiang Sun et.al.|[2405.06263](http://arxiv.org/abs/2405.06263)|**[link](https://github.com/bit1029public/hrssm)**|
+|**2024-05-10**|**Contrastive Representation for Data Filtering in Cross-Domain Offline Reinforcement Learning**|Xiaoyu Wen et.al.|[2405.06192](http://arxiv.org/abs/2405.06192)|**[link](https://github.com/battlewen/igdf)**|
+|**2024-05-10**|**(A Partial Survey of) Decentralized, Cooperative Multi-Agent Reinforcement Learning**|Christopher Amato et.al.|[2405.06161](http://arxiv.org/abs/2405.06161)|null|
 |**2024-05-09**|**An RNN-policy gradient approach for quantum architecture search**|Gang Wang et.al.|[2405.05892](http://arxiv.org/abs/2405.05892)|null|
 |**2024-05-09**|**Safe Exploration Using Bayesian World Models and Log-Barrier Optimization**|Yarden As et.al.|[2405.05890](http://arxiv.org/abs/2405.05890)|null|
 |**2024-05-09**|**Policy Gradient with Active Importance Sampling**|Matteo Papini et.al.|[2405.05630](http://arxiv.org/abs/2405.05630)|null|
