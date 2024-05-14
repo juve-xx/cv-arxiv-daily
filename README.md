@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models**|Shuo Liu et.al.|[2405.07626](http://arxiv.org/abs/2405.07626)|**[link](https://github.com/anomalyllm/anomalyllm)**|
+|**2024-05-13**|**COBias and Debias: Minimizing Language Model Pairwise Accuracy Bias via Nonlinear Integer Programming**|Ruixi Lin et.al.|[2405.07623](http://arxiv.org/abs/2405.07623)|null|
+|**2024-05-13**|**MCS-SQL: Leveraging Multiple Prompts and Multiple-Choice Selection For Text-to-SQL Generation**|Dongjun Lee et.al.|[2405.07467](http://arxiv.org/abs/2405.07467)|null|
+|**2024-05-10**|**An Empirical Study on the Effectiveness of Large Language Models for SATD Identification and Classification**|Mohammad Sadegh Sheikhaei et.al.|[2405.06806](http://arxiv.org/abs/2405.06806)|null|
+|**2024-04-21**|**ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering**|Yiqing Shen et.al.|[2405.06658](http://arxiv.org/abs/2405.06658)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-10**|**Memory Mosaics**|Jianyu Zhang et.al.|[2405.06394](http://arxiv.org/abs/2405.06394)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
@@ -2902,6 +2907,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Signal Enhancement in Distributed Acoustic Sensing Data Using a Guided Unsupervised Deep Learning Network**|Omar M. Saad et.al.|[2405.07660](http://arxiv.org/abs/2405.07660)|null|
+|**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
+|**2024-05-13**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
+|**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
+|**2024-05-12**|**Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization**|Xinyuan Zhang et.al.|[2405.07140](http://arxiv.org/abs/2405.07140)|null|
+|**2024-05-11**|**RoTHP: Rotary Position Embedding-based Transformer Hawkes Process**|Anningzhe Gao et.al.|[2405.06985](http://arxiv.org/abs/2405.06985)|null|
+|**2024-05-09**|**Evaluating the Efficacy of AI Techniques in Textual Anonymization: A Comparative Study**|Dimitris Asimopoulos et.al.|[2405.06709](http://arxiv.org/abs/2405.06709)|null|
 |**2024-05-10**|**A Lightweight Transformer for Remote Sensing Image Change Captioning**|Dongwei Sun et.al.|[2405.06598](http://arxiv.org/abs/2405.06598)|null|
 |**2024-05-10**|**Mesh Denoising Transformer**|Wenbo Zhao et.al.|[2405.06536](http://arxiv.org/abs/2405.06536)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219](http://arxiv.org/abs/2405.05219)|null|
@@ -3354,6 +3366,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
+|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-13**|**Analysis of the rate of convergence of an over-parametrized convolutional neural network image classifier learned by gradient descent**|Michael Kohler et.al.|[2405.07619](http://arxiv.org/abs/2405.07619)|null|
+|**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
+|**2024-05-12**|**VALID: a Validated Algorithm for Learning in Decentralized Networks with Possible Adversarial Presence**|Mayank Bakshi et.al.|[2405.07316](http://arxiv.org/abs/2405.07316)|null|
 |**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
 |**2024-05-10**|**Efficient Federated Low Rank Matrix Completion**|Ahmed Ali Abbasi et.al.|[2405.06569](http://arxiv.org/abs/2405.06569)|null|
 |**2024-05-10**|**Gradient Descent for Noisy Optimization**|Annie Hu et.al.|[2405.06539](http://arxiv.org/abs/2405.06539)|null|
@@ -3863,6 +3880,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Class-wise Activation Unravelling the Engima of Deep Double Descent**|Yufei Gu et.al.|[2405.07679](http://arxiv.org/abs/2405.07679)|null|
+|**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
 |**2024-04-29**|**Learning with Norm Constrained, Over-parameterized, Two-layer Neural Networks**|Fanghui Liu et.al.|[2404.18769](http://arxiv.org/abs/2404.18769)|null|
 |**2024-04-20**|**Accelerated Methods with Compression for Horizontal and Vertical Federated Learning**|Sergey Stanko et.al.|[2404.13328](http://arxiv.org/abs/2404.13328)|null|
 |**2024-04-07**|**Coordinated Sparse Recovery of Label Noise**|Yukun Yang et.al.|[2404.04800](http://arxiv.org/abs/2404.04800)|null|
@@ -4001,6 +4020,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
+|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-13**|**Analysis of the rate of convergence of an over-parametrized convolutional neural network image classifier learned by gradient descent**|Michael Kohler et.al.|[2405.07619](http://arxiv.org/abs/2405.07619)|null|
+|**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
+|**2024-05-12**|**VALID: a Validated Algorithm for Learning in Decentralized Networks with Possible Adversarial Presence**|Mayank Bakshi et.al.|[2405.07316](http://arxiv.org/abs/2405.07316)|null|
+|**2024-05-11**|**Sharpness-Aware Minimization for Evolutionary Feature Construction in Regression**|Hengzhe Zhang et.al.|[2405.06869](http://arxiv.org/abs/2405.06869)|null|
 |**2024-05-10**|**The Role of Learning Algorithms in Collective Action**|Omri Ben-Dov et.al.|[2405.06582](http://arxiv.org/abs/2405.06582)|null|
 |**2024-05-10**|**Efficient Federated Low Rank Matrix Completion**|Ahmed Ali Abbasi et.al.|[2405.06569](http://arxiv.org/abs/2405.06569)|null|
 |**2024-05-10**|**Gradient Descent for Noisy Optimization**|Annie Hu et.al.|[2405.06539](http://arxiv.org/abs/2405.06539)|null|
@@ -4553,6 +4578,38 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**RLHF Workflow: From Reward Modeling to Online RLHF**|Hanze Dong et.al.|[2405.07863](http://arxiv.org/abs/2405.07863)|**[link](https://github.com/rlhflow/online-rlhf)**|
+|**2024-05-13**|**Adaptive Exploration for Data-Efficient General Value Function Evaluations**|Arushi Jain et.al.|[2405.07838](http://arxiv.org/abs/2405.07838)|null|
+|**2024-05-13**|**Fixed Point Theory Analysis of a Lambda Policy Iteration with Randomization for the Ćirić Contraction Operator**|Abdelkader Belhenniche et.al.|[2405.07824](http://arxiv.org/abs/2405.07824)|null|
+|**2024-05-13**|**Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization**|Georg Kruse et.al.|[2405.07790](http://arxiv.org/abs/2405.07790)|null|
+|**2024-05-13**|**Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation**|Maja Franz et.al.|[2405.07770](http://arxiv.org/abs/2405.07770)|null|
+|**2024-05-13**|**CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization**|Wei-Ting Tang et.al.|[2405.07760](http://arxiv.org/abs/2405.07760)|null|
+|**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
+|**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
+|**2024-05-13**|**Backdoor Removal for Generative Large Language Models**|Haoran Li et.al.|[2405.07667](http://arxiv.org/abs/2405.07667)|null|
+|**2024-05-13**|**Near-Optimal Regret in Linear MDPs with Aggregate Bandit Feedback**|Asaf Cassel et.al.|[2405.07637](http://arxiv.org/abs/2405.07637)|null|
+|**2024-05-13**|**Towards Adaptive IMFs -- Generalization of utility functions in Multi-Agent Frameworks**|Kaushik Dey et.al.|[2405.07621](http://arxiv.org/abs/2405.07621)|null|
+|**2024-05-13**|**Reducing Risk for Assistive Reinforcement Learning Policies with Diffusion Models**|Andrii Tytarenko et.al.|[2405.07603](http://arxiv.org/abs/2405.07603)|null|
+|**2024-05-13**|**Intrinsic Rewards for Exploration without Harm from Observational Noise: A Simulation Study Based on the Free Energy Principle**|Theodore Jerome Tinker et.al.|[2405.07473](http://arxiv.org/abs/2405.07473)|null|
+|**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
+|**2024-05-13**|**Structured Reinforcement Learning for Incentivized Stochastic Covert Optimization**|Adit Jain et.al.|[2405.07415](http://arxiv.org/abs/2405.07415)|null|
+|**2024-05-12**|**AdaptNet: Rethinking Sensing and Communication for a Seamless Internet of Drones Experience**|Ananya Hazarika et.al.|[2405.07318](http://arxiv.org/abs/2405.07318)|null|
+|**2024-05-12**|**DiffGen: Robot Demonstration Generation via Differentiable Physics Simulation, Differentiable Rendering, and Vision-Language Model**|Yang Jin et.al.|[2405.07309](http://arxiv.org/abs/2405.07309)|null|
+|**2024-05-12**|**Ensemble Successor Representations for Task Generalization in Offline-to-Online Reinforcement Learning**|Changhong Wang et.al.|[2405.07223](http://arxiv.org/abs/2405.07223)|null|
+|**2024-05-12**|**On-Demand Model and Client Deployment in Federated Learning with Deep Reinforcement Learning**|Mario Chahoud et.al.|[2405.07175](http://arxiv.org/abs/2405.07175)|null|
+|**2024-05-11**|**Auditing an Automatic Grading Model with deep Reinforcement Learning**|Aubrey Condor et.al.|[2405.07087](http://arxiv.org/abs/2405.07087)|null|
+|**2024-05-11**|**Stealthy Imitation: Reward-guided Environment-free Policy Stealing**|Zhixiong Zhuang et.al.|[2405.07004](http://arxiv.org/abs/2405.07004)|null|
+|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
+|**2024-05-11**|**Automating Creativity**|Ming-Hui Huang et.al.|[2405.06915](http://arxiv.org/abs/2405.06915)|null|
+|**2024-05-11**|**Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator**|Hartej Soin et.al.|[2405.06910](http://arxiv.org/abs/2405.06910)|null|
+|**2024-05-11**|**Fairness in Reinforcement Learning: A Survey**|Anka Reuel et.al.|[2405.06909](http://arxiv.org/abs/2405.06909)|null|
+|**2024-05-10**|**Dominion: A New Frontier for AI Research**|Danny Halawi et.al.|[2405.06846](http://arxiv.org/abs/2405.06846)|null|
+|**2024-05-10**|**Improving Targeted Molecule Generation through Language Model Fine-Tuning Via Reinforcement Learning**|Salma J. Ahmed et.al.|[2405.06836](http://arxiv.org/abs/2405.06836)|null|
+|**2024-05-10**|**Open Challenges and Opportunities in Federated Foundation Models Towards Biomedical Healthcare**|Xingyu Li et.al.|[2405.06784](http://arxiv.org/abs/2405.06784)|null|
+|**2024-05-10**|**Hedging American Put Options with Deep Reinforcement Learning**|Reilly Pickard et.al.|[2405.06774](http://arxiv.org/abs/2405.06774)|null|
+|**2024-05-10**|**Space Processor Computation Time Analysis for Reinforcement Learning and Run Time Assurance Control Policies**|Kyle Dunlap et.al.|[2405.06771](http://arxiv.org/abs/2405.06771)|null|
+|**2024-05-10**|**Demonstrating Reinforcement Learning and Run Time Assurance for Spacecraft Inspection Using Unmanned Aerial Vehicles**|Kyle Dunlap et.al.|[2405.06770](http://arxiv.org/abs/2405.06770)|null|
+|**2024-05-10**|**Scalable and Effective Arithmetic Tree Generation for Adder and Multiplier Designs**|Yao Lai et.al.|[2405.06758](http://arxiv.org/abs/2405.06758)|**[link](https://github.com/laiyao1/arithmetictree)**|
 |**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**EcoEdgeTwin: Enhanced 6G Network via Mobile Edge Computing and Digital Twin Integration**|Synthia Hossain Karobi et.al.|[2405.06507](http://arxiv.org/abs/2405.06507)|null|
 |**2024-05-10**|**Advantageous and disadvantageous inequality aversion can be taught through vicarious learning of others' preferences**|Shen Zhang et.al.|[2405.06500](http://arxiv.org/abs/2405.06500)|null|
