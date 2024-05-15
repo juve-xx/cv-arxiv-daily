@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2450,7 +2450,7 @@ layout: default
 |**2024-05-10**|**An Empirical Study on the Effectiveness of Large Language Models for SATD Identification and Classification**|Mohammad Sadegh Sheikhaei et.al.|[2405.06806](http://arxiv.org/abs/2405.06806)|null|
 |**2024-04-21**|**ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering**|Yiqing Shen et.al.|[2405.06658](http://arxiv.org/abs/2405.06658)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
-|**2024-05-10**|**Memory Mosaics**|Jianyu Zhang et.al.|[2405.06394](http://arxiv.org/abs/2405.06394)|null|
+|**2024-05-13**|**Memory Mosaics**|Jianyu Zhang et.al.|[2405.06394](http://arxiv.org/abs/2405.06394)|null|
 |**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|**[link](https://github.com/cisnlp/xampler)**|
 |**2024-05-08**|**P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models**|Guochao Jiang et.al.|[2405.04960](http://arxiv.org/abs/2405.04960)|null|
@@ -2464,7 +2464,7 @@ layout: default
 |**2024-05-04**|**CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions**|Hanchong Zhang et.al.|[2405.02712](http://arxiv.org/abs/2405.02712)|**[link](https://github.com/x-lance/text2sql-multiturn-gpt)**|
 |**2024-05-04**|**Enhancing News Summarization with ELearnFit through Efficient In-Context Learning and Efficient Fine-Tuning**|Che Guan et.al.|[2405.02710](http://arxiv.org/abs/2405.02710)|null|
 |**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
-|**2024-05-03**|**Beyond Helpfulness and Harmlessness: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning**|Hyeong Kyu Choi et.al.|[2405.02501](http://arxiv.org/abs/2405.02501)|**[link](https://github.com/deeplearning-wisc/picle)**|
+|**2024-05-14**|**PICLe: Eliciting Diverse Behaviors from Large Language Models with Persona In-Context Learning**|Hyeong Kyu Choi et.al.|[2405.02501](http://arxiv.org/abs/2405.02501)|**[link](https://github.com/deeplearning-wisc/picle)**|
 |**2024-05-09**|**Finite Sample Analysis and Bounds of Generalization Error of Gradient Descent in In-Context Linear Regression**|Karthik Duraisamy et.al.|[2405.02462](http://arxiv.org/abs/2405.02462)|null|
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997](http://arxiv.org/abs/2405.01997)|null|
@@ -2881,7 +2881,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Signal Enhancement in Distributed Acoustic Sensing Data Using a Guided Unsupervised Deep Learning Network**|Omar M. Saad et.al.|[2405.07660](http://arxiv.org/abs/2405.07660)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
-|**2024-05-13**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
+|**2024-05-14**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
 |**2024-05-12**|**BoQ: A Place is Worth a Bag of Learnable Queries**|Amar Ali-bey et.al.|[2405.07364](http://arxiv.org/abs/2405.07364)|**[link](https://github.com/amaralibey/bag-of-queries)**|
 |**2024-05-12**|**Edge Intelligence Optimization for Large Language Model Inference with Batching and Quantization**|Xinyuan Zhang et.al.|[2405.07140](http://arxiv.org/abs/2405.07140)|null|
 |**2024-05-11**|**RoTHP: Rotary Position Embedding-based Transformer Hawkes Process**|Anningzhe Gao et.al.|[2405.06985](http://arxiv.org/abs/2405.06985)|null|
@@ -3337,7 +3337,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
-|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
 |**2024-05-13**|**Analysis of the rate of convergence of an over-parametrized convolutional neural network image classifier learned by gradient descent**|Michael Kohler et.al.|[2405.07619](http://arxiv.org/abs/2405.07619)|null|
 |**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
 |**2024-05-12**|**VALID: a Validated Algorithm for Learning in Decentralized Networks with Possible Adversarial Presence**|Mayank Bakshi et.al.|[2405.07316](http://arxiv.org/abs/2405.07316)|null|
@@ -3987,7 +3987,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
-|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
 |**2024-05-13**|**Analysis of the rate of convergence of an over-parametrized convolutional neural network image classifier learned by gradient descent**|Michael Kohler et.al.|[2405.07619](http://arxiv.org/abs/2405.07619)|null|
 |**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
 |**2024-05-12**|**VALID: a Validated Algorithm for Learning in Decentralized Networks with Possible Adversarial Presence**|Mayank Bakshi et.al.|[2405.07316](http://arxiv.org/abs/2405.07316)|null|
@@ -4551,8 +4551,8 @@ layout: default
 |**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
 |**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
 |**2024-05-13**|**Backdoor Removal for Generative Large Language Models**|Haoran Li et.al.|[2405.07667](http://arxiv.org/abs/2405.07667)|null|
-|**2024-05-13**|**Near-Optimal Regret in Linear MDPs with Aggregate Bandit Feedback**|Asaf Cassel et.al.|[2405.07637](http://arxiv.org/abs/2405.07637)|null|
-|**2024-05-13**|**Towards Adaptive IMFs -- Generalization of utility functions in Multi-Agent Frameworks**|Kaushik Dey et.al.|[2405.07621](http://arxiv.org/abs/2405.07621)|null|
+|**2024-05-14**|**Near-Optimal Regret in Linear MDPs with Aggregate Bandit Feedback**|Asaf Cassel et.al.|[2405.07637](http://arxiv.org/abs/2405.07637)|null|
+|**2024-05-14**|**Towards Adaptive IMFs -- Generalization of utility functions in Multi-Agent Frameworks**|Kaushik Dey et.al.|[2405.07621](http://arxiv.org/abs/2405.07621)|null|
 |**2024-05-13**|**Reducing Risk for Assistive Reinforcement Learning Policies with Diffusion Models**|Andrii Tytarenko et.al.|[2405.07603](http://arxiv.org/abs/2405.07603)|null|
 |**2024-05-13**|**Intrinsic Rewards for Exploration without Harm from Observational Noise: A Simulation Study Based on the Free Energy Principle**|Theodore Jerome Tinker et.al.|[2405.07473](http://arxiv.org/abs/2405.07473)|null|
 |**2024-05-13**|**Compressed Online Learning of Conditional Mean Embedding**|Boya Hou et.al.|[2405.07432](http://arxiv.org/abs/2405.07432)|null|
