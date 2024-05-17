@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2926,7 +2926,7 @@ layout: default
 |**2024-04-29**|**Multi-Page Document Visual Question Answering using Self-Attention Scoring Mechanism**|Lei Kang et.al.|[2404.19024](http://arxiv.org/abs/2404.19024)|**[link](https://github.com/leitro/selfattnscoring-mpdocvqa)**|
 |**2024-04-27**|**CUE-Net: Violence Detection Video Analytics with Spatial Cropping, Enhanced UniformerV2 and Modified Efficient Additive Attention**|Damith Chamalke Senadeera et.al.|[2404.18952](http://arxiv.org/abs/2404.18952)|**[link](https://github.com/damith92/cuenet)**|
 |**2024-04-29**|**Spectral-Spatial Mamba for Hyperspectral Image Classification**|Lingbo Huang et.al.|[2404.18401](http://arxiv.org/abs/2404.18401)|null|
-|**2024-04-28**|**Mamba-FETrack: Frame-Event Tracking via State Space Model**|Ju Huang et.al.|[2404.18174](http://arxiv.org/abs/2404.18174)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
+|**2024-04-28**|**Mamba-FETrack: Frame-Event Tracking via State Space Model**|Ju Huang et.al.|[2404.18174](http://arxiv.org/abs/2404.18174)|**[link](https://github.com/event-ahu/mamba_fetrack)**|
 |**2024-04-28**|**Masked Attention as a Mechanism for Improving Interpretability of Vision Transformers**|Clément Grisi et.al.|[2404.18152](http://arxiv.org/abs/2404.18152)|null|
 |**2024-05-03**|**Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion**|Yuntao Shou et.al.|[2404.17858](http://arxiv.org/abs/2404.17858)|null|
 |**2024-04-27**|**GLIMS: Attention-Guided Lightweight Multi-Scale Hybrid Network for Volumetric Semantic Segmentation**|Ziya Ata Yazıcı et.al.|[2404.17854](http://arxiv.org/abs/2404.17854)|**[link](https://github.com/yaziciz/GLIMS)**|
@@ -4044,7 +4044,7 @@ layout: default
 |**2024-05-01**|**Conformalized Tensor Completion with Riemannian Optimization**|Hu Sun et.al.|[2405.00581](http://arxiv.org/abs/2405.00581)|null|
 |**2024-04-30**|**Hybrid Quantum-Classical Scheduling for Accelerating Neural Network Training with Newton's Gradient Descent**|Pingzhi Li et.al.|[2405.00252](http://arxiv.org/abs/2405.00252)|**[link](https://github.com/unites-lab/q-newton)**|
 |**2024-04-30**|**Scale-Robust Timely Asynchronous Decentralized Learning**|Purbesh Mitra et.al.|[2404.19749](http://arxiv.org/abs/2404.19749)|null|
-|**2024-05-03**|**Fairness Without Demographics in Human-Centered Federated Learning**|Shaily Roy et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
+|**2024-05-15**|**Fairness Without Demographics in Human-Centered Federated Learning**|Shaily Roy et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Regularization of Riemannian optimization: Application to process tomography and quantum machine learning**|Felix Soest et.al.|[2404.19659](http://arxiv.org/abs/2404.19659)|null|
 |**2024-04-30**|**Online and Offline Robust Multivariate Linear Regression**|Antoine Godichon-Baggioni et.al.|[2404.19496](http://arxiv.org/abs/2404.19496)|null|
 |**2024-04-30**|**Dual Dynamic Threshold Adjustment Strategy for Deep Metric Learning**|Xiruo Jiang et.al.|[2404.19282](http://arxiv.org/abs/2404.19282)|**[link](https://github.com/nust-machine-intelligence-laboratory/ddtas)**|
@@ -4606,7 +4606,7 @@ layout: default
 |**2024-05-12**|**On-Demand Model and Client Deployment in Federated Learning with Deep Reinforcement Learning**|Mario Chahoud et.al.|[2405.07175](http://arxiv.org/abs/2405.07175)|null|
 |**2024-05-11**|**Auditing an Automatic Grading Model with deep Reinforcement Learning**|Aubrey Condor et.al.|[2405.07087](http://arxiv.org/abs/2405.07087)|null|
 |**2024-05-11**|**Stealthy Imitation: Reward-guided Environment-free Policy Stealing**|Zhixiong Zhuang et.al.|[2405.07004](http://arxiv.org/abs/2405.07004)|null|
-|**2024-05-11**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
+|**2024-05-16**|**Semi-supervised Anomaly Detection via Adaptive Reinforcement Learning-Enabled Method with Causal Inference for Sensor Signals**|Xiangwei Chen et.al.|[2405.06925](http://arxiv.org/abs/2405.06925)|null|
 |**2024-05-11**|**Automating Creativity**|Ming-Hui Huang et.al.|[2405.06915](http://arxiv.org/abs/2405.06915)|null|
 |**2024-05-11**|**Generative flow induced neural architecture search: Towards discovering optimal architecture in wavelet neural operator**|Hartej Soin et.al.|[2405.06910](http://arxiv.org/abs/2405.06910)|null|
 |**2024-05-11**|**Fairness in Reinforcement Learning: A Survey**|Anka Reuel et.al.|[2405.06909](http://arxiv.org/abs/2405.06909)|null|
@@ -4642,7 +4642,7 @@ layout: default
 |**2024-05-05**|**ClothPPO: A Proximal Policy Optimization Enhancing Framework for Robotic Cloth Manipulation with Observation-Aligned Action Spaces**|Libing Yang et.al.|[2405.04549](http://arxiv.org/abs/2405.04549)|null|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
 |**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
-|**2024-05-08**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-16**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
 |**2024-05-07**|**The Curse of Diversity in Ensemble-Based Exploration**|Zhixuan Lin et.al.|[2405.04342](http://arxiv.org/abs/2405.04342)|**[link](https://github.com/zhixuan-lin/ensemble-rl-discrete)**|
 |**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
 |**2024-05-07**|**Genetic Drift Regularization: on preventing Actor Injection from breaking Evolution Strategies**|Paul Templier et.al.|[2405.04322](http://arxiv.org/abs/2405.04322)|null|
