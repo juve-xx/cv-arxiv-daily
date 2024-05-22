@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Quantifying Emergence in Large Language Models**|Hang Chen et.al.|[2405.12617](http://arxiv.org/abs/2405.12617)|**[link](https://github.com/zodiark-ch/emergence-of-llms)**|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**Asymptotic theory of in-context learning by linear attention**|Yue M. Lu et.al.|[2405.11751](http://arxiv.org/abs/2405.11751)|**[link](https://github.com/Pehlevan-Group/icl-asymptotic)**|
 |**2024-05-19**|**Effective In-Context Example Selection through Data Compression**|Zhongxiang Sun et.al.|[2405.11465](http://arxiv.org/abs/2405.11465)|null|
@@ -2898,6 +2899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
+|**2024-05-21**|**Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval**|Jonghyun Song et.al.|[2405.12801](http://arxiv.org/abs/2405.12801)|**[link](https://github.com/yc-song/cmc)**|
+|**2024-05-21**|**Transformer in Touch: A Survey**|Jing Gao et.al.|[2405.12779](http://arxiv.org/abs/2405.12779)|null|
+|**2024-05-21**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
+|**2024-05-21**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462](http://arxiv.org/abs/2405.12462)|null|
+|**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
+|**2024-05-20**|**Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation**|Wentao Wang et.al.|[2405.12328](http://arxiv.org/abs/2405.12328)|null|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202](http://arxiv.org/abs/2405.12202)|null|
 |**2024-05-20**|**Neighborhood Attention Transformer with Progressive Channel Fusion for Speaker Verification**|Nian Li et.al.|[2405.12031](http://arxiv.org/abs/2405.12031)|null|
 |**2024-05-20**|**Distinguished In Uniform: Self Attention Vs. Virtual Nodes**|Eran Rosenbluth et.al.|[2405.11951](http://arxiv.org/abs/2405.11951)|null|
@@ -3375,6 +3383,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Chordal-NMF with Riemannian Multiplicative Update**|Flavia Esposito et.al.|[2405.12823](http://arxiv.org/abs/2405.12823)|null|
+|**2024-05-21**|**FAdam: Adam is a natural gradient optimizer using diagonal empirical Fisher information**|Dongseong Hwang et.al.|[2405.12807](http://arxiv.org/abs/2405.12807)|null|
+|**2024-05-21**|**Uncertainty quantification by block bootstrap for differentially private stochastic gradient descent**|Holger Dette et.al.|[2405.12553](http://arxiv.org/abs/2405.12553)|null|
 |**2024-05-20**|**Randomized Gradient Descents on Riemannian Manifolds: Almost Sure Convergence to Global Minima in and beyond Quantum Optimization**|Emanuel Malvetti et.al.|[2405.12039](http://arxiv.org/abs/2405.12039)|null|
 |**2024-05-19**|**Approximation and Gradient Descent Training with Neural Networks**|G. Welper et.al.|[2405.11696](http://arxiv.org/abs/2405.11696)|null|
 |**2024-05-19**|**Crossing The Gap Using Variational Quantum Eigensolver: A Comparative Study**|I-Chi Chen et.al.|[2405.11687](http://arxiv.org/abs/2405.11687)|null|
@@ -3906,6 +3917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Keep the Momentum: Conservation Laws beyond Euclidean Gradient Flows**|Sibylle Marcotte et.al.|[2405.12888](http://arxiv.org/abs/2405.12888)|null|
 |**2024-05-13**|**Class-wise Activation Unravelling the Engima of Deep Double Descent**|Yufei Gu et.al.|[2405.07679](http://arxiv.org/abs/2405.07679)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
 |**2024-04-29**|**Learning with Norm Constrained, Over-parameterized, Two-layer Neural Networks**|Fanghui Liu et.al.|[2404.18769](http://arxiv.org/abs/2404.18769)|null|
@@ -4044,6 +4056,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Chordal-NMF with Riemannian Multiplicative Update**|Flavia Esposito et.al.|[2405.12823](http://arxiv.org/abs/2405.12823)|null|
+|**2024-05-21**|**FAdam: Adam is a natural gradient optimizer using diagonal empirical Fisher information**|Dongseong Hwang et.al.|[2405.12807](http://arxiv.org/abs/2405.12807)|null|
+|**2024-05-21**|**Uncertainty quantification by block bootstrap for differentially private stochastic gradient descent**|Holger Dette et.al.|[2405.12553](http://arxiv.org/abs/2405.12553)|null|
+|**2024-05-21**|**Visualizing, Rethinking, and Mining the Loss Landscape of Deep Neural Networks**|Xin-Chun Li et.al.|[2405.12493](http://arxiv.org/abs/2405.12493)|null|
+|**2024-05-21**|**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**|Xin-Chun Li et.al.|[2405.12489](http://arxiv.org/abs/2405.12489)|null|
 |**2024-05-20**|**Randomized Gradient Descents on Riemannian Manifolds: Almost Sure Convergence to Global Minima in and beyond Quantum Optimization**|Emanuel Malvetti et.al.|[2405.12039](http://arxiv.org/abs/2405.12039)|null|
 |**2024-05-19**|**Approximation and Gradient Descent Training with Neural Networks**|G. Welper et.al.|[2405.11696](http://arxiv.org/abs/2405.11696)|null|
 |**2024-05-19**|**Crossing The Gap Using Variational Quantum Eigensolver: A Comparative Study**|I-Chi Chen et.al.|[2405.11687](http://arxiv.org/abs/2405.11687)|null|
@@ -4620,6 +4637,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
+|**2024-05-21**|**Effect of Synthetic Jets Actuator Parameters on Deep Reinforcement Learning-Based Flow Control Performance in a Square Cylinder**|Wang Jia et.al.|[2405.12834](http://arxiv.org/abs/2405.12834)|null|
+|**2024-05-21**|**Deep Reinforcement Learning for Time-Critical Wilderness Search And Rescue Using Drones**|Jan-Hendrik Ewers et.al.|[2405.12800](http://arxiv.org/abs/2405.12800)|null|
+|**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|null|
+|**2024-05-21**|**Reinforcement Learning Enabled Peer-to-Peer Energy Trading for Dairy Farms**|Mian Ibad Ali Shah et.al.|[2405.12716](http://arxiv.org/abs/2405.12716)|null|
+|**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681](http://arxiv.org/abs/2405.12681)|null|
+|**2024-05-21**|**Learning Causal Dynamics Models in Object-Oriented Environments**|Zhongwei Yu et.al.|[2405.12615](http://arxiv.org/abs/2405.12615)|null|
+|**2024-05-21**|**PhiBE: A PDE-based Bellman Equation for Continuous Time Policy Evaluation**|Yuhua Zhu et.al.|[2405.12535](http://arxiv.org/abs/2405.12535)|null|
+|**2024-05-21**|**GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems**|Zhenwei Wang et.al.|[2405.12475](http://arxiv.org/abs/2405.12475)|null|
+|**2024-05-21**|**Physics-based Scene Layout Generation from Human Motion**|Jianan Li et.al.|[2405.12460](http://arxiv.org/abs/2405.12460)|null|
+|**2024-05-21**|**Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers**|Fan Shi et.al.|[2405.12424](http://arxiv.org/abs/2405.12424)|null|
+|**2024-05-20**|**A Unified Linear Programming Framework for Offline Reward Learning from Human Demonstrations and Feedback**|Kihyun Kim et.al.|[2405.12421](http://arxiv.org/abs/2405.12421)|null|
+|**2024-05-20**|**Diffusion for World Modeling: Visual Details Matter in Atari**|Eloi Alonso et.al.|[2405.12399](http://arxiv.org/abs/2405.12399)|**[link](https://github.com/eloialonso/diamond)**|
+|**2024-05-20**|**Investigating the Impact of Choice on Deep Reinforcement Learning for Space Controls**|Nathaniel Hamilton et.al.|[2405.12355](http://arxiv.org/abs/2405.12355)|null|
+|**2024-05-20**|**A Study on Optimization Techniques for Variational Quantum Circuits in Reinforcement Learning**|Michael Kölle et.al.|[2405.12354](http://arxiv.org/abs/2405.12354)|null|
+|**2024-05-20**|**Continual Deep Reinforcement Learning for Decentralized Satellite Routing**|Federico Lozano-Cuadra et.al.|[2405.12308](http://arxiv.org/abs/2405.12308)|null|
+|**2024-05-15**|**Fully Distributed Fog Load Balancing with Multi-Agent Reinforcement Learning**|Maad Ebrahim et.al.|[2405.12236](http://arxiv.org/abs/2405.12236)|null|
 |**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|null|
 |**2024-05-20**|**PARALLELGPUOS: A Concurrent OS-level GPU Checkpoint and Restore System using Validated Speculation**|Zhuobin Huang et.al.|[2405.12079](http://arxiv.org/abs/2405.12079)|null|
 |**2024-05-20**|**Scrutinize What We Ignore: Reining Task Representation Shift In Context-Based Offline Meta Reinforcement Learning**|Hai Zhang et.al.|[2405.12001](http://arxiv.org/abs/2405.12001)|null|
