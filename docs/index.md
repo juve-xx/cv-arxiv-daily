@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2923,7 +2923,7 @@ layout: default
 |**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
 |**2024-05-21**|**Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval**|Jonghyun Song et.al.|[2405.12801](http://arxiv.org/abs/2405.12801)|**[link](https://github.com/yc-song/cmc)**|
 |**2024-05-21**|**Transformer in Touch: A Survey**|Jing Gao et.al.|[2405.12779](http://arxiv.org/abs/2405.12779)|null|
-|**2024-05-22**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
+|**2024-05-24**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
 |**2024-05-22**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462](http://arxiv.org/abs/2405.12462)|**[link](https://github.com/newbeezzc/MonarchAttn)**|
 |**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
 |**2024-05-20**|**Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation**|Wentao Wang et.al.|[2405.12328](http://arxiv.org/abs/2405.12328)|null|
@@ -3408,7 +3408,7 @@ layout: default
 |**2024-05-23**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|null|
 |**2024-05-23**|**Online robust estimation and bootstrap inference for function-on-scalar regression**|Guanghui Cheng et.al.|[2405.14628](http://arxiv.org/abs/2405.14628)|null|
 |**2024-05-23**|**Neural Collapse versus Low-rank Bias: Is Deep Neural Collapse Really Optimal?**|Peter Súkeník et.al.|[2405.14468](http://arxiv.org/abs/2405.14468)|null|
-|**2024-05-23**|**Semi-Discrete Optimal Transport: Nearly Minimax Estimation With Stochastic Gradient Descent and Adaptive Entropic Regularization**|Ferdinand Genans-Boiteux et.al.|[2405.14459](http://arxiv.org/abs/2405.14459)|null|
+|**2024-05-24**|**Semi-Discrete Optimal Transport: Nearly Minimax Estimation With Stochastic Gradient Descent and Adaptive Entropic Regularization**|Ferdinand Genans et.al.|[2405.14459](http://arxiv.org/abs/2405.14459)|null|
 |**2024-05-23**|**Boosting Robustness by Clipping Gradients in Distributed Learning**|Youssef Allouah et.al.|[2405.14432](http://arxiv.org/abs/2405.14432)|null|
 |**2024-05-23**|**IB-AdCSCNet:Adaptive Convolutional Sparse Coding Network Driven by Information Bottleneck**|He Zou et.al.|[2405.14192](http://arxiv.org/abs/2405.14192)|null|
 |**2024-05-23**|**High-probability complexity guarantees for nonconvex minimax problems**|Yassine Laguel et.al.|[2405.14130](http://arxiv.org/abs/2405.14130)|null|
@@ -4099,7 +4099,7 @@ layout: default
 |**2024-05-23**|**Evolution and learning in differentiable robots**|Luke Strgar et.al.|[2405.14712](http://arxiv.org/abs/2405.14712)|null|
 |**2024-05-23**|**Online robust estimation and bootstrap inference for function-on-scalar regression**|Guanghui Cheng et.al.|[2405.14628](http://arxiv.org/abs/2405.14628)|null|
 |**2024-05-23**|**Neural Collapse versus Low-rank Bias: Is Deep Neural Collapse Really Optimal?**|Peter Súkeník et.al.|[2405.14468](http://arxiv.org/abs/2405.14468)|null|
-|**2024-05-23**|**Semi-Discrete Optimal Transport: Nearly Minimax Estimation With Stochastic Gradient Descent and Adaptive Entropic Regularization**|Ferdinand Genans-Boiteux et.al.|[2405.14459](http://arxiv.org/abs/2405.14459)|null|
+|**2024-05-24**|**Semi-Discrete Optimal Transport: Nearly Minimax Estimation With Stochastic Gradient Descent and Adaptive Entropic Regularization**|Ferdinand Genans et.al.|[2405.14459](http://arxiv.org/abs/2405.14459)|null|
 |**2024-05-23**|**Boosting Robustness by Clipping Gradients in Distributed Learning**|Youssef Allouah et.al.|[2405.14432](http://arxiv.org/abs/2405.14432)|null|
 |**2024-05-23**|**IB-AdCSCNet:Adaptive Convolutional Sparse Coding Network Driven by Information Bottleneck**|He Zou et.al.|[2405.14192](http://arxiv.org/abs/2405.14192)|null|
 |**2024-05-23**|**High-probability complexity guarantees for nonconvex minimax problems**|Yassine Laguel et.al.|[2405.14130](http://arxiv.org/abs/2405.14130)|null|
@@ -4723,7 +4723,7 @@ layout: default
 |**2024-05-23**|**A Behavior-Aware Approach for Deep Reinforcement Learning in Non-stationary Environments without Known Change Points**|Zihe Liu et.al.|[2405.14214](http://arxiv.org/abs/2405.14214)|null|
 |**2024-05-23**|**A structure-aware framework for learning device placements on computation graphs**|Shukai Duan et.al.|[2405.14185](http://arxiv.org/abs/2405.14185)|null|
 |**2024-05-23**|**Deterministic Policies for Constrained Reinforcement Learning in Polynomial-Time**|Jeremy McMahan et.al.|[2405.14183](http://arxiv.org/abs/2405.14183)|null|
-|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128](http://arxiv.org/abs/2405.14128)|null|
+|**2024-05-24**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128](http://arxiv.org/abs/2405.14128)|null|
 |**2024-05-23**|**Offline Reinforcement Learning from Datasets with Structured Non-Stationarity**|Johannes Ackermann et.al.|[2405.14114](http://arxiv.org/abs/2405.14114)|null|
 |**2024-05-23**|**Online Self-Preferring Language Models**|Yuanzhao Zhai et.al.|[2405.14103](http://arxiv.org/abs/2405.14103)|null|
 |**2024-05-23**|**A Survey on Vision-Language-Action Models for Embodied AI**|Yueen Ma et.al.|[2405.14093](http://arxiv.org/abs/2405.14093)|null|
@@ -4746,7 +4746,7 @@ layout: default
 |**2024-05-22**|**Offline RL via Feature-Occupancy Gradient Ascent**|Gergely Neu et.al.|[2405.13755](http://arxiv.org/abs/2405.13755)|null|
 |**2024-05-22**|**ConcertoRL: An Innovative Time-Interleaved Reinforcement Learning Approach for Enhanced Control in Direct-Drive Tandem-Wing Vehicles**|Minghao Zhang et.al.|[2405.13651](http://arxiv.org/abs/2405.13651)|null|
 |**2024-05-22**|**Knowledge Graph Reasoning with Self-supervised Reinforcement Learning**|Ying Ma et.al.|[2405.13640](http://arxiv.org/abs/2405.13640)|null|
-|**2024-05-22**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
+|**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
 |**2024-05-22**|**Maximum Entropy Reinforcement Learning via Energy-Based Normalizing Flow**|Chen-Hao Chao et.al.|[2405.13629](http://arxiv.org/abs/2405.13629)|null|
 |**2024-05-22**|**Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics**|Bartomeu Pou et.al.|[2405.13610](http://arxiv.org/abs/2405.13610)|null|
 |**2024-05-22**|**Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement Learning**|Maximilian Nägele et.al.|[2405.13609](http://arxiv.org/abs/2405.13609)|null|
