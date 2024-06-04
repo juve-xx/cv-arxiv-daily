@@ -2458,7 +2458,7 @@ layout: default
 |**2024-05-28**|**Knowledge Circuits in Pretrained Transformers**|Yunzhi Yao et.al.|[2405.17969](http://arxiv.org/abs/2405.17969)|**[link](https://github.com/zjunlp/knowledgecircuits)**|
 |**2024-05-28**|**FlashST: A Simple and Universal Prompt-Tuning Framework for Traffic Prediction**|Zhonghang Li et.al.|[2405.17898](http://arxiv.org/abs/2405.17898)|**[link](https://github.com/hkuds/flashst)**|
 |**2024-05-28**|**Benchmark Underestimates the Readiness of Multi-lingual Dialogue Agents**|Andrew H. Lee et.al.|[2405.17840](http://arxiv.org/abs/2405.17840)|null|
-|**2024-05-28**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
+|**2024-06-03**|**EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?**|Boshen Xu et.al.|[2405.17719](http://arxiv.org/abs/2405.17719)|**[link](https://github.com/xuboshen/egoncepp)**|
 |**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
 |**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
 |**2024-05-27**|**Transformer In-Context Learning for Categorical Data**|Aaron T. Wang et.al.|[2405.17248](http://arxiv.org/abs/2405.17248)|null|
@@ -2486,7 +2486,7 @@ layout: default
 |**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
 |**2024-05-23**|**Implicit In-context Learning**|Zhuowei Li et.al.|[2405.14660](http://arxiv.org/abs/2405.14660)|**[link](https://github.com/lzvv123456/i2cl)**|
 |**2024-05-23**|**Emotion Identification for French in Written Texts: Considering their Modes of Expression as a Step Towards Text Complexity Analysis**|Aline Étienne et.al.|[2405.14385](http://arxiv.org/abs/2405.14385)|null|
-|**2024-05-28**|**Let's Fuse Step by Step: A Generative Fusion Decoding Algorithm with LLMs for Multi-modal Text Recognition**|Chan-Jan Hsu et.al.|[2405.14259](http://arxiv.org/abs/2405.14259)|null|
+|**2024-06-02**|**Let's Fuse Step by Step: A Generative Fusion Decoding Algorithm with LLMs for Multi-modal Text Recognition**|Chan-Jan Hsu et.al.|[2405.14259](http://arxiv.org/abs/2405.14259)|null|
 |**2024-05-26**|**Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning**|Jiuqi Wang et.al.|[2405.13861](http://arxiv.org/abs/2405.13861)|null|
 |**2024-05-22**|**Why In-Context Learning Transformers are Tabular Data Classifiers**|Felix den Breejen et.al.|[2405.13396](http://arxiv.org/abs/2405.13396)|**[link](https://github.com/felixdenbreejen/tabforestpfn)**|
 |**2024-05-21**|**Comparative Analysis of Different Efficient Fine Tuning Methods of Large Language Models (LLMs) in Low-Resource Setting**|Krishna Prasad Varadarajan Srinivasan et.al.|[2405.13181](http://arxiv.org/abs/2405.13181)|null|
@@ -2498,7 +2498,7 @@ layout: default
 |**2024-05-19**|**Large Language Models are Biased Reinforcement Learners**|William M. Hayes et.al.|[2405.11422](http://arxiv.org/abs/2405.11422)|**[link](https://github.com/william-hayes/llms-biased-rl)**|
 |**2024-05-18**|**Natural Is The Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models**|Yan Wang et.al.|[2405.11196](http://arxiv.org/abs/2405.11196)|**[link](https://github.com/gksajy/slimcode)**|
 |**2024-05-17**|**Large Language Models in Wireless Application Design: In-Context Learning-enhanced Automatic Network Intrusion Detection**|Han Zhang et.al.|[2405.11002](http://arxiv.org/abs/2405.11002)|null|
-|**2024-05-17**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
+|**2024-06-03**|**Feature-Adaptive and Data-Scalable In-Context Learning**|Jiahao Li et.al.|[2405.10738](http://arxiv.org/abs/2405.10738)|**[link](https://github.com/jiahaozhenbang/fads-icl)**|
 |**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
 |**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448](http://arxiv.org/abs/2405.10448)|**[link](https://github.com/gmp007/propertyextractor)**|
@@ -2517,7 +2517,7 @@ layout: default
 |**2024-04-21**|**ProteinEngine: Empower LLM with Domain Knowledge for Protein Engineering**|Yiqing Shen et.al.|[2405.06658](http://arxiv.org/abs/2405.06658)|null|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
 |**2024-05-13**|**Memory Mosaics**|Jianyu Zhang et.al.|[2405.06394](http://arxiv.org/abs/2405.06394)|**[link](https://github.com/facebookresearch/MemoryMosaics)**|
-|**2024-05-15**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
+|**2024-06-03**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270](http://arxiv.org/abs/2405.06270)|null|
 |**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|**[link](https://github.com/cisnlp/xampler)**|
 |**2024-05-08**|**P-ICL: Point In-Context Learning for Named Entity Recognition with Large Language Models**|Guochao Jiang et.al.|[2405.04960](http://arxiv.org/abs/2405.04960)|null|
 |**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753](http://arxiv.org/abs/2405.04753)|null|
@@ -3574,7 +3574,7 @@ layout: default
 |**2024-05-22**|**Deep linear networks for regression are implicitly regularized towards flat minima**|Pierre Marion et.al.|[2405.13456](http://arxiv.org/abs/2405.13456)|null|
 |**2024-05-24**|**Glassy dynamics in deep neural networks: A structural comparison**|Max Kerr Winter et.al.|[2405.13098](http://arxiv.org/abs/2405.13098)|null|
 |**2024-05-23**|**Chordal-NMF with Riemannian Multiplicative Update**|Flavia Esposito et.al.|[2405.12823](http://arxiv.org/abs/2405.12823)|**[link](https://github.com/flaespo/Chordal_NMF)**|
-|**2024-05-28**|**FAdam: Adam is a natural gradient optimizer using diagonal empirical Fisher information**|Dongseong Hwang et.al.|[2405.12807](http://arxiv.org/abs/2405.12807)|**[link](https://github.com/lessw2020/fadam_pytorch)**|
+|**2024-06-03**|**FAdam: Adam is a natural gradient optimizer using diagonal empirical Fisher information**|Dongseong Hwang et.al.|[2405.12807](http://arxiv.org/abs/2405.12807)|**[link](https://github.com/lessw2020/fadam_pytorch)**|
 |**2024-05-21**|**Uncertainty quantification by block bootstrap for differentially private stochastic gradient descent**|Holger Dette et.al.|[2405.12553](http://arxiv.org/abs/2405.12553)|null|
 |**2024-05-20**|**Randomized Gradient Descents on Riemannian Manifolds: Almost Sure Convergence to Global Minima in and beyond Quantum Optimization**|Emanuel Malvetti et.al.|[2405.12039](http://arxiv.org/abs/2405.12039)|null|
 |**2024-05-19**|**Approximation and Gradient Descent Training with Neural Networks**|G. Welper et.al.|[2405.11696](http://arxiv.org/abs/2405.11696)|null|
@@ -4118,7 +4118,7 @@ layout: default
 |**2024-04-20**|**Accelerated Methods with Compression for Horizontal and Vertical Federated Learning**|Sergey Stanko et.al.|[2404.13328](http://arxiv.org/abs/2404.13328)|null|
 |**2024-04-07**|**Coordinated Sparse Recovery of Label Noise**|Yukun Yang et.al.|[2404.04800](http://arxiv.org/abs/2404.04800)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084](http://arxiv.org/abs/2404.02084)|null|
-|**2024-03-29**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
+|**2024-06-03**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
 |**2024-03-26**|**On the Benefits of Over-parameterization for Out-of-Distribution Generalization**|Yifan Hao et.al.|[2403.17592](http://arxiv.org/abs/2403.17592)|null|
 |**2024-03-25**|**Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes**|Seokhyun Chung et.al.|[2403.16377](http://arxiv.org/abs/2403.16377)|null|
 |**2024-03-23**|**The Effectiveness of Local Updates for Decentralized Learning under Data Heterogeneity**|Tongle Wu et.al.|[2403.15654](http://arxiv.org/abs/2403.15654)|null|
@@ -4130,6 +4130,7 @@ layout: default
 |**2024-03-03**|**The Implicit Bias of Heterogeneity towards Invariance and Causality**|Yang Xu et.al.|[2403.01420](http://arxiv.org/abs/2403.01420)|null|
 |**2024-02-29**|**Supervised Contrastive Representation Learning: Landscape Analysis with Unconstrained Features**|Tina Behnia et.al.|[2402.18884](http://arxiv.org/abs/2402.18884)|null|
 |**2024-02-26**|**On the Generalization Capability of Temporal Graph Learning Algorithms: Theoretical Insights and a Simpler Method**|Weilin Cong et.al.|[2402.16387](http://arxiv.org/abs/2402.16387)|null|
+|**2024-06-02**|**Advancing Parameter Efficiency in Fine-tuning via Representation Editing**|Muling Wu et.al.|[2402.15179](http://arxiv.org/abs/2402.15179)|null|
 |**2024-02-19**|**Reinforcement Learning as a Parsimonious Alternative to Prediction Cascades: A Case Study on Image Segmentation**|Bharat Srikishan et.al.|[2402.11760](http://arxiv.org/abs/2402.11760)|**[link](https://github.com/scailab/paser)**|
 |**2024-02-17**|**How to Make the Gradients Small Privately: Improved Rates for Differentially Private Non-Convex Optimization**|Andrew Lowy et.al.|[2402.11173](http://arxiv.org/abs/2402.11173)|null|
 |**2024-02-10**|**Generalization Error of Graph Neural Networks in the Mean-field Regime**|Gholamali Aminian et.al.|[2402.07025](http://arxiv.org/abs/2402.07025)|null|
@@ -4933,7 +4934,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
 |**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040](http://arxiv.org/abs/2405.21040)|null|
-|**2024-05-31**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027](http://arxiv.org/abs/2405.21027)|null|
+|**2024-06-03**|**Fusion-PSRO: Nash Policy Fusion for Policy Space Response Oracles**|Jiesong Lian et.al.|[2405.21027](http://arxiv.org/abs/2405.21027)|null|
 |**2024-05-31**|**Generating Triangulations and Fibrations with Reinforcement Learning**|Per Berglund et.al.|[2405.21017](http://arxiv.org/abs/2405.21017)|null|
 |**2024-05-31**|**Bayesian Design Principles for Offline-to-Online Reinforcement Learning**|Hao Hu et.al.|[2405.20984](http://arxiv.org/abs/2405.20984)|null|
 |**2024-05-31**|**Goal-Oriented Sensor Reporting Scheduling for Non-linear Dynamic System Monitoring**|Prasoon Raghuwanshi et.al.|[2405.20983](http://arxiv.org/abs/2405.20983)|null|
@@ -4980,7 +4981,7 @@ layout: default
 |**2024-05-30**|**Learning Task-relevant Sequence Representations via Intrinsic Dynamics Characteristics in Reinforcement Learning**|Dayang Liang et.al.|[2405.19736](http://arxiv.org/abs/2405.19736)|null|
 |**2024-05-30**|**Dynamic feature selection in medical predictive monitoring by reinforcement learning**|Yutong Chen et.al.|[2405.19729](http://arxiv.org/abs/2405.19729)|null|
 |**2024-05-30**|**Bilevel reinforcement learning via the development of hyper-gradient without lower-level convexity**|Yan Yang et.al.|[2405.19697](http://arxiv.org/abs/2405.19697)|null|
-|**2024-05-31**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690](http://arxiv.org/abs/2405.19690)|null|
+|**2024-05-31**|**Diffusion Policies creating a Trust Region for Offline Reinforcement Learning**|Tianyu Chen et.al.|[2405.19690](http://arxiv.org/abs/2405.19690)|**[link](https://github.com/tianyucodings/diffusion_trusted_q_learning)**|
 |**2024-05-29**|**Dr-LLaVA: Visual Instruction Tuning with Symbolic Clinical Grounding**|Shenghuan Sun et.al.|[2405.19567](http://arxiv.org/abs/2405.19567)|null|
 |**2024-05-29**|**Stress-Testing Capability Elicitation With Password-Locked Models**|Ryan Greenblatt et.al.|[2405.19550](http://arxiv.org/abs/2405.19550)|**[link](https://github.com/FabienRoger/sandbagging)**|
 |**2024-05-29**|**RLeXplore: Accelerating Research in Intrinsically-Motivated Reinforcement Learning**|Mingqi Yuan et.al.|[2405.19548](http://arxiv.org/abs/2405.19548)|**[link](https://github.com/rle-foundation/rlexplore)**|
@@ -5023,7 +5024,7 @@ layout: default
 |**2024-05-29**|**Efficient Preference-based Reinforcement Learning via Aligned Experience Estimation**|Fengshuo Bai et.al.|[2405.18688](http://arxiv.org/abs/2405.18688)|null|
 |**2024-05-29**|**Advancing Household Robotics: Deep Interactive Reinforcement Learning for Efficient Training and Enhanced Performance**|Arpita Soni et.al.|[2405.18687](http://arxiv.org/abs/2405.18687)|null|
 |**2024-05-28**|**Training LLMs to Better Self-Debug and Explain Code**|Nan Jiang et.al.|[2405.18649](http://arxiv.org/abs/2405.18649)|null|
-|**2024-05-28**|**Causal Contextual Bandits with Adaptive Context**|Rahul Madhavan et.al.|[2405.18626](http://arxiv.org/abs/2405.18626)|**[link](https://github.com/adaptivecontextualcausalbandits/accb)**|
+|**2024-06-02**|**Causal Contextual Bandits with Adaptive Context**|Rahul Madhavan et.al.|[2405.18626](http://arxiv.org/abs/2405.18626)|**[link](https://github.com/adaptivecontextualcausalbandits/accb)**|
 |**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610](http://arxiv.org/abs/2405.18610)|**[link](https://github.com/gilesluo/dtr-bench)**|
 |**2024-05-28**|**Counterfactual Explanations for Multivariate Time-Series without Training Datasets**|Xiangyu Sun et.al.|[2405.18563](http://arxiv.org/abs/2405.18563)|null|
 |**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556](http://arxiv.org/abs/2405.18556)|**[link](https://github.com/gilesluo/reassessdtr)**|
