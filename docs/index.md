@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5027,7 +5027,7 @@ layout: default
 |**2024-06-02**|**Causal Contextual Bandits with Adaptive Context**|Rahul Madhavan et.al.|[2405.18626](http://arxiv.org/abs/2405.18626)|**[link](https://github.com/adaptivecontextualcausalbandits/accb)**|
 |**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610](http://arxiv.org/abs/2405.18610)|**[link](https://github.com/gilesluo/dtr-bench)**|
 |**2024-05-28**|**Counterfactual Explanations for Multivariate Time-Series without Training Datasets**|Xiangyu Sun et.al.|[2405.18563](http://arxiv.org/abs/2405.18563)|null|
-|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556](http://arxiv.org/abs/2405.18556)|**[link](https://github.com/gilesluo/reassessdtr)**|
+|**2024-06-03**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556](http://arxiv.org/abs/2405.18556)|**[link](https://github.com/gilesluo/reassessdtr)**|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
 |**2024-05-28**|**Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL**|Yu Luo et.al.|[2405.18520](http://arxiv.org/abs/2405.18520)|**[link](https://github.com/roythuly/obac)**|
 |**2024-05-31**|**Hierarchical World Models as Visual Whole-Body Humanoid Controllers**|Nicklas Hansen et.al.|[2405.18418](http://arxiv.org/abs/2405.18418)|null|
