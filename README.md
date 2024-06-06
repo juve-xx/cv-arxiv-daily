@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
+|**2024-06-05**|**StatBot.Swiss: Bilingual Open Data Exploration in Natural Language**|Farhad Nooralahzadeh et.al.|[2406.03170](http://arxiv.org/abs/2406.03170)|null|
+|**2024-06-05**|**Improving In-Context Learning with Prediction Feedback for Sentiment Analysis**|Hongling Xu et.al.|[2406.02911](http://arxiv.org/abs/2406.02911)|null|
+|**2024-06-05**|**Exact Conversion of In-Context Learning to Model Weights**|Brian K Chen et.al.|[2406.02847](http://arxiv.org/abs/2406.02847)|null|
+|**2024-06-04**|**E-ICL: Enhancing Fine-Grained Emotion Recognition through the Lens of Prototype Theory**|Zhou Yang et.al.|[2406.02642](http://arxiv.org/abs/2406.02642)|null|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
 |**2024-06-04**|**Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion**|Ruiqi Li et.al.|[2406.02429](http://arxiv.org/abs/2406.02429)|null|
@@ -2992,8 +2997,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478](http://arxiv.org/abs/2406.03478)|null|
+|**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359](http://arxiv.org/abs/2406.03359)|**[link](https://github.com/bcv-uniandes/superformer)**|
+|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|null|
+|**2024-06-05**|**ASoBO: Attentive Beamformer Selection for Distant Speaker Diarization in Meetings**|Theo Mariotte et.al.|[2406.03251](http://arxiv.org/abs/2406.03251)|null|
+|**2024-06-05**|**Aligning Transformers with Weisfeiler-Leman**|Luis Müller et.al.|[2406.03148](http://arxiv.org/abs/2406.03148)|**[link](https://github.com/luis-mueller/wl-transformers)**|
+|**2024-06-05**|**Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI**|Jonghun Kim et.al.|[2406.02936](http://arxiv.org/abs/2406.02936)|null|
+|**2024-06-05**|**Zero-Shot Image Segmentation via Recursive Normalized Cut on Diffusion Features**|Paul Couairon et.al.|[2406.02842](http://arxiv.org/abs/2406.02842)|null|
+|**2024-06-04**|**Multi-layer Learnable Attention Mask for Multimodal Tasks**|Wayner Barrios et.al.|[2406.02761](http://arxiv.org/abs/2406.02761)|null|
+|**2024-06-04**|**Long Range Propagation on Continuous-Time Dynamic Graphs**|Alessio Gravina et.al.|[2406.02740](http://arxiv.org/abs/2406.02740)|null|
+|**2024-06-04**|**Block Transformer: Global-to-Local Language Modeling for Fast Inference**|Namgyu Ho et.al.|[2406.02657](http://arxiv.org/abs/2406.02657)|**[link](https://github.com/itsnamgyu/block-transformer)**|
 |**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
-|**2024-06-04**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|**[link](https://github.com/remigenet/TKAT)**|
+|**2024-06-05**|**A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting**|Remi Genet et.al.|[2406.02486](http://arxiv.org/abs/2406.02486)|**[link](https://github.com/remigenet/TKAT)**|
 |**2024-06-04**|**Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation**|Jiajun Wang et.al.|[2406.02485](http://arxiv.org/abs/2406.02485)|null|
 |**2024-06-04**|**Auto-Encoding or Auto-Regression? A Reality Check on Causality of Self-Attention-Based Sequential Recommenders**|Yueqi Wang et.al.|[2406.02048](http://arxiv.org/abs/2406.02048)|**[link](https://github.com/yueqirex/modsar)**|
 |**2024-06-04**|**MetaMixer Is All You Need**|Seokju Yun et.al.|[2406.02021](http://arxiv.org/abs/2406.02021)|**[link](https://github.com/ysj9909/ffnet)**|
@@ -3551,6 +3566,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize**|Tianren Zhang et.al.|[2406.03345](http://arxiv.org/abs/2406.03345)|**[link](https://github.com/trzhang0116/feature-contamination)**|
+|**2024-06-04**|**DPDR: Gradient Decomposition and Reconstruction for Differentially Private Deep Learning**|Yixuan Liu et.al.|[2406.02744](http://arxiv.org/abs/2406.02744)|null|
+|**2024-06-04**|**Optimal Rates for DP-SCO with a Single Epoch and Large Batches**|Christopher A. Choquette-Choo et.al.|[2406.02716](http://arxiv.org/abs/2406.02716)|null|
 |**2024-06-04**|**Contextual Dynamic Pricing: Algorithms, Optimality, and Local Differential Privacy Constraints**|Zifeng Zhao et.al.|[2406.02424](http://arxiv.org/abs/2406.02424)|null|
 |**2024-06-04**|**A KL-based Analysis Framework with Applications to Non-Descent Optimization Methods**|Junwen Qiu et.al.|[2406.02273](http://arxiv.org/abs/2406.02273)|null|
 |**2024-06-04**|**Online Learning and Information Exponents: On The Importance of Batch size, and Time/Complexity Tradeoffs**|Luca Arnaboldi et.al.|[2406.02157](http://arxiv.org/abs/2406.02157)|**[link](https://github.com/IdePHICS/batch-size-time-complexity-tradeoffs)**|
@@ -3576,7 +3594,7 @@
 |**2024-05-30**|**On the randomized Euler scheme for SDEs with integral-form drift**|Paweł Przybyłowicz et.al.|[2405.20481](http://arxiv.org/abs/2405.20481)|null|
 |**2024-05-30**|**Sharpness-Aware Minimization Enhances Feature Quality via Balanced Learning**|Jacob Mitchell Springer et.al.|[2405.20439](http://arxiv.org/abs/2405.20439)|null|
 |**2024-05-30**|**Quantitative Convergences of Lie Group Momentum Optimizers**|Lingkai Kong et.al.|[2405.20390](http://arxiv.org/abs/2405.20390)|null|
-|**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233](http://arxiv.org/abs/2405.20233)|**[link](https://github.com/ironjr/grokfast)**|
+|**2024-06-05**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233](http://arxiv.org/abs/2405.20233)|**[link](https://github.com/ironjr/grokfast)**|
 |**2024-05-30**|**Occam Gradient Descent**|B. N. Kausik et.al.|[2405.20194](http://arxiv.org/abs/2405.20194)|**[link](https://github.com/bnkausik/occam_gradient_descent)**|
 |**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
 |**2024-05-30**|**Symmetries in Overparametrized Neural Networks: A Mean-Field View**|Javier Maass Martínez et.al.|[2405.19995](http://arxiv.org/abs/2405.19995)|null|
@@ -4194,6 +4212,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
 |**2024-06-03**|**Model for Peanuts: Hijacking ML Models without Training Access is Possible**|Mahmoud Ghorbel et.al.|[2406.01708](http://arxiv.org/abs/2406.01708)|null|
 |**2024-05-31**|**Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation**|Fengdi Che et.al.|[2405.21043](http://arxiv.org/abs/2405.21043)|null|
 |**2024-05-31**|**GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725](http://arxiv.org/abs/2405.20725)|null|
@@ -4341,6 +4360,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize**|Tianren Zhang et.al.|[2406.03345](http://arxiv.org/abs/2406.03345)|**[link](https://github.com/trzhang0116/feature-contamination)**|
+|**2024-06-05**|**A comprehensive and FAIR comparison between MLP and KAN representations for differential equations and operator networks**|Khemraj Shukla et.al.|[2406.02917](http://arxiv.org/abs/2406.02917)|null|
+|**2024-06-04**|**Cyclic Sparse Training: Is it Enough?**|Advait Gadhikar et.al.|[2406.02773](http://arxiv.org/abs/2406.02773)|null|
+|**2024-06-04**|**DPDR: Gradient Decomposition and Reconstruction for Differentially Private Deep Learning**|Yixuan Liu et.al.|[2406.02744](http://arxiv.org/abs/2406.02744)|null|
+|**2024-06-04**|**Optimal Rates for DP-SCO with a Single Epoch and Large Batches**|Christopher A. Choquette-Choo et.al.|[2406.02716](http://arxiv.org/abs/2406.02716)|null|
 |**2024-06-04**|**Contextual Dynamic Pricing: Algorithms, Optimality, and Local Differential Privacy Constraints**|Zifeng Zhao et.al.|[2406.02424](http://arxiv.org/abs/2406.02424)|null|
 |**2024-06-04**|**A KL-based Analysis Framework with Applications to Non-Descent Optimization Methods**|Junwen Qiu et.al.|[2406.02273](http://arxiv.org/abs/2406.02273)|null|
 |**2024-06-04**|**Online Learning and Information Exponents: On The Importance of Batch size, and Time/Complexity Tradeoffs**|Luca Arnaboldi et.al.|[2406.02157](http://arxiv.org/abs/2406.02157)|**[link](https://github.com/IdePHICS/batch-size-time-complexity-tradeoffs)**|
@@ -4367,7 +4391,7 @@
 |**2024-05-30**|**On the randomized Euler scheme for SDEs with integral-form drift**|Paweł Przybyłowicz et.al.|[2405.20481](http://arxiv.org/abs/2405.20481)|null|
 |**2024-05-30**|**Sharpness-Aware Minimization Enhances Feature Quality via Balanced Learning**|Jacob Mitchell Springer et.al.|[2405.20439](http://arxiv.org/abs/2405.20439)|null|
 |**2024-05-30**|**Quantitative Convergences of Lie Group Momentum Optimizers**|Lingkai Kong et.al.|[2405.20390](http://arxiv.org/abs/2405.20390)|null|
-|**2024-05-30**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233](http://arxiv.org/abs/2405.20233)|**[link](https://github.com/ironjr/grokfast)**|
+|**2024-06-05**|**Grokfast: Accelerated Grokking by Amplifying Slow Gradients**|Jaerin Lee et.al.|[2405.20233](http://arxiv.org/abs/2405.20233)|**[link](https://github.com/ironjr/grokfast)**|
 |**2024-05-30**|**The Empirical Impact of Neural Parameter Symmetries, or Lack Thereof**|Derek Lim et.al.|[2405.20231](http://arxiv.org/abs/2405.20231)|null|
 |**2024-05-30**|**Occam Gradient Descent**|B. N. Kausik et.al.|[2405.20194](http://arxiv.org/abs/2405.20194)|**[link](https://github.com/bnkausik/occam_gradient_descent)**|
 |**2024-05-30**|**Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations**|Shivam Grover et.al.|[2405.20082](http://arxiv.org/abs/2405.20082)|**[link](https://github.com/shivam-grover/s3-timeseries)**|
@@ -5045,6 +5069,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?**|Kangyu Zheng et.al.|[2406.03403](http://arxiv.org/abs/2406.03403)|null|
+|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
+|**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
+|**2024-06-05**|**UDQL: Bridging The Gap between MSE Loss and The Optimal Value Function in Offline Reinforcement Learning**|Yu Zhang et.al.|[2406.03324](http://arxiv.org/abs/2406.03324)|null|
+|**2024-06-05**|**Revisiting Scalable Hessian Diagonal Approximations for Applications in Reinforcement Learning**|Mohamed Elsayed et.al.|[2406.03276](http://arxiv.org/abs/2406.03276)|null|
+|**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250](http://arxiv.org/abs/2406.03250)|null|
+|**2024-06-05**|**Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning**|Inwoo Hwang et.al.|[2406.03234](http://arxiv.org/abs/2406.03234)|**[link](https://github.com/iwhwang/Fine-Grained-Causal-RL)**|
+|**2024-06-05**|**CommonPower: Supercharging Machine Learning for Smart Grids**|Michael Eichelbeck et.al.|[2406.03231](http://arxiv.org/abs/2406.03231)|**[link](https://github.com/tumcps/commonpower)**|
+|**2024-06-05**|**Object Manipulation in Marine Environments using Reinforcement Learning**|Ahmed Nader et.al.|[2406.03223](http://arxiv.org/abs/2406.03223)|null|
+|**2024-06-05**|**Adaptive Distance Functions via Kelvin Transformation**|Rafael I. Cabral Muchacho et.al.|[2406.03200](http://arxiv.org/abs/2406.03200)|null|
+|**2024-06-05**|**DEER: A Delay-Resilient Framework for Reinforcement Learning with Variable Delays**|Bo Xia et.al.|[2406.03102](http://arxiv.org/abs/2406.03102)|null|
+|**2024-06-05**|**"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations**|Muhan Hou et.al.|[2406.03069](http://arxiv.org/abs/2406.03069)|null|
+|**2024-06-05**|**From Tarzan to Tolkien: Controlling the Language Proficiency Level of LLMs for Content Generation**|Ali Malik et.al.|[2406.03030](http://arxiv.org/abs/2406.03030)|null|
+|**2024-06-05**|**Open Grounded Planning: Challenges and Benchmark Construction**|Shiguang Guo et.al.|[2406.02903](http://arxiv.org/abs/2406.02903)|null|
+|**2024-06-05**|**Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms**|Rafael Rafailov et.al.|[2406.02900](http://arxiv.org/abs/2406.02900)|null|
+|**2024-06-05**|**Representation Learning For Efficient Deep Multi-Agent Reinforcement Learning**|Dom Huh et.al.|[2406.02890](http://arxiv.org/abs/2406.02890)|null|
+|**2024-06-05**|**Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework**|Ziyuan Yang et.al.|[2406.02865](http://arxiv.org/abs/2406.02865)|null|
+|**2024-06-04**|**Adaptive Preference Scaling for Reinforcement Learning with Human Feedback**|Ilgee Hong et.al.|[2406.02764](http://arxiv.org/abs/2406.02764)|null|
+|**2024-06-04**|**Aligning Large Language Models via Fine-grained Supervision**|Dehong Xu et.al.|[2406.02756](http://arxiv.org/abs/2406.02756)|null|
+|**2024-06-04**|**Reinforcement learning-based architecture search for quantum machine learning**|Frederic Rapp et.al.|[2406.02717](http://arxiv.org/abs/2406.02717)|null|
+|**2024-06-04**|**Optimization of decoder priors for accurate quantum error correction**|Volodymyr Sivak et.al.|[2406.02700](http://arxiv.org/abs/2406.02700)|null|
+|**2024-06-04**|**iQRL -- Implicitly Quantized Representations for Sample-efficient Reinforcement Learning**|Aidan Scannell et.al.|[2406.02696](http://arxiv.org/abs/2406.02696)|null|
+|**2024-06-04**|**By Fair Means or Foul: Quantifying Collusion in a Market Simulation with Deep Reinforcement Learning**|Michael Schlechtinger et.al.|[2406.02650](http://arxiv.org/abs/2406.02650)|null|
+|**2024-06-03**|**Adaptive Layer Splitting for Wireless LLM Inference in Edge Computing: A Model-Based Reinforcement Learning Approach**|Yuxuan Chen et.al.|[2406.02616](http://arxiv.org/abs/2406.02616)|null|
 |**2024-06-04**|**Offline Bayesian Aleatoric and Epistemic Uncertainty Quantification and Posterior Value Optimisation in Finite-State MDPs**|Filippo Valdettaro et.al.|[2406.02456](http://arxiv.org/abs/2406.02456)|null|
 |**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
 |**2024-06-04**|**Algorithmic Collusion in Dynamic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2406.02437](http://arxiv.org/abs/2406.02437)|null|
