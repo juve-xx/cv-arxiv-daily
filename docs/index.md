@@ -2980,7 +2980,7 @@ layout: default
 |**2024-06-06**|**What Makes Language Models Good-enough?**|Daiki Asami et.al.|[2406.03666](http://arxiv.org/abs/2406.03666)|null|
 |**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478](http://arxiv.org/abs/2406.03478)|null|
 |**2024-06-05**|**SuperFormer: Volumetric Transformer Architectures for MRI Super-Resolution**|Cristhian Forigua et.al.|[2406.03359](http://arxiv.org/abs/2406.03359)|**[link](https://github.com/bcv-uniandes/superformer)**|
-|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|null|
+|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|**[link](https://github.com/mhamzaerol/audio-mamba-aum)**|
 |**2024-06-05**|**ASoBO: Attentive Beamformer Selection for Distant Speaker Diarization in Meetings**|Theo Mariotte et.al.|[2406.03251](http://arxiv.org/abs/2406.03251)|null|
 |**2024-06-05**|**Aligning Transformers with Weisfeiler-Leman**|Luis Müller et.al.|[2406.03148](http://arxiv.org/abs/2406.03148)|**[link](https://github.com/luis-mueller/wl-transformers)**|
 |**2024-06-05**|**Radiomics-guided Multimodal Self-attention Network for Predicting Pathological Complete Response in Breast MRI**|Jonghun Kim et.al.|[2406.02936](http://arxiv.org/abs/2406.02936)|null|
