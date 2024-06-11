@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2450,7 +2450,7 @@ layout: default
 |**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
 |**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
 |**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
-|**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
+|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
@@ -4250,7 +4250,7 @@ layout: default
 |**2024-02-17**|**How to Make the Gradients Small Privately: Improved Rates for Differentially Private Non-Convex Optimization**|Andrew Lowy et.al.|[2402.11173](http://arxiv.org/abs/2402.11173)|null|
 |**2024-02-10**|**Generalization Error of Graph Neural Networks in the Mean-field Regime**|Gholamali Aminian et.al.|[2402.07025](http://arxiv.org/abs/2402.07025)|null|
 |**2024-02-09**|**Convergence of Gradient Descent with Small Initialization for Unregularized Matrix Completion**|Jianhao Ma et.al.|[2402.06756](http://arxiv.org/abs/2402.06756)|null|
-|**2024-02-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
+|**2024-06-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
 |**2024-02-08**|**Exploring Learning Complexity for Downstream Data Pruning**|Wenyu Jiang et.al.|[2402.05356](http://arxiv.org/abs/2402.05356)|null|
 |**2024-05-28**|**Towards Understanding Inductive Bias in Transformers: A View From Infinity**|Itay Lavie et.al.|[2402.05173](http://arxiv.org/abs/2402.05173)|null|
 |**2024-06-06**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
@@ -5168,7 +5168,7 @@ layout: default
 |**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
 |**2024-06-04**|**Algorithmic Collusion in Dynamic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2406.02437](http://arxiv.org/abs/2406.02437)|null|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
+|**2024-06-09**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
 |**2024-06-04**|**How to Explore with Belief: State Entropy Maximization in POMDPs**|Riccardo Zamboni et.al.|[2406.02295](http://arxiv.org/abs/2406.02295)|null|
 |**2024-06-04**|**Smaller Batches, Bigger Gains? Investigating the Impact of Batch Sizes on Reinforcement Learning Based Real-World Production Scheduling**|Arthur Müller et.al.|[2406.02294](http://arxiv.org/abs/2406.02294)|null|
 |**2024-06-04**|**Test-Time Regret Minimization in Meta Reinforcement Learning**|Mirco Mutti et.al.|[2406.02282](http://arxiv.org/abs/2406.02282)|null|
