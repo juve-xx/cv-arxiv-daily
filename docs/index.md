@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3064,7 +3064,7 @@ layout: default
 |**2024-06-24**|**Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers**|Chao Lou et.al.|[2406.16747](http://arxiv.org/abs/2406.16747)|null|
 |**2024-06-24**|**Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces**|Zhaohui Chen et.al.|[2406.16518](http://arxiv.org/abs/2406.16518)|null|
 |**2024-06-24**|**Multi-Modal Vision Transformers for Crop Mapping from Satellite Image Time Series**|Theresa Follath et.al.|[2406.16513](http://arxiv.org/abs/2406.16513)|null|
-|**2024-06-24**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
+|**2024-06-25**|**OTCE: Hybrid SSM and Attention with Cross Domain Mixture of Experts to construct Observer-Thinker-Conceiver-Expresser**|Jingze Shi et.al.|[2406.16495](http://arxiv.org/abs/2406.16495)|**[link](https://github.com/LoserCheems/OTCE)**|
 |**2024-06-24**|**Video-Infinity: Distributed Long Video Generation**|Zhenxiong Tan et.al.|[2406.16260](http://arxiv.org/abs/2406.16260)|null|
 |**2024-06-23**|**CAVM: Conditional Autoregressive Vision Model for Contrast-Enhanced Brain Tumor MRI Synthesis**|Lujun Gui et.al.|[2406.16074](http://arxiv.org/abs/2406.16074)|null|
 |**2024-06-23**|**Unlocking the Future: Exploring Look-Ahead Planning Mechanistic Interpretability in Large Language Models**|Tianyi Men et.al.|[2406.16033](http://arxiv.org/abs/2406.16033)|null|
@@ -3768,7 +3768,7 @@ layout: default
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-11**|**Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot**|Zixuan Wang et.al.|[2406.06893](http://arxiv.org/abs/2406.06893)|null|
 |**2024-06-10**|**Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes**|Dan Qiao et.al.|[2406.06838](http://arxiv.org/abs/2406.06838)|null|
-|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
+|**2024-06-24**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
 |**2024-06-06**|**Differentiable Combinatorial Scheduling at Scale**|Mingju Liu et.al.|[2406.06593](http://arxiv.org/abs/2406.06593)|**[link](https://github.com/Yu-Maryland/Differentiable_Scheduler_ICML24)**|
 |**2024-06-01**|**Enhancing Text Authenticity: A Novel Hybrid Approach for AI-Generated Text Detection**|Ye Zhang et.al.|[2406.06558](http://arxiv.org/abs/2406.06558)|null|
 |**2024-06-10**|**An Improved Empirical Fisher Approximation for Natural Gradient Descent**|Xiaodong Wu et.al.|[2406.06420](http://arxiv.org/abs/2406.06420)|null|
@@ -4671,7 +4671,7 @@ layout: default
 |**2024-06-11**|**Unleashing the Denoising Capability of Diffusion Prior for Solving Inverse Problems**|Jiawei Zhang et.al.|[2406.06959](http://arxiv.org/abs/2406.06959)|**[link](https://github.com/weigerzan/projdiff)**|
 |**2024-06-11**|**Transformers Provably Learn Sparse Token Selection While Fully-Connected Nets Cannot**|Zixuan Wang et.al.|[2406.06893](http://arxiv.org/abs/2406.06893)|null|
 |**2024-06-10**|**Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes**|Dan Qiao et.al.|[2406.06838](http://arxiv.org/abs/2406.06838)|null|
-|**2024-06-09**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
+|**2024-06-24**|**Latent Diffusion Model-Enabled Real-Time Semantic Communication Considering Semantic Ambiguities and Channel Noises**|Jianhua Pei et.al.|[2406.06644](http://arxiv.org/abs/2406.06644)|null|
 |**2024-06-06**|**Differentiable Combinatorial Scheduling at Scale**|Mingju Liu et.al.|[2406.06593](http://arxiv.org/abs/2406.06593)|**[link](https://github.com/Yu-Maryland/Differentiable_Scheduler_ICML24)**|
 |**2024-06-01**|**Enhancing Text Authenticity: A Novel Hybrid Approach for AI-Generated Text Detection**|Ye Zhang et.al.|[2406.06558](http://arxiv.org/abs/2406.06558)|null|
 |**2024-06-10**|**An Improved Empirical Fisher Approximation for Natural Gradient Descent**|Xiaodong Wu et.al.|[2406.06420](http://arxiv.org/abs/2406.06420)|null|
@@ -5429,7 +5429,7 @@ layout: default
 |**2024-06-24**|**Uncertainty-Aware Reward-Free Exploration with General Function Approximation**|Junkai Zhang et.al.|[2406.16255](http://arxiv.org/abs/2406.16255)|**[link](https://github.com/uclaml/gfa-rfe)**|
 |**2024-06-24**|**An Optimal Tightness Bound for the Simulation Lemma**|Sam Lobel et.al.|[2406.16249](http://arxiv.org/abs/2406.16249)|null|
 |**2024-06-23**|**Position: Benchmarking is Limited in Reinforcement Learning Research**|Scott M. Jordan et.al.|[2406.16241](http://arxiv.org/abs/2406.16241)|null|
-|**2024-06-23**|**TornadoDrone: Bio-inspired DRL-based Drone Landing on 6D Platform with Wind Force Disturbances**|Robinroy Peter et.al.|[2406.16164](http://arxiv.org/abs/2406.16164)|null|
+|**2024-06-25**|**TornadoDrone: Bio-inspired DRL-based Drone Landing on 6D Platform with Wind Force Disturbances**|Robinroy Peter et.al.|[2406.16164](http://arxiv.org/abs/2406.16164)|null|
 |**2024-06-23**|**Diffusion Spectral Representation for Reinforcement Learning**|Dmitry Shribak et.al.|[2406.16121](http://arxiv.org/abs/2406.16121)|null|
 |**2024-06-23**|**Bounding-Box Inference for Error-Aware Model-Based Reinforcement Learning**|Erin J. Talvitie et.al.|[2406.16006](http://arxiv.org/abs/2406.16006)|**[link](https://github.com/lace-lab/bounding-box)**|
 |**2024-06-22**|**Multistep Criticality Search and Power Shaping in Microreactors with Reinforcement Learning**|Majdi I. Radaideh et.al.|[2406.15931](http://arxiv.org/abs/2406.15931)|null|
@@ -5457,7 +5457,7 @@ layout: default
 |**2024-06-21**|**An Idiosyncrasy of Time-discretization in Reinforcement Learning**|Kris De Asis et.al.|[2406.14951](http://arxiv.org/abs/2406.14951)|null|
 |**2024-06-21**|**Learning Autonomous Race Driving with Action Mapping Reinforcement Learning**|Yuanda Wang et.al.|[2406.14934](http://arxiv.org/abs/2406.14934)|null|
 |**2024-06-21**|**Towards Dynamic Resource Allocation and Client Scheduling in Hierarchical Federated Learning: A Two-Phase Deep Reinforcement Learning Approach**|Xiaojing Chen et.al.|[2406.14910](http://arxiv.org/abs/2406.14910)|null|
-|**2024-06-21**|**Direct Multi-Turn Preference Optimization for Language Agents**|Wentao Shi et.al.|[2406.14868](http://arxiv.org/abs/2406.14868)|null|
+|**2024-06-25**|**Direct Multi-Turn Preference Optimization for Language Agents**|Wentao Shi et.al.|[2406.14868](http://arxiv.org/abs/2406.14868)|null|
 |**2024-06-20**|**Multi-Task Lane-Free Driving Strategy for Connected and Automated Vehicles: A Multi-Agent Deep Reinforcement Learning Approach**|Mehran Berahman et.al.|[2406.14766](http://arxiv.org/abs/2406.14766)|null|
 |**2024-06-20**|**A General Control-Theoretic Approach for Reinforcement Learning: Theory and Algorithms**|Weiqin Chen et.al.|[2406.14753](http://arxiv.org/abs/2406.14753)|null|
 |**2024-06-20**|**Learning to Retrieve Iteratively for In-Context Learning**|Yunmo Chen et.al.|[2406.14739](http://arxiv.org/abs/2406.14739)|null|
