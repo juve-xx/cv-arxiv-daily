@@ -2444,6 +2444,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227](http://arxiv.org/abs/2406.19227)|null|
+|**2024-06-27**|**STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis**|Wenbin Li et.al.|[2406.19065](http://arxiv.org/abs/2406.19065)|**[link](https://github.com/lwbxc/stbench)**|
+|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|null|
+|**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895](http://arxiv.org/abs/2406.18895)|null|
+|**2024-06-27**|**SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models**|Vipul Rathore et.al.|[2406.18880](http://arxiv.org/abs/2406.18880)|**[link](https://github.com/dair-iitd/SSP)**|
+|**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770](http://arxiv.org/abs/2406.18770)|null|
 |**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
 |**2024-06-26**|**BADGE: BADminton report Generation and Evaluation with LLM**|Shang-Hsuan Chiang et.al.|[2406.18116](http://arxiv.org/abs/2406.18116)|**[link](https://github.com/andychiangsh/badge)**|
@@ -3074,6 +3080,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|null|
+|**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|null|
+|**2024-06-27**|**Temporally Multi-Scale Sparse Self-Attention for Physical Activity Data Imputation**|Hui Wei et.al.|[2406.18848](http://arxiv.org/abs/2406.18848)|**[link](https://github.com/reml-lab/allofus-imputation)**|
+|**2024-06-09**|**Realtime Dynamic Gaze Target Tracking and Depth-Level Estimation**|Esmaeil Seraj et.al.|[2406.18595](http://arxiv.org/abs/2406.18595)|null|
+|**2024-06-05**|**Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation**|Hubert Kompanowski et.al.|[2406.18581](http://arxiv.org/abs/2406.18581)|null|
 |**2024-06-26**|**Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers**|Yibo Jiang et.al.|[2406.18400](http://arxiv.org/abs/2406.18400)|null|
 |**2024-06-26**|**Continuous Sign Language Recognition Using Intra-inter Gloss Attention**|Hossein Ranjbar et.al.|[2406.18333](http://arxiv.org/abs/2406.18333)|null|
 |**2024-06-26**|**Automated Immunophenotyping Assessment for Diagnosing Childhood Acute Leukemia using Set-Transformers**|Elpiniki Maria Lygizou et.al.|[2406.18309](http://arxiv.org/abs/2406.18309)|null|
@@ -3730,6 +3741,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
+|**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
+|**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
 |**2024-06-26**|**A Nesterov-style Accelerated Gradient Descent Algorithm for the Symmetric Eigenvalue Problem**|Foivos Alimisis et.al.|[2406.18433](http://arxiv.org/abs/2406.18433)|null|
@@ -4474,6 +4488,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-25**|**A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems**|Hung Vinh Tran et.al.|[2406.17335](http://arxiv.org/abs/2406.17335)|**[link](https://github.com/chenxing1999/recsys-benchmark)**|
 |**2024-06-20**|**Toward Infinite-Long Prefix in Transformer**|Jiuxiang Gu et.al.|[2406.14036](http://arxiv.org/abs/2406.14036)|**[link](https://github.com/christianyang37/chiwun)**|
 |**2024-06-19**|**Generalized Metric Subregularity with Applications to High-Order Regularized Newton Methods**|Guoyin Li et.al.|[2406.13207](http://arxiv.org/abs/2406.13207)|null|
@@ -4631,6 +4646,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
+|**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
+|**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
 |**2024-06-26**|**A Nesterov-style Accelerated Gradient Descent Algorithm for the Symmetric Eigenvalue Problem**|Foivos Alimisis et.al.|[2406.18433](http://arxiv.org/abs/2406.18433)|null|
@@ -5452,6 +5470,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Efficient World Models with Context-Aware Tokenization**|Vincent Micheli et.al.|[2406.19320](http://arxiv.org/abs/2406.19320)|**[link](https://github.com/vmicheli/delta-iris)**|
+|**2024-06-27**|**Averaging log-likelihoods in direct alignment**|Nathan Grinsztajn et.al.|[2406.19188](http://arxiv.org/abs/2406.19188)|null|
+|**2024-06-27**|**Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a supervised-friendly fashion**|Yannis Flet-Berliac et.al.|[2406.19185](http://arxiv.org/abs/2406.19185)|null|
+|**2024-06-27**|**Learning Pareto Set for Multi-Objective Continuous Robot Control**|Tianye Shu et.al.|[2406.18924](http://arxiv.org/abs/2406.18924)|**[link](https://github.com/hisaolabsustc/hyper-morl)**|
+|**2024-06-27**|**Autonomous Control of a Novel Closed Chain Five Bar Active Suspension via Deep Reinforcement Learning**|Nishesh Singh et.al.|[2406.18899](http://arxiv.org/abs/2406.18899)|null|
+|**2024-06-27**|**State and Input Constrained Output-Feedback Adaptive Optimal Control of Affine Nonlinear Systems**|Tochukwu Elijah Ogri et.al.|[2406.18804](http://arxiv.org/abs/2406.18804)|null|
+|**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[2406.18741](http://arxiv.org/abs/2406.18741)|null|
 |**2024-06-26**|**Confident Natural Policy Gradient for Local Planning in $q_π$ -realizable Constrained MDPs**|Tian Tian et.al.|[2406.18529](http://arxiv.org/abs/2406.18529)|null|
 |**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
 |**2024-06-26**|**Preference Elicitation for Offline Reinforcement Learning**|Alizée Pace et.al.|[2406.18450](http://arxiv.org/abs/2406.18450)|null|
