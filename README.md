@@ -2470,6 +2470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**Mining Reasons For And Against Vaccination From Unstructured Data Using Nichesourcing and AI Data Augmentation**|Damián Ariel Furman et.al.|[2406.19951](http://arxiv.org/abs/2406.19951)|null|
 |**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227](http://arxiv.org/abs/2406.19227)|null|
 |**2024-06-27**|**STBench: Assessing the Ability of Large Language Models in Spatio-Temporal Analysis**|Wenbin Li et.al.|[2406.19065](http://arxiv.org/abs/2406.19065)|**[link](https://github.com/lwbxc/stbench)**|
 |**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
@@ -3108,6 +3109,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**CSAKD: Knowledge Distillation with Cross Self-Attention for Hyperspectral and Multispectral Image Fusion**|Chih-Chung Hsu et.al.|[2406.19666](http://arxiv.org/abs/2406.19666)|**[link](https://github.com/ming053l/csakd)**|
 |**2024-06-27**|**Fibottention: Inceptive Visual Representation Learning with Diverse Attention Across Heads**|Ali Khaleghi Rahimian et.al.|[2406.19391](http://arxiv.org/abs/2406.19391)|**[link](https://github.com/charlotte-charmlab/fibottention)**|
 |**2024-06-27**|**VideoMambaPro: A Leap Forward for Mamba in Video Understanding**|Hui Lu et.al.|[2406.19006](http://arxiv.org/abs/2406.19006)|**[link](https://github.com/hotfinda/videomambapro)**|
 |**2024-06-27**|**Temporally Multi-Scale Sparse Self-Attention for Physical Activity Data Imputation**|Hui Wei et.al.|[2406.18848](http://arxiv.org/abs/2406.18848)|**[link](https://github.com/reml-lab/allofus-imputation)**|
@@ -3771,6 +3773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**On the Trade-off between Flatness and Optimization in Distributed Learning**|Ying Cao et.al.|[2406.20006](http://arxiv.org/abs/2406.20006)|null|
+|**2024-06-28**|**Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**|Wenliang Zhong et.al.|[2406.19827](http://arxiv.org/abs/2406.19827)|null|
+|**2024-06-27**|**Too Good to be True? Turn Any Model Differentially Private With DP-Weights**|David Zagardo et.al.|[2406.19507](http://arxiv.org/abs/2406.19507)|**[link](https://github.com/dzagardo/forgetnet)**|
 |**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
 |**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
 |**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
@@ -4680,6 +4685,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**On the Trade-off between Flatness and Optimization in Distributed Learning**|Ying Cao et.al.|[2406.20006](http://arxiv.org/abs/2406.20006)|null|
+|**2024-06-28**|**Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**|Wenliang Zhong et.al.|[2406.19827](http://arxiv.org/abs/2406.19827)|null|
+|**2024-06-27**|**Too Good to be True? Turn Any Model Differentially Private With DP-Weights**|David Zagardo et.al.|[2406.19507](http://arxiv.org/abs/2406.19507)|**[link](https://github.com/dzagardo/forgetnet)**|
 |**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
 |**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
 |**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
@@ -5506,6 +5514,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators**|Kuo-Hao Zeng et.al.|[2406.20083](http://arxiv.org/abs/2406.20083)|null|
+|**2024-06-28**|**Applying RLAIF for Code Generation with API-usage in Lightweight LLMs**|Sujan Dutta et.al.|[2406.20060](http://arxiv.org/abs/2406.20060)|null|
+|**2024-06-28**|**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**|Xinyu Xu et.al.|[2406.19972](http://arxiv.org/abs/2406.19972)|null|
+|**2024-06-28**|**Operator World Models for Reinforcement Learning**|Pietro Novelli et.al.|[2406.19861](http://arxiv.org/abs/2406.19861)|null|
+|**2024-06-28**|**3D Operation of Autonomous Excavator based on Reinforcement Learning through Independent Reward for Individual Joints**|Yoonkyu Yoo et.al.|[2406.19848](http://arxiv.org/abs/2406.19848)|null|
+|**2024-06-28**|**Reinforcement Learning for Efficient Design and Control Co-optimisation of Energy Systems**|Marine Cauz et.al.|[2406.19825](http://arxiv.org/abs/2406.19825)|null|
+|**2024-06-28**|**Identifying Ordinary Differential Equations for Data-efficient Model-based Reinforcement Learning**|Tobias Nagel et.al.|[2406.19817](http://arxiv.org/abs/2406.19817)|null|
+|**2024-06-28**|**Fuzzy Logic Guided Reward Function Variation: An Oracle for Testing Reinforcement Learning Programs**|Shiyu Zhang et.al.|[2406.19812](http://arxiv.org/abs/2406.19812)|null|
+|**2024-06-28**|**Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**|Jie Zhang et.al.|[2406.19769](http://arxiv.org/abs/2406.19769)|null|
+|**2024-06-28**|**Contextualized Hybrid Ensemble Q-learning: Learning Fast with Control Priors**|Emma Cramer et.al.|[2406.19768](http://arxiv.org/abs/2406.19768)|null|
+|**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
+|**2024-06-28**|**Time-optimal Flight in Cluttered Environments via Safe Reinforcement Learning**|Wei Xiao et.al.|[2406.19646](http://arxiv.org/abs/2406.19646)|null|
+|**2024-06-28**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644](http://arxiv.org/abs/2406.19644)|null|
+|**2024-06-28**|**Optimizing Cyber Defense in Dynamic Active Directories through Reinforcement Learning**|Diksha Goel et.al.|[2406.19596](http://arxiv.org/abs/2406.19596)|null|
+|**2024-06-27**|**Meta-Gradient Search Control: A Method for Improving the Efficiency of Dyna-style Planning**|Bradley Burega et.al.|[2406.19561](http://arxiv.org/abs/2406.19561)|null|
+|**2024-06-27**|**Dataless Quadratic Neural Networks for the Maximum Independent Set Problem**|Ismail Alkhouri et.al.|[2406.19532](http://arxiv.org/abs/2406.19532)|null|
+|**2024-06-27**|**Knowledge acquisition for dialogue agents using reinforcement learning on graph representations**|Selene Baez Santamaria et.al.|[2406.19500](http://arxiv.org/abs/2406.19500)|null|
+|**2024-06-27**|**Multi-agent Cooperative Games Using Belief Map Assisted Training**|Qinwei Huang et.al.|[2406.19477](http://arxiv.org/abs/2406.19477)|null|
 |**2024-06-27**|**Efficient World Models with Context-Aware Tokenization**|Vincent Micheli et.al.|[2406.19320](http://arxiv.org/abs/2406.19320)|**[link](https://github.com/vmicheli/delta-iris)**|
 |**2024-06-27**|**Averaging log-likelihoods in direct alignment**|Nathan Grinsztajn et.al.|[2406.19188](http://arxiv.org/abs/2406.19188)|null|
 |**2024-06-27**|**Contrastive Policy Gradient: Aligning LLMs on sequence-level scores in a supervised-friendly fashion**|Yannis Flet-Berliac et.al.|[2406.19185](http://arxiv.org/abs/2406.19185)|null|
