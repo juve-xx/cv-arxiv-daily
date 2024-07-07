@@ -5615,7 +5615,7 @@ layout: default
 |**2024-07-01**|**Non-Prehensile Aerial Manipulation using Model-Based Deep Reinforcement Learning**|Cora A. Dimmig et.al.|[2407.00889](http://arxiv.org/abs/2407.00889)|null|
 |**2024-06-30**|**Exploring a Physics-Informed Decision Transformer for Distribution System Restoration: Methodology and Performance Analysis**|Hong Zhao et.al.|[2407.00808](http://arxiv.org/abs/2407.00808)|null|
 |**2024-06-30**|**Benchmarks for Reinforcement Learning with Biased Offline Data and Imperfect Simulators**|Ori Linial et.al.|[2407.00806](http://arxiv.org/abs/2407.00806)|null|
-|**2024-06-30**|**Model-Free Active Exploration in Reinforcement Learning**|Alessio Russo et.al.|[2407.00801](http://arxiv.org/abs/2407.00801)|null|
+|**2024-06-30**|**Model-Free Active Exploration in Reinforcement Learning**|Alessio Russo et.al.|[2407.00801](http://arxiv.org/abs/2407.00801)|**[link](https://github.com/rssalessio/modelfreeactivateexplorationrl)**|
 |**2024-06-30**|**Disentangled Representations for Causal Cognition**|Filippo Torresan et.al.|[2407.00744](http://arxiv.org/abs/2407.00744)|null|
 |**2024-07-03**|**Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints**|Jianuo Huang et.al.|[2407.00741](http://arxiv.org/abs/2407.00741)|null|
 |**2024-06-30**|**Tackling Long-Horizon Tasks with Model-based Offline Reinforcement Learning**|Kwanyoung Park et.al.|[2407.00699](http://arxiv.org/abs/2407.00699)|null|
