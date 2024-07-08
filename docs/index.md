@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Tongyi SpeechTeam et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227](http://arxiv.org/abs/2407.03227)|null|
 |**2024-07-03**|**Exploring the Capabilities of LLMs for Code Change Related Tasks**|Lishui Fan et.al.|[2407.02824](http://arxiv.org/abs/2407.02824)|null|
 |**2024-07-02**|**Supporters and Skeptics: LLM-based Analysis of Engagement with Mental Health (Mis)Information Content on Video-sharing Platforms**|Viet Cuong Nguyen et.al.|[2407.02662](http://arxiv.org/abs/2407.02662)|null|
@@ -3101,6 +3102,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
+|**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616](http://arxiv.org/abs/2407.04616)|**[link](https://github.com/vainf/isomorphic-pruning)**|
+|**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
+|**2024-07-05**|**XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models**|Shashi Kumar et.al.|[2407.04439](http://arxiv.org/abs/2407.04439)|null|
+|**2024-07-04**|**SOWA: Adapting Hierarchical Frozen Window Self-Attention to Visual-Language Models for Better Anomaly Detection**|Zongxiang Hu et.al.|[2407.03634](http://arxiv.org/abs/2407.03634)|**[link](https://github.com/huzongxiang/sowa)**|
 |**2024-07-03**|**Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers**|Sanket Gandhi et.al.|[2407.03216](http://arxiv.org/abs/2407.03216)|null|
 |**2024-07-03**|**PosMLP-Video: Spatial and Temporal Relative Position Encoding for Efficient Video Recognition**|Yanbin Hao et.al.|[2407.02934](http://arxiv.org/abs/2407.02934)|**[link](https://github.com/zhouds1918/posmlp_video)**|
 |**2024-07-03**|**Learning Positional Attention for Sequential Recommendation**|Fan Luo et.al.|[2407.02793](http://arxiv.org/abs/2407.02793)|null|
@@ -3781,6 +3787,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam et.al.|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
+|**2024-07-05**|**Geometrically Inspired Kernel Machines for Collaborative Learning Beyond Gradient Descent**|Mohit Kumar et.al.|[2407.04335](http://arxiv.org/abs/2407.04335)|null|
+|**2024-07-05**|**Langevin Dynamics: A Unified Perspective on Optimization via Lyapunov Potentials**|August Y. Chen et.al.|[2407.04264](http://arxiv.org/abs/2407.04264)|null|
+|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|null|
+|**2024-07-04**|**Overflow-Avoiding Memory AMP**|Shunqi Huang et.al.|[2407.03898](http://arxiv.org/abs/2407.03898)|null|
+|**2024-07-04**|**Bias of Stochastic Gradient Descent or the Architecture: Disentangling the Effects of Overparameterization of Neural Networks**|Amit Peleg et.al.|[2407.03848](http://arxiv.org/abs/2407.03848)|null|
+|**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
+|**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
+|**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
+|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
+|**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
+|**2024-07-03**|**DACB-Net: Dual Attention Guided Compact Bilinear Convolution Neural Network for Skin Disease Classification**|Belal Ahmad et.al.|[2407.03439](http://arxiv.org/abs/2407.03439)|null|
 |**2024-07-03**|**A novel shape optimization approach for source identification in elliptic equations**|Wei Gong et.al.|[2407.02909](http://arxiv.org/abs/2407.02909)|null|
 |**2024-07-03**|**Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2407.02827](http://arxiv.org/abs/2407.02827)|null|
 |**2024-07-03**|**Automatic gradient descent with generalized Newton's method**|Zhiqi Bu et.al.|[2407.02772](http://arxiv.org/abs/2407.02772)|null|
@@ -4713,6 +4732,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam et.al.|[2407.04673](http://arxiv.org/abs/2407.04673)|null|
+|**2024-07-05**|**An Adaptive Stochastic Gradient Method with Non-negative Gauss-Newton Stepsizes**|Antonio Orvieto et.al.|[2407.04358](http://arxiv.org/abs/2407.04358)|null|
+|**2024-07-05**|**Geometrically Inspired Kernel Machines for Collaborative Learning Beyond Gradient Descent**|Mohit Kumar et.al.|[2407.04335](http://arxiv.org/abs/2407.04335)|null|
+|**2024-07-05**|**Langevin Dynamics: A Unified Perspective on Optimization via Lyapunov Potentials**|August Y. Chen et.al.|[2407.04264](http://arxiv.org/abs/2407.04264)|null|
+|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|null|
+|**2024-07-04**|**Overflow-Avoiding Memory AMP**|Shunqi Huang et.al.|[2407.03898](http://arxiv.org/abs/2407.03898)|null|
+|**2024-07-04**|**Bias of Stochastic Gradient Descent or the Architecture: Disentangling the Effects of Overparameterization of Neural Networks**|Amit Peleg et.al.|[2407.03848](http://arxiv.org/abs/2407.03848)|null|
+|**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
+|**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
+|**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
+|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
+|**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
+|**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
+|**2024-07-03**|**DACB-Net: Dual Attention Guided Compact Bilinear Convolution Neural Network for Skin Disease Classification**|Belal Ahmad et.al.|[2407.03439](http://arxiv.org/abs/2407.03439)|null|
 |**2024-07-03**|**A novel shape optimization approach for source identification in elliptic equations**|Wei Gong et.al.|[2407.02909](http://arxiv.org/abs/2407.02909)|null|
 |**2024-07-03**|**Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2407.02827](http://arxiv.org/abs/2407.02827)|null|
 |**2024-07-03**|**Automatic gradient descent with generalized Newton's method**|Zhiqi Bu et.al.|[2407.02772](http://arxiv.org/abs/2407.02772)|null|
@@ -5562,6 +5596,30 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Graph Reinforcement Learning in Power Grids: A Survey**|Mohamed Hassouna et.al.|[2407.04522](http://arxiv.org/abs/2407.04522)|null|
+|**2024-07-05**|**Using Petri Nets as an Integrated Constraint Mechanism for Reinforcement Learning Tasks**|Timon Sachweh et.al.|[2407.04481](http://arxiv.org/abs/2407.04481)|null|
+|**2024-07-05**|**Hindsight Preference Learning for Offline Preference-based Reinforcement Learning**|Chen-Xiao Gao et.al.|[2407.04451](http://arxiv.org/abs/2407.04451)|**[link](https://github.com/typoverflow/wiserl)**|
+|**2024-07-05**|**Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**|Pierre Haritz et.al.|[2407.04343](http://arxiv.org/abs/2407.04343)|null|
+|**2024-07-05**|**Gradient-based Regularization for Action Smoothness in Robotic Control with Reinforcement Learning**|I Lee et.al.|[2407.04315](http://arxiv.org/abs/2407.04315)|null|
+|**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285](http://arxiv.org/abs/2407.04285)|null|
+|**2024-07-05**|**Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator**|Mehryar Abbasi et.al.|[2407.04258](http://arxiv.org/abs/2407.04258)|null|
+|**2024-07-05**|**PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots**|Zhiyuan Xiao et.al.|[2407.04224](http://arxiv.org/abs/2407.04224)|null|
+|**2024-07-05**|**Autoverse: An Evolvable Game Langugage for Learning Robust Embodied Agents**|Sam Earle et.al.|[2407.04221](http://arxiv.org/abs/2407.04221)|null|
+|**2024-07-04**|**Orchestrating LLMs with Different Personalizations**|Jin Peng Zhou et.al.|[2407.04181](http://arxiv.org/abs/2407.04181)|null|
+|**2024-07-04**|**Collision Avoidance for Multiple UAVs in Unknown Scenarios with Causal Representation Disentanglement**|Jiafan Zhuang et.al.|[2407.04064](http://arxiv.org/abs/2407.04064)|null|
+|**2024-07-04**|**Robust Policy Learning for Multi-UAV Collision Avoidance with Causal Feature Selection**|Jiafan Zhuang et.al.|[2407.04056](http://arxiv.org/abs/2407.04056)|null|
+|**2024-07-04**|**ROER: Regularized Optimal Experience Replay**|Changling Li et.al.|[2407.03995](http://arxiv.org/abs/2407.03995)|**[link](https://github.com/xavierchanglingli/regularized-optimal-experience-replay)**|
+|**2024-07-04**|**Craftium: An Extensible Framework for Creating Reinforcement Learning Environments**|Mikel Malagón et.al.|[2407.03969](http://arxiv.org/abs/2407.03969)|**[link](https://github.com/mikelma/craftium)**|
+|**2024-07-04**|**Improving Sample Efficiency of Reinforcement Learning with Background Knowledge from Large Language Models**|Fuxiang Zhang et.al.|[2407.03964](http://arxiv.org/abs/2407.03964)|null|
+|**2024-07-04**|**Continuous-time q-Learning for Jump-Diffusion Models under Tsallis Entropy**|Lijun Bo et.al.|[2407.03888](http://arxiv.org/abs/2407.03888)|null|
+|**2024-07-04**|**Q-Adapter: Training Your LLM Adapter as a Residual Q-Function**|Yi-Chen Li et.al.|[2407.03856](http://arxiv.org/abs/2407.03856)|null|
+|**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
+|**2024-07-04**|**Charging Ahead: A Hierarchical Adversarial Framework for Counteracting Advanced Cyber Threats in EV Charging Stations**|Mohammed Al-Mehdhar et.al.|[2407.03729](http://arxiv.org/abs/2407.03729)|null|
+|**2024-07-04**|**Continual Learning Optimizations for Auto-regressive Decoder of Multilingual ASR systems**|Chin Yuen Kwok et.al.|[2407.03645](http://arxiv.org/abs/2407.03645)|null|
+|**2024-07-04**|**Deep Pareto Reinforcement Learning for Multi-Objective Recommender System**|Pan Li et.al.|[2407.03580](http://arxiv.org/abs/2407.03580)|null|
+|**2024-07-03**|**Algorithmic Collusion And The Minimum Price Markov Game**|Igor Sadoune et.al.|[2407.03521](http://arxiv.org/abs/2407.03521)|null|
+|**2024-07-03**|**A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents**|Andrew Liu et.al.|[2407.03436](http://arxiv.org/abs/2407.03436)|null|
+|**2024-07-03**|**Multi-Task Decision-Making for Multi-User 360 Video Processing over Wireless Networks**|Babak Badnava et.al.|[2407.03426](http://arxiv.org/abs/2407.03426)|null|
 |**2024-07-03**|**Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations**|Trevor Ablett et.al.|[2407.03311](http://arxiv.org/abs/2407.03311)|**[link](https://github.com/utiasSTARS/vpace)**|
 |**2024-07-03**|**A Review of the Applications of Deep Learning-Based Emergent Communication**|Brendon Boldt et.al.|[2407.03302](http://arxiv.org/abs/2407.03302)|null|
 |**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
