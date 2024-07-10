@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2451,8 +2451,8 @@ layout: default
 |**2024-07-08**|**Sub-SA: Strengthen In-context Learning via Submodular Selective Annotation**|Jian Qian et.al.|[2407.05693](http://arxiv.org/abs/2407.05693)|**[link](https://github.com/jamesqian11/subsa)**|
 |**2024-07-08**|**Retrieved In-Context Principles from Previous Mistakes**|Hao Sun et.al.|[2407.05682](http://arxiv.org/abs/2407.05682)|null|
 |**2024-07-08**|**GMC: A General Framework of Multi-stage Context Learning and Utilization for Visual Detection Tasks**|Xuan Wang et.al.|[2407.05566](http://arxiv.org/abs/2407.05566)|null|
-|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|null|
-|**2024-07-04**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Tongyi SpeechTeam et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
+|**2024-07-07**|**Just read twice: closing the recall gap for recurrent language models**|Simran Arora et.al.|[2407.05483](http://arxiv.org/abs/2407.05483)|**[link](https://github.com/HazyResearch/prefix-linear-attention)**|
+|**2024-07-09**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Keyu An et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
 |**2024-07-03**|**Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning**|Zhili Shen et.al.|[2407.03227](http://arxiv.org/abs/2407.03227)|null|
 |**2024-07-03**|**Exploring the Capabilities of LLMs for Code Change Related Tasks**|Lishui Fan et.al.|[2407.02824](http://arxiv.org/abs/2407.02824)|null|
 |**2024-07-02**|**Supporters and Skeptics: LLM-based Analysis of Engagement with Mental Health (Mis)Information Content on Video-sharing Platforms**|Viet Cuong Nguyen et.al.|[2407.02662](http://arxiv.org/abs/2407.02662)|null|
@@ -2471,7 +2471,7 @@ layout: default
 |**2024-06-27**|**From Efficient Multimodal Models to World Models: A Survey**|Xinji Mai et.al.|[2407.00118](http://arxiv.org/abs/2407.00118)|null|
 |**2024-06-27**|**UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI**|Ilia Shumailov et.al.|[2407.00106](http://arxiv.org/abs/2407.00106)|null|
 |**2024-06-27**|**Enhancing In-Context Learning via Implicit Demonstration Augmentation**|Xiaoling Zhou et.al.|[2407.00100](http://arxiv.org/abs/2407.00100)|null|
-|**2024-06-26**|**Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges**|Mohammed Elhenawy et.al.|[2407.00092](http://arxiv.org/abs/2407.00092)|null|
+|**2024-06-26**|**Visual Reasoning and Multi-Agent Approach in Multimodal Large Language Models (MLLMs): Solving TSP and mTSP Combinatorial Challenges**|Mohammed Elhenawy et.al.|[2407.00092](http://arxiv.org/abs/2407.00092)|**[link](https://github.com/ahmed-abdulhuy/solving-tsp-and-mtsp-combinatorial-challenges-using-visual-reasoning-and-multi-agent-approach-mllms-)**|
 |**2024-07-03**|**Pistis-RAG: A Scalable Cascading Framework Towards Content-Centric Retrieval-Augmented Generation**|Yu Bai et.al.|[2407.00072](http://arxiv.org/abs/2407.00072)|null|
 |**2024-06-28**|**Mining Reasons For And Against Vaccination From Unstructured Data Using Nichesourcing and AI Data Augmentation**|Damián Ariel Furman et.al.|[2406.19951](http://arxiv.org/abs/2406.19951)|null|
 |**2024-06-27**|**Aligning Teacher with Student Preferences for Tailored Training Data Generation**|Yantao Liu et.al.|[2406.19227](http://arxiv.org/abs/2406.19227)|null|
@@ -2480,7 +2480,7 @@ layout: default
 |**2024-06-27**|**Can we teach language models to gloss endangered languages?**|Michael Ginn et.al.|[2406.18895](http://arxiv.org/abs/2406.18895)|null|
 |**2024-06-27**|**SSP: Self-Supervised Prompting for Cross-Lingual Transfer to Low-Resource Languages using Large Language Models**|Vipul Rathore et.al.|[2406.18880](http://arxiv.org/abs/2406.18880)|**[link](https://github.com/dair-iitd/SSP)**|
 |**2024-06-26**|**ADO-LLM: Analog Design Bayesian Optimization with In-Context Learning of Large Language Models**|Yuxuan Yin et.al.|[2406.18770](http://arxiv.org/abs/2406.18770)|null|
-|**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
+|**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|**[link](https://github.com/gringham/prexme)**|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
 |**2024-06-26**|**BADGE: BADminton report Generation and Evaluation with LLM**|Shang-Hsuan Chiang et.al.|[2406.18116](http://arxiv.org/abs/2406.18116)|**[link](https://github.com/andychiangsh/badge)**|
 |**2024-06-26**|**Octo-planner: On-device Language Model for Planner-Action Agents**|Wei Chen et.al.|[2406.18082](http://arxiv.org/abs/2406.18082)|null|
@@ -3114,11 +3114,11 @@ layout: default
 |**2024-07-08**|**Wavelet Convolutions for Large Receptive Fields**|Shahaf E. Finder et.al.|[2407.05848](http://arxiv.org/abs/2407.05848)|**[link](https://github.com/bgu-cs-vil/wtconv)**|
 |**2024-07-08**|**FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance**|Jiedong Zhuang et.al.|[2407.05578](http://arxiv.org/abs/2407.05578)|null|
 |**2024-07-07**|**Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model**|Danni Yang et.al.|[2407.05352](http://arxiv.org/abs/2407.05352)|null|
-|**2024-07-06**|**SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention**|Yunzhong Si et.al.|[2407.05128](http://arxiv.org/abs/2407.05128)|**[link](https://github.com/HZAI-ZJNU/SCSA)**|
+|**2024-07-06**|**SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention**|Yunzhong Si et.al.|[2407.05128](http://arxiv.org/abs/2407.05128)|null|
 |**2024-07-06**|**PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**|Ye Li et.al.|[2407.05010](http://arxiv.org/abs/2407.05010)|null|
 |**2024-07-06**|**Asynchronous Multimodal Video Sequence Fusion via Learning Modality-Exclusive and -Agnostic Representations**|Dingkang Yang et.al.|[2407.04955](http://arxiv.org/abs/2407.04955)|null|
 |**2024-07-06**|**CLIPVQA:Video Quality Assessment via CLIP**|Fengchuang Xing et.al.|[2407.04928](http://arxiv.org/abs/2407.04928)|null|
-|**2024-07-05**|**Associative Recurrent Memory Transformer**|Ivan Rodkin et.al.|[2407.04841](http://arxiv.org/abs/2407.04841)|null|
+|**2024-07-05**|**Associative Recurrent Memory Transformer**|Ivan Rodkin et.al.|[2407.04841](http://arxiv.org/abs/2407.04841)|**[link](https://github.com/RodkinIvan/associative-recurrent-memory-transformer)**|
 |**2024-07-05**|**Learning to (Learn at Test Time): RNNs with Expressive Hidden States**|Yu Sun et.al.|[2407.04620](http://arxiv.org/abs/2407.04620)|**[link](https://github.com/test-time-training/ttt-lm-jax)**|
 |**2024-07-05**|**Isomorphic Pruning for Vision Models**|Gongfan Fang et.al.|[2407.04616](http://arxiv.org/abs/2407.04616)|**[link](https://github.com/vainf/isomorphic-pruning)**|
 |**2024-07-05**|**VCD-Texture: Variance Alignment based 3D-2D Co-Denoising for Text-Guided Texturing**|Shang Liu et.al.|[2407.04461](http://arxiv.org/abs/2407.04461)|null|
@@ -3805,7 +3805,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Near-Optimal MIMO Detection Using Gradient-Based MCMC in Discrete Spaces**|Xingyu Zhou et.al.|[2407.06042](http://arxiv.org/abs/2407.06042)|null|
-|**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|null|
+|**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|**[link](https://github.com/martius-lab/diffcp-lpgd)**|
 |**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779](http://arxiv.org/abs/2407.05779)|null|
 |**2024-07-08**|**On the Complexity of Learning Sparse Functions with Statistical and Gradient Queries**|Nirmit Joshi et.al.|[2407.05622](http://arxiv.org/abs/2407.05622)|null|
 |**2024-07-07**|**Privacy of the last iterate in cyclically-sampled DP-SGD on nonconvex composite losses**|Weiwei Kong et.al.|[2407.05237](http://arxiv.org/abs/2407.05237)|null|
@@ -4759,7 +4759,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-08**|**Near-Optimal MIMO Detection Using Gradient-Based MCMC in Discrete Spaces**|Xingyu Zhou et.al.|[2407.06042](http://arxiv.org/abs/2407.06042)|null|
-|**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|null|
+|**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|**[link](https://github.com/martius-lab/diffcp-lpgd)**|
 |**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779](http://arxiv.org/abs/2407.05779)|null|
 |**2024-07-08**|**On the Complexity of Learning Sparse Functions with Statistical and Gradient Queries**|Nirmit Joshi et.al.|[2407.05622](http://arxiv.org/abs/2407.05622)|null|
 |**2024-07-07**|**Harmony in Diversity: Merging Neural Networks with Canonical Correlation Analysis**|Stefan Horoi et.al.|[2407.05385](http://arxiv.org/abs/2407.05385)|**[link](https://github.com/shoroi/align-n-merge)**|
@@ -5661,7 +5661,7 @@ layout: default
 |**2024-07-05**|**Graph Reinforcement Learning in Power Grids: A Survey**|Mohamed Hassouna et.al.|[2407.04522](http://arxiv.org/abs/2407.04522)|null|
 |**2024-07-05**|**Using Petri Nets as an Integrated Constraint Mechanism for Reinforcement Learning Tasks**|Timon Sachweh et.al.|[2407.04481](http://arxiv.org/abs/2407.04481)|null|
 |**2024-07-05**|**Hindsight Preference Learning for Offline Preference-based Reinforcement Learning**|Chen-Xiao Gao et.al.|[2407.04451](http://arxiv.org/abs/2407.04451)|**[link](https://github.com/typoverflow/wiserl)**|
-|**2024-07-05**|**Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**|Pierre Haritz et.al.|[2407.04343](http://arxiv.org/abs/2407.04343)|null|
+|**2024-07-05**|**Enhancing Safety for Autonomous Agents in Partly Concealed Urban Traffic Environments Through Representation-Based Shielding**|Pierre Haritz et.al.|[2407.04343](http://arxiv.org/abs/2407.04343)|**[link](https://github.com/DavidWanke/PyAutoDriveRL)**|
 |**2024-07-05**|**Gradient-based Regularization for Action Smoothness in Robotic Control with Reinforcement Learning**|I Lee et.al.|[2407.04315](http://arxiv.org/abs/2407.04315)|null|
 |**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285](http://arxiv.org/abs/2407.04285)|null|
 |**2024-07-05**|**Unsupervised Video Summarization via Reinforcement Learning and a Trained Evaluator**|Mehryar Abbasi et.al.|[2407.04258](http://arxiv.org/abs/2407.04258)|null|
@@ -5672,9 +5672,9 @@ layout: default
 |**2024-07-04**|**Robust Policy Learning for Multi-UAV Collision Avoidance with Causal Feature Selection**|Jiafan Zhuang et.al.|[2407.04056](http://arxiv.org/abs/2407.04056)|null|
 |**2024-07-04**|**ROER: Regularized Optimal Experience Replay**|Changling Li et.al.|[2407.03995](http://arxiv.org/abs/2407.03995)|**[link](https://github.com/xavierchanglingli/regularized-optimal-experience-replay)**|
 |**2024-07-04**|**Craftium: An Extensible Framework for Creating Reinforcement Learning Environments**|Mikel Malagón et.al.|[2407.03969](http://arxiv.org/abs/2407.03969)|**[link](https://github.com/mikelma/craftium)**|
-|**2024-07-04**|**Improving Sample Efficiency of Reinforcement Learning with Background Knowledge from Large Language Models**|Fuxiang Zhang et.al.|[2407.03964](http://arxiv.org/abs/2407.03964)|null|
+|**2024-07-04**|**Improving Sample Efficiency of Reinforcement Learning with Background Knowledge from Large Language Models**|Fuxiang Zhang et.al.|[2407.03964](http://arxiv.org/abs/2407.03964)|**[link](https://github.com/mansicer/background-knowledge-rl)**|
 |**2024-07-04**|**Continuous-time q-Learning for Jump-Diffusion Models under Tsallis Entropy**|Lijun Bo et.al.|[2407.03888](http://arxiv.org/abs/2407.03888)|null|
-|**2024-07-04**|**Q-Adapter: Training Your LLM Adapter as a Residual Q-Function**|Yi-Chen Li et.al.|[2407.03856](http://arxiv.org/abs/2407.03856)|null|
+|**2024-07-04**|**Q-Adapter: Training Your LLM Adapter as a Residual Q-Function**|Yi-Chen Li et.al.|[2407.03856](http://arxiv.org/abs/2407.03856)|**[link](https://github.com/mansicer/Q-Adapter)**|
 |**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
 |**2024-07-04**|**Charging Ahead: A Hierarchical Adversarial Framework for Counteracting Advanced Cyber Threats in EV Charging Stations**|Mohammed Al-Mehdhar et.al.|[2407.03729](http://arxiv.org/abs/2407.03729)|null|
 |**2024-07-04**|**Continual Learning Optimizations for Auto-regressive Decoder of Multilingual ASR systems**|Chin Yuen Kwok et.al.|[2407.03645](http://arxiv.org/abs/2407.03645)|null|
@@ -5711,7 +5711,7 @@ layout: default
 |**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243](http://arxiv.org/abs/2407.02243)|null|
 |**2024-07-02**|**Safety-Driven Deep Reinforcement Learning Framework for Cobots: A Sim2Real Approach**|Ammar N. Abbas et.al.|[2407.02231](http://arxiv.org/abs/2407.02231)|**[link](https://github.com/ammar-n-abbas/sim2real-ur-gym-gazebo)**|
 |**2024-07-02**|**Physics-Informed Model and Hybrid Planning for Efficient Dyna-Style Reinforcement Learning**|Zakariae El Asri et.al.|[2407.02217](http://arxiv.org/abs/2407.02217)|null|
-|**2024-07-02**|**Cost-Effective Proxy Reward Model Construction with On-Policy and Active Learning**|Yifang Chen et.al.|[2407.02119](http://arxiv.org/abs/2407.02119)|null|
+|**2024-07-09**|**Cost-Effective Proxy Reward Model Construction with On-Policy and Active Learning**|Yifang Chen et.al.|[2407.02119](http://arxiv.org/abs/2407.02119)|null|
 |**2024-07-02**|**Universal Plans: One Action Sequence to Solve Them All!**|Kalle G. Timperi et.al.|[2407.02090](http://arxiv.org/abs/2407.02090)|null|
 |**2024-07-02**|**Generation of Geodesics with Actor-Critic Reinforcement Learning to Predict Midpoints**|Kazumi Kasaura et.al.|[2407.01991](http://arxiv.org/abs/2407.01991)|**[link](https://github.com/omron-sinicx/midpoint_learning)**|
 |**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903](http://arxiv.org/abs/2407.01903)|null|
