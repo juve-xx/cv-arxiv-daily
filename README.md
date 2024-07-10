@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
+|**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
+|**2024-06-26**|**A Survey on Mixture of Experts**|Weilin Cai et.al.|[2407.06204](http://arxiv.org/abs/2407.06204)|null|
 |**2024-07-08**|**Generation and De-Identification of Indian Clinical Discharge Summaries using LLMs**|Sanjeet Singh et.al.|[2407.05887](http://arxiv.org/abs/2407.05887)|null|
 |**2024-07-08**|**Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**|Yaozong Gan et.al.|[2407.05814](http://arxiv.org/abs/2407.05814)|null|
 |**2024-07-08**|**Empirical Study of Symmetrical Reasoning in Conversational Chatbots**|Daniela N. Rim et.al.|[2407.05734](http://arxiv.org/abs/2407.05734)|null|
@@ -3138,6 +3141,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
+|**2024-07-09**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wang Wei et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-08**|**HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution**|Xiang Zhang et.al.|[2407.05878](http://arxiv.org/abs/2407.05878)|null|
 |**2024-07-08**|**Wavelet Convolutions for Large Receptive Fields**|Shahaf E. Finder et.al.|[2407.05848](http://arxiv.org/abs/2407.05848)|**[link](https://github.com/bgu-cs-vil/wtconv)**|
 |**2024-07-08**|**FALIP: Visual Prompt as Foveal Attention Boosts CLIP Zero-Shot Performance**|Jiedong Zhuang et.al.|[2407.05578](http://arxiv.org/abs/2407.05578)|null|
@@ -3834,6 +3839,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
+|**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
+|**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
+|**2024-07-08**|**CONGO: Compressive Online Gradient Optimization with Application to Microservices Management**|Jeremy Carleton et.al.|[2407.06325](http://arxiv.org/abs/2407.06325)|null|
 |**2024-07-08**|**Near-Optimal MIMO Detection Using Gradient-Based MCMC in Discrete Spaces**|Xingyu Zhou et.al.|[2407.06042](http://arxiv.org/abs/2407.06042)|null|
 |**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|**[link](https://github.com/martius-lab/diffcp-lpgd)**|
 |**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779](http://arxiv.org/abs/2407.05779)|null|
@@ -4792,6 +4801,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
+|**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
+|**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
+|**2024-07-08**|**CONGO: Compressive Online Gradient Optimization with Application to Microservices Management**|Jeremy Carleton et.al.|[2407.06325](http://arxiv.org/abs/2407.06325)|null|
 |**2024-07-08**|**Near-Optimal MIMO Detection Using Gradient-Based MCMC in Discrete Spaces**|Xingyu Zhou et.al.|[2407.06042](http://arxiv.org/abs/2407.06042)|null|
 |**2024-07-08**|**LPGD: A General Framework for Backpropagation through Embedded Optimization Layers**|Anselm Paulus et.al.|[2407.05920](http://arxiv.org/abs/2407.05920)|**[link](https://github.com/martius-lab/diffcp-lpgd)**|
 |**2024-07-08**|**Smooth Path Planning Using a Gaussian Process Regression Map for Mobile Robot Navigation**|Quentin Serdel et.al.|[2407.05779](http://arxiv.org/abs/2407.05779)|null|
@@ -5668,6 +5681,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088](http://arxiv.org/abs/2407.07088)|null|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082](http://arxiv.org/abs/2407.07082)|**[link](https://github.com/alexgoldie/rl-learned-optimization)**|
+|**2024-07-09**|**A Unified Approach to Multi-task Legged Navigation: Temporal Logic Meets Reinforcement Learning**|Jesse Jiang et.al.|[2407.06931](http://arxiv.org/abs/2407.06931)|null|
+|**2024-07-09**|**Intercepting Unauthorized Aerial Robots in Controlled Airspace Using Reinforcement Learning**|Francisco Giral et.al.|[2407.06909](http://arxiv.org/abs/2407.06909)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**Energy Efficient Fair STAR-RIS for Mobile Users**|Ashok S. Kumar et.al.|[2407.06868](http://arxiv.org/abs/2407.06868)|null|
+|**2024-07-09**|**Frequency and Generalisation of Periodic Activation Functions in Reinforcement Learning**|Augustine N. Mavor-Parker et.al.|[2407.06756](http://arxiv.org/abs/2407.06756)|null|
+|**2024-07-09**|**Hierarchical Average-Reward Linearly-solvable Markov Decision Processes**|Guillermo Infante et.al.|[2407.06690](http://arxiv.org/abs/2407.06690)|null|
+|**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
+|**2024-07-09**|**HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation**|Xiaoyu Huang et.al.|[2407.06584](http://arxiv.org/abs/2407.06584)|null|
+|**2024-07-09**|**Advanced Financial Fraud Detection Using GNN-CL Model**|Yu Cheng et.al.|[2407.06529](http://arxiv.org/abs/2407.06529)|null|
+|**2024-07-09**|**Graph Neural Networks and Deep Reinforcement Learning Based Resource Allocation for V2X Communications**|Maoxin Ji et.al.|[2407.06518](http://arxiv.org/abs/2407.06518)|**[link](https://github.com/qiongwu86/gnn-and-drl-based-resource-allocation-for-v2x-communications)**|
+|**2024-07-09**|**Economic span selection of bridge based on deep reinforcement learning**|Leye Zhang et.al.|[2407.06507](http://arxiv.org/abs/2407.06507)|**[link](https://github.com/zhangleye/BridgeSpan-DQN)**|
+|**2024-07-09**|**Preference-Guided Reinforcement Learning for Efficient Exploration**|Guojian Wang et.al.|[2407.06503](http://arxiv.org/abs/2407.06503)|**[link](https://github.com/buaawgj/lope)**|
+|**2024-07-09**|**A Generative Approach to Control Complex Physical Systems**|Long Wei et.al.|[2407.06494](http://arxiv.org/abs/2407.06494)|null|
+|**2024-07-08**|**System stabilization with policy optimization on unstable latent manifolds**|Steffen W. R. Werner et.al.|[2407.06418](http://arxiv.org/abs/2407.06418)|null|
+|**2024-07-07**|**Discounted Pseudocosts in MILP**|Krunal Kishor Patel et.al.|[2407.06237](http://arxiv.org/abs/2407.06237)|null|
+|**2024-07-06**|**Communication and Control Co-Design in 6G: Sequential Decision-Making with LLMs**|Xianfu Chen et.al.|[2407.06227](http://arxiv.org/abs/2407.06227)|null|
 |**2024-07-08**|**Periodic agent-state based Q-learning for POMDPs**|Amit Sinha et.al.|[2407.06121](http://arxiv.org/abs/2407.06121)|null|
 |**2024-07-08**|**QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train**|Chen-Yu Liu et.al.|[2407.06103](http://arxiv.org/abs/2407.06103)|null|
 |**2024-07-08**|**Stranger Danger! Identifying and Avoiding Unpredictable Pedestrians in RL-based Social Robot Navigation**|Sara Pohland et.al.|[2407.06056](http://arxiv.org/abs/2407.06056)|**[link](https://github.com/sarapohland/stranger-danger)**|
