@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
 |**2024-06-26**|**A Survey on Mixture of Experts**|Weilin Cai et.al.|[2407.06204](http://arxiv.org/abs/2407.06204)|null|
@@ -3113,6 +3114,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**iiANET: Inception Inspired Attention Hybrid Network for efficient Long-Range Dependency**|Haruna Yunusa et.al.|[2407.07603](http://arxiv.org/abs/2407.07603)|null|
+|**2024-07-10**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-08**|**HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution**|Xiang Zhang et.al.|[2407.05878](http://arxiv.org/abs/2407.05878)|null|
@@ -3809,6 +3812,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Stochastic Gradient Descent for Two-layer Neural Networks**|Dinghao Cao et.al.|[2407.07670](http://arxiv.org/abs/2407.07670)|null|
+|**2024-07-10**|**Mini-batch descent in semiflows**|Alberto Domínguez Corella et.al.|[2407.07556](http://arxiv.org/abs/2407.07556)|null|
+|**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
 |**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
 |**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
@@ -4604,6 +4610,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
 |**2024-07-08**|**Wavelet Convolutions for Large Receptive Fields**|Shahaf E. Finder et.al.|[2407.05848](http://arxiv.org/abs/2407.05848)|**[link](https://github.com/bgu-cs-vil/wtconv)**|
 |**2024-07-03**|**Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2407.02827](http://arxiv.org/abs/2407.02827)|null|
 |**2024-07-02**|**Exploring Federated Learning Dynamics for Black-and-White-Box DNN Traitor Tracing**|Elena Rodriguez-Lois et.al.|[2407.02111](http://arxiv.org/abs/2407.02111)|null|
@@ -4767,6 +4774,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Stochastic Gradient Descent for Two-layer Neural Networks**|Dinghao Cao et.al.|[2407.07670](http://arxiv.org/abs/2407.07670)|null|
+|**2024-07-10**|**Mini-batch descent in semiflows**|Alberto Domínguez Corella et.al.|[2407.07556](http://arxiv.org/abs/2407.07556)|null|
+|**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
 |**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
 |**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
@@ -5645,6 +5655,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Learning In-Hand Translation Using Tactile Skin With Shear and Normal Force Sensing**|Jessica Yin et.al.|[2407.07885](http://arxiv.org/abs/2407.07885)|null|
+|**2024-07-10**|**Green Screen Augmentation Enables Scene Generalisation in Robotic Manipulation**|Eugene Teoh et.al.|[2407.07868](http://arxiv.org/abs/2407.07868)|null|
+|**2024-07-10**|**Reinforcement Learning of Adaptive Acquisition Policies for Inverse Problems**|Gianluigi Silvestri et.al.|[2407.07794](http://arxiv.org/abs/2407.07794)|null|
+|**2024-07-10**|**BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark**|Nikita Chernyadev et.al.|[2407.07788](http://arxiv.org/abs/2407.07788)|null|
+|**2024-07-10**|**Continuous Control with Coarse-to-fine Reinforcement Learning**|Younggyo Seo et.al.|[2407.07787](http://arxiv.org/abs/2407.07787)|null|
+|**2024-07-10**|**Towards Human-Like Driving: Active Inference in Autonomous Vehicle Control**|Elahe Delavari et.al.|[2407.07684](http://arxiv.org/abs/2407.07684)|null|
+|**2024-07-10**|**Pessimism Meets Risk: Risk-Sensitive Offline Reinforcement Learning**|Dake Zhang et.al.|[2407.07631](http://arxiv.org/abs/2407.07631)|null|
+|**2024-07-10**|**Resource Allocation for Twin Maintenance and Computing Task Processing in Digital Twin Vehicular Edge Computing Network**|Yu Xie et.al.|[2407.07575](http://arxiv.org/abs/2407.07575)|**[link](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)**|
+|**2024-07-10**|**CM-DQN: A Value-Based Deep Reinforcement Learning Model to Simulate Confirmation Bias**|Jiacheng Shen et.al.|[2407.07454](http://arxiv.org/abs/2407.07454)|**[link](https://github.com/patrickhshs/cm-dqn)**|
+|**2024-07-10**|**Real-time system optimal traffic routing under uncertainties -- Can physics models boost reinforcement learning?**|Zemian Ke et.al.|[2407.07364](http://arxiv.org/abs/2407.07364)|null|
+|**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346](http://arxiv.org/abs/2407.07346)|null|
+|**2024-07-10**|**Mitigating Partial Observability in Sequential Decision Processes via the Lambda Discrepancy**|Cameron Allen et.al.|[2407.07333](http://arxiv.org/abs/2407.07333)|**[link](https://github.com/brownirl/lambda_discrepancy)**|
+|**2024-07-10**|**Structural Design Through Reinforcement Learning**|Thomas Rochefort-Beaudoin et.al.|[2407.07288](http://arxiv.org/abs/2407.07288)|null|
+|**2024-07-09**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203](http://arxiv.org/abs/2407.07203)|null|
+|**2024-07-09**|**Towards Beyond Standard Model Model-Building with Reinforcement Learning on Graphs**|George N. Wojcik et.al.|[2407.07184](http://arxiv.org/abs/2407.07184)|null|
 |**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088](http://arxiv.org/abs/2407.07088)|null|
 |**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
 |**2024-07-09**|**Can Learned Optimization Make Reinforcement Learning Less Difficult?**|Alexander David Goldie et.al.|[2407.07082](http://arxiv.org/abs/2407.07082)|**[link](https://github.com/alexgoldie/rl-learned-optimization)**|
