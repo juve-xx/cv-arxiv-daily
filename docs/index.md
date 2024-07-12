@@ -2541,7 +2541,7 @@ layout: default
 |**2024-06-17**|**Hallucination Mitigation Prompts Long-term Video Understanding**|Yiwei Sun et.al.|[2406.11333](http://arxiv.org/abs/2406.11333)|null|
 |**2024-06-17**|**FamiCom: Further Demystifying Prompts for Language Models with Task-Agnostic Performance Estimation**|Bangzheng Li et.al.|[2406.11243](http://arxiv.org/abs/2406.11243)|null|
 |**2024-06-17**|**Probing the Decision Boundaries of In-context Learning in Large Language Models**|Siyan Zhao et.al.|[2406.11233](http://arxiv.org/abs/2406.11233)|null|
-|**2024-06-17**|**In-Context Editing: Learning Knowledge from Self-Induced Distributions**|Siyuan Qi et.al.|[2406.11194](http://arxiv.org/abs/2406.11194)|null|
+|**2024-06-17**|**In-Context Editing: Learning Knowledge from Self-Induced Distributions**|Siyuan Qi et.al.|[2406.11194](http://arxiv.org/abs/2406.11194)|**[link](https://github.com/bigai-ai/ICE)**|
 |**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
 |**2024-06-16**|**MICL: Improving In-Context Learning through Multiple-Label Words in Demonstration**|Zhu Zixiao et.al.|[2406.10908](http://arxiv.org/abs/2406.10908)|null|
 |**2024-06-16**|**Demonstration Notebook: Finding the Most Suited In-Context Learning Example from Interactions**|Yiming Tang et.al.|[2406.10878](http://arxiv.org/abs/2406.10878)|null|
@@ -3115,7 +3115,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-10**|**iiANET: Inception Inspired Attention Hybrid Network for efficient Long-Range Dependency**|Haruna Yunusa et.al.|[2407.07603](http://arxiv.org/abs/2407.07603)|null|
-|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|null|
+|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|**[link](https://github.com/quiil/falformer)**|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-10**|**CAPformer: Compression-Aware Pre-trained Transformer for Low-Light Image Enhancement**|Wei Wang et.al.|[2407.07056](http://arxiv.org/abs/2407.07056)|null|
 |**2024-07-08**|**HiT-SR: Hierarchical Transformer for Efficient Image Super-Resolution**|Xiang Zhang et.al.|[2407.05878](http://arxiv.org/abs/2407.05878)|null|
