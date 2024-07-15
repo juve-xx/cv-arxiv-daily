@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2444,7 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-11**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
+|**2024-07-12**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
 |**2024-07-09**|**ICLGuard: Controlling In-Context Learning Behavior for Applicability Authorization**|Wai Man Si et.al.|[2407.06955](http://arxiv.org/abs/2407.06955)|null|
@@ -2468,7 +2468,7 @@ layout: default
 |**2024-07-02**|**SADL: An Effective In-Context Learning Method for Compositional Visual QA**|Long Hoang Dang et.al.|[2407.01983](http://arxiv.org/abs/2407.01983)|null|
 |**2024-07-03**|**MG-Verilog: Multi-grained Dataset Towards Enhanced LLM-assisted Verilog Generation**|Yongan Zhang et.al.|[2407.01910](http://arxiv.org/abs/2407.01910)|**[link](https://github.com/luke-avionics/mg-verilog)**|
 |**2024-07-01**|**Dynamic Few-Shot Learning for Knowledge Graph Question Answering**|Jacopo D'Abramo et.al.|[2407.01409](http://arxiv.org/abs/2407.01409)|null|
-|**2024-07-01**|**TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval**|Wenbo Xu et.al.|[2407.01183](http://arxiv.org/abs/2407.01183)|null|
+|**2024-07-12**|**TCSR-SQL: Towards Table Content-aware Text-to-SQL with Self-retrieval**|Wenbo Xu et.al.|[2407.01183](http://arxiv.org/abs/2407.01183)|null|
 |**2024-07-01**|**Can Small Language Models Learn, Unlearn, and Retain Noise Patterns?**|Nicy Scaria et.al.|[2407.00996](http://arxiv.org/abs/2407.00996)|null|
 |**2024-07-01**|**Universal Approximation Theory: The basic theory for large language models**|Wei Wang et.al.|[2407.00958](http://arxiv.org/abs/2407.00958)|null|
 |**2024-07-01**|**From Introspection to Best Practices: Principled Analysis of Demonstrations in Multimodal In-Context Learning**|Nan Xu et.al.|[2407.00902](http://arxiv.org/abs/2407.00902)|null|
@@ -5703,7 +5703,7 @@ layout: default
 |**2024-07-10**|**Real-time system optimal traffic routing under uncertainties -- Can physics models boost reinforcement learning?**|Zemian Ke et.al.|[2407.07364](http://arxiv.org/abs/2407.07364)|null|
 |**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346](http://arxiv.org/abs/2407.07346)|null|
 |**2024-07-10**|**Mitigating Partial Observability in Sequential Decision Processes via the Lambda Discrepancy**|Cameron Allen et.al.|[2407.07333](http://arxiv.org/abs/2407.07333)|**[link](https://github.com/brownirl/lambda_discrepancy)**|
-|**2024-07-10**|**Structural Design Through Reinforcement Learning**|Thomas Rochefort-Beaudoin et.al.|[2407.07288](http://arxiv.org/abs/2407.07288)|null|
+|**2024-07-12**|**Structural Design Through Reinforcement Learning**|Thomas Rochefort-Beaudoin et.al.|[2407.07288](http://arxiv.org/abs/2407.07288)|null|
 |**2024-07-09**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203](http://arxiv.org/abs/2407.07203)|null|
 |**2024-07-09**|**Towards Beyond Standard Model Model-Building with Reinforcement Learning on Graphs**|George N. Wojcik et.al.|[2407.07184](http://arxiv.org/abs/2407.07184)|null|
 |**2024-07-09**|**Safe and Reliable Training of Learning-Based Aerospace Controllers**|Udayan Mandal et.al.|[2407.07088](http://arxiv.org/abs/2407.07088)|**[link](https://github.com/neuralnetworkverification/artifact-dasc-docking)**|
@@ -5770,7 +5770,7 @@ layout: default
 |**2024-07-04**|**Q-Adapter: Training Your LLM Adapter as a Residual Q-Function**|Yi-Chen Li et.al.|[2407.03856](http://arxiv.org/abs/2407.03856)|**[link](https://github.com/mansicer/Q-Adapter)**|
 |**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
 |**2024-07-04**|**Charging Ahead: A Hierarchical Adversarial Framework for Counteracting Advanced Cyber Threats in EV Charging Stations**|Mohammed Al-Mehdhar et.al.|[2407.03729](http://arxiv.org/abs/2407.03729)|null|
-|**2024-07-04**|**Continual Learning Optimizations for Auto-regressive Decoder of Multilingual ASR systems**|Chin Yuen Kwok et.al.|[2407.03645](http://arxiv.org/abs/2407.03645)|null|
+|**2024-07-12**|**Continual Learning Optimizations for Auto-regressive Decoder of Multilingual ASR systems**|Chin Yuen Kwok et.al.|[2407.03645](http://arxiv.org/abs/2407.03645)|null|
 |**2024-07-09**|**Deep Pareto Reinforcement Learning for Multi-Objective Recommender Systems**|Pan Li et.al.|[2407.03580](http://arxiv.org/abs/2407.03580)|null|
 |**2024-07-03**|**Algorithmic Collusion And The Minimum Price Markov Game**|Igor Sadoune et.al.|[2407.03521](http://arxiv.org/abs/2407.03521)|null|
 |**2024-07-03**|**A Role of Environmental Complexity on Representation Learning in Deep Reinforcement Learning Agents**|Andrew Liu et.al.|[2407.03436](http://arxiv.org/abs/2407.03436)|null|
