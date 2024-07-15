@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context**|Federico Arangath Joseph et.al.|[2407.09375](http://arxiv.org/abs/2407.09375)|null|
+|**2024-07-12**|**SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**|Yuzhang Tian et.al.|[2407.09025](http://arxiv.org/abs/2407.09025)|null|
+|**2024-07-12**|**Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models**|Ye Liu et.al.|[2407.08967](http://arxiv.org/abs/2407.08967)|**[link](https://github.com/liuyeah/dsare)**|
+|**2024-07-12**|**Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection**|Ye Liu et.al.|[2407.08952](http://arxiv.org/abs/2407.08952)|null|
+|**2024-07-11**|**DG-PIC: Domain Generalized Point-In-Context Learning for Point Cloud Understanding**|Jincen Jiang et.al.|[2407.08801](http://arxiv.org/abs/2407.08801)|null|
 |**2024-07-12**|**RB-SQL: A Retrieval-based LLM Framework for Text-to-SQL**|Zhenhe Wu et.al.|[2407.08273](http://arxiv.org/abs/2407.08273)|null|
 |**2024-07-10**|**Video In-context Learning**|Wentao Zhang et.al.|[2407.07356](http://arxiv.org/abs/2407.07356)|null|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011](http://arxiv.org/abs/2407.07011)|null|
@@ -3143,6 +3148,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
+|**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094](http://arxiv.org/abs/2407.09094)|**[link](https://github.com/yuanfeihuang/condformer)**|
+|**2024-07-11**|**TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer Network for Classification from Diffusion MRI Tractography**|Yuqian Chen et.al.|[2407.08883](http://arxiv.org/abs/2407.08883)|null|
+|**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813](http://arxiv.org/abs/2407.08813)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)**|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
 |**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-07-11**|**Multimodal contrastive learning for spatial gene expression prediction using histology images**|Wenwen Min et.al.|[2407.08216](http://arxiv.org/abs/2407.08216)|**[link](https://github.com/shizhiceng/mclstexp)**|
@@ -3847,6 +3856,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068](http://arxiv.org/abs/2407.09068)|null|
+|**2024-07-12**|**DRM Revisited: A Complete Error Analysis**|Yuling Jiao et.al.|[2407.09032](http://arxiv.org/abs/2407.09032)|null|
+|**2024-07-11**|**Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**|Huanqian Wang et.al.|[2407.08770](http://arxiv.org/abs/2407.08770)|**[link](https://github.com/lucywang720/model-surgery)**|
 |**2024-07-11**|**Generalization Error Matters in Decentralized Learning Under Byzantine Attacks**|Haoxiang Ye et.al.|[2407.08632](http://arxiv.org/abs/2407.08632)|**[link](https://github.com/haoxiangye/BRDSGD-GE)**|
 |**2024-07-11**|**Differentially Private Neural Network Training under Hidden State Assumption**|Ding Chen et.al.|[2407.08233](http://arxiv.org/abs/2407.08233)|null|
 |**2024-07-11**|**Towards stable training of parallel continual learning**|Li Yuepan et.al.|[2407.08214](http://arxiv.org/abs/2407.08214)|**[link](https://github.com/jasmine-0/spcl)**|
@@ -4818,6 +4830,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Fast and Accurate Multi-Agent Trajectory Prediction For Crowded Unknown Scenes**|Xiuye Tao et.al.|[2407.09068](http://arxiv.org/abs/2407.09068)|null|
+|**2024-07-12**|**DRM Revisited: A Complete Error Analysis**|Yuling Jiao et.al.|[2407.09032](http://arxiv.org/abs/2407.09032)|null|
+|**2024-07-11**|**Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**|Huanqian Wang et.al.|[2407.08770](http://arxiv.org/abs/2407.08770)|**[link](https://github.com/lucywang720/model-surgery)**|
 |**2024-07-11**|**Generalization Error Matters in Decentralized Learning Under Byzantine Attacks**|Haoxiang Ye et.al.|[2407.08632](http://arxiv.org/abs/2407.08632)|**[link](https://github.com/haoxiangye/BRDSGD-GE)**|
 |**2024-07-11**|**Boosting Adversarial Transferability for Skeleton-based Action Recognition via Exploring the Model Posterior Space**|Yunfeng Diao et.al.|[2407.08572](http://arxiv.org/abs/2407.08572)|null|
 |**2024-07-11**|**Differentially Private Neural Network Training under Hidden State Assumption**|Ding Chen et.al.|[2407.08233](http://arxiv.org/abs/2407.08233)|null|
@@ -5707,6 +5722,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Learning Coordinated Maneuver in Adversarial Environments**|Zechen Hu et.al.|[2407.09469](http://arxiv.org/abs/2407.09469)|null|
+|**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
+|**2024-07-12**|**A Benchmark Environment for Offline Reinforcement Learning in Racing Games**|Girolamo Macaluso et.al.|[2407.09415](http://arxiv.org/abs/2407.09415)|**[link](https://github.com/ganjiro/offlinemania)**|
+|**2024-07-12**|**Instruction Following with Goal-Conditioned Reinforcement Learning in Virtual Environments**|Zoya Volovikova et.al.|[2407.09287](http://arxiv.org/abs/2407.09287)|null|
+|**2024-07-12**|**GNN with Model-based RL for Multi-agent Systems**|Hanxiao Chen et.al.|[2407.09249](http://arxiv.org/abs/2407.09249)|null|
+|**2024-07-12**|**Constrained Intrinsic Motivation for Reinforcement Learning**|Xiang Zheng et.al.|[2407.09247](http://arxiv.org/abs/2407.09247)|null|
+|**2024-07-12**|**Decentralized multi-agent reinforcement learning algorithm using a cluster-synchronized laser network**|Shun Kotoku et.al.|[2407.09124](http://arxiv.org/abs/2407.09124)|null|
+|**2024-07-12**|**New Desiderata for Direct Preference Optimization**|Xiangkun Hu et.al.|[2407.09072](http://arxiv.org/abs/2407.09072)|null|
+|**2024-07-12**|**Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control**|Huayu Chen et.al.|[2407.09024](http://arxiv.org/abs/2407.09024)|null|
+|**2024-07-12**|**Communication-Aware Reinforcement Learning for Cooperative Adaptive Cruise Control**|Sicong Jiang et.al.|[2407.08964](http://arxiv.org/abs/2407.08964)|null|
+|**2024-07-12**|**Deep Attention Driven Reinforcement Learning (DAD-RL) for Autonomous Vehicle Decision-Making in Dynamic Environment**|Jayabrata Chowdhury et.al.|[2407.08932](http://arxiv.org/abs/2407.08932)|null|
+|**2024-07-12**|**Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning**|Chuang Zhang et.al.|[2407.08914](http://arxiv.org/abs/2407.08914)|null|
+|**2024-07-12**|**PAIL: Performance based Adversarial Imitation Learning Engine for Carbon Neutral Optimization**|Yuyang Ye et.al.|[2407.08910](http://arxiv.org/abs/2407.08910)|null|
+|**2024-07-11**|**PID Accelerated Temporal Difference Algorithms**|Mark Bedaywi et.al.|[2407.08803](http://arxiv.org/abs/2407.08803)|null|
+|**2024-07-11**|**Model Surgery: Modulating LLM's Behavior Via Simple Parameter Editing**|Huanqian Wang et.al.|[2407.08770](http://arxiv.org/abs/2407.08770)|**[link](https://github.com/lucywang720/model-surgery)**|
 |**2024-07-11**|**MetaUrban: A Simulation Platform for Embodied AI in Urban Spaces**|Wayne Wu et.al.|[2407.08725](http://arxiv.org/abs/2407.08725)|null|
 |**2024-07-11**|**RoboMorph: Evolving Robot Morphology using Large Language Models**|Kevin Qiu et.al.|[2407.08626](http://arxiv.org/abs/2407.08626)|null|
 |**2024-07-11**|**A Review of Nine Physics Engines for Reinforcement Learning Research**|Michael Kaup et.al.|[2407.08590](http://arxiv.org/abs/2407.08590)|null|
