@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3837,7 +3837,7 @@ layout: default
 |**2024-07-10**|**Stochastic Gradient Descent for Two-layer Neural Networks**|Dinghao Cao et.al.|[2407.07670](http://arxiv.org/abs/2407.07670)|null|
 |**2024-07-10**|**Mini-batch descent in semiflows**|Alberto Domínguez Corella et.al.|[2407.07556](http://arxiv.org/abs/2407.07556)|null|
 |**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
-|**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
+|**2024-07-14**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
 |**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
 |**2024-07-08**|**CONGO: Compressive Online Gradient Optimization with Application to Microservices Management**|Jeremy Carleton et.al.|[2407.06325](http://arxiv.org/abs/2407.06325)|null|
@@ -4808,7 +4808,7 @@ layout: default
 |**2024-07-10**|**Stochastic Gradient Descent for Two-layer Neural Networks**|Dinghao Cao et.al.|[2407.07670](http://arxiv.org/abs/2407.07670)|null|
 |**2024-07-10**|**Mini-batch descent in semiflows**|Alberto Domínguez Corella et.al.|[2407.07556](http://arxiv.org/abs/2407.07556)|null|
 |**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
-|**2024-07-09**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
+|**2024-07-14**|**Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach**|Taolin Zhang et.al.|[2407.06964](http://arxiv.org/abs/2407.06964)|null|
 |**2024-07-09**|**Comparison of Optimizers for Fault Isolation and Diagnostics of Control Rod Drives**|Ark Ifeanyi et.al.|[2407.06557](http://arxiv.org/abs/2407.06557)|null|
 |**2024-07-09**|**It's Our Loss: No Privacy Amplification for Hidden State DP-SGD With Non-Convex Loss**|Meenatchi Sundaram Muthu Selva Annamalai et.al.|[2407.06496](http://arxiv.org/abs/2407.06496)|null|
 |**2024-07-08**|**CONGO: Compressive Online Gradient Optimization with Application to Microservices Management**|Jeremy Carleton et.al.|[2407.06325](http://arxiv.org/abs/2407.06325)|null|
@@ -5731,7 +5731,7 @@ layout: default
 |**2024-07-10**|**Resource Allocation for Twin Maintenance and Computing Task Processing in Digital Twin Vehicular Edge Computing Network**|Yu Xie et.al.|[2407.07575](http://arxiv.org/abs/2407.07575)|**[link](https://github.com/qiongwu86/resource-allocation-for-twin-maintenance-and-computing-tasks-in-digital-twin-mobile-edge-network)**|
 |**2024-07-10**|**CM-DQN: A Value-Based Deep Reinforcement Learning Model to Simulate Confirmation Bias**|Jiacheng Shen et.al.|[2407.07454](http://arxiv.org/abs/2407.07454)|**[link](https://github.com/patrickhshs/cm-dqn)**|
 |**2024-07-10**|**Real-time system optimal traffic routing under uncertainties -- Can physics models boost reinforcement learning?**|Zemian Ke et.al.|[2407.07364](http://arxiv.org/abs/2407.07364)|null|
-|**2024-07-10**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346](http://arxiv.org/abs/2407.07346)|null|
+|**2024-07-13**|**INSIGHT: Universal Neural Simulator for Analog Circuits Harnessing Autoregressive Transformers**|Souradip Poddar et.al.|[2407.07346](http://arxiv.org/abs/2407.07346)|null|
 |**2024-07-10**|**Mitigating Partial Observability in Sequential Decision Processes via the Lambda Discrepancy**|Cameron Allen et.al.|[2407.07333](http://arxiv.org/abs/2407.07333)|**[link](https://github.com/brownirl/lambda_discrepancy)**|
 |**2024-07-12**|**Structural Design Through Reinforcement Learning**|Thomas Rochefort-Beaudoin et.al.|[2407.07288](http://arxiv.org/abs/2407.07288)|**[link](https://github.com/thomasrochefortb/sogym)**|
 |**2024-07-09**|**Graph Reinforcement Learning for Exploring BSM Model Spaces**|George N. Wojcik et.al.|[2407.07203](http://arxiv.org/abs/2407.07203)|null|
