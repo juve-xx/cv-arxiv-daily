@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2462,7 +2462,7 @@ layout: default
 |**2024-07-15**|**Enhancing Retrieval and Managing Retrieval: A Four-Module Synergy for Improved Quality and Efficiency in RAG Systems**|Yunxiao Shi et.al.|[2407.10670](http://arxiv.org/abs/2407.10670)|**[link](https://github.com/ancientshi/erm4)**|
 |**2024-07-14**|**Visual Prompt Selection for In-Context Learning Segmentation**|Wei Suo et.al.|[2407.10233](http://arxiv.org/abs/2407.10233)|null|
 |**2024-07-13**|**Fine-grained Analysis of In-context Linear Estimation: Data, Architecture, and Beyond**|Yingcong Li et.al.|[2407.10005](http://arxiv.org/abs/2407.10005)|null|
-|**2024-07-12**|**HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context**|Federico Arangath Joseph et.al.|[2407.09375](http://arxiv.org/abs/2407.09375)|null|
+|**2024-07-19**|**HiPPO-Prophecy: State-Space Models can Provably Learn Dynamical Systems in Context**|Federico Arangath Joseph et.al.|[2407.09375](http://arxiv.org/abs/2407.09375)|null|
 |**2024-07-12**|**SpreadsheetLLM: Encoding Spreadsheets for Large Language Models**|Yuzhang Tian et.al.|[2407.09025](http://arxiv.org/abs/2407.09025)|null|
 |**2024-07-12**|**Empowering Few-Shot Relation Extraction with The Integration of Traditional RE Methods and Large Language Models**|Ye Liu et.al.|[2407.08967](http://arxiv.org/abs/2407.08967)|**[link](https://github.com/liuyeah/dsare)**|
 |**2024-07-12**|**Detect, Investigate, Judge and Determine: A Novel LLM-based Framework for Few-shot Fake News Detection**|Ye Liu et.al.|[2407.08952](http://arxiv.org/abs/2407.08952)|null|
@@ -3179,7 +3179,7 @@ layout: default
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
 |**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094](http://arxiv.org/abs/2407.09094)|**[link](https://github.com/yuanfeihuang/condformer)**|
 |**2024-07-11**|**TractGraphFormer: Anatomically Informed Hybrid Graph CNN-Transformer Network for Classification from Diffusion MRI Tractography**|Yuqian Chen et.al.|[2407.08883](http://arxiv.org/abs/2407.08883)|null|
-|**2024-07-11**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813](http://arxiv.org/abs/2407.08813)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)**|
+|**2024-07-18**|**FairDomain: Achieving Fairness in Cross-Domain Medical Image Segmentation and Classification**|Yu Tian et.al.|[2407.08813](http://arxiv.org/abs/2407.08813)|**[link](https://github.com/harvard-ophthalmology-ai-lab/fairdomain)**|
 |**2024-07-11**|**VideoMamba: Spatio-Temporal Selective State Space Model**|Jinyoung Park et.al.|[2407.08476](http://arxiv.org/abs/2407.08476)|**[link](https://github.com/jinyjelly/videomamba)**|
 |**2024-07-11**|**SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition**|Raktim Gautam Goswami et.al.|[2407.08260](http://arxiv.org/abs/2407.08260)|null|
 |**2024-07-11**|**Multimodal contrastive learning for spatial gene expression prediction using histology images**|Wenwen Min et.al.|[2407.08216](http://arxiv.org/abs/2407.08216)|**[link](https://github.com/shizhiceng/mclstexp)**|
@@ -5786,7 +5786,7 @@ layout: default
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|null|
 |**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
 |**2024-07-18**|**Misspecified $Q$ -Learning with Sparse Linear Function Approximation: Tight Bounds on Approximation Error**|Ally Yalei Du et.al.|[2407.13622](http://arxiv.org/abs/2407.13622)|null|
-|**2024-07-18**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Alessandro Flaborea et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
+|**2024-07-19**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Guido Maria D'Amely di Melendugno et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
 |**2024-07-18**|**Model-based Policy Optimization using Symbolic World Model**|Andrey Gorodetskiy et.al.|[2407.13518](http://arxiv.org/abs/2407.13518)|null|
 |**2024-07-18**|**Instance Selection for Dynamic Algorithm Configuration with Reinforcement Learning: Improving Generalization**|Carolin Benjamins et.al.|[2407.13513](http://arxiv.org/abs/2407.13513)|null|
 |**2024-07-18**|**LIMT: Language-Informed Multi-Task Visual World Models**|Elie Aljalbout et.al.|[2407.13466](http://arxiv.org/abs/2407.13466)|null|
@@ -5800,7 +5800,7 @@ layout: default
 |**2024-07-18**|**Multimodal Label Relevance Ranking via Reinforcement Learning**|Taian Guo et.al.|[2407.13221](http://arxiv.org/abs/2407.13221)|null|
 |**2024-07-18**|**Data-Driven Estimation of Conditional Expectations, Application to Optimal Stopping and Reinforcement Learning**|George V. Moustakides et.al.|[2407.13189](http://arxiv.org/abs/2407.13189)|null|
 |**2024-07-18**|**ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems**|Yi Zhang et.al.|[2407.13163](http://arxiv.org/abs/2407.13163)|null|
-|**2024-07-18**|**PG-Rainbow: Using Distributional Reinforcement Learning in Policy Gradient Methods**|WooJae Jeon et.al.|[2407.13146](http://arxiv.org/abs/2407.13146)|null|
+|**2024-07-19**|**PG-Rainbow: Using Distributional Reinforcement Learning in Policy Gradient Methods**|WooJae Jeon et.al.|[2407.13146](http://arxiv.org/abs/2407.13146)|null|
 |**2024-07-18**|**Reconfigurable Intelligent Surface Aided Vehicular Edge Computing: Joint Phase-shift Optimization and Multi-User Power Allocation**|Kangwei Qi et.al.|[2407.13123](http://arxiv.org/abs/2407.13123)|null|
 |**2024-07-18**|**Multiobjective Vehicle Routing Optimization with Time Windows: A Hybrid Approach Using Deep Reinforcement Learning and NSGA-II**|Rixin Wu et.al.|[2407.13113](http://arxiv.org/abs/2407.13113)|null|
 |**2024-07-18**|**DITTO: A Visual Digital Twin for Interventions and Temporal Treatment Outcomes in Head and Neck Cancer**|Andrew Wentzel et.al.|[2407.13107](http://arxiv.org/abs/2407.13107)|null|
