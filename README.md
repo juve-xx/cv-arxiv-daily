@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Prompted Aspect Key Point Analysis for Quantitative Review Summarization**|An Quang Tang et.al.|[2407.14049](http://arxiv.org/abs/2407.14049)|**[link](https://github.com/antangrocket1312/pakpa)**|
+|**2024-07-19**|**ECCO: Can We Improve Model-Generated Code Efficiency Without Sacrificing Functional Correctness?**|Siddhant Waghjale et.al.|[2407.14044](http://arxiv.org/abs/2407.14044)|**[link](https://github.com/codeeff/ecco)**|
+|**2024-07-18**|**FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking**|Zhuoer Wang et.al.|[2407.13945](http://arxiv.org/abs/2407.13945)|null|
 |**2024-07-18**|**Large Language Models as Reliable Knowledge Bases?**|Danna Zheng et.al.|[2407.13578](http://arxiv.org/abs/2407.13578)|null|
 |**2024-07-18**|**Can Open-Source LLMs Compete with Commercial Models? Exploring the Few-Shot Performance of Current GPT Models in Biomedical Tasks**|Samy Ateia et.al.|[2407.13511](http://arxiv.org/abs/2407.13511)|**[link](https://github.com/samyateia/bioasq2024)**|
 |**2024-07-18**|**Learning-From-Mistakes Prompting for Indigenous Language Translation**|You-Cheng Liao et.al.|[2407.13343](http://arxiv.org/abs/2407.13343)|null|
@@ -3166,6 +3169,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
+|**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
+|**2024-07-19**|**EVLM: An Efficient Vision-Language Model for Visual Understanding**|Kaibing Chen et.al.|[2407.14177](http://arxiv.org/abs/2407.14177)|null|
+|**2024-07-18**|**Attention in SRAM on Tenstorrent Grayskull**|Moritz Thüning et.al.|[2407.13885](http://arxiv.org/abs/2407.13885)|**[link](https://github.com/moritztng/grayskull-attention)**|
+|**2024-07-18**|**Keypoint Aware Masked Image Modelling**|Madhava Krishna et.al.|[2407.13873](http://arxiv.org/abs/2407.13873)|**[link](https://github.com/madhava20217/kamim)**|
 |**2024-07-18**|**Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning**|Ans Munir et.al.|[2407.13715](http://arxiv.org/abs/2407.13715)|**[link](https://github.com/ans92/ASP)**|
 |**2024-07-18**|**Training-free Composite Scene Generation for Layout-to-Image Synthesis**|Jiaqi Liu et.al.|[2407.13609](http://arxiv.org/abs/2407.13609)|null|
 |**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483](http://arxiv.org/abs/2407.13483)|**[link](https://github.com/tiny-smart/SCAPE)**|
@@ -3912,6 +3920,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
+|**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
 |**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
@@ -4905,6 +4915,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Joint or Disjoint: Mixing Training Regimes for Early-Exit Models**|Bartłomiej Krzepkowski et.al.|[2407.14320](http://arxiv.org/abs/2407.14320)|**[link](https://github.com/kamadforge/early-exit-benchmark)**|
+|**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
+|**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
 |**2024-07-18**|**Exploring End-to-end Differentiable Neural Charged Particle Tracking -- A Loss Landscape Perspective**|Tobias Kortus et.al.|[2407.13420](http://arxiv.org/abs/2407.13420)|**[link](https://github.com/SIVERT-pCT/e2e-tracking)**|
 |**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Sharpness-diversity tradeoff: improving flat ensembles with SharpBalance**|Haiquan Lu et.al.|[2407.12996](http://arxiv.org/abs/2407.12996)|null|
@@ -5817,6 +5830,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
+|**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
+|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-19**|**FuzzTheREST: An Intelligent Automated Black-box RESTful API Fuzzer**|Tiago Dias et.al.|[2407.14361](http://arxiv.org/abs/2407.14361)|null|
+|**2024-07-19**|**Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**|Nihal Acharya Adde et.al.|[2407.14262](http://arxiv.org/abs/2407.14262)|null|
+|**2024-07-19**|**On Policy Evaluation Algorithms in Distributional Reinforcement Learning**|Julian Gerstenberg et.al.|[2407.14175](http://arxiv.org/abs/2407.14175)|null|
+|**2024-07-19**|**A Comparative Study of Deep Reinforcement Learning Models: DQN vs PPO vs A2C**|Neil De La Fuente et.al.|[2407.14151](http://arxiv.org/abs/2407.14151)|**[link](https://github.com/neilus03/drl_comparative_study)**|
+|**2024-07-19**|**Track-MDP: Reinforcement Learning for Target Tracking with Controlled Sensing**|Adarsh M. Subramaniam et.al.|[2407.13995](http://arxiv.org/abs/2407.13995)|null|
+|**2024-07-19**|**The Effect of Training Schedules on Morphological Robustness and Generalization**|Edoardo Barba et.al.|[2407.13965](http://arxiv.org/abs/2407.13965)|**[link](https://github.com/edoardobarba/evolving-generalist-controllers)**|
+|**2024-07-18**|**Event-Triggered Reinforcement Learning Based Joint Resource Allocation for Ultra-Reliable Low-Latency V2X Communications**|Nasir Khan et.al.|[2407.13947](http://arxiv.org/abs/2407.13947)|null|
+|**2024-07-18**|**LinSATNet: The Positive Linear Satisfiability Neural Networks**|Runzhong Wang et.al.|[2407.13917](http://arxiv.org/abs/2407.13917)|**[link](https://github.com/thinklab-sjtu/linsatnet)**|
+|**2024-07-18**|**Learning Goal-Conditioned Representations for Language Reward Models**|Vaskar Nath et.al.|[2407.13887](http://arxiv.org/abs/2407.13887)|**[link](https://github.com/vaskarnathscale/goal-conditioned-rm)**|
+|**2024-07-14**|**SOC-Boundary and Battery Aging Aware Hierarchical Coordination of Multiple EV Aggregates Among Multi-stakeholders with Multi-Agent Constrained Deep Reinforcement Learning**|Xin Chen et.al.|[2407.13790](http://arxiv.org/abs/2407.13790)|null|
 |**2024-07-18**|**Random Latent Exploration for Deep Reinforcement Learning**|Srinath Mahankali et.al.|[2407.13755](http://arxiv.org/abs/2407.13755)|null|
 |**2024-07-18**|**Optimistic Q-learning for average reward and episodic reinforcement learning**|Priyank Agrawal et.al.|[2407.13743](http://arxiv.org/abs/2407.13743)|null|
 |**2024-07-18**|**Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review**|Masatoshi Uehara et.al.|[2407.13734](http://arxiv.org/abs/2407.13734)|**[link](https://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq)**|
