@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3165,7 +3165,7 @@ layout: default
 |**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
 |**2024-07-16**|**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**|Xiuquan Hou et.al.|[2407.11699](http://arxiv.org/abs/2407.11699)|**[link](https://github.com/xiuqhou/relation-detr)**|
-|**2024-07-16**|**Optimizing KV Cache Eviction in LLMs: Adaptive Allocation for Enhanced Budget Utilization**|Yuan Feng et.al.|[2407.11550](http://arxiv.org/abs/2407.11550)|null|
+|**2024-07-21**|**Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference**|Yuan Feng et.al.|[2407.11550](http://arxiv.org/abs/2407.11550)|null|
 |**2024-07-16**|**Not Another Imputation Method: A Transformer-based Model for Missing Values in Tabular Datasets**|Camillo Maria Caruso et.al.|[2407.11540](http://arxiv.org/abs/2407.11540)|**[link](https://github.com/cosbidev/naim)**|
 |**2024-07-17**|**RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation**|Ziang Zhang et.al.|[2407.11459](http://arxiv.org/abs/2407.11459)|null|
 |**2024-07-16**|**PADRe: A Unifying Polynomial Attention Drop-in Replacement for Efficient Vision Transformer**|Pierre-David Letourneau et.al.|[2407.11306](http://arxiv.org/abs/2407.11306)|null|
@@ -3936,7 +3936,7 @@ layout: default
 |**2024-07-05**|**Discovering Local Hidden-Variable Models for Arbitrary Multipartite Entangled States and Arbitrary Measurements**|Nick von Selzam et.al.|[2407.04673](http://arxiv.org/abs/2407.04673)|**[link](https://github.com/nick-von-selzam/autolhvs)**|
 |**2024-07-05**|**Geometrically Inspired Kernel Machines for Collaborative Learning Beyond Gradient Descent**|Mohit Kumar et.al.|[2407.04335](http://arxiv.org/abs/2407.04335)|null|
 |**2024-07-05**|**Langevin Dynamics: A Unified Perspective on Optimization via Lyapunov Potentials**|August Y. Chen et.al.|[2407.04264](http://arxiv.org/abs/2407.04264)|null|
-|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|**[link](https://github.com/ilennaj/ode_neuron_backprop)**|
+|**2024-07-20**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|**[link](https://github.com/ilennaj/ode_neuron_backprop)**|
 |**2024-07-04**|**Overflow-Avoiding Memory AMP**|Shunqi Huang et.al.|[2407.03898](http://arxiv.org/abs/2407.03898)|null|
 |**2024-07-04**|**Bias of Stochastic Gradient Descent or the Architecture: Disentangling the Effects of Overparameterization of Neural Networks**|Amit Peleg et.al.|[2407.03848](http://arxiv.org/abs/2407.03848)|null|
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
@@ -4934,7 +4934,7 @@ layout: default
 |**2024-07-05**|**An Adaptive Stochastic Gradient Method with Non-negative Gauss-Newton Stepsizes**|Antonio Orvieto et.al.|[2407.04358](http://arxiv.org/abs/2407.04358)|null|
 |**2024-07-05**|**Geometrically Inspired Kernel Machines for Collaborative Learning Beyond Gradient Descent**|Mohit Kumar et.al.|[2407.04335](http://arxiv.org/abs/2407.04335)|null|
 |**2024-07-05**|**Langevin Dynamics: A Unified Perspective on Optimization via Lyapunov Potentials**|August Y. Chen et.al.|[2407.04264](http://arxiv.org/abs/2407.04264)|null|
-|**2024-07-04**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|**[link](https://github.com/ilennaj/ode_neuron_backprop)**|
+|**2024-07-20**|**Efficient optimization of ODE neuron models using gradient descent**|Ilenna Simone Jones et.al.|[2407.04025](http://arxiv.org/abs/2407.04025)|**[link](https://github.com/ilennaj/ode_neuron_backprop)**|
 |**2024-07-04**|**Overflow-Avoiding Memory AMP**|Shunqi Huang et.al.|[2407.03898](http://arxiv.org/abs/2407.03898)|null|
 |**2024-07-04**|**Bias of Stochastic Gradient Descent or the Architecture: Disentangling the Effects of Overparameterization of Neural Networks**|Amit Peleg et.al.|[2407.03848](http://arxiv.org/abs/2407.03848)|null|
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
@@ -5817,7 +5817,7 @@ layout: default
 |**2024-07-18**|**Instance Selection for Dynamic Algorithm Configuration with Reinforcement Learning: Improving Generalization**|Carolin Benjamins et.al.|[2407.13513](http://arxiv.org/abs/2407.13513)|**[link](https://github.com/automl/instance-dac)**|
 |**2024-07-18**|**LIMT: Language-Informed Multi-Task Visual World Models**|Elie Aljalbout et.al.|[2407.13466](http://arxiv.org/abs/2407.13466)|null|
 |**2024-07-18**|**DeepClair: Utilizing Market Forecasts for Effective Portfolio Selection**|Donghee Choi et.al.|[2407.13427](http://arxiv.org/abs/2407.13427)|null|
-|**2024-07-18**|**Correcting the Mythos of KL-Regularization: Direct Alignment without Overparameterization via Chi-squared Preference Optimization**|Audrey Huang et.al.|[2407.13399](http://arxiv.org/abs/2407.13399)|null|
+|**2024-07-19**|**Correcting the Mythos of KL-Regularization: Direct Alignment without Overoptimization via Chi-Squared Preference Optimization**|Audrey Huang et.al.|[2407.13399](http://arxiv.org/abs/2407.13399)|null|
 |**2024-07-18**|**Geometric Active Exploration in Markov Decision Processes: the Benefit of Abstraction**|Riccardo De Santi et.al.|[2407.13364](http://arxiv.org/abs/2407.13364)|null|
 |**2024-07-18**|**Deep Reinforcement Learning for Multi-Objective Optimization: Enhancing Wind Turbine Energy Generation while Mitigating Noise Emissions**|Martín de Frutos et.al.|[2407.13320](http://arxiv.org/abs/2407.13320)|null|
 |**2024-07-18**|**Analyzing and Bridging the Gap between Maximizing Total Reward and Discounted Reward in Deep Reinforcement Learning**|Shuyu Yin et.al.|[2407.13279](http://arxiv.org/abs/2407.13279)|null|
