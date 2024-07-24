@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3151,7 +3151,7 @@ layout: default
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
 |**2024-07-21**|**Efficient Visual Transformer by Learnable Token Merging**|Yancheng Wang et.al.|[2407.15219](http://arxiv.org/abs/2407.15219)|**[link](https://github.com/statistical-deep-learning/ltm)**|
-|**2024-07-21**|**DOPRA: Decoding Over-accumulation Penalization and Re-allocation in Specific Weighting Layer**|Jinfeng Wei et.al.|[2407.15130](http://arxiv.org/abs/2407.15130)|null|
+|**2024-07-23**|**DOPRA: Decoding Over-accumulation Penalization and Re-allocation in Specific Weighting Layer**|Jinfeng Wei et.al.|[2407.15130](http://arxiv.org/abs/2407.15130)|null|
 |**2024-07-21**|**Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions**|Sarah Wiegreffe et.al.|[2407.15018](http://arxiv.org/abs/2407.15018)|null|
 |**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
 |**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
@@ -3909,7 +3909,7 @@ layout: default
 |**2024-07-22**|**Weights Shuffling for Improving DPSGD in Transformer-based Models**|Jungang Yang et.al.|[2407.15414](http://arxiv.org/abs/2407.15414)|null|
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
-|**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
+|**2024-07-22**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
 |**2024-07-17**|**A Methodology Establishing Linear Convergence of Adaptive Gradient Methods under PL Inequality**|Kushal Chakrabarti et.al.|[2407.12629](http://arxiv.org/abs/2407.12629)|null|
@@ -3959,7 +3959,7 @@ layout: default
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
 |**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
 |**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
-|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-23**|**Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
 |**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
 |**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
 |**2024-07-03**|**DACB-Net: Dual Attention Guided Compact Bilinear Convolution Neural Network for Skin Disease Classification**|Belal Ahmad et.al.|[2407.03439](http://arxiv.org/abs/2407.03439)|null|
@@ -4908,7 +4908,7 @@ layout: default
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
 |**2024-07-18**|**Exploring End-to-end Differentiable Neural Charged Particle Tracking -- A Loss Landscape Perspective**|Tobias Kortus et.al.|[2407.13420](http://arxiv.org/abs/2407.13420)|**[link](https://github.com/SIVERT-pCT/e2e-tracking)**|
-|**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
+|**2024-07-22**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Sharpness-diversity tradeoff: improving flat ensembles with SharpBalance**|Haiquan Lu et.al.|[2407.12996](http://arxiv.org/abs/2407.12996)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
@@ -4963,7 +4963,7 @@ layout: default
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
 |**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
 |**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
-|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-23**|**Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
 |**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
 |**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
 |**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
@@ -5859,7 +5859,7 @@ layout: default
 |**2024-07-19**|**BOND: Aligning LLMs with Best-of-N Distillation**|Pier Giuseppe Sessa et.al.|[2407.14622](http://arxiv.org/abs/2407.14622)|null|
 |**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
 |**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
-|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-23**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
 |**2024-07-19**|**FuzzTheREST: An Intelligent Automated Black-box RESTful API Fuzzer**|Tiago Dias et.al.|[2407.14361](http://arxiv.org/abs/2407.14361)|null|
 |**2024-07-19**|**Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**|Nihal Acharya Adde et.al.|[2407.14262](http://arxiv.org/abs/2407.14262)|null|
 |**2024-07-19**|**On Policy Evaluation Algorithms in Distributional Reinforcement Learning**|Julian Gerstenberg et.al.|[2407.14175](http://arxiv.org/abs/2407.14175)|null|
