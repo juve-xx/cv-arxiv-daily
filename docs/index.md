@@ -2444,6 +2444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
+|**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
+|**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
 |**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516](http://arxiv.org/abs/2407.16516)|null|
@@ -3152,6 +3155,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**LoFormer: Local Frequency Transformer for Image Deblurring**|Xintian Mao et.al.|[2407.16993](http://arxiv.org/abs/2407.16993)|**[link](https://github.com/deepmed-lab-ecnu/single-image-deblur)**|
+|**2024-07-24**|**Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model**|Jaewoong Choi et.al.|[2407.16939](http://arxiv.org/abs/2407.16939)|null|
+|**2024-07-23**|**SPLAT: A framework for optimised GPU code-generation for SParse reguLar ATtention**|Ahan Gupta et.al.|[2407.16847](http://arxiv.org/abs/2407.16847)|null|
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286](http://arxiv.org/abs/2407.16286)|**[link](https://github.com/shoaibahmed/llm_depth_pruning)**|
 |**2024-07-24**|**SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams**|Liangyan Jiang et.al.|[2407.15708](http://arxiv.org/abs/2407.15708)|**[link](https://github.com/bupt-ai-cz/SwinSF)**|
 |**2024-07-22**|**Empirical Capacity Model for Self-Attention Neural Networks**|Aki Härmä et.al.|[2407.15425](http://arxiv.org/abs/2407.15425)|null|
@@ -3909,6 +3915,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
 |**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
@@ -4908,6 +4915,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
 |**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
@@ -5830,6 +5838,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466](http://arxiv.org/abs/2407.17466)|null|
+|**2024-07-24**|**Toward human-centered shared autonomy AI paradigms for human-robot teaming in healthcare**|Reza Abiri et.al.|[2407.17464](http://arxiv.org/abs/2407.17464)|null|
+|**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
+|**2024-07-24**|**Joint Transmit and Jamming Power Optimization for Secrecy in Energy Harvesting Networks: A Reinforcement Learning Approach**|Shalini Tripathi et.al.|[2407.17435](http://arxiv.org/abs/2407.17435)|null|
+|**2024-07-24**|**Market Making with Exogenous Competition**|Robert Boyce et.al.|[2407.17393](http://arxiv.org/abs/2407.17393)|null|
+|**2024-07-24**|**MoveLight: Enhancing Traffic Signal Control through Movement-Centric Deep Reinforcement Learning**|Junqi Shao et.al.|[2407.17303](http://arxiv.org/abs/2407.17303)|null|
+|**2024-07-24**|**Pretrained Visual Representations in Reinforcement Learning**|Emlyn Williams et.al.|[2407.17238](http://arxiv.org/abs/2407.17238)|null|
+|**2024-07-24**|**Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning**|Yilie Huang et.al.|[2407.17226](http://arxiv.org/abs/2407.17226)|null|
+|**2024-07-24**|**Take a Step and Reconsider: Sequence Decoding for Self-Improved Neural Combinatorial Optimization**|Jonathan Pirnay et.al.|[2407.17206](http://arxiv.org/abs/2407.17206)|**[link](https://github.com/grimmlab/step-and-reconsider)**|
+|**2024-07-24**|**Path Following and Stabilisation of a Bicycle Model using a Reinforcement Learning Approach**|Sebastian Weyrer et.al.|[2407.17156](http://arxiv.org/abs/2407.17156)|null|
+|**2024-07-24**|**XMeCap: Meme Caption Generation with Sub-Image Adaptability**|Yuyan Chen et.al.|[2407.17152](http://arxiv.org/abs/2407.17152)|null|
+|**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
+|**2024-07-24**|**Neural Dueling Bandits**|Arun Verma et.al.|[2407.17112](http://arxiv.org/abs/2407.17112)|null|
+|**2024-07-24**|**Gymnasium: A Standard Interface for Reinforcement Learning Environments**|Mark Towers et.al.|[2407.17032](http://arxiv.org/abs/2407.17032)|null|
+|**2024-07-24**|**Applications of Multi-Agent Deep Reinforcement Learning Communication in Network Management: A Survey**|Yue Pi et.al.|[2407.17030](http://arxiv.org/abs/2407.17030)|null|
+|**2024-07-23**|**Neural Network-Based Bandit: A Medium Access Control for the IIoT Alarm Scenario**|Prasoon Raghuwanshi et.al.|[2407.16877](http://arxiv.org/abs/2407.16877)|null|
+|**2024-07-23**|**SECRM-2D: RL-Based Efficient and Comfortable Route-Following Autonomous Driving with Analytic Safety Guarantees**|Tianyu Shi et.al.|[2407.16857](http://arxiv.org/abs/2407.16857)|null|
+|**2024-07-23**|**Adapting Image-based RL Policies via Predicted Rewards**|Weiyao Wang et.al.|[2407.16842](http://arxiv.org/abs/2407.16842)|null|
+|**2024-07-23**|**In Search for Architectures and Loss Functions in Multi-Objective Reinforcement Learning**|Mikhail Terekhov et.al.|[2407.16807](http://arxiv.org/abs/2407.16807)|null|
 |**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**Efficient Discovery of Actual Causality using Abstraction-Refinement**|Arshia Rafieioskouei et.al.|[2407.16629](http://arxiv.org/abs/2407.16629)|null|
@@ -5845,7 +5872,7 @@ layout: default
 |**2024-07-23**|**ODGR: Online Dynamic Goal Recognition**|Matan Shamir et.al.|[2407.16220](http://arxiv.org/abs/2407.16220)|null|
 |**2024-07-23**|**Automatic Environment Shaping is the Next Frontier in RL**|Younghyo Park et.al.|[2407.16186](http://arxiv.org/abs/2407.16186)|null|
 |**2024-07-23**|**Diffusion Models as Optimizers for Efficient Planning in Offline RL**|Renming Huang et.al.|[2407.16142](http://arxiv.org/abs/2407.16142)|**[link](https://github.com/renming-huang/trajectorydiffuser)**|
-|**2024-07-23**|**Reinforcement Learning Pair Trading: A Dynamic Scaling approach**|Hongshen Yang et.al.|[2407.16103](http://arxiv.org/abs/2407.16103)|null|
+|**2024-07-23**|**Reinforcement Learning Pair Trading: A Dynamic Scaling approach**|Hongshen Yang et.al.|[2407.16103](http://arxiv.org/abs/2407.16103)|**[link](https://github.com/Hongshen-Yang/pair-trading-envs)**|
 |**2024-07-22**|**Artificial Intelligence-based Decision Support Systems for Precision and Digital Health**|Nina Deliu et.al.|[2407.16062](http://arxiv.org/abs/2407.16062)|null|
 |**2024-07-22**|**Revisiting Score Function Estimators for $k$ -Subset Sampling**|Klas Wijk et.al.|[2407.16058](http://arxiv.org/abs/2407.16058)|null|
 |**2024-07-22**|**Efficient Replay Memory Architectures in Multi-Agent Reinforcement Learning for Traffic Congestion Control**|Mukul Chodhary et.al.|[2407.16034](http://arxiv.org/abs/2407.16034)|null|
