@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2447,10 +2447,10 @@ layout: default
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
 |**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516](http://arxiv.org/abs/2407.16516)|null|
-|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975](http://arxiv.org/abs/2407.15975)|null|
 |**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
@@ -3182,11 +3182,11 @@ layout: default
 |**2024-07-01**|**PQCache: Product Quantization-based KVCache for Long Context LLM Inference**|Hailin Zhang et.al.|[2407.12820](http://arxiv.org/abs/2407.12820)|null|
 |**2024-06-25**|**Dark Transformer: A Video Transformer for Action Recognition in the Dark**|Anwaar Ulhaq et.al.|[2407.12805](http://arxiv.org/abs/2407.12805)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
-|**2024-07-22**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
+|**2024-07-25**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
 |**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
-|**2024-07-16**|**Temporally Grounding Instructional Diagrams in Unconstrained Videos**|Jiahao Zhang et.al.|[2407.12066](http://arxiv.org/abs/2407.12066)|null|
+|**2024-07-24**|**Temporally Grounding Instructional Diagrams in Unconstrained Videos**|Jiahao Zhang et.al.|[2407.12066](http://arxiv.org/abs/2407.12066)|null|
 |**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
 |**2024-07-16**|**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**|Xiuquan Hou et.al.|[2407.11699](http://arxiv.org/abs/2407.11699)|**[link](https://github.com/xiuqhou/relation-detr)**|
@@ -3206,7 +3206,7 @@ layout: default
 |**2024-07-15**|**PolyRoom: Room-aware Transformer for Floorplan Reconstruction**|Yuzhou Liu et.al.|[2407.10439](http://arxiv.org/abs/2407.10439)|**[link](https://github.com/3dv-casia/polyroom)**|
 |**2024-07-15**|**Transformer for Multitemporal Hyperspectral Image Unmixing**|Hang Li et.al.|[2407.10427](http://arxiv.org/abs/2407.10427)|null|
 |**2024-07-15**|**SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling**|Huizheng Wang et.al.|[2407.10416](http://arxiv.org/abs/2407.10416)|null|
-|**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|**[link](https://github.com/sunshangquan/Histoformer)**|
+|**2024-07-25**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|**[link](https://github.com/sunshangquan/Histoformer)**|
 |**2024-07-14**|**Look Within, Why LLMs Hallucinate: A Causal Perspective**|He Li et.al.|[2407.10153](http://arxiv.org/abs/2407.10153)|null|
 |**2024-07-13**|**Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers**|Sukjun Hwang et.al.|[2407.09941](http://arxiv.org/abs/2407.09941)|**[link](https://github.com/goombalab/hydra)**|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
@@ -4924,7 +4924,7 @@ layout: default
 |**2024-07-22**|**Convergence of the Iterates for Momentum and RMSProp for Local Smooth Functions: Adaptation is the Key**|Bilel Bensaid et.al.|[2407.15471](http://arxiv.org/abs/2407.15471)|null|
 |**2024-07-22**|**Regression under demographic parity constraints via unlabeled post-processing**|Evgenii Chzhen et.al.|[2407.15453](http://arxiv.org/abs/2407.15453)|null|
 |**2024-07-22**|**Weights Shuffling for Improving DPSGD in Transformer-based Models**|Jungang Yang et.al.|[2407.15414](http://arxiv.org/abs/2407.15414)|null|
-|**2024-07-20**|**Flatness-aware Sequential Learning Generates Resilient Backdoors**|Hoang Pham et.al.|[2407.14738](http://arxiv.org/abs/2407.14738)|null|
+|**2024-07-20**|**Flatness-aware Sequential Learning Generates Resilient Backdoors**|Hoang Pham et.al.|[2407.14738](http://arxiv.org/abs/2407.14738)|**[link](https://github.com/mail-research/sbl-resilient-backdoors)**|
 |**2024-07-19**|**Joint or Disjoint: Mixing Training Regimes for Early-Exit Models**|Bartłomiej Krzepkowski et.al.|[2407.14320](http://arxiv.org/abs/2407.14320)|**[link](https://github.com/kamadforge/early-exit-benchmark)**|
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
@@ -5910,7 +5910,7 @@ layout: default
 |**2024-07-20**|**Optimizing over Multiple Distributions under Generalized Quasar-Convexity Condition**|Shihong Ding et.al.|[2407.14839](http://arxiv.org/abs/2407.14839)|null|
 |**2024-07-20**|**VisFly: An Efficient and Versatile Simulator for Training Vision-based Flight**|Fanxing Li et.al.|[2407.14783](http://arxiv.org/abs/2407.14783)|null|
 |**2024-07-20**|**Phase Re-service in Reinforcement Learning Traffic Signal Control**|Zhiyao Zhang et.al.|[2407.14775](http://arxiv.org/abs/2407.14775)|null|
-|**2024-07-20**|**Attention-based SIC Ordering and Power Allocation for Non-orthogonal Multiple Access Networks**|Liang Huang et.al.|[2407.14740](http://arxiv.org/abs/2407.14740)|null|
+|**2024-07-20**|**Attention-based SIC Ordering and Power Allocation for Non-orthogonal Multiple Access Networks**|Liang Huang et.al.|[2407.14740](http://arxiv.org/abs/2407.14740)|**[link](https://github.com/jil-menzerna/asopa)**|
 |**2024-07-20**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733](http://arxiv.org/abs/2407.14733)|**[link](https://github.com/youseob/pin)**|
 |**2024-07-20**|**Unveiling the Decision-Making Process in Reinforcement Learning with Genetic Programming**|Manuel Eberhardinger et.al.|[2407.14714](http://arxiv.org/abs/2407.14714)|null|
 |**2024-07-20**|**Modeling flexible behaviour by the interactions between hippocampus and cortex**|Yoshiki Ito et.al.|[2407.14708](http://arxiv.org/abs/2407.14708)|null|

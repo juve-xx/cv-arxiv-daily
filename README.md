@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## SFM
 
@@ -631,7 +631,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1279,7 +1279,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1488,7 +1488,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1687,7 +1687,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## NeRF
 
@@ -2464,7 +2464,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## ICL
 
@@ -2473,10 +2473,10 @@
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
 |**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
-|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
+|**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|**[link](https://github.com/ink-usc/lifelong-icl)**|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**Assessing In-context Learning and Fine-tuning for Topic Classification of German Web Data**|Julian Schelb et.al.|[2407.16516](http://arxiv.org/abs/2407.16516)|null|
-|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975](http://arxiv.org/abs/2407.15975)|null|
 |**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
@@ -3177,7 +3177,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Transformer
 
@@ -3210,11 +3210,11 @@
 |**2024-07-01**|**PQCache: Product Quantization-based KVCache for Long Context LLM Inference**|Hailin Zhang et.al.|[2407.12820](http://arxiv.org/abs/2407.12820)|null|
 |**2024-06-25**|**Dark Transformer: A Video Transformer for Action Recognition in the Dark**|Anwaar Ulhaq et.al.|[2407.12805](http://arxiv.org/abs/2407.12805)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
-|**2024-07-22**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
+|**2024-07-25**|**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**|Mohammad Erfan Sadeghi et.al.|[2407.12736](http://arxiv.org/abs/2407.12736)|null|
 |**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
 |**2024-07-17**|**ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference**|Mengcheng Lan et.al.|[2407.12442](http://arxiv.org/abs/2407.12442)|null|
 |**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339](http://arxiv.org/abs/2407.12339)|null|
-|**2024-07-16**|**Temporally Grounding Instructional Diagrams in Unconstrained Videos**|Jiahao Zhang et.al.|[2407.12066](http://arxiv.org/abs/2407.12066)|null|
+|**2024-07-24**|**Temporally Grounding Instructional Diagrams in Unconstrained Videos**|Jiahao Zhang et.al.|[2407.12066](http://arxiv.org/abs/2407.12066)|null|
 |**2024-07-17**|**Hierarchical Separable Video Transformer for Snapshot Compressive Imaging**|Ping Wang et.al.|[2407.11946](http://arxiv.org/abs/2407.11946)|**[link](https://github.com/pwangcs/hisvit)**|
 |**2024-07-16**|**DFDRNN: A dual-feature based neural network for drug repositioning**|Enqiang Zhu et.al.|[2407.11812](http://arxiv.org/abs/2407.11812)|null|
 |**2024-07-16**|**Relation DETR: Exploring Explicit Position Relation Prior for Object Detection**|Xiuquan Hou et.al.|[2407.11699](http://arxiv.org/abs/2407.11699)|**[link](https://github.com/xiuqhou/relation-detr)**|
@@ -3234,7 +3234,7 @@
 |**2024-07-15**|**PolyRoom: Room-aware Transformer for Floorplan Reconstruction**|Yuzhou Liu et.al.|[2407.10439](http://arxiv.org/abs/2407.10439)|**[link](https://github.com/3dv-casia/polyroom)**|
 |**2024-07-15**|**Transformer for Multitemporal Hyperspectral Image Unmixing**|Hang Li et.al.|[2407.10427](http://arxiv.org/abs/2407.10427)|null|
 |**2024-07-15**|**SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling**|Huizheng Wang et.al.|[2407.10416](http://arxiv.org/abs/2407.10416)|null|
-|**2024-07-14**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|**[link](https://github.com/sunshangquan/Histoformer)**|
+|**2024-07-25**|**Restoring Images in Adverse Weather Conditions via Histogram Transformer**|Shangquan Sun et.al.|[2407.10172](http://arxiv.org/abs/2407.10172)|**[link](https://github.com/sunshangquan/Histoformer)**|
 |**2024-07-14**|**Look Within, Why LLMs Hallucinate: A Causal Perspective**|He Li et.al.|[2407.10153](http://arxiv.org/abs/2407.10153)|null|
 |**2024-07-13**|**Hydra: Bidirectional State Space Models Through Generalized Matrix Mixers**|Sukjun Hwang et.al.|[2407.09941](http://arxiv.org/abs/2407.09941)|**[link](https://github.com/goombalab/hydra)**|
 |**2024-07-12**|**Region Attention Transformer for Medical Image Restoration**|Zhiwen Yang et.al.|[2407.09268](http://arxiv.org/abs/2407.09268)|**[link](https://github.com/yaziwel/region-attention-transformer-for-medical-image-restoration)**|
@@ -3939,7 +3939,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Optimization
 
@@ -4776,7 +4776,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4943,7 +4943,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4958,7 +4958,7 @@
 |**2024-07-22**|**Convergence of the Iterates for Momentum and RMSProp for Local Smooth Functions: Adaptation is the Key**|Bilel Bensaid et.al.|[2407.15471](http://arxiv.org/abs/2407.15471)|null|
 |**2024-07-22**|**Regression under demographic parity constraints via unlabeled post-processing**|Evgenii Chzhen et.al.|[2407.15453](http://arxiv.org/abs/2407.15453)|null|
 |**2024-07-22**|**Weights Shuffling for Improving DPSGD in Transformer-based Models**|Jungang Yang et.al.|[2407.15414](http://arxiv.org/abs/2407.15414)|null|
-|**2024-07-20**|**Flatness-aware Sequential Learning Generates Resilient Backdoors**|Hoang Pham et.al.|[2407.14738](http://arxiv.org/abs/2407.14738)|null|
+|**2024-07-20**|**Flatness-aware Sequential Learning Generates Resilient Backdoors**|Hoang Pham et.al.|[2407.14738](http://arxiv.org/abs/2407.14738)|**[link](https://github.com/mail-research/sbl-resilient-backdoors)**|
 |**2024-07-19**|**Joint or Disjoint: Mixing Training Regimes for Early-Exit Models**|Bartłomiej Krzepkowski et.al.|[2407.14320](http://arxiv.org/abs/2407.14320)|**[link](https://github.com/kamadforge/early-exit-benchmark)**|
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
@@ -5868,7 +5868,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -5946,7 +5946,7 @@
 |**2024-07-20**|**Optimizing over Multiple Distributions under Generalized Quasar-Convexity Condition**|Shihong Ding et.al.|[2407.14839](http://arxiv.org/abs/2407.14839)|null|
 |**2024-07-20**|**VisFly: An Efficient and Versatile Simulator for Training Vision-based Flight**|Fanxing Li et.al.|[2407.14783](http://arxiv.org/abs/2407.14783)|null|
 |**2024-07-20**|**Phase Re-service in Reinforcement Learning Traffic Signal Control**|Zhiyao Zhang et.al.|[2407.14775](http://arxiv.org/abs/2407.14775)|null|
-|**2024-07-20**|**Attention-based SIC Ordering and Power Allocation for Non-orthogonal Multiple Access Networks**|Liang Huang et.al.|[2407.14740](http://arxiv.org/abs/2407.14740)|null|
+|**2024-07-20**|**Attention-based SIC Ordering and Power Allocation for Non-orthogonal Multiple Access Networks**|Liang Huang et.al.|[2407.14740](http://arxiv.org/abs/2407.14740)|**[link](https://github.com/jil-menzerna/asopa)**|
 |**2024-07-20**|**Hard Prompts Made Interpretable: Sparse Entropy Regularization for Prompt Tuning with RL**|Yunseon Choi et.al.|[2407.14733](http://arxiv.org/abs/2407.14733)|**[link](https://github.com/youseob/pin)**|
 |**2024-07-20**|**Unveiling the Decision-Making Process in Reinforcement Learning with Genetic Programming**|Manuel Eberhardinger et.al.|[2407.14714](http://arxiv.org/abs/2407.14714)|null|
 |**2024-07-20**|**Modeling flexible behaviour by the interactions between hippocampus and cortex**|Yoshiki Ito et.al.|[2407.14708](http://arxiv.org/abs/2407.14708)|null|
@@ -8797,7 +8797,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240726>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
