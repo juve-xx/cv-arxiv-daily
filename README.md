@@ -2470,6 +2470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**Large Language Models for Anomaly Detection in Computational Workflows: from Supervised Fine-Tuning to In-Context Learning**|Hongwei Jin et.al.|[2407.17545](http://arxiv.org/abs/2407.17545)|**[link](https://github.com/poseidon-workflows/llm_ad)**|
 |**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
 |**2024-07-24**|**Unveiling In-Context Learning: A Coordinate System to Understand Its Working Mechanism**|Anhao Zhao et.al.|[2407.17011](http://arxiv.org/abs/2407.17011)|null|
 |**2024-07-24**|**SelfPiCo: Self-Guided Partial Code Execution with LLMs**|Zhipeng Xue et.al.|[2407.16974](http://arxiv.org/abs/2407.16974)|null|
@@ -3183,6 +3184,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|null|
+|**2024-07-25**|**EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling**|Yiming Ma et.al.|[2407.17869](http://arxiv.org/abs/2407.17869)|null|
+|**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|null|
+|**2024-07-23**|**S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks**|Neha A S et.al.|[2407.17587](http://arxiv.org/abs/2407.17587)|null|
+|**2024-07-08**|**Transfer Learning Enabled Transformer based Generative Adversarial Networks (TT-GAN) for Terahertz Channel Modeling and Generating**|Zhengdong Hu et.al.|[2407.17510](http://arxiv.org/abs/2407.17510)|null|
 |**2024-07-24**|**LoFormer: Local Frequency Transformer for Image Deblurring**|Xintian Mao et.al.|[2407.16993](http://arxiv.org/abs/2407.16993)|**[link](https://github.com/deepmed-lab-ecnu/single-image-deblur)**|
 |**2024-07-24**|**Early screening of potential breakthrough technologies with enhanced interpretability: A patent-specific hierarchical attention network model**|Jaewoong Choi et.al.|[2407.16939](http://arxiv.org/abs/2407.16939)|null|
 |**2024-07-23**|**SPLAT: A framework for optimised GPU code-generation for SParse reguLar ATtention**|Ahan Gupta et.al.|[2407.16847](http://arxiv.org/abs/2407.16847)|null|
@@ -3272,6 +3279,7 @@
 |**2024-06-30**|**Learning Frequency-Aware Dynamic Transformers for All-In-One Image Restoration**|Zenglin Shi et.al.|[2407.01636](http://arxiv.org/abs/2407.01636)|null|
 |**2024-06-28**|**Edge-DIRECT: A Deep Reinforcement Learning-based Method for Solving Heterogeneous Electric Vehicle Routing Problem with Time Window Constraints**|Arash Mozhdehi et.al.|[2407.01615](http://arxiv.org/abs/2407.01615)|null|
 |**2024-06-26**|**Clustering in pure-attention hardmax transformers and its role in sentiment analysis**|Albert Alcalde et.al.|[2407.01602](http://arxiv.org/abs/2407.01602)|**[link](https://github.com/dcn-fau-avh/clustering-hardmax-transformers)**|
+|**2024-07-25**|**Unrolling Plug-and-Play Gradient Graph Laplacian Regularizer for Image Restoration**|Jianghe Cai et.al.|[2407.01469](http://arxiv.org/abs/2407.01469)|null|
 |**2024-07-01**|**TransferAttn: Transferable-guided Attention Is All You Need for Video Domain Adaptation**|André Sacilotti et.al.|[2407.01375](http://arxiv.org/abs/2407.01375)|null|
 |**2024-07-01**|**Hypformer: Exploring Efficient Hyperbolic Transformer Fully in Hyperbolic Space**|Menglin Yang et.al.|[2407.01290](http://arxiv.org/abs/2407.01290)|null|
 |**2024-07-01**|**Kolmogorov-Arnold Convolutions: Design Principles and Empirical Studies**|Ivan Drokin et.al.|[2407.01092](http://arxiv.org/abs/2407.01092)|**[link](https://github.com/ivandrokin/torch-conv-kan)**|
@@ -3945,6 +3953,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
 |**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
@@ -4949,6 +4958,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
 |**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
@@ -5874,6 +5884,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
+|**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202](http://arxiv.org/abs/2407.18202)|null|
+|**2024-07-25**|**Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation**|Jean Seong Bjorn Choe et.al.|[2407.18143](http://arxiv.org/abs/2407.18143)|null|
+|**2024-07-25**|**MapTune: Advancing ASIC Technology Mapping via Reinforcement Learning Guided Library Tuning**|Mingju Liu et.al.|[2407.18110](http://arxiv.org/abs/2407.18110)|null|
+|**2024-07-25**|**Principal-Agent Reinforcement Learning**|Dima Ivanov et.al.|[2407.18074](http://arxiv.org/abs/2407.18074)|null|
+|**2024-07-25**|**Multi-Agent Deep Reinforcement Learning for Resilience Optimization in 5G RAN**|Soumeya Kaada et.al.|[2407.18066](http://arxiv.org/abs/2407.18066)|null|
+|**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
+|**2024-07-25**|**Optimal Hessian/Jacobian-Free Nonconvex-PL Bilevel Optimization**|Feihu Huang et.al.|[2407.17823](http://arxiv.org/abs/2407.17823)|null|
+|**2024-07-25**|**Advanced deep-reinforcement-learning methods for flow control: group-invariant and positional-encoding networks improve learning speed and quality**|Joogoo Jeon et.al.|[2407.17822](http://arxiv.org/abs/2407.17822)|null|
+|**2024-07-25**|**Preliminary Results of Neuromorphic Controller Design and a Parkinson's Disease Dataset Building for Closed-Loop Deep Brain Stimulation**|Ananna Biswas et.al.|[2407.17756](http://arxiv.org/abs/2407.17756)|null|
+|**2024-07-25**|**RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control**|Seung Hyeon Bang et.al.|[2407.17683](http://arxiv.org/abs/2407.17683)|null|
+|**2024-07-24**|**Harnessing DRL for URLLC in Open RAN: A Trade-off Exploration**|Rana Muhammad Sohaib et.al.|[2407.17598](http://arxiv.org/abs/2407.17598)|null|
+|**2024-07-24**|**Exploring Domain Robust Lightweight Reward Models based on Router Mechanism**|Hyuk Namgoong et.al.|[2407.17546](http://arxiv.org/abs/2407.17546)|null|
 |**2024-07-24**|**Traversing Pareto Optimal Policies: Provably Efficient Multi-Objective Reinforcement Learning**|Shuang Qiu et.al.|[2407.17466](http://arxiv.org/abs/2407.17466)|null|
 |**2024-07-24**|**Toward human-centered shared autonomy AI paradigms for human-robot teaming in healthcare**|Reza Abiri et.al.|[2407.17464](http://arxiv.org/abs/2407.17464)|null|
 |**2024-07-24**|**SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning**|Jianpeng Yao et.al.|[2407.17460](http://arxiv.org/abs/2407.17460)|null|
