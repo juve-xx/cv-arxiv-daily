@@ -1808,7 +1808,7 @@
 |**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
 |**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
 |**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266](http://arxiv.org/abs/2312.03266)|null|
-|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|**[link](https://github.com/ShijieZhou-UCLA/feature-3dgs)**|
 |**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
@@ -3547,7 +3547,7 @@
 |**2024-04-24**|**Gradformer: Graph Transformer with Exponential Decay**|Chuang Liu et.al.|[2404.15729](http://arxiv.org/abs/2404.15729)|**[link](https://github.com/liuchuang0059/gradformer)**|
 |**2024-04-23**|**XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference**|João Monteiro et.al.|[2404.15420](http://arxiv.org/abs/2404.15420)|null|
 |**2024-04-21**|**Minimum Description Feature Selection for Complexity Reduction in Machine Learning-based Wireless Positioning**|Myeung Suk Oh et.al.|[2404.15374](http://arxiv.org/abs/2404.15374)|null|
-|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|**[link](https://github.com/huanngzh/Parts2Whole)**|
 |**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|
 |**2024-04-21**|**LMFNet: An Efficient Multimodal Fusion Approach for Semantic Segmentation in High-Resolution Remote Sensing**|Tong Wang et.al.|[2404.13659](http://arxiv.org/abs/2404.13659)|null|
 |**2024-04-21**|**Data-independent Module-aware Pruning for Hierarchical Vision Transformers**|Yang He et.al.|[2404.13648](http://arxiv.org/abs/2404.13648)|**[link](https://github.com/he-y/data-independent-module-aware-pruning)**|
@@ -4168,7 +4168,7 @@
 |**2024-06-04**|**Stein Random Feature Regression**|Houston Warren et.al.|[2406.00438](http://arxiv.org/abs/2406.00438)|**[link](https://github.com/houstonwarren/m-srfr)**|
 |**2024-06-01**|**Stochastic Restarting to Overcome Overfitting in Neural Networks with Noisy Labels**|Youngkyoung Bae et.al.|[2406.00396](http://arxiv.org/abs/2406.00396)|null|
 |**2024-05-31**|**Training on the Edge of Stability Is Caused by Layerwise Jacobian Alignment**|Mark Lowell et.al.|[2406.00127](http://arxiv.org/abs/2406.00127)|null|
-|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584](http://arxiv.org/abs/2405.20584)|null|
+|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584](http://arxiv.org/abs/2405.20584)|**[link](https://github.com/riolys/disdiff)**|
 |**2024-05-31**|**Collaborative Resource Management and Workloads Scheduling in Cloud-Assisted Mobile Edge Computing across Timescales**|Lujie Tang et.al.|[2405.20560](http://arxiv.org/abs/2405.20560)|null|
 |**2024-05-30**|**On the randomized Euler scheme for SDEs with integral-form drift**|Paweł Przybyłowicz et.al.|[2405.20481](http://arxiv.org/abs/2405.20481)|null|
 |**2024-05-30**|**Sharpness-Aware Minimization Enhances Feature Quality via Balanced Learning**|Jacob Mitchell Springer et.al.|[2405.20439](http://arxiv.org/abs/2405.20439)|null|
@@ -4229,7 +4229,7 @@
 |**2024-05-24**|**Improved Particle Approximation Error for Mean Field Neural Networks**|Atsushi Nitanda et.al.|[2405.15767](http://arxiv.org/abs/2405.15767)|null|
 |**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539](http://arxiv.org/abs/2405.15539)|null|
 |**2024-05-24**|**Fundamental limits of weak learnability in high-dimensional multi-index models**|Emanuele Troiani et.al.|[2405.15480](http://arxiv.org/abs/2405.15480)|**[link](https://github.com/SPOC-group/FundamentalLimitsMultiIndex)**|
-|**2024-05-24**|**Repetita Iuvant: Data Repetition Allows SGD to Learn High-Dimensional Multi-Index Functions**|Luca Arnaboldi et.al.|[2405.15459](http://arxiv.org/abs/2405.15459)|null|
+|**2024-05-24**|**Repetita Iuvant: Data Repetition Allows SGD to Learn High-Dimensional Multi-Index Functions**|Luca Arnaboldi et.al.|[2405.15459](http://arxiv.org/abs/2405.15459)|**[link](https://github.com/IdePHICS/Repetita-Iuvant)**|
 |**2024-05-24**|**Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization**|Zheyi Fan et.al.|[2405.15285](http://arxiv.org/abs/2405.15285)|null|
 |**2024-05-24**|**Novel Kernel Models and Exact Representor Theory for Neural Networks Beyond the Over-Parameterized Regime**|Alistair Shilton et.al.|[2405.15254](http://arxiv.org/abs/2405.15254)|null|
 |**2024-05-23**|**ULTRA-MC: A Unified Approach to Learning Mixtures of Markov Chains via Hitting Times**|Fabian Spaeh et.al.|[2405.15094](http://arxiv.org/abs/2405.15094)|null|
@@ -5201,7 +5201,7 @@
 |**2024-06-01**|**Stochastic Restarting to Overcome Overfitting in Neural Networks with Noisy Labels**|Youngkyoung Bae et.al.|[2406.00396](http://arxiv.org/abs/2406.00396)|null|
 |**2024-05-31**|**Training on the Edge of Stability Is Caused by Layerwise Jacobian Alignment**|Mark Lowell et.al.|[2406.00127](http://arxiv.org/abs/2406.00127)|null|
 |**2024-05-31**|**Transformer neural networks and quantum simulators: a hybrid approach for simulating strongly correlated systems**|Hannah Lange et.al.|[2406.00091](http://arxiv.org/abs/2406.00091)|**[link](https://github.com/HannahLange/HybridTransformer)**|
-|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584](http://arxiv.org/abs/2405.20584)|null|
+|**2024-05-31**|**Disrupting Diffusion: Token-Level Attention Erasure Attack against Diffusion-based Customization**|Yisu Liu et.al.|[2405.20584](http://arxiv.org/abs/2405.20584)|**[link](https://github.com/riolys/disdiff)**|
 |**2024-05-31**|**Collaborative Resource Management and Workloads Scheduling in Cloud-Assisted Mobile Edge Computing across Timescales**|Lujie Tang et.al.|[2405.20560](http://arxiv.org/abs/2405.20560)|null|
 |**2024-05-30**|**On the randomized Euler scheme for SDEs with integral-form drift**|Paweł Przybyłowicz et.al.|[2405.20481](http://arxiv.org/abs/2405.20481)|null|
 |**2024-05-30**|**Sharpness-Aware Minimization Enhances Feature Quality via Balanced Learning**|Jacob Mitchell Springer et.al.|[2405.20439](http://arxiv.org/abs/2405.20439)|null|
@@ -5272,7 +5272,7 @@
 |**2024-05-24**|**Transfer Learning with Informative Priors: Simple Baselines Better than Previously Reported**|Ethan Harvey et.al.|[2405.15583](http://arxiv.org/abs/2405.15583)|**[link](https://github.com/tufts-ml/bdl-transfer-learning)**|
 |**2024-05-24**|**A generalized neural tangent kernel for surrogate gradient learning**|Luke Eilers et.al.|[2405.15539](http://arxiv.org/abs/2405.15539)|null|
 |**2024-05-24**|**Fundamental limits of weak learnability in high-dimensional multi-index models**|Emanuele Troiani et.al.|[2405.15480](http://arxiv.org/abs/2405.15480)|**[link](https://github.com/SPOC-group/FundamentalLimitsMultiIndex)**|
-|**2024-05-24**|**Repetita Iuvant: Data Repetition Allows SGD to Learn High-Dimensional Multi-Index Functions**|Luca Arnaboldi et.al.|[2405.15459](http://arxiv.org/abs/2405.15459)|null|
+|**2024-05-24**|**Repetita Iuvant: Data Repetition Allows SGD to Learn High-Dimensional Multi-Index Functions**|Luca Arnaboldi et.al.|[2405.15459](http://arxiv.org/abs/2405.15459)|**[link](https://github.com/IdePHICS/Repetita-Iuvant)**|
 |**2024-05-24**|**Minimizing UCB: a Better Local Search Strategy in Local Bayesian Optimization**|Zheyi Fan et.al.|[2405.15285](http://arxiv.org/abs/2405.15285)|null|
 |**2024-05-24**|**Novel Kernel Models and Exact Representor Theory for Neural Networks Beyond the Over-Parameterized Regime**|Alistair Shilton et.al.|[2405.15254](http://arxiv.org/abs/2405.15254)|null|
 |**2024-05-23**|**ULTRA-MC: A Unified Approach to Learning Mixtures of Markov Chains via Hitting Times**|Fabian Spaeh et.al.|[2405.15094](http://arxiv.org/abs/2405.15094)|null|
@@ -6029,13 +6029,13 @@
 |**2024-07-17**|**A foundation model approach to guide antimicrobial peptide design in the era of artificial intelligence driven scientific discovery**|Jike Wang et.al.|[2407.12296](http://arxiv.org/abs/2407.12296)|null|
 |**2024-07-17**|**Chip Placement with Diffusion**|Vint Lee et.al.|[2407.12282](http://arxiv.org/abs/2407.12282)|null|
 |**2024-07-17**|**Individualized Federated Learning for Traffic Prediction with Error Driven Aggregation**|Hang Chen et.al.|[2407.12226](http://arxiv.org/abs/2407.12226)|**[link](https://github.com/hanglearning/NeighborFL)**|
-|**2024-07-16**|**CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation**|Xianzhong Ding et.al.|[2407.12195](http://arxiv.org/abs/2407.12195)|null|
+|**2024-07-16**|**CLUE: Safe Model-Based RL HVAC Control Using Epistemic Uncertainty Estimation**|Xianzhong Ding et.al.|[2407.12195](http://arxiv.org/abs/2407.12195)|**[link](https://github.com/ryeii/CLUE)**|
 |**2024-07-16**|**Satisficing Exploration for Deep Reinforcement Learning**|Dilip Arumugam et.al.|[2407.12185](http://arxiv.org/abs/2407.12185)|null|
 |**2024-07-16**|**Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning**|Yanting Miao et.al.|[2407.12164](http://arxiv.org/abs/2407.12164)|null|
 |**2024-07-16**|**Bellman Diffusion Models**|Liam Schramm et.al.|[2407.12163](http://arxiv.org/abs/2407.12163)|null|
 |**2024-07-16**|**A Graph-based Adversarial Imitation Learning Framework for Reliable & Realtime Fleet Scheduling in Urban Air Mobility**|Prithvi Poddar et.al.|[2407.12113](http://arxiv.org/abs/2407.12113)|null|
 |**2024-07-16**|**Why long model-based rollouts are no reason for bad Q-value estimates**|Philipp Wissmann et.al.|[2407.11751](http://arxiv.org/abs/2407.11751)|null|
-|**2024-07-16**|**Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles**|Thomas Dengiz et.al.|[2407.11719](http://arxiv.org/abs/2407.11719)|null|
+|**2024-07-16**|**Pareto local search for a multi-objective demand response problem in residential areas with heat pumps and electric vehicles**|Thomas Dengiz et.al.|[2407.11719](http://arxiv.org/abs/2407.11719)|**[link](https://github.com/thomasdengiz/multiobjective_localsearch_dsm)**|
 |**2024-07-16**|**A Comparative Analysis of Interactive Reinforcement Learning Algorithms in Warehouse Robot Grid Based Environment**|Arunabh Bora et.al.|[2407.11671](http://arxiv.org/abs/2407.11671)|null|
 |**2024-07-16**|**Exciting Action: Investigating Efficient Exploration for Learning Musculoskeletal Humanoid Locomotion**|Henri-Jacques Geiß et.al.|[2407.11658](http://arxiv.org/abs/2407.11658)|**[link](https://github.com/henriTUD/musculoco_learning)**|
 |**2024-07-16**|**Building Resilience in Wireless Communication Systems With a Secret-Key Budget**|Karl-Ludwig Besser et.al.|[2407.11604](http://arxiv.org/abs/2407.11604)|null|
@@ -6047,7 +6047,7 @@
 |**2024-07-16**|**DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems**|Kaibo He et.al.|[2407.11472](http://arxiv.org/abs/2407.11472)|null|
 |**2024-07-16**|**Graceful task adaptation with a bi-hemispheric RL agent**|Grant Nicholas et.al.|[2407.11456](http://arxiv.org/abs/2407.11456)|**[link](https://github.com/gdubbs100/right_left_brain_rl)**|
 |**2024-07-16**|**APriCoT: Action Primitives based on Contact-state Transition for In-Hand Tool Manipulation**|Daichi Saito et.al.|[2407.11436](http://arxiv.org/abs/2407.11436)|null|
-|**2024-07-16**|**It might be balanced, but is it actually good? An Empirical Evaluation of Game Level Balancing**|Florian Rupp et.al.|[2407.11396](http://arxiv.org/abs/2407.11396)|null|
+|**2024-07-16**|**It might be balanced, but is it actually good? An Empirical Evaluation of Game Level Balancing**|Florian Rupp et.al.|[2407.11396](http://arxiv.org/abs/2407.11396)|**[link](https://github.com/florianrupp/pcgrl-balancing-empirical-evaluation)**|
 |**2024-07-16**|**InvAgent: A Large Language Model based Multi-Agent System for Inventory Management in Supply Chains**|Yinzhu Quan et.al.|[2407.11384](http://arxiv.org/abs/2407.11384)|**[link](https://github.com/zefang-liu/InvAgent)**|
 |**2024-07-16**|**Digital Twin Vehicular Edge Computing Network: Task Offloading and Resource Allocation**|Yu Xie et.al.|[2407.11310](http://arxiv.org/abs/2407.11310)|null|
 |**2024-07-13**|**Deep reinforcement learning with symmetric data augmentation applied for aircraft lateral attitude tracking control**|Yifei Li et.al.|[2407.11077](http://arxiv.org/abs/2407.11077)|null|
@@ -7893,7 +7893,7 @@
 |**2024-03-19**|**Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework**|Yuzhu Sun et.al.|[2403.13090](http://arxiv.org/abs/2403.13090)|null|
 |**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946](http://arxiv.org/abs/2403.12946)|null|
 |**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
-|**2024-03-19**|**Equivariant Ensembles and Regularization for Reinforcement Learning in Map-based Path Planning**|Mirco Theile et.al.|[2403.12856](http://arxiv.org/abs/2403.12856)|null|
+|**2024-03-19**|**Equivariant Ensembles and Regularization for Reinforcement Learning in Map-based Path Planning**|Mirco Theile et.al.|[2403.12856](http://arxiv.org/abs/2403.12856)|**[link](https://github.com/theilem/uavSim)**|
 |**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-19**|**Oriented and Non-oriented Cubical Surfaces in The Penteract**|Manuel Estevez et.al.|[2403.12825](http://arxiv.org/abs/2403.12825)|null|
 |**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
@@ -8185,7 +8185,7 @@
 |**2024-02-29**|**From Flies to Robots: Inverted Landing in Small Quadcopters with Dynamic Perching**|Bryan Habas et.al.|[2403.00128](http://arxiv.org/abs/2403.00128)|null|
 |**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464](http://arxiv.org/abs/2402.19464)|**[link](https://github.com/improbable-ai/curiosity_redteam)**|
 |**2024-02-29**|**ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**|Yifei Zhou et.al.|[2402.19446](http://arxiv.org/abs/2402.19446)|**[link](https://github.com/yifeizhou02/archer)**|
-|**2024-02-29**|**Understanding Iterative Combinatorial Auction Designs via Multi-Agent Reinforcement Learning**|Greg d'Eon et.al.|[2402.19420](http://arxiv.org/abs/2402.19420)|null|
+|**2024-02-29**|**Understanding Iterative Combinatorial Auction Designs via Multi-Agent Reinforcement Learning**|Greg d'Eon et.al.|[2402.19420](http://arxiv.org/abs/2402.19420)|**[link](https://github.com/newmanne/open_spiel)**|
 |**2024-02-29**|**RL-GPT: Integrating Reinforcement Learning and Code-as-policy**|Shaoteng Liu et.al.|[2402.19299](http://arxiv.org/abs/2402.19299)|null|
 |**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-29**|**Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning**|Jingxuan Yang et.al.|[2402.19275](http://arxiv.org/abs/2402.19275)|null|
@@ -8495,7 +8495,7 @@
 |**2024-02-10**|**Bayesian Optimization with Adaptive Kernels for Robot Control**|Ruben Martinez-Cantin et.al.|[2402.07021](http://arxiv.org/abs/2402.07021)|null|
 |**2024-02-10**|**Informativeness of Reward Functions in Reinforcement Learning**|Rati Devidze et.al.|[2402.07019](http://arxiv.org/abs/2402.07019)|**[link](https://github.com/machine-teaching-group/aamas2024-informativeness-of-reward-functions)**|
 |**2024-02-10**|**Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks**|Jiacheng Wang et.al.|[2402.06942](http://arxiv.org/abs/2402.06942)|**[link](https://github.com/hongyangdu/net4moe)**|
-|**2024-02-10**|**Solving Deep Reinforcement Learning Benchmarks with Linear Policy Networks**|Annie Wong et.al.|[2402.06912](http://arxiv.org/abs/2402.06912)|null|
+|**2024-02-10**|**Solving Deep Reinforcement Learning Benchmarks with Linear Policy Networks**|Annie Wong et.al.|[2402.06912](http://arxiv.org/abs/2402.06912)|**[link](https://github.com/ann-w/solving_drl_tasks_with_es_and_linear_policy_networks)**|
 |**2024-02-10**|**Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF**|Han Shen et.al.|[2402.06886](http://arxiv.org/abs/2402.06886)|null|
 |**2024-02-13**|**Monitored Markov Decision Processes**|Simone Parisi et.al.|[2402.06819](http://arxiv.org/abs/2402.06819)|**[link](https://github.com/amiithinks/mon_mdp_aamas24)**|
 |**2024-02-09**|**Learn to Teach: Improve Sample Efficiency in Teacher-student Learning for Sim-to-Real Transfer**|Feiyang Wu et.al.|[2402.06783](http://arxiv.org/abs/2402.06783)|null|
