@@ -3184,6 +3184,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Dilated Strip Attention Network for Image Restoration**|Fangwei Hao et.al.|[2407.18613](http://arxiv.org/abs/2407.18613)|null|
+|**2024-07-26**|**Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation**|Chaoyi Ai et.al.|[2407.18562](http://arxiv.org/abs/2407.18562)|null|
+|**2024-07-26**|**Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer**|Carolin Flosdorf et.al.|[2407.18554](http://arxiv.org/abs/2407.18554)|null|
 |**2024-07-25**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|null|
 |**2024-07-25**|**EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling**|Yiming Ma et.al.|[2407.17869](http://arxiv.org/abs/2407.17869)|null|
 |**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
@@ -3953,6 +3956,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
+|**2024-07-26**|**Exploiting Device Heterogeneity in Grant-Free Random Access: A Data-Driven Approach**|Alix Jeannerot et.al.|[2407.18806](http://arxiv.org/abs/2407.18806)|null|
+|**2024-07-26**|**Mini-Batch Gradient-Based MCMC for Decentralized Massive MIMO Detection**|Xingyu Zhou et.al.|[2407.18489](http://arxiv.org/abs/2407.18489)|null|
+|**2024-07-25**|**MicroOpt: Model-driven Slice Resource Optimization in 5G and Beyond Networks**|Muhammad Sulaiman et.al.|[2407.18342](http://arxiv.org/abs/2407.18342)|null|
+|**2024-07-09**|**A Comprehensive Analysis of Machine Learning Models for Algorithmic Trading of Bitcoin**|Abdul Jabbar et.al.|[2407.18334](http://arxiv.org/abs/2407.18334)|null|
 |**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
@@ -4958,6 +4966,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
+|**2024-07-26**|**Exploiting Device Heterogeneity in Grant-Free Random Access: A Data-Driven Approach**|Alix Jeannerot et.al.|[2407.18806](http://arxiv.org/abs/2407.18806)|null|
+|**2024-07-26**|**Mini-Batch Gradient-Based MCMC for Decentralized Massive MIMO Detection**|Xingyu Zhou et.al.|[2407.18489](http://arxiv.org/abs/2407.18489)|null|
+|**2024-07-25**|**MicroOpt: Model-driven Slice Resource Optimization in 5G and Beyond Networks**|Muhammad Sulaiman et.al.|[2407.18342](http://arxiv.org/abs/2407.18342)|null|
+|**2024-07-09**|**A Comprehensive Analysis of Machine Learning Models for Algorithmic Trading of Bitcoin**|Abdul Jabbar et.al.|[2407.18334](http://arxiv.org/abs/2407.18334)|null|
 |**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
@@ -5884,6 +5897,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**SOAP-RL: Sequential Option Advantage Propagation for Reinforcement Learning in POMDP Environments**|Shu Ishida et.al.|[2407.18913](http://arxiv.org/abs/2407.18913)|null|
+|**2024-07-26**|**Lessons from Learning to Spin "Pens"**|Jun Wang et.al.|[2407.18902](http://arxiv.org/abs/2407.18902)|null|
+|**2024-07-26**|**SHANGUS: Deep Reinforcement Learning Meets Heuristic Optimization for Speedy Frontier-Based Exploration of Autonomous Vehicles in Unknown Spaces**|Seunghyeop Nam et.al.|[2407.18892](http://arxiv.org/abs/2407.18892)|null|
+|**2024-07-26**|**An Accelerated Multi-level Monte Carlo Approach for Average Reward Reinforcement Learning with General Policy Parametrization**|Swetha Ganesh et.al.|[2407.18878](http://arxiv.org/abs/2407.18878)|null|
+|**2024-07-26**|**QT-TDM: Planning with Transformer Dynamics Model and Autoregressive Q-Learning**|Mostafa Kotb et.al.|[2407.18841](http://arxiv.org/abs/2407.18841)|null|
+|**2024-07-26**|**The Cross-environment Hyperparameter Setting Benchmark for Reinforcement Learning**|Andrew Patterson et.al.|[2407.18840](http://arxiv.org/abs/2407.18840)|null|
+|**2024-07-26**|**Learning a Shape-Conditioned Agent for Purely Tactile In-Hand Manipulation of Various Objects**|Johannes Pitz et.al.|[2407.18834](http://arxiv.org/abs/2407.18834)|null|
+|**2024-07-26**|**Online Planning in POMDPs with State-Requests**|Raphael Avalos et.al.|[2407.18812](http://arxiv.org/abs/2407.18812)|null|
+|**2024-07-26**|**Tuning the kinetics of intracellular transport**|Ardra Suchitran et.al.|[2407.18784](http://arxiv.org/abs/2407.18784)|null|
+|**2024-07-26**|**A Deep Reinforcement Learning Approach to Wavefront Control for Exoplanet Imaging**|Yann Gutierrez et.al.|[2407.18733](http://arxiv.org/abs/2407.18733)|null|
+|**2024-07-26**|**Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift**|Seongho Son et.al.|[2407.18676](http://arxiv.org/abs/2407.18676)|null|
+|**2024-07-26**|**Multi-Agent Deep Reinforcement Learning for Energy Efficient Multi-Hop STAR-RIS-Assisted Transmissions**|Pei-Hsiang Liao et.al.|[2407.18627](http://arxiv.org/abs/2407.18627)|null|
+|**2024-07-26**|**Reinforcement Learning for Sustainable Energy: A Survey**|Koen Ponse et.al.|[2407.18597](http://arxiv.org/abs/2407.18597)|null|
+|**2024-07-26**|**PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning**|Fangze Lin et.al.|[2407.18569](http://arxiv.org/abs/2407.18569)|null|
+|**2024-07-26**|**Non-Overlapping Placement of Macro Cells based on Reinforcement Learning in Chip Design**|Tao Yu et.al.|[2407.18499](http://arxiv.org/abs/2407.18499)|null|
+|**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
+|**2024-07-25**|**Affectively Framework: Towards Human-like Affect-Based Agents**|Matthew Barthet et.al.|[2407.18316](http://arxiv.org/abs/2407.18316)|null|
+|**2024-07-25**|**Adaptive Terminal Sliding Mode Control Using Deep Reinforcement Learning for Zero-Force Control of Exoskeleton Robot Systems**|Morteza Mirzaee et.al.|[2407.18309](http://arxiv.org/abs/2407.18309)|null|
+|**2024-07-21**|**Large Language Model for Verilog Generation with Golden Code Feedback**|Ning Wang et.al.|[2407.18271](http://arxiv.org/abs/2407.18271)|**[link](https://github.com/CatIIIIIIII/veriseek)**|
 |**2024-07-26**|**Recursive Introspection: Teaching Language Model Agents How to Self-Improve**|Yuxiao Qu et.al.|[2407.18219](http://arxiv.org/abs/2407.18219)|null|
 |**2024-07-25**|**Differentiable Quantum Architecture Search in Asynchronous Quantum Reinforcement Learning**|Samuel Yen-Chi Chen et.al.|[2407.18202](http://arxiv.org/abs/2407.18202)|null|
 |**2024-07-25**|**Maximum Entropy On-Policy Actor-Critic via Entropy Advantage Estimation**|Jean Seong Bjorn Choe et.al.|[2407.18143](http://arxiv.org/abs/2407.18143)|null|
