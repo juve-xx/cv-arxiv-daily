@@ -2444,6 +2444,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
+|**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
+|**2024-08-01**|**In-Context Example Selection via Similarity Search Improves Low-Resource Machine Translation**|Armel Zebaze et.al.|[2408.00397](http://arxiv.org/abs/2408.00397)|null|
+|**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|null|
+|**2024-08-01**|**QUITO: Accelerating Long-Context Reasoning through Query-Guided Context Compression**|Wenshan Wang et.al.|[2408.00274](http://arxiv.org/abs/2408.00274)|null|
+|**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
+|**2024-07-31**|**Distributed In-Context Learning under Non-IID Among Clients**|Siqi Liang et.al.|[2408.00144](http://arxiv.org/abs/2408.00144)|null|
 |**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333](http://arxiv.org/abs/2407.21333)|null|
 |**2024-07-27**|**LawLLM: Law Large Language Model for the US Legal System**|Dong Shu et.al.|[2407.21065](http://arxiv.org/abs/2407.21065)|null|
 |**2024-07-21**|**Towards Automated Data Sciences with Natural Language and SageCopilot: Practices and Lessons Learned**|Yuan Liao et.al.|[2407.21040](http://arxiv.org/abs/2407.21040)|null|
@@ -3167,6 +3174,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
+|**2024-08-01**|**SentenceVAE: Faster, Longer and More Accurate Inference with Next-sentence Prediction for Large Language Models**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
+|**2024-08-01**|**A deep spatio-temporal attention model of dynamic functional network connectivity shows sensitivity to Alzheimer's in asymptomatic individuals**|Yuxiang Wei et.al.|[2408.00378](http://arxiv.org/abs/2408.00378)|null|
+|**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347](http://arxiv.org/abs/2408.00347)|null|
+|**2024-08-01**|**Task-Adapter: Task-specific Adaptation of Image Models for Few-shot Action Recognition**|Congqi Cao et.al.|[2408.00249](http://arxiv.org/abs/2408.00249)|null|
+|**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
 |**2024-07-31**|**MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|null|
 |**2024-07-31**|**FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations**|Rujia Shen et.al.|[2407.21275](http://arxiv.org/abs/2407.21275)|null|
@@ -3949,6 +3962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2408.00573](http://arxiv.org/abs/2408.00573)|null|
+|**2024-08-01**|**RDP: Ranked Differential Privacy for Facial Feature Protection in Multiscale Sparsified Subspace**|Lu Ou et.al.|[2408.00294](http://arxiv.org/abs/2408.00294)|null|
+|**2024-08-01**|**Gradient Flow Decoding**|Tadashi Wadayama et.al.|[2408.00293](http://arxiv.org/abs/2408.00293)|null|
 |**2024-07-31**|**Differentially Private Block-wise Gradient Shuffle for Deep Learning**|David Zagardo et.al.|[2407.21347](http://arxiv.org/abs/2407.21347)|null|
 |**2024-07-30**|**AI methods for approximate compiling of unitaries**|David Kremer et.al.|[2407.21225](http://arxiv.org/abs/2407.21225)|null|
 |**2024-07-29**|**Convergence rates for the Adam optimizer**|Steffen Dereich et.al.|[2407.21078](http://arxiv.org/abs/2407.21078)|null|
@@ -4804,6 +4820,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2408.00573](http://arxiv.org/abs/2408.00573)|null|
 |**2024-07-29**|**Generalization bounds for regression and classification on adaptive covering input domains**|Wen-Liang Hwang et.al.|[2407.19715](http://arxiv.org/abs/2407.19715)|null|
 |**2024-07-16**|**Preconditioned Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression**|Yingzhen Yang et.al.|[2407.11353](http://arxiv.org/abs/2407.11353)|null|
 |**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
@@ -4970,6 +4987,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2408.00573](http://arxiv.org/abs/2408.00573)|null|
+|**2024-08-01**|**RDP: Ranked Differential Privacy for Facial Feature Protection in Multiscale Sparsified Subspace**|Lu Ou et.al.|[2408.00294](http://arxiv.org/abs/2408.00294)|null|
+|**2024-08-01**|**Gradient Flow Decoding**|Tadashi Wadayama et.al.|[2408.00293](http://arxiv.org/abs/2408.00293)|null|
 |**2024-07-31**|**Differentially Private Block-wise Gradient Shuffle for Deep Learning**|David Zagardo et.al.|[2407.21347](http://arxiv.org/abs/2407.21347)|null|
 |**2024-07-30**|**AI methods for approximate compiling of unitaries**|David Kremer et.al.|[2407.21225](http://arxiv.org/abs/2407.21225)|null|
 |**2024-07-29**|**Convergence rates for the Adam optimizer**|Steffen Dereich et.al.|[2407.21078](http://arxiv.org/abs/2407.21078)|null|
@@ -5914,6 +5934,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**A Policy-Gradient Approach to Solving Imperfect-Information Games with Iterate Convergence**|Mingyang Liu et.al.|[2408.00751](http://arxiv.org/abs/2408.00751)|null|
+|**2024-08-01**|**Insurance Portfolio Pursuit with Reinforcement Learning**|Edward James Young et.al.|[2408.00713](http://arxiv.org/abs/2408.00713)|null|
+|**2024-08-01**|**Learning in Multi-Objective Public Goods Games with Non-Linear Utilities**|Nicole Orzan et.al.|[2408.00682](http://arxiv.org/abs/2408.00682)|null|
+|**2024-08-01**|**Discretizing Continuous Action Space with Unimodal Probability Distributions for On-Policy Reinforcement Learning**|Yuanyang Zhu et.al.|[2408.00309](http://arxiv.org/abs/2408.00309)|null|
+|**2024-08-01**|**A Reinforcement Learning Based Motion Planner for Quadrotor Autonomous Flight in Dense Environment**|Zhaohong Liu et.al.|[2408.00275](http://arxiv.org/abs/2408.00275)|null|
+|**2024-08-01**|**Large Language Model (LLM)-enabled In-context Learning for Wireless Network Optimization: A Case Study of Power Control**|Hao Zhou et.al.|[2408.00214](http://arxiv.org/abs/2408.00214)|null|
+|**2024-07-31**|**CREW: Facilitating Human-AI Teaming Research**|Lingyu Zhang et.al.|[2408.00170](http://arxiv.org/abs/2408.00170)|null|
+|**2024-07-31**|**Formal Ethical Obligations in Reinforcement Learning Agents: Verification and Policy Updates**|Colin Shea-Blymyer et.al.|[2408.00147](http://arxiv.org/abs/2408.00147)|null|
+|**2024-07-31**|**Adaptive Transit Signal Priority based on Deep Reinforcement Learning and Connected Vehicles in a Traffic Microsimulation Environment**|Dickness Kwesiga et.al.|[2408.00098](http://arxiv.org/abs/2408.00098)|null|
+|**2024-07-31**|**A New Type of Foundation Model Based on Recordings of People's Emotions and Physiology**|David Gamez et.al.|[2408.00030](http://arxiv.org/abs/2408.00030)|null|
+|**2024-07-31**|**On the Perturbed States for Transformed Input-robust Reinforcement Learning**|Tung M. Luu et.al.|[2408.00023](http://arxiv.org/abs/2408.00023)|null|
 |**2024-07-31**|**Berkeley Humanoid: A Research Platform for Learning-based Control**|Qiayuan Liao et.al.|[2407.21781](http://arxiv.org/abs/2407.21781)|null|
 |**2024-07-31**|**Human-Machine Co-Adaptation for Robot-Assisted Rehabilitation via Dual-Agent Multiple Model Reinforcement Learning (DAMMRL)**|Yang An et.al.|[2407.21734](http://arxiv.org/abs/2407.21734)|null|
 |**2024-07-31**|**Multi-agent reinforcement learning for the control of three-dimensional Rayleigh-Bénard convection**|Joel Vasanth et.al.|[2407.21565](http://arxiv.org/abs/2407.21565)|null|
