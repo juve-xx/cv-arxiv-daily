@@ -2603,7 +2603,7 @@ layout: default
 |**2024-06-17**|**Probing the Decision Boundaries of In-context Learning in Large Language Models**|Siyan Zhao et.al.|[2406.11233](http://arxiv.org/abs/2406.11233)|**[link](https://github.com/siyan-zhao/ICL_decision_boundary)**|
 |**2024-06-17**|**In-Context Editing: Learning Knowledge from Self-Induced Distributions**|Siyuan Qi et.al.|[2406.11194](http://arxiv.org/abs/2406.11194)|**[link](https://github.com/bigai-ai/ICE)**|
 |**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
-|**2024-06-16**|**MICL: Improving In-Context Learning through Multiple-Label Words in Demonstration**|Zhu Zixiao et.al.|[2406.10908](http://arxiv.org/abs/2406.10908)|null|
+|**2024-06-16**|**MICL: Improving In-Context Learning through Multiple-Label Words in Demonstration**|Zhu Zixiao et.al.|[2406.10908](http://arxiv.org/abs/2406.10908)|**[link](https://github.com/midiyazhu/micl)**|
 |**2024-06-16**|**Demonstration Notebook: Finding the Most Suited In-Context Learning Example from Interactions**|Yiming Tang et.al.|[2406.10878](http://arxiv.org/abs/2406.10878)|null|
 |**2024-07-01**|**On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language Models**|Sree Harsha Tanneru et.al.|[2406.10625](http://arxiv.org/abs/2406.10625)|null|
 |**2024-06-15**|**CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation**|Wei Chen et.al.|[2406.10462](http://arxiv.org/abs/2406.10462)|null|
@@ -6600,7 +6600,7 @@ layout: default
 |**2024-06-18**|**The Role of Inherent Bellman Error in Offline Reinforcement Learning with Linear Function Approximation**|Noah Golowich et.al.|[2406.11686](http://arxiv.org/abs/2406.11686)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
 |**2024-06-18**|**Linear Bellman Completeness Suffices for Efficient Online Reinforcement Learning with Few Actions**|Noah Golowich et.al.|[2406.11640](http://arxiv.org/abs/2406.11640)|null|
-|**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|null|
+|**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|**[link](https://github.com/isi-nlp/stamp)**|
 |**2024-06-17**|**Intersymbolic AI: Interlinking Symbolic AI and Subsymbolic AI**|André Platzer et.al.|[2406.11563](http://arxiv.org/abs/2406.11563)|null|
 |**2024-06-17**|**An Imitative Reinforcement Learning Framework for Autonomous Dogfight**|Siyuan Li et.al.|[2406.11562](http://arxiv.org/abs/2406.11562)|**[link](https://github.com/zrc0622/HIRL4UCAV)**|
 |**2024-06-17**|**Input Conditioned Graph Generation for Language Agents**|Lukas Vierling et.al.|[2406.11555](http://arxiv.org/abs/2406.11555)|**[link](https://github.com/lukasvierling/dynamicgptswarm)**|
@@ -6941,7 +6941,7 @@ layout: default
 |**2024-05-30**|**InstructionCP: A fast approach to transfer Large Language Models into target language**|Kuang-Ming Chen et.al.|[2405.20175](http://arxiv.org/abs/2405.20175)|null|
 |**2024-05-30**|**Enhancing Battlefield Awareness: An Aerial RIS-assisted ISAC System with Deep Reinforcement Learning**|Hyunsang Cho et.al.|[2405.20168](http://arxiv.org/abs/2405.20168)|null|
 |**2024-05-30**|**Randomized Exploration for Reinforcement Learning with Multinomial Logistic Function Approximation**|Wooseong Cho et.al.|[2405.20165](http://arxiv.org/abs/2405.20165)|null|
-|**2024-05-31**|**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**|Kai Wu et.al.|[2405.20081](http://arxiv.org/abs/2405.20081)|null|
+|**2024-05-31**|**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**|Kai Wu et.al.|[2405.20081](http://arxiv.org/abs/2405.20081)|**[link](https://github.com/KaiWU5/NoiseBoost)**|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
 |**2024-05-30**|**Deep Reinforcement Learning for Intrusion Detection in IoT: A Survey**|Afrah Gueriani et.al.|[2405.20038](http://arxiv.org/abs/2405.20038)|null|
 |**2024-05-30**|**Safe Multi-agent Reinforcement Learning with Natural Language Constraints**|Ziyan Wang et.al.|[2405.20018](http://arxiv.org/abs/2405.20018)|null|
@@ -8023,7 +8023,7 @@ layout: default
 |**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|**[link](https://github.com/nu-ideas-lab/patrolling_zoo)**|
 |**2024-03-19**|**Digital Twin-Driven Reinforcement Learning for Obstacle Avoidance in Robot Manipulators: A Self-Improving Online Training Framework**|Yuzhu Sun et.al.|[2403.13090](http://arxiv.org/abs/2403.13090)|null|
 |**2024-03-19**|**Sample Complexity of Offline Distributionally Robust Linear Markov Decision Processes**|He Wang et.al.|[2403.12946](http://arxiv.org/abs/2403.12946)|null|
-|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|**[link](https://github.com/ControlNet/HYDRA)**|
 |**2024-03-19**|**Equivariant Ensembles and Regularization for Reinforcement Learning in Map-based Path Planning**|Mirco Theile et.al.|[2403.12856](http://arxiv.org/abs/2403.12856)|**[link](https://github.com/theilem/uavSim)**|
 |**2024-03-20**|**Policy Bifurcation in Safe Reinforcement Learning**|Wenjun Zou et.al.|[2403.12847](http://arxiv.org/abs/2403.12847)|**[link](https://github.com/thuzouwenjun/mupo)**|
 |**2024-03-19**|**Oriented and Non-oriented Cubical Surfaces in The Penteract**|Manuel Estevez et.al.|[2403.12825](http://arxiv.org/abs/2403.12825)|null|
@@ -8790,7 +8790,7 @@ layout: default
 |**2024-02-02**|**A Reinforcement Learning-Boosted Motion Planning Framework: Comprehensive Generalization Performance in Autonomous Driving**|Rainer Trauth et.al.|[2402.01465](http://arxiv.org/abs/2402.01465)|**[link](https://github.com/tum-avs/frenetix-rl)**|
 |**2024-02-02**|**Learning the Market: Sentiment-Based Ensemble Trading Agents**|Andrew Ye et.al.|[2402.01441](http://arxiv.org/abs/2402.01441)|null|
 |**2024-02-05**|**StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback**|Shihan Dou et.al.|[2402.01391](http://arxiv.org/abs/2402.01391)|**[link](https://github.com/ablustrund/apps_plus)**|
-|**2024-02-02**|**To the Max: Reinventing Reward in Reinforcement Learning**|Grigorii Veviurko et.al.|[2402.01361](http://arxiv.org/abs/2402.01361)|null|
+|**2024-02-02**|**To the Max: Reinventing Reward in Reinforcement Learning**|Grigorii Veviurko et.al.|[2402.01361](http://arxiv.org/abs/2402.01361)|**[link](https://github.com/veviurko/to-the-max)**|
 |**2024-02-02**|**Parametric-Task MAP-Elites**|Timothée Anne et.al.|[2402.01275](http://arxiv.org/abs/2402.01275)|null|
 |**2024-02-02**|**Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems**|Neharika Jali et.al.|[2402.01147](http://arxiv.org/abs/2402.01147)|null|
 |**2024-02-02**|**PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models**|Sihao Hu et.al.|[2402.01118](http://arxiv.org/abs/2402.01118)|**[link](https://github.com/git-disl/pokellmon)**|
