@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.05
+## Updated on 2024.08.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3189,7 +3189,7 @@ layout: default
 |**2024-08-01**|**Task-Adapter: Task-specific Adaptation of Image Models for Few-shot Action Recognition**|Congqi Cao et.al.|[2408.00249](http://arxiv.org/abs/2408.00249)|null|
 |**2024-07-31**|**Finch: Prompt-guided Key-Value Cache Compression**|Giulio Corallo et.al.|[2408.00167](http://arxiv.org/abs/2408.00167)|null|
 |**2024-07-31**|**Dynamic Object Queries for Transformer-based Incremental Object Detection**|Jichuan Zhang et.al.|[2407.21687](http://arxiv.org/abs/2407.21687)|null|
-|**2024-07-31**|**MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|null|
+|**2024-08-03**|**MSA $^2$ Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation**|Sina Ghorbani Kolahi et.al.|[2407.21640](http://arxiv.org/abs/2407.21640)|null|
 |**2024-07-31**|**FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations**|Rujia Shen et.al.|[2407.21275](http://arxiv.org/abs/2407.21275)|null|
 |**2024-08-02**|**CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning**|Yu Feng et.al.|[2407.21043](http://arxiv.org/abs/2407.21043)|null|
 |**2024-08-01**|**DFE-IANet: A Method for Polyp Image Classification Based on Dual-domain Feature Extraction and Interaction Attention**|Wei Wang et.al.|[2407.20843](http://arxiv.org/abs/2407.20843)|null|
@@ -3998,7 +3998,7 @@ layout: default
 |**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
-|**2024-08-01**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
+|**2024-08-05**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
 |**2024-07-22**|**PyJama: Differentiable Jamming and Anti-Jamming with NVIDIA Sionna**|Fabian Ulbricht et.al.|[2407.15473](http://arxiv.org/abs/2407.15473)|null|
@@ -5027,7 +5027,7 @@ layout: default
 |**2024-07-25**|**Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework**|Zi Wang et.al.|[2407.17731](http://arxiv.org/abs/2407.17731)|null|
 |**2024-07-24**|**Enhanced Feature Learning via Regularisation: Integrating Neural Networks and Kernel Methods**|Bertille Follain et.al.|[2407.17280](http://arxiv.org/abs/2407.17280)|**[link](https://github.com/bertillefollain/bkernn)**|
 |**2024-07-26**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|**[link](https://github.com/thinwayliu/multimodal-unlearnable-examples)**|
-|**2024-08-01**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
+|**2024-08-05**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
 |**2024-07-22**|**PyJama: Differentiable Jamming and Anti-Jamming with NVIDIA Sionna**|Fabian Ulbricht et.al.|[2407.15473](http://arxiv.org/abs/2407.15473)|null|
@@ -6036,7 +6036,7 @@ layout: default
 |**2024-07-26**|**Right Now, Wrong Then: Non-Stationary Direct Preference Optimization under Preference Drift**|Seongho Son et.al.|[2407.18676](http://arxiv.org/abs/2407.18676)|null|
 |**2024-07-26**|**Multi-Agent Deep Reinforcement Learning for Energy Efficient Multi-Hop STAR-RIS-Assisted Transmissions**|Pei-Hsiang Liao et.al.|[2407.18627](http://arxiv.org/abs/2407.18627)|null|
 |**2024-07-26**|**Reinforcement Learning for Sustainable Energy: A Survey**|Koen Ponse et.al.|[2407.18597](http://arxiv.org/abs/2407.18597)|null|
-|**2024-07-31**|**PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning**|Fangze Lin et.al.|[2407.18569](http://arxiv.org/abs/2407.18569)|null|
+|**2024-08-04**|**PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning**|Fangze Lin et.al.|[2407.18569](http://arxiv.org/abs/2407.18569)|null|
 |**2024-07-31**|**Non-Overlapping Placement of Macro Cells based on Reinforcement Learning in Chip Design**|Tao Yu et.al.|[2407.18499](http://arxiv.org/abs/2407.18499)|null|
 |**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
 |**2024-07-25**|**Affectively Framework: Towards Human-like Affect-Based Agents**|Matthew Barthet et.al.|[2407.18316](http://arxiv.org/abs/2407.18316)|null|
