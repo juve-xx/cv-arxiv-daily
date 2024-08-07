@@ -2444,6 +2444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
+|**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079](http://arxiv.org/abs/2408.03079)|null|
+|**2024-08-06**|**Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning**|Dmitri Iourovitski et.al.|[2408.02871](http://arxiv.org/abs/2408.02871)|null|
 |**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
 |**2024-08-05**|**OneLove beyond the field -- A few-shot pipeline for topic and sentiment analysis during the FIFA World Cup in Qatar**|Christoph Rauchegger et.al.|[2408.02520](http://arxiv.org/abs/2408.02520)|null|
 |**2024-08-05**|**A Few-Shot Approach for Relation Extraction Domain Adaptation using Large Language Models**|Vanni Zavarella et.al.|[2408.02377](http://arxiv.org/abs/2408.02377)|null|
@@ -3185,6 +3188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|null|
+|**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
 |**2024-08-05**|**Cross-modulated Attention Transformer for RGBT Tracking**|Yun Xiao et.al.|[2408.02222](http://arxiv.org/abs/2408.02222)|null|
 |**2024-08-04**|**3D Single-object Tracking in Point Clouds with High Temporal Variation**|Qiao Wu et.al.|[2408.02049](http://arxiv.org/abs/2408.02049)|null|
@@ -3986,6 +3991,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**GRAFX: An Open-Source Library for Audio Processing Graphs in PyTorch**|Sungho Lee et.al.|[2408.03204](http://arxiv.org/abs/2408.03204)|null|
+|**2024-08-06**|**Deep Unfolded Local Quantum Annealing**|Shunta Arai et.al.|[2408.03026](http://arxiv.org/abs/2408.03026)|null|
+|**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
+|**2024-08-05**|**Optimizing Cox Models with Stochastic Gradient Descent: Theoretical Foundations and Practical Guidances**|Lang Zeng et.al.|[2408.02839](http://arxiv.org/abs/2408.02839)|null|
 |**2024-08-04**|**Near-Field Sensing Enabled Predictive Beamforming: From Estimation to Tracking**|Hao Jiang et.al.|[2408.02027](http://arxiv.org/abs/2408.02027)|null|
 |**2024-08-03**|**Can LLMs predict the convergence of Stochastic Gradient Descent?**|Oussama Zekri et.al.|[2408.01736](http://arxiv.org/abs/2408.01736)|null|
 |**2024-08-02**|**Hybrid Coordinate Descent for Efficient Neural Network Learning Using Line Search and Gradient Descent**|Yen-Che Hsiao et.al.|[2408.01374](http://arxiv.org/abs/2408.01374)|null|
@@ -5016,6 +5025,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**GRAFX: An Open-Source Library for Audio Processing Graphs in PyTorch**|Sungho Lee et.al.|[2408.03204](http://arxiv.org/abs/2408.03204)|null|
+|**2024-08-06**|**Deep Unfolded Local Quantum Annealing**|Shunta Arai et.al.|[2408.03026](http://arxiv.org/abs/2408.03026)|null|
+|**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
+|**2024-08-05**|**Optimizing Cox Models with Stochastic Gradient Descent: Theoretical Foundations and Practical Guidances**|Lang Zeng et.al.|[2408.02839](http://arxiv.org/abs/2408.02839)|null|
 |**2024-08-04**|**Embedding generalization within the learning dynamics: An approach based-on sample path large deviation theory**|Getachew K. Befekadu et.al.|[2408.02167](http://arxiv.org/abs/2408.02167)|null|
 |**2024-08-04**|**Near-Field Sensing Enabled Predictive Beamforming: From Estimation to Tracking**|Hao Jiang et.al.|[2408.02027](http://arxiv.org/abs/2408.02027)|null|
 |**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
@@ -5970,6 +5983,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200](http://arxiv.org/abs/2408.03200)|null|
+|**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](http://arxiv.org/abs/2408.03195)|null|
+|**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[2408.03191](http://arxiv.org/abs/2408.03191)|null|
+|**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
+|**2024-08-06**|**QADQN: Quantum Attention Deep Q-Network for Financial Market Prediction**|Siddhant Dutta et.al.|[2408.03088](http://arxiv.org/abs/2408.03088)|null|
+|**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[2408.03084](http://arxiv.org/abs/2408.03084)|null|
+|**2024-08-06**|**Model-free optimal controller for discrete-time Markovian jump linear systems: A Q-learning approach**|Ehsan Badfar et.al.|[2408.03077](http://arxiv.org/abs/2408.03077)|null|
+|**2024-08-06**|**A Course in Dynamic Optimization**|Bar Light et.al.|[2408.03034](http://arxiv.org/abs/2408.03034)|null|
+|**2024-08-06**|**Highly Efficient Self-Adaptive Reward Shaping for Reinforcement Learning**|Haozhe Ma et.al.|[2408.03029](http://arxiv.org/abs/2408.03029)|null|
+|**2024-08-06**|**Integrating Controllable Motion Skills from Demonstrations**|Honghao Liao et.al.|[2408.03018](http://arxiv.org/abs/2408.03018)|null|
+|**2024-08-06**|**Empathy Level Alignment via Reinforcement Learning for Empathetic Response Generation**|Hui Ma et.al.|[2408.02976](http://arxiv.org/abs/2408.02976)|null|
+|**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/abs/2408.02938)|null|
+|**2024-08-06**|**A Deep Reinforcement Learning Approach for Cost Optimized Workflow Scheduling in Cloud Computing Environments**|Amanda Jayanetti et.al.|[2408.02926](http://arxiv.org/abs/2408.02926)|null|
+|**2024-08-05**|**A Framework for Fine-Tuning LLMs using Heterogeneous Feedback**|Ryan Aponte et.al.|[2408.02861](http://arxiv.org/abs/2408.02861)|null|
+|**2024-07-31**|**Recording First-person Experiences to Build a New Type of Foundation Model**|Dionis Barcari et.al.|[2408.02680](http://arxiv.org/abs/2408.02680)|null|
 |**2024-08-05**|**Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion**|Ho Jae Lee et.al.|[2408.02662](http://arxiv.org/abs/2408.02662)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
