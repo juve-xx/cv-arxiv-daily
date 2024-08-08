@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|null|
+|**2024-08-06**|**Can LLMs Serve As Time Series Anomaly Detectors?**|Manqing Dong et.al.|[2408.03475](http://arxiv.org/abs/2408.03475)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
 |**2024-08-06**|**Enhancing Complex Causality Extraction via Improved Subtask Interaction and Knowledge Fusion**|Jinglong Gao et.al.|[2408.03079](http://arxiv.org/abs/2408.03079)|null|
 |**2024-08-06**|**Hide and Seek: Fingerprinting Large Language Models with Evolutionary Learning**|Dmitri Iourovitski et.al.|[2408.02871](http://arxiv.org/abs/2408.02871)|null|
@@ -3188,6 +3190,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
+|**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
+|**2024-08-07**|**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**|Zebin Yao et.al.|[2408.03632](http://arxiv.org/abs/2408.03632)|null|
+|**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540](http://arxiv.org/abs/2408.03540)|null|
+|**2024-08-07**|**SwinShadow: Shifted Window for Ambiguous Adjacent Shadow Detection**|Yonghui Wang et.al.|[2408.03521](http://arxiv.org/abs/2408.03521)|null|
+|**2024-08-06**|**TF-Locoformer: Transformer with Local Modeling by Convolution for Speech Separation and Enhancement**|Kohei Saijo et.al.|[2408.03440](http://arxiv.org/abs/2408.03440)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|null|
 |**2024-08-06**|**Enhancing Twitter Bot Detection via Multimodal Invariant Representations**|Jibing Gong et.al.|[2408.03096](http://arxiv.org/abs/2408.03096)|null|
 |**2024-08-05**|**LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**|Yunxiang Fu et.al.|[2408.02615](http://arxiv.org/abs/2408.02615)|null|
@@ -3991,6 +3999,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
+|**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
+|**2024-08-06**|**A TVD neural network closure and application to turbulent combustion**|Seung Won Suh et.al.|[2408.03413](http://arxiv.org/abs/2408.03413)|null|
 |**2024-08-06**|**GRAFX: An Open-Source Library for Audio Processing Graphs in PyTorch**|Sungho Lee et.al.|[2408.03204](http://arxiv.org/abs/2408.03204)|null|
 |**2024-08-07**|**Deep Unfolded Local Quantum Annealing**|Shunta Arai et.al.|[2408.03026](http://arxiv.org/abs/2408.03026)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
@@ -5025,6 +5036,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
+|**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
+|**2024-08-06**|**A TVD neural network closure and application to turbulent combustion**|Seung Won Suh et.al.|[2408.03413](http://arxiv.org/abs/2408.03413)|null|
 |**2024-08-06**|**GRAFX: An Open-Source Library for Audio Processing Graphs in PyTorch**|Sungho Lee et.al.|[2408.03204](http://arxiv.org/abs/2408.03204)|null|
 |**2024-08-07**|**Deep Unfolded Local Quantum Annealing**|Shunta Arai et.al.|[2408.03026](http://arxiv.org/abs/2408.03026)|null|
 |**2024-08-06**|**Synaptic Modulation using Interspike Intervals Increases Energy Efficiency of Spiking Neural Networks**|Dylan Adams et.al.|[2408.02961](http://arxiv.org/abs/2408.02961)|null|
@@ -5983,6 +5997,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Traffic and Obstacle-aware UAV Positioning in Urban Environments Using Reinforcement Learning**|Kamran Shafafi et.al.|[2408.03894](http://arxiv.org/abs/2408.03894)|null|
+|**2024-08-07**|**HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks**|Jingsong Liang et.al.|[2408.03768](http://arxiv.org/abs/2408.03768)|null|
+|**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
+|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|null|
+|**2024-08-07**|**AI-Driven approach for sustainable extraction of earth's subsurface renewable energy while minimizing seismic activity**|Diego Gutierrez-Oribio et.al.|[2408.03664](http://arxiv.org/abs/2408.03664)|null|
+|**2024-08-07**|**A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case**|Sonia Meyer et.al.|[2408.03562](http://arxiv.org/abs/2408.03562)|null|
+|**2024-08-07**|**Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes**|Chen Tang et.al.|[2408.03539](http://arxiv.org/abs/2408.03539)|null|
+|**2024-08-06**|**Spacecraft inertial parameters estimation using time series clustering and reinforcement learning**|Konstantinos Platanitis et.al.|[2408.03445](http://arxiv.org/abs/2408.03445)|null|
+|**2024-08-06**|**Communication-Aware Consistent Edge Selection for Mobile Users and Autonomous Vehicles**|Nazish Tahir et.al.|[2408.03435](http://arxiv.org/abs/2408.03435)|null|
+|**2024-08-06**|**Faster Model Predictive Control via Self-Supervised Initialization Learning**|Zhaoxin Li et.al.|[2408.03394](http://arxiv.org/abs/2408.03394)|null|
 |**2024-08-07**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200](http://arxiv.org/abs/2408.03200)|null|
 |**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](http://arxiv.org/abs/2408.03195)|null|
 |**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[2408.03191](http://arxiv.org/abs/2408.03191)|null|
@@ -6018,7 +6042,7 @@ layout: default
 |**2024-08-04**|**Scenario-based Thermal Management Parametrization Through Deep Reinforcement Learning**|Thomas Rudolf et.al.|[2408.02022](http://arxiv.org/abs/2408.02022)|null|
 |**2024-08-04**|**Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response**|Dipo Dunsin et.al.|[2408.01999](http://arxiv.org/abs/2408.01999)|null|
 |**2024-08-04**|**Shaping Rewards, Shaping Routes: On Multi-Agent Deep Q-Networks for Routing in Satellite Constellation Networks**|Manuel M. H. Roth et.al.|[2408.01979](http://arxiv.org/abs/2408.01979)|null|
-|**2024-08-04**|**RVI-SAC: Average Reward Off-Policy Deep Reinforcement Learning**|Yukinari Hisaki et.al.|[2408.01972](http://arxiv.org/abs/2408.01972)|null|
+|**2024-08-04**|**RVI-SAC: Average Reward Off-Policy Deep Reinforcement Learning**|Yukinari Hisaki et.al.|[2408.01972](http://arxiv.org/abs/2408.01972)|**[link](https://github.com/yhisaki/average-reward-drl)**|
 |**2024-08-04**|**Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification**|Honglin Gao et.al.|[2408.01964](http://arxiv.org/abs/2408.01964)|null|
 |**2024-08-04**|**Visual Grounding for Object-Level Generalization in Reinforcement Learning**|Haobin Jiang et.al.|[2408.01942](http://arxiv.org/abs/2408.01942)|**[link](https://github.com/pku-rl/copl)**|
 |**2024-08-04**|**Scalable Signal Temporal Logic Guided Reinforcement Learning via Value Function Space Optimization**|Yiting He et.al.|[2408.01923](http://arxiv.org/abs/2408.01923)|null|
