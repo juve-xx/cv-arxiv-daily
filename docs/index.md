@@ -2444,6 +2444,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Learning Fine-Grained Grounded Citations for Attributed Large Language Models**|Lei Huang et.al.|[2408.04568](http://arxiv.org/abs/2408.04568)|**[link](https://github.com/luckyyysta/fine-grained-attribution)**|
+|**2024-08-08**|**How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression**|Xingwu Chen et.al.|[2408.04532](http://arxiv.org/abs/2408.04532)|null|
+|**2024-08-08**|**Enhancing Robustness of Retrieval-Augmented Language Models with In-Context Learning**|Seong-Il Park et.al.|[2408.04414](http://arxiv.org/abs/2408.04414)|null|
 |**2024-08-07**|**Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks**|Zaijing Li et.al.|[2408.03615](http://arxiv.org/abs/2408.03615)|null|
 |**2024-08-06**|**Can LLMs Serve As Time Series Anomaly Detectors?**|Manqing Dong et.al.|[2408.03475](http://arxiv.org/abs/2408.03475)|null|
 |**2024-08-06**|**Pre-training and in-context learning IS Bayesian inference a la De Finetti**|Naimeng Ye et.al.|[2408.03307](http://arxiv.org/abs/2408.03307)|null|
@@ -3190,6 +3193,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158](http://arxiv.org/abs/2408.04158)|null|
+|**2024-08-07**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093](http://arxiv.org/abs/2408.04093)|null|
 |**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-07**|**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**|Zebin Yao et.al.|[2408.03632](http://arxiv.org/abs/2408.03632)|null|
@@ -3999,6 +4004,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression**|Xingwu Chen et.al.|[2408.04532](http://arxiv.org/abs/2408.04532)|null|
+|**2024-08-08**|**Achieving Robust Data-driven Contextual Decision Making in a Data Augmentation Way**|Zhaoen Li et.al.|[2408.04469](http://arxiv.org/abs/2408.04469)|null|
+|**2024-08-08**|**An experimental comparative study of backpropagation and alternatives for training binary neural networks for image classification**|Ben Crulis et.al.|[2408.04460](http://arxiv.org/abs/2408.04460)|null|
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400](http://arxiv.org/abs/2408.04400)|null|
+|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-07-22**|**Taxonomy Driven Fast Adversarial Training**|Kun Tong et.al.|[2408.03944](http://arxiv.org/abs/2408.03944)|null|
 |**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
 |**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
 |**2024-08-06**|**A TVD neural network closure and application to turbulent combustion**|Seung Won Suh et.al.|[2408.03413](http://arxiv.org/abs/2408.03413)|null|
@@ -5036,6 +5047,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression**|Xingwu Chen et.al.|[2408.04532](http://arxiv.org/abs/2408.04532)|null|
+|**2024-08-08**|**Achieving Robust Data-driven Contextual Decision Making in a Data Augmentation Way**|Zhaoen Li et.al.|[2408.04469](http://arxiv.org/abs/2408.04469)|null|
+|**2024-08-08**|**An experimental comparative study of backpropagation and alternatives for training binary neural networks for image classification**|Ben Crulis et.al.|[2408.04460](http://arxiv.org/abs/2408.04460)|null|
+|**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400](http://arxiv.org/abs/2408.04400)|null|
+|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-07-22**|**Taxonomy Driven Fast Adversarial Training**|Kun Tong et.al.|[2408.03944](http://arxiv.org/abs/2408.03944)|null|
 |**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
 |**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
 |**2024-08-06**|**A TVD neural network closure and application to turbulent combustion**|Seung Won Suh et.al.|[2408.03413](http://arxiv.org/abs/2408.03413)|null|
@@ -5997,10 +6014,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Learning Fair Cooperation in Mixed-Motive Games with Indirect Reciprocity**|Martin Smit et.al.|[2408.04549](http://arxiv.org/abs/2408.04549)|**[link](https://github.com/sias-uva/indirect-reciprocity)**|
+|**2024-08-08**|**Hybrid Reinforcement Learning Breaks Sample Size Barriers in Linear MDPs**|Kevin Tan et.al.|[2408.04526](http://arxiv.org/abs/2408.04526)|null|
+|**2024-08-08**|**Model-Based Transfer Learning for Contextual Reinforcement Learning**|Jung-Hoon Cho et.al.|[2408.04498](http://arxiv.org/abs/2408.04498)|null|
+|**2024-08-08**|**Reinforcement Learning from Human Feedback for Lane Changing of Autonomous Vehicles in Mixed Traffic**|Yuting Wang et.al.|[2408.04447](http://arxiv.org/abs/2408.04447)|null|
+|**2024-08-08**|**Non-maximizing policies that fulfill multi-criterion aspirations in expectation**|Simon Dima et.al.|[2408.04385](http://arxiv.org/abs/2408.04385)|null|
+|**2024-08-08**|**Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations**|Julen Urain et.al.|[2408.04380](http://arxiv.org/abs/2408.04380)|null|
+|**2024-08-08**|**Deep Reinforcement Learning for the Design of Metamaterial Mechanisms with Functional Compliance Control**|Yejun Choi et.al.|[2408.04376](http://arxiv.org/abs/2408.04376)|null|
+|**2024-08-08**|**Goal-Oriented UAV Communication Design and Optimization for Target Tracking: A MachineLearning Approach**|Wenchao Wu et.al.|[2408.04358](http://arxiv.org/abs/2408.04358)|null|
+|**2024-08-08**|**KnowPC: Knowledge-Driven Programmatic Reinforcement Learning for Zero-shot Coordination**|Yin Gu et.al.|[2408.04336](http://arxiv.org/abs/2408.04336)|null|
+|**2024-08-08**|**Assigning Credit with Partial Reward Decoupling in Multi-Agent Proximal Policy Optimization**|Aditya Kapoor et.al.|[2408.04295](http://arxiv.org/abs/2408.04295)|null|
+|**2024-08-08**|**Cooperative Multi-Agent Deep Reinforcement Learning in Content Ranking Optimization**|Zhou Qin et.al.|[2408.04251](http://arxiv.org/abs/2408.04251)|null|
+|**2024-08-08**|**Temporal Logic Planning via Zero-Shot Policy Composition**|Taylor Bergeron et.al.|[2408.04215](http://arxiv.org/abs/2408.04215)|null|
+|**2024-08-08**|**Reconciling Early and Late Time Tensions with Reinforcement Learning**|Mohit K. Sharma et.al.|[2408.04204](http://arxiv.org/abs/2408.04204)|null|
+|**2024-08-08**|**F1tenth Autonomous Racing With Offline Reinforcement Learning Methods**|Prajwal Koirala et.al.|[2408.04198](http://arxiv.org/abs/2408.04198)|null|
+|**2024-08-08**|**Listwise Reward Estimation for Offline Preference-based Reinforcement Learning**|Heewoong Choi et.al.|[2408.04190](http://arxiv.org/abs/2408.04190)|**[link](https://github.com/chwoong/lire)**|
+|**2024-08-07**|**UpLIF: An Updatable Self-Tuning Learned Index Framework**|Alireza Heidari et.al.|[2408.04113](http://arxiv.org/abs/2408.04113)|null|
+|**2024-08-07**|**NAVINACT: Combining Navigation and Imitation Learning for Bootstrapping Reinforcement Learning**|Amisha Bhaskar et.al.|[2408.04054](http://arxiv.org/abs/2408.04054)|null|
+|**2024-08-07**|**Learning Rate-Free Reinforcement Learning: A Case for Model Selection with Non-Stationary Objectives**|Aida Afshar et.al.|[2408.04046](http://arxiv.org/abs/2408.04046)|null|
 |**2024-08-07**|**Traffic and Obstacle-aware UAV Positioning in Urban Environments Using Reinforcement Learning**|Kamran Shafafi et.al.|[2408.03894](http://arxiv.org/abs/2408.03894)|null|
 |**2024-08-07**|**HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks**|Jingsong Liang et.al.|[2408.03768](http://arxiv.org/abs/2408.03768)|null|
 |**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
-|**2024-08-08**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|null|
+|**2024-08-08**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|**[link](https://github.com/distributionnetworkstudelft/rl-adn)**|
 |**2024-08-07**|**AI-Driven approach for sustainable extraction of earth's subsurface renewable energy while minimizing seismic activity**|Diego Gutierrez-Oribio et.al.|[2408.03664](http://arxiv.org/abs/2408.03664)|null|
 |**2024-08-07**|**A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case**|Sonia Meyer et.al.|[2408.03562](http://arxiv.org/abs/2408.03562)|null|
 |**2024-08-07**|**Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes**|Chen Tang et.al.|[2408.03539](http://arxiv.org/abs/2408.03539)|null|
