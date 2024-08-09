@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6000,7 +6000,7 @@ layout: default
 |**2024-08-07**|**Traffic and Obstacle-aware UAV Positioning in Urban Environments Using Reinforcement Learning**|Kamran Shafafi et.al.|[2408.03894](http://arxiv.org/abs/2408.03894)|null|
 |**2024-08-07**|**HDPlanner: Advancing Autonomous Deployments in Unknown Environments through Hierarchical Decision Networks**|Jingsong Liang et.al.|[2408.03768](http://arxiv.org/abs/2408.03768)|null|
 |**2024-08-07**|**Asynchronous Credit Assignment Framework for Multi-Agent Reinforcement Learning**|Yongheng Liang et.al.|[2408.03692](http://arxiv.org/abs/2408.03692)|null|
-|**2024-08-07**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|null|
+|**2024-08-08**|**RL-ADN: A High-Performance Deep Reinforcement Learning Environment for Optimal Energy Storage Systems Dispatch in Active Distribution Networks**|Shengren Hou et.al.|[2408.03685](http://arxiv.org/abs/2408.03685)|null|
 |**2024-08-07**|**AI-Driven approach for sustainable extraction of earth's subsurface renewable energy while minimizing seismic activity**|Diego Gutierrez-Oribio et.al.|[2408.03664](http://arxiv.org/abs/2408.03664)|null|
 |**2024-08-07**|**A Comparison of LLM Finetuning Methods & Evaluation Metrics with Travel Chatbot Use Case**|Sonia Meyer et.al.|[2408.03562](http://arxiv.org/abs/2408.03562)|null|
 |**2024-08-07**|**Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes**|Chen Tang et.al.|[2408.03539](http://arxiv.org/abs/2408.03539)|null|
@@ -6031,13 +6031,13 @@ layout: default
 |**2024-08-06**|**Explaining Reinforcement Learning: A Counterfactual Shapley Values Approach**|Yiwei Shi et.al.|[2408.02529](http://arxiv.org/abs/2408.02529)|null|
 |**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501](http://arxiv.org/abs/2408.02501)|null|
 |**2024-08-05**|**Full error analysis of policy gradient learning algorithms for exploratory linear quadratic mean-field control problem in continuous time with common noise**|Noufel Frikha et.al.|[2408.02489](http://arxiv.org/abs/2408.02489)|null|
-|**2024-08-05**|**Terracorder: Sense Long and Prosper**|Josh Millar et.al.|[2408.02407](http://arxiv.org/abs/2408.02407)|null|
+|**2024-08-08**|**Terracorder: Sense Long and Prosper**|Josh Millar et.al.|[2408.02407](http://arxiv.org/abs/2408.02407)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349](http://arxiv.org/abs/2408.02349)|null|
 |**2024-08-05**|**Data time travel and consistent market making: taming reinforcement learning in multi-agent systems with anonymous data**|Vincent Ragel et.al.|[2408.02322](http://arxiv.org/abs/2408.02322)|null|
 |**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295](http://arxiv.org/abs/2408.02295)|null|
 |**2024-08-04**|**SelfBC: Self Behavior Cloning for Offline Reinforcement Learning**|Shirong Liu et.al.|[2408.02165](http://arxiv.org/abs/2408.02165)|null|
-|**2024-08-04**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
+|**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Latency-Aware Resource Allocation for Mobile Edge Generation and Computing via Deep Reinforcement Learning**|Yinyu Wu et.al.|[2408.02047](http://arxiv.org/abs/2408.02047)|null|
 |**2024-08-04**|**Scenario-based Thermal Management Parametrization Through Deep Reinforcement Learning**|Thomas Rudolf et.al.|[2408.02022](http://arxiv.org/abs/2408.02022)|null|
 |**2024-08-04**|**Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response**|Dipo Dunsin et.al.|[2408.01999](http://arxiv.org/abs/2408.01999)|null|
