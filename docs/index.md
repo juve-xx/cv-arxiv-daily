@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2465,7 +2465,7 @@ layout: default
 |**2024-08-03**|**Can LLMs predict the convergence of Stochastic Gradient Descent?**|Oussama Zekri et.al.|[2408.01736](http://arxiv.org/abs/2408.01736)|null|
 |**2024-08-02**|**OpenLogParser: Unsupervised Parsing with Open-Source Large Language Models**|Zeyang Ma et.al.|[2408.01585](http://arxiv.org/abs/2408.01585)|null|
 |**2024-08-02**|**NOLO: Navigate Only Look Once**|Bohan Zhou et.al.|[2408.01384](http://arxiv.org/abs/2408.01384)|null|
-|**2024-08-02**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088](http://arxiv.org/abs/2408.01088)|null|
+|**2024-08-11**|**Bridging Information Gaps in Dialogues With Grounded Exchanges Using Knowledge Graphs**|Phillip Schneider et.al.|[2408.01088](http://arxiv.org/abs/2408.01088)|null|
 |**2024-08-02**|**ArchCode: Incorporating Software Requirements in Code Generation with Large Language Models**|Hojae Han et.al.|[2408.00994](http://arxiv.org/abs/2408.00994)|null|
 |**2024-08-01**|**Intermittent Semi-working Mask: A New Masking Paradigm for LLMs**|Mingcong Lu et.al.|[2408.00539](http://arxiv.org/abs/2408.00539)|null|
 |**2024-08-01**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
@@ -2495,7 +2495,7 @@ layout: default
 |**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-23**|**PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing**|Blazej Manczak et.al.|[2407.16318](http://arxiv.org/abs/2407.16318)|**[link](https://github.com/dynamofl/primeguard)**|
 |**2024-07-22**|**Multilingual Fine-Grained News Headline Hallucination Detection**|Jiaming Shen et.al.|[2407.15975](http://arxiv.org/abs/2407.15975)|null|
-|**2024-07-22**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
+|**2024-08-11**|**Do Large Language Models Have Compositional Ability? An Investigation into Limitations and Scalability**|Zhuoyan Xu et.al.|[2407.15720](http://arxiv.org/abs/2407.15720)|**[link](https://github.com/oliverxuzy/llm_compose)**|
 |**2024-07-22**|**In-Context Learning Improves Compositional Understanding of Vision-Language Models**|Matteo Nulli et.al.|[2407.15487](http://arxiv.org/abs/2407.15487)|**[link](https://github.com/hoezey/vlm-compositionality)**|
 |**2024-07-22**|**ZZU-NLP at SIGHAN-2024 dimABSA Task: Aspect-Based Sentiment Analysis with Coarse-to-Fine In-context Learning**|Senbin Zhu et.al.|[2407.15341](http://arxiv.org/abs/2407.15341)|null|
 |**2024-07-21**|**MIBench: Evaluating Multimodal Large Language Models over Multiple Images**|Haowei Liu et.al.|[2407.15272](http://arxiv.org/abs/2407.15272)|null|
@@ -4014,7 +4014,7 @@ layout: default
 |**2024-08-09**|**Achieving Robust Data-driven Contextual Decision Making in a Data Augmentation Way**|Zhaoen Li et.al.|[2408.04469](http://arxiv.org/abs/2408.04469)|null|
 |**2024-08-08**|**An experimental comparative study of backpropagation and alternatives for training binary neural networks for image classification**|Ben Crulis et.al.|[2408.04460](http://arxiv.org/abs/2408.04460)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400](http://arxiv.org/abs/2408.04400)|null|
-|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-08-09**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
 |**2024-07-22**|**Taxonomy Driven Fast Adversarial Training**|Kun Tong et.al.|[2408.03944](http://arxiv.org/abs/2408.03944)|null|
 |**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
 |**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
@@ -4891,7 +4891,7 @@ layout: default
 |**2024-07-16**|**Preconditioned Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression**|Yingzhen Yang et.al.|[2407.11353](http://arxiv.org/abs/2407.11353)|null|
 |**2024-07-10**|**Towards a theory of learning dynamics in deep state space models**|Jakub Smékal et.al.|[2407.07279](http://arxiv.org/abs/2407.07279)|null|
 |**2024-07-15**|**Wavelet Convolutions for Large Receptive Fields**|Shahaf E. Finder et.al.|[2407.05848](http://arxiv.org/abs/2407.05848)|**[link](https://github.com/bgu-cs-vil/wtconv)**|
-|**2024-07-03**|**Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2407.02827](http://arxiv.org/abs/2407.02827)|null|
+|**2024-08-10**|**Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2407.02827](http://arxiv.org/abs/2407.02827)|null|
 |**2024-07-02**|**Exploring Federated Learning Dynamics for Black-and-White-Box DNN Traitor Tracing**|Elena Rodriguez-Lois et.al.|[2407.02111](http://arxiv.org/abs/2407.02111)|null|
 |**2024-07-01**|**SpeakerBeam-SS: Real-time Target Speaker Extraction with Lightweight Conv-TasNet and State Space Modeling**|Hiroshi Sato et.al.|[2407.01857](http://arxiv.org/abs/2407.01857)|null|
 |**2024-06-29**|**Toward Global Convergence of Gradient EM for Over-Parameterized Gaussian Mixture Models**|Weihang Xu et.al.|[2407.00490](http://arxiv.org/abs/2407.00490)|null|
@@ -5058,7 +5058,7 @@ layout: default
 |**2024-08-09**|**Achieving Robust Data-driven Contextual Decision Making in a Data Augmentation Way**|Zhaoen Li et.al.|[2408.04469](http://arxiv.org/abs/2408.04469)|null|
 |**2024-08-08**|**An experimental comparative study of backpropagation and alternatives for training binary neural networks for image classification**|Ben Crulis et.al.|[2408.04460](http://arxiv.org/abs/2408.04460)|null|
 |**2024-08-08**|**DIVE: Subgraph Disagreement for Graph Out-of-Distribution Generalization**|Xin Sun et.al.|[2408.04400](http://arxiv.org/abs/2408.04400)|null|
-|**2024-08-07**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
+|**2024-08-09**|**Do Sharpness-based Optimizers Improve Generalization in Medical Image Analysis?**|Mohamed Hassan et.al.|[2408.04065](http://arxiv.org/abs/2408.04065)|null|
 |**2024-07-22**|**Taxonomy Driven Fast Adversarial Training**|Kun Tong et.al.|[2408.03944](http://arxiv.org/abs/2408.03944)|null|
 |**2024-08-07**|**Bayes-optimal learning of an extensive-width neural network from quadratically many samples**|Antoine Maillard et.al.|[2408.03733](http://arxiv.org/abs/2408.03733)|**[link](https://github.com/SPOC-group/ExtensiveWidthQuadraticSamples)**|
 |**2024-08-07**|**On the choice of the non-trainable internal weights in random feature maps**|Pinak Mandal et.al.|[2408.03626](http://arxiv.org/abs/2408.03626)|null|
