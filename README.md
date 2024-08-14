@@ -2470,6 +2470,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
+|**2024-08-13**|**HLSPilot: LLM-based High-Level Synthesis**|Chenwei Xiong et.al.|[2408.06810](http://arxiv.org/abs/2408.06810)|null|
+|**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
+|**2024-08-12**|**Towards Autonomous Agents: Adaptive-planning, Reasoning, and Acting in Language Models**|Yen-Che Hsiao et.al.|[2408.06458](http://arxiv.org/abs/2408.06458)|**[link](https://github.com/yenchehsiao/autonomousllmagentwithadaptingplanning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
 |**2024-08-10**|**In-Context Exploiter for Extensive-Form Games**|Shuxin Li et.al.|[2408.05575](http://arxiv.org/abs/2408.05575)|null|
 |**2024-08-10**|**Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction**|Jung Hoon Lim et.al.|[2408.05555](http://arxiv.org/abs/2408.05555)|null|
@@ -3229,6 +3233,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-08-13**|**GLGait: A Global-Local Temporal Receptive Field Network for Gait Recognition in the Wild**|Guozhen Peng et.al.|[2408.06834](http://arxiv.org/abs/2408.06834)|**[link](https://github.com/bgdpgz/glgait)**|
+|**2024-08-12**|**Music2Latent: Consistency Autoencoders for Latent Audio Compression**|Marco Pasini et.al.|[2408.06500](http://arxiv.org/abs/2408.06500)|null|
+|**2024-07-26**|**Algorithm Research of ELMo Word Embedding and Deep Learning Multimodal Transformer in Image Description**|Xiaohan Cheng et.al.|[2408.06357](http://arxiv.org/abs/2408.06357)|null|
 |**2024-08-12**|**RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation**|Zhiyuan Zhang et.al.|[2408.06110](http://arxiv.org/abs/2408.06110)|**[link](https://github.com/cszyzhang/RISurConv)**|
 |**2024-08-12**|**Optimizing Vision Transformers with Data-Free Knowledge Transfer**|Gousia Habib et.al.|[2408.05952](http://arxiv.org/abs/2408.05952)|null|
 |**2024-08-11**|**Sampling Foundational Transformer: A Theoretical Perspective**|Viet Anh Nguyen et.al.|[2408.05822](http://arxiv.org/abs/2408.05822)|null|
@@ -4051,6 +4059,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
+|**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
+|**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
+|**2024-08-12**|**High-dimensional optimization for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2408.06401](http://arxiv.org/abs/2408.06401)|null|
 |**2024-08-12**|**LEARN: An Invex Loss for Outlier Oblivious Robust Online Optimization**|Adarsh Barik et.al.|[2408.06297](http://arxiv.org/abs/2408.06297)|null|
 |**2024-08-12**|**CoFAR Clutter Estimation using Covariance-Free Bayesian Learning**|Kunwar Pritiraj Rajput et.al.|[2408.06078](http://arxiv.org/abs/2408.06078)|null|
 |**2024-08-12**|**Don't You (Project Around Discs)? Neural Network Surrogate and Projected Gradient Descent for Calibrating an Intervertebral Disc Finite Element Model**|Matan Atad et.al.|[2408.06067](http://arxiv.org/abs/2408.06067)|null|
@@ -5104,6 +5117,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
+|**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
+|**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
+|**2024-08-12**|**High-dimensional optimization for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2408.06401](http://arxiv.org/abs/2408.06401)|null|
 |**2024-08-12**|**LEARN: An Invex Loss for Outlier Oblivious Robust Online Optimization**|Adarsh Barik et.al.|[2408.06297](http://arxiv.org/abs/2408.06297)|null|
 |**2024-08-12**|**CoFAR Clutter Estimation using Covariance-Free Bayesian Learning**|Kunwar Pritiraj Rajput et.al.|[2408.06078](http://arxiv.org/abs/2408.06078)|null|
 |**2024-08-12**|**Don't You (Project Around Discs)? Neural Network Surrogate and Projected Gradient Descent for Calibrating an Intervertebral Disc Finite Element Model**|Matan Atad et.al.|[2408.06067](http://arxiv.org/abs/2408.06067)|null|
@@ -6079,6 +6097,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
+|**2024-08-13**|**IRS-Assisted Lossy Communications Under Correlated Rayleigh Fading: Outage Probability Analysis and Optimization**|Guanchang Li et.al.|[2408.06969](http://arxiv.org/abs/2408.06969)|null|
+|**2024-08-13**|**Heavy-Ball Momentum Accelerated Actor-Critic With Function Approximation**|Yanjie Dong et.al.|[2408.06945](http://arxiv.org/abs/2408.06945)|null|
+|**2024-08-13**|**Multi-Agent Continuous Control with Generative Flow Networks**|Shuang Luo et.al.|[2408.06920](http://arxiv.org/abs/2408.06920)|**[link](https://github.com/isluoshuang/macfn)**|
+|**2024-08-13**|**Personalized Dynamic Difficulty Adjustment -- Imitation Learning Meets Reinforcement Learning**|Ronja Fuchs et.al.|[2408.06818](http://arxiv.org/abs/2408.06818)|**[link](https://github.com/ronjafuchs/ice_ai)**|
+|**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
+|**2024-08-13**|**Residual Deep Reinforcement Learning for Inverter-based Volt-Var Control**|Qiong Liu et.al.|[2408.06790](http://arxiv.org/abs/2408.06790)|null|
+|**2024-08-13**|**Deep reinforcement learning for the management of the wall regeneration cycle in wall-bounded turbulent flows**|Giorgio Maria Cavallazzi et.al.|[2408.06783](http://arxiv.org/abs/2408.06783)|null|
+|**2024-08-13**|**Robust Deep Reinforcement Learning for Inverter-based Volt-Var Control in Partially Observable Distribution Networks**|Qiong Liu et.al.|[2408.06776](http://arxiv.org/abs/2408.06776)|null|
+|**2024-08-13**|**MAPPO-PIS: A Multi-Agent Proximal Policy Optimization Method with Prior Intent Sharing for CAVs' Cooperative Decision-Making**|Yicheng Guo et.al.|[2408.06656](http://arxiv.org/abs/2408.06656)|null|
+|**2024-08-13**|**Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**|Jieming Bian et.al.|[2408.06549](http://arxiv.org/abs/2408.06549)|null|
+|**2024-08-13**|**Value of Information and Reward Specification in Active Inference and POMDPs**|Ran Wei et.al.|[2408.06542](http://arxiv.org/abs/2408.06542)|null|
+|**2024-08-12**|**Hierarchical in-Context Reinforcement Learning with Hindsight Modular Reflections for Planning**|Chuanneng Sun et.al.|[2408.06520](http://arxiv.org/abs/2408.06520)|null|
+|**2024-08-12**|**TacSL: A Library for Visuotactile Sensor Simulation and Learning**|Iretiayo Akinola et.al.|[2408.06506](http://arxiv.org/abs/2408.06506)|null|
+|**2024-08-12**|**Decentralized Cooperation in Heterogeneous Multi-Agent Reinforcement Learning via Graph Neural Network-Based Intrinsic Motivation**|Jahir Sadik Monon et.al.|[2408.06503](http://arxiv.org/abs/2408.06503)|**[link](https://github.com/jahirsadik/cohet-implementation)**|
+|**2024-08-12**|**BFTBrain: Adaptive BFT Consensus with Reinforcement Learning**|Chenyuan Wu et.al.|[2408.06432](http://arxiv.org/abs/2408.06432)|null|
 |**2024-08-12**|**Body Transformer: Leveraging Robot Embodiment for Policy Learning**|Carmelo Sferrazza et.al.|[2408.06316](http://arxiv.org/abs/2408.06316)|null|
 |**2024-08-12**|**Inverse designing metamaterials with programmable nonlinear functional responses in graph space**|Marco Maurizi et.al.|[2408.06300](http://arxiv.org/abs/2408.06300)|null|
 |**2024-08-12**|**Building Decision Making Models Through Language Model Regime**|Yu Zhang et.al.|[2408.06087](http://arxiv.org/abs/2408.06087)|null|
@@ -6161,7 +6195,7 @@
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-05**|**Active Sensing of Knee Osteoarthritis Progression with Reinforcement Learning**|Khanh Nguyen et.al.|[2408.02349](http://arxiv.org/abs/2408.02349)|null|
 |**2024-08-05**|**Data time travel and consistent market making: taming reinforcement learning in multi-agent systems with anonymous data**|Vincent Ragel et.al.|[2408.02322](http://arxiv.org/abs/2408.02322)|null|
-|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295](http://arxiv.org/abs/2408.02295)|null|
+|**2024-08-05**|**Generalized Gaussian Temporal Difference Error For Uncertainty-aware Reinforcement Learning**|Seyeon Kim et.al.|[2408.02295](http://arxiv.org/abs/2408.02295)|**[link](https://github.com/ait-lab/ggtde)**|
 |**2024-08-04**|**SelfBC: Self Behavior Cloning for Offline Reinforcement Learning**|Shirong Liu et.al.|[2408.02165](http://arxiv.org/abs/2408.02165)|null|
 |**2024-08-08**|**Environment Complexity and Nash Equilibria in a Sequential Social Dilemma**|Mustafa Yasir et.al.|[2408.02148](http://arxiv.org/abs/2408.02148)|null|
 |**2024-08-04**|**Latency-Aware Resource Allocation for Mobile Edge Generation and Computing via Deep Reinforcement Learning**|Yinyu Wu et.al.|[2408.02047](http://arxiv.org/abs/2408.02047)|null|
