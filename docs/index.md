@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3206,9 +3206,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576](http://arxiv.org/abs/2408.07576)|**[link](https://github.com/hyunwoo137/metaseg)**|
+|**2024-08-15**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576](http://arxiv.org/abs/2408.07576)|**[link](https://github.com/hyunwoo137/metaseg)**|
 |**2024-08-14**|**GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution**|Yuzhen Li et.al.|[2408.07484](http://arxiv.org/abs/2408.07484)|**[link](https://github.com/sisrformer/grformer)**|
-|**2024-08-14**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
+|**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
 |**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
 |**2024-08-11**|**Post-Training Sparse Attention with Double Sparsity**|Shuo Yang et.al.|[2408.07092](http://arxiv.org/abs/2408.07092)|null|
 |**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
