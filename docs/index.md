@@ -2444,6 +2444,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
+|**2024-08-26**|**Epidemic Information Extraction for Event-Based Surveillance using Large Language Models**|Sergio Consoli et.al.|[2408.14277](http://arxiv.org/abs/2408.14277)|null|
+|**2024-08-26**|**Towards Synthetic Trace Generation of Modeling Operations using In-Context Learning Approach**|Vittoriano Muttillo et.al.|[2408.14259](http://arxiv.org/abs/2408.14259)|null|
+|**2024-08-26**|**Focused Large Language Models are Stable Many-Shot Learners**|Peiwen Yuan et.al.|[2408.13987](http://arxiv.org/abs/2408.13987)|null|
+|**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
 |**2024-08-23**|**In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting**|Haowei Du et.al.|[2408.13028](http://arxiv.org/abs/2408.13028)|null|
 |**2024-08-23**|**Multimodal Contrastive In-Context Learning**|Yosuke Miyanishi et.al.|[2408.12959](http://arxiv.org/abs/2408.12959)|null|
 |**2024-08-23**|**Causal-Guided Active Learning for Debiasing Large Language Models**|Zhouhao Sun et.al.|[2408.12942](http://arxiv.org/abs/2408.12942)|null|
@@ -3231,6 +3238,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902](http://arxiv.org/abs/2408.13902)|null|
+|**2024-08-25**|**3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification**|Haizhao Jing et.al.|[2408.13728](http://arxiv.org/abs/2408.13728)|null|
+|**2024-08-25**|**CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation**|Lanhu Wu et.al.|[2408.13698](http://arxiv.org/abs/2408.13698)|null|
 |**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
 |**2024-08-22**|**SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging**|Mohammadreza Pourreza et.al.|[2408.12733](http://arxiv.org/abs/2408.12733)|null|
 |**2024-08-22**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
@@ -3295,7 +3305,7 @@ layout: default
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827](http://arxiv.org/abs/2408.01827)|**[link](https://github.com/41enthusiast/ST-SACLF-ver1.1)**|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-23**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372](http://arxiv.org/abs/2408.01372)|null|
-|**2024-08-23**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
+|**2024-08-26**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
 |**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120](http://arxiv.org/abs/2408.01120)|**[link](https://github.com/chenwei746/eevg)**|
 |**2024-08-02**|**Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks**|Daniel A. Serino et.al.|[2408.00985](http://arxiv.org/abs/2408.00985)|null|
 |**2024-08-01**|**A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage**|Caiwen Jiang et.al.|[2408.00940](http://arxiv.org/abs/2408.00940)|null|
@@ -4087,6 +4097,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
+|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
+|**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
+|**2024-08-24**|**Optimal Layer Selection for Latent Data Augmentation**|Tomoumi Takase et.al.|[2408.13426](http://arxiv.org/abs/2408.13426)|null|
+|**2024-08-20**|**Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity**|Dominik Stöger et.al.|[2408.13276](http://arxiv.org/abs/2408.13276)|null|
+|**2024-08-20**|**Robust Image Classification: Defensive Strategies against FGSM and PGD Adversarial Attacks**|Hetvi Waghela et.al.|[2408.13274](http://arxiv.org/abs/2408.13274)|null|
 |**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
 |**2024-08-12**|**StringNET: Neural Network based Variational Method for Transition Pathways**|Jiayue Han et.al.|[2408.12621](http://arxiv.org/abs/2408.12621)|null|
 |**2024-08-22**|**Quantum Circuit Optimization using Differentiable Programming of Tensor Network States**|David Rogerson et.al.|[2408.12583](http://arxiv.org/abs/2408.12583)|null|
@@ -4109,7 +4125,7 @@ layout: default
 |**2024-08-15**|**Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation**|Chenyu Zhang et.al.|[2408.08192](http://arxiv.org/abs/2408.08192)|null|
 |**2024-08-15**|**General single-loop methods for bilevel parameter learning**|Ensio Suonperä et.al.|[2408.08123](http://arxiv.org/abs/2408.08123)|null|
 |**2024-08-14**|**Learning Decisions Offline from Censored Observations with ε-insensitive Operational Costs**|Minxia Chen et.al.|[2408.07305](http://arxiv.org/abs/2408.07305)|null|
-|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-26**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
 |**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
 |**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
 |**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
@@ -5167,6 +5183,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
+|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
+|**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
+|**2024-08-24**|**Optimal Layer Selection for Latent Data Augmentation**|Tomoumi Takase et.al.|[2408.13426](http://arxiv.org/abs/2408.13426)|null|
+|**2024-08-20**|**Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity**|Dominik Stöger et.al.|[2408.13276](http://arxiv.org/abs/2408.13276)|null|
+|**2024-08-20**|**Robust Image Classification: Defensive Strategies against FGSM and PGD Adversarial Attacks**|Hetvi Waghela et.al.|[2408.13274](http://arxiv.org/abs/2408.13274)|null|
 |**2024-08-23**|**An Overview on Machine Learning Methods for Partial Differential Equations: from Physics Informed Neural Networks to Deep Operator Learning**|Lukas Gonon et.al.|[2408.13222](http://arxiv.org/abs/2408.13222)|null|
 |**2024-08-12**|**StringNET: Neural Network based Variational Method for Transition Pathways**|Jiayue Han et.al.|[2408.12621](http://arxiv.org/abs/2408.12621)|null|
 |**2024-08-22**|**Quantum Circuit Optimization using Differentiable Programming of Tensor Network States**|David Rogerson et.al.|[2408.12583](http://arxiv.org/abs/2408.12583)|null|
@@ -5192,7 +5214,7 @@ layout: default
 |**2024-08-15**|**Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation**|Chenyu Zhang et.al.|[2408.08192](http://arxiv.org/abs/2408.08192)|null|
 |**2024-08-15**|**General single-loop methods for bilevel parameter learning**|Ensio Suonperä et.al.|[2408.08123](http://arxiv.org/abs/2408.08123)|null|
 |**2024-08-14**|**Learning Decisions Offline from Censored Observations with ε-insensitive Operational Costs**|Minxia Chen et.al.|[2408.07305](http://arxiv.org/abs/2408.07305)|null|
-|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-26**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
 |**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
 |**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
 |**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
@@ -6171,6 +6193,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472](http://arxiv.org/abs/2408.14472)|null|
+|**2024-08-26**|**Equivariant Reinforcement Learning under Partial Observability**|Hai Nguyen et.al.|[2408.14336](http://arxiv.org/abs/2408.14336)|null|
+|**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232](http://arxiv.org/abs/2408.14232)|null|
+|**2024-08-26**|**DynamicRouteGPT: A Real-Time Multi-Vehicle Dynamic Navigation Framework Based on Large Language Models**|Ziai Zhou et.al.|[2408.14185](http://arxiv.org/abs/2408.14185)|null|
+|**2024-08-26**|**Robot Navigation with Entity-Based Collision Avoidance using Deep Reinforcement Learning**|Yury Kolomeytsev et.al.|[2408.14183](http://arxiv.org/abs/2408.14183)|null|
+|**2024-08-26**|**ReLExS: Reinforcement Learning Explanations for Stackelberg No-Regret Learners**|Xiangge Huang et.al.|[2408.14086](http://arxiv.org/abs/2408.14086)|null|
+|**2024-08-26**|**Bridging the gap between Learning-to-plan, Motion Primitives and Safe Reinforcement Learning**|Piotr Kicki et.al.|[2408.14063](http://arxiv.org/abs/2408.14063)|null|
+|**2024-08-26**|**Optimizing TD3 for 7-DOF Robotic Arm Grasping: Overcoming Suboptimality with Exploration-Enhanced Contrastive Learning**|Wen-Han Hsieh et.al.|[2408.14009](http://arxiv.org/abs/2408.14009)|null|
+|**2024-08-26**|**Quantitative Representation of Scenario Difficulty for Autonomous Driving Based on Adversarial Policy Search**|Shuo Yang et.al.|[2408.14000](http://arxiv.org/abs/2408.14000)|null|
+|**2024-08-26**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
+|**2024-08-25**|**Safe Policy Exploration Improvement via Subgoals**|Brian Angulo et.al.|[2408.13881](http://arxiv.org/abs/2408.13881)|null|
+|**2024-08-25**|**MASQ: Multi-Agent Reinforcement Learning for Single Quadruped Robot Locomotion**|Qi Liu et.al.|[2408.13759](http://arxiv.org/abs/2408.13759)|null|
+|**2024-08-25**|**Multi-Agent Target Assignment and Path Finding for Intelligent Warehouse: A Cooperative Multi-Agent Deep Reinforcement Learning Perspective**|Qi Liu et.al.|[2408.13750](http://arxiv.org/abs/2408.13750)|null|
+|**2024-08-24**|**DeepVoting: Learning Voting Rules with Tailored Embeddings**|Leonardo Matone et.al.|[2408.13630](http://arxiv.org/abs/2408.13630)|null|
+|**2024-08-24**|**Mobile Edge Computing Networks: Online Low-Latency and Fresh Service Provisioning**|Yuhan Yi et.al.|[2408.13605](http://arxiv.org/abs/2408.13605)|null|
+|**2024-08-24**|**Hybrid Training for Enhanced Multi-task Generalization in Multi-agent Reinforcement Learning**|Mingliang Zhang et.al.|[2408.13567](http://arxiv.org/abs/2408.13567)|null|
+|**2024-08-24**|**Control-Informed Reinforcement Learning for Chemical Processes**|Maximilian Bloor et.al.|[2408.13566](http://arxiv.org/abs/2408.13566)|null|
+|**2024-08-24**|**Synesthesia of Machines (SoM)-Enhanced ISAC Precoding for Vehicular Networks with Double Dynamics**|Zonghui Yang et.al.|[2408.13546](http://arxiv.org/abs/2408.13546)|null|
+|**2024-08-24**|**Scalable Similarity-Aware Test Suite Minimization with Reinforcement Learning**|Sijia Gu et.al.|[2408.13517](http://arxiv.org/abs/2408.13517)|null|
+|**2024-08-24**|**Intelligent Router for LLM Workloads: Improving Performance Through Workload-Aware Scheduling**|Kunal Jain et.al.|[2408.13510](http://arxiv.org/abs/2408.13510)|null|
+|**2024-08-24**|**Rethinking State Disentanglement in Causal Reinforcement Learning**|Haiyao Cao et.al.|[2408.13498](http://arxiv.org/abs/2408.13498)|null|
+|**2024-08-24**|**Thresholded Lexicographic Ordered Multiobjective Reinforcement Learning**|Alperen Tercan et.al.|[2408.13493](http://arxiv.org/abs/2408.13493)|null|
+|**2024-08-24**|**Data Augmentation for Continual RL via Adversarial Gradient Episodic Memory**|Sihao Wu et.al.|[2408.13452](http://arxiv.org/abs/2408.13452)|null|
+|**2024-08-24**|**Efficient Reinforced DAG Learning without Acyclicity Constraints**|Bao Duong et.al.|[2408.13448](http://arxiv.org/abs/2408.13448)|null|
+|**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438](http://arxiv.org/abs/2408.13438)|null|
+|**2024-08-23**|**Transforming Location Retrieval at Airbnb: A Journey from Heuristics to Reinforcement Learning**|Dillon Davis et.al.|[2408.13399](http://arxiv.org/abs/2408.13399)|null|
+|**2024-08-23**|**Reduce, Reuse, Recycle: Categories for Compositional Reinforcement Learning**|Georgios Bakirtzis et.al.|[2408.13376](http://arxiv.org/abs/2408.13376)|null|
+|**2024-08-23**|**Mastering the Digital Art of War: Developing Intelligent Combat Simulation Agents for Wargaming Using Hierarchical Reinforcement Learning**|Scotty Black et.al.|[2408.13333](http://arxiv.org/abs/2408.13333)|null|
+|**2024-08-23**|**Localized Observation Abstraction Using Piecewise Linear Spatial Decay for Reinforcement Learning in Combat Simulations**|Scotty Black et.al.|[2408.13328](http://arxiv.org/abs/2408.13328)|null|
 |**2024-08-23**|**Optimally Solving Simultaneous-Move Dec-POMDPs: The Sequential Central Planning Approach**|Johan Peralez et.al.|[2408.13139](http://arxiv.org/abs/2408.13139)|null|
 |**2024-08-23**|**Diffusion-based Episodes Augmentation for Offline Multi-Agent Reinforcement Learning**|Jihwan Oh et.al.|[2408.13092](http://arxiv.org/abs/2408.13092)|null|
 |**2024-08-23**|**Guiding IoT-Based Healthcare Alert Systems with Large Language Models**|Yulan Gao et.al.|[2408.13071](http://arxiv.org/abs/2408.13071)|null|
