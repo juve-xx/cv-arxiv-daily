@@ -3266,6 +3266,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**FastTextSpotter: A High-Efficiency Transformer for Multilingual Scene Text Spotting**|Alloy Das et.al.|[2408.14998](http://arxiv.org/abs/2408.14998)|null|
+|**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
+|**2024-08-27**|**Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation**|Abdelrahman Eldesokey et.al.|[2408.14819](http://arxiv.org/abs/2408.14819)|null|
 |**2024-08-25**|**TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training**|Li Li et.al.|[2408.13902](http://arxiv.org/abs/2408.13902)|null|
 |**2024-08-25**|**3D-RCNet: Learning from Transformer to Build a 3D Relational ConvNet for Hyperspectral Image Classification**|Haizhao Jing et.al.|[2408.13728](http://arxiv.org/abs/2408.13728)|null|
 |**2024-08-27**|**CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation**|Lanhu Wu et.al.|[2408.13698](http://arxiv.org/abs/2408.13698)|null|
@@ -4127,6 +4130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
 |**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
@@ -5217,6 +5221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
 |**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
@@ -6229,6 +6234,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**SpecGuard: Specification Aware Recovery for Robotic Autonomous Vehicles from Physical Attacks**|Pritam Dash et.al.|[2408.15200](http://arxiv.org/abs/2408.15200)|null|
+|**2024-08-27**|**Exploiting Approximate Symmetry for Efficient Multi-Agent Reinforcement Learning**|Batuhan Yardim et.al.|[2408.15173](http://arxiv.org/abs/2408.15173)|null|
+|**2024-08-27**|**Applications in CityLearn Gym Environment for Multi-Objective Control Benchmarking in Grid-Interactive Buildings and Districts**|Kingsley Nweye et.al.|[2408.15170](http://arxiv.org/abs/2408.15170)|null|
+|**2024-08-27**|**muPRL: A Mutation Testing Pipeline for Deep Reinforcement Learning based on Real Faults**|Deepak-George Thomas et.al.|[2408.15150](http://arxiv.org/abs/2408.15150)|null|
+|**2024-08-27**|**No Regrets: Investigating and Improving Regret Approximations for Curriculum Discovery**|Alexander Rutherford et.al.|[2408.15099](http://arxiv.org/abs/2408.15099)|**[link](https://github.com/amacrutherford/sampling-for-learnability)**|
+|**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076](http://arxiv.org/abs/2408.15076)|null|
+|**2024-08-27**|**Earth Observation Satellite Scheduling with Graph Neural Networks**|Antoine Jacquet et.al.|[2408.15041](http://arxiv.org/abs/2408.15041)|null|
+|**2024-08-27**|**Inverse-Q*: Token Level Reinforcement Learning for Aligning Large Language Models Without Preference Data**|Han Xia et.al.|[2408.14874](http://arxiv.org/abs/2408.14874)|null|
+|**2024-08-27**|**Robo-GS: A Physics Consistent Spatial-Temporal Model for Robotic Arm with Hybrid Representation**|Haozhe Lou et.al.|[2408.14873](http://arxiv.org/abs/2408.14873)|null|
+|**2024-08-27**|**Learning Robust Reward Machines from Noisy Labels**|Roko Parac et.al.|[2408.14871](http://arxiv.org/abs/2408.14871)|**[link](https://github.com/rparac/prob-irm)**|
+|**2024-08-27**|**Dynamic operator management in meta-heuristics using reinforcement learning: an application to permutation flowshop scheduling problems**|Maryam Karimi Mamaghan et.al.|[2408.14864](http://arxiv.org/abs/2408.14864)|null|
+|**2024-08-27**|**Enhancing Analogical Reasoning in the Abstraction and Reasoning Corpus via Model-Based RL**|Jihwan Lee et.al.|[2408.14855](http://arxiv.org/abs/2408.14855)|null|
+|**2024-08-27**|**Detecting AI Flaws: Target-Driven Attacks on Internal Faults in Language Models**|Yuhao Du et.al.|[2408.14853](http://arxiv.org/abs/2408.14853)|null|
+|**2024-08-27**|**Unsupervised-to-Online Reinforcement Learning**|Junsu Kim et.al.|[2408.14785](http://arxiv.org/abs/2408.14785)|null|
+|**2024-08-27**|**Benchmarking Reinforcement Learning Methods for Dexterous Robotic Manipulation with a Three-Fingered Gripper**|Elizabeth Cutler et.al.|[2408.14747](http://arxiv.org/abs/2408.14747)|null|
+|**2024-08-26**|**Model-Based Reinforcement Learning for Control of Strongly-Disturbed Unsteady Aerodynamic Flows**|Zhecheng Liu et.al.|[2408.14685](http://arxiv.org/abs/2408.14685)|null|
+|**2024-08-26**|**On Centralized Critics in Multi-Agent Reinforcement Learning**|Xueguang Lyu et.al.|[2408.14597](http://arxiv.org/abs/2408.14597)|**[link](https://github.com/lyu-xg/on-centralized-critics-in-marl)**|
+|**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518](http://arxiv.org/abs/2408.14518)|null|
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472](http://arxiv.org/abs/2408.14472)|null|
 |**2024-08-26**|**Equivariant Reinforcement Learning under Partial Observability**|Hai Nguyen et.al.|[2408.14336](http://arxiv.org/abs/2408.14336)|null|
 |**2024-08-26**|**Efficient Active Flow Control Strategy for Confined Square Cylinder Wake Using Deep Learning-Based Surrogate Model and Reinforcement Learning**|Meng Zhang et.al.|[2408.14232](http://arxiv.org/abs/2408.14232)|null|
@@ -6271,7 +6294,7 @@
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
 |**2024-08-22**|**Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities**|Yousef Emami et.al.|[2408.12548](http://arxiv.org/abs/2408.12548)|null|
 |**2024-08-22**|**PCGRL+: Scaling, Control and Generalization in Reinforcement Learning Level Generators**|Sam Earle et.al.|[2408.12525](http://arxiv.org/abs/2408.12525)|null|
-|**2024-08-27**|**EX-DRL: Hedging Against Heavy Losses with EXtreme Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2408.12446](http://arxiv.org/abs/2408.12446)|null|
+|**2024-08-27**|**EX-DRL: Hedging Against Heavy Losses with EXtreme Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2408.12446](http://arxiv.org/abs/2408.12446)|**[link](https://github.com/pmalekzadeh/ex-drl)**|
 |**2024-08-22**|**Leveraging Unlabeled Data Sharing through Kernel Function Approximation in Offline Reinforcement Learning**|Yen-Ru Lai et.al.|[2408.12307](http://arxiv.org/abs/2408.12307)|null|
 |**2024-08-22**|**Domino-cooling Oscillator Networks with Deep Reinforcement Learning**|Sampreet Kalita et.al.|[2408.12271](http://arxiv.org/abs/2408.12271)|null|
 |**2024-08-22**|**UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model**|Xia Jiang et.al.|[2408.12214](http://arxiv.org/abs/2408.12214)|null|
