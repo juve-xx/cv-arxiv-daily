@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving**|Yongjie Fu et.al.|[2408.16647](http://arxiv.org/abs/2408.16647)|null|
+|**2024-08-29**|**Self-Alignment: Improving Alignment of Cultural Values in LLMs via In-Context Learning**|Rochelle Choenni et.al.|[2408.16482](http://arxiv.org/abs/2408.16482)|null|
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
 |**2024-08-28**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zhegidi et.al.|[2408.15796](http://arxiv.org/abs/2408.15796)|**[link](https://github.com/geode-project/ner-llm)**|
 |**2024-08-28**|**Harnessing the Intrinsic Knowledge of Pretrained Language Models for Challenging Text Classification Settings**|Lingyu Gao et.al.|[2408.15650](http://arxiv.org/abs/2408.15650)|null|
@@ -3269,6 +3271,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
+|**2024-08-29**|**Prediction-Feedback DETR for Temporal Action Detection**|Jihwan Kim et.al.|[2408.16729](http://arxiv.org/abs/2408.16729)|null|
+|**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719](http://arxiv.org/abs/2408.16719)|null|
+|**2024-08-29**|**PartFormer: Awakening Latent Diverse Representation from Vision Transformer for Object Re-Identification**|Lei Tan et.al.|[2408.16684](http://arxiv.org/abs/2408.16684)|null|
+|**2024-08-29**|**SODAWideNet++: Combining Attention and Convolutions for Salient Object Detection**|Rohit Venkata Sai Dulam et.al.|[2408.16645](http://arxiv.org/abs/2408.16645)|null|
+|**2024-08-29**|**FastForensics: Efficient Two-Stream Design for Real-Time Image Manipulation Detection**|Yangxiang Zhang et.al.|[2408.16582](http://arxiv.org/abs/2408.16582)|null|
 |**2024-08-28**|**Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need**|Sijia Peng et.al.|[2408.15997](http://arxiv.org/abs/2408.15997)|**[link](https://github.com/lunaaa95/mou)**|
 |**2024-08-27**|**TCNFormer: Temporal Convolutional Network Former for Short-Term Wind Speed Forecasting**|Abid Hasan Zim et.al.|[2408.15737](http://arxiv.org/abs/2408.15737)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|Seonghoon Yu et.al.|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
@@ -4138,6 +4146,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
+|**2024-08-29**|**Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence**|Clémentine Chazal et.al.|[2408.16543](http://arxiv.org/abs/2408.16543)|null|
+|**2024-08-29**|**A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy**|Jiameng Lyu et.al.|[2408.16181](http://arxiv.org/abs/2408.16181)|null|
+|**2024-08-28**|**Thinner Latent Spaces: Detecting dimension and imposing invariance through autoencoder gradient constraints**|George A. Kevrekidis et.al.|[2408.16138](http://arxiv.org/abs/2408.16138)|null|
+|**2024-08-28**|**Negative Binomial Matrix Completion**|Yu Lu et.al.|[2408.16113](http://arxiv.org/abs/2408.16113)|null|
 |**2024-08-28**|**Cellwise robust and sparse principal component analysis**|Pia Pfeiffer et.al.|[2408.15612](http://arxiv.org/abs/2408.15612)|null|
 |**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
@@ -5058,6 +5071,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-08-22**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|**[link](https://github.com/erfanhatefi/pruning-by-explaining-in-pytorch)**|
 |**2024-08-16**|**Unsupervised Transfer Learning via Adversarial Contrastive Training**|Chenguang Duan et.al.|[2408.08533](http://arxiv.org/abs/2408.08533)|**[link](https://github.com/vincen-github/Adversarial-Contrastive-Training)**|
@@ -5231,6 +5245,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
+|**2024-08-29**|**Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence**|Clémentine Chazal et.al.|[2408.16543](http://arxiv.org/abs/2408.16543)|null|
+|**2024-08-29**|**A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy**|Jiameng Lyu et.al.|[2408.16181](http://arxiv.org/abs/2408.16181)|null|
+|**2024-08-28**|**Thinner Latent Spaces: Detecting dimension and imposing invariance through autoencoder gradient constraints**|George A. Kevrekidis et.al.|[2408.16138](http://arxiv.org/abs/2408.16138)|null|
+|**2024-08-28**|**Negative Binomial Matrix Completion**|Yu Lu et.al.|[2408.16113](http://arxiv.org/abs/2408.16113)|null|
 |**2024-08-28**|**Cellwise robust and sparse principal component analysis**|Pia Pfeiffer et.al.|[2408.15612](http://arxiv.org/abs/2408.15612)|null|
 |**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
@@ -6245,6 +6264,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
+|**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
+|**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
+|**2024-08-29**|**Optimizing Automated Picking Systems in Warehouse Robots Using Machine Learning**|Keqin Li et.al.|[2408.16633](http://arxiv.org/abs/2408.16633)|null|
+|**2024-08-29**|**Phase Optimization and Relay Selection for Joint Relay and IRS-Assisted Communication**|Uyoata E. Uyoata et.al.|[2408.16399](http://arxiv.org/abs/2408.16399)|null|
+|**2024-08-29**|**EasyChauffeur: A Baseline Advancing Simplicity and Efficiency on Waymax**|Lingyu Xiao et.al.|[2408.16375](http://arxiv.org/abs/2408.16375)|null|
+|**2024-08-29**|**Efficient Multi-agent Navigation with Lightweight DRL Policy**|Xingrong Diao et.al.|[2408.16370](http://arxiv.org/abs/2408.16370)|null|
+|**2024-08-29**|**On Convergence of Average-Reward Q-Learning in Weakly Communicating Markov Decision Processes**|Yi Wan et.al.|[2408.16262](http://arxiv.org/abs/2408.16262)|null|
+|**2024-08-28**|**DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly**|Giulio Giacomuzzo et.al.|[2408.16125](http://arxiv.org/abs/2408.16125)|null|
+|**2024-08-28**|**RAIN: Reinforcement Algorithms for Improving Numerical Weather and Climate Models**|Pritthijit Nath et.al.|[2408.16118](http://arxiv.org/abs/2408.16118)|**[link](https://github.com/p3jitnath/climate-rl)**|
+|**2024-08-28**|**Hitting the Gym: Reinforcement Learning Control of Exercise-Strengthened Biohybrid Robots in Simulation**|Saul Schaffer et.al.|[2408.16069](http://arxiv.org/abs/2408.16069)|null|
+|**2024-08-28**|**An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders**|Shuang Feng et.al.|[2408.16032](http://arxiv.org/abs/2408.16032)|null|
 |**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
 |**2024-08-28**|**Adaptive Traffic Signal Control Using Reinforcement Learning**|Muhammad Tahir Rafique et.al.|[2408.15751](http://arxiv.org/abs/2408.15751)|null|
 |**2024-08-28**|**Deep Reinforcement Learning for Radiative Heat Transfer Optimization Problems**|Eva Ortiz-Mansilla et.al.|[2408.15727](http://arxiv.org/abs/2408.15727)|null|
