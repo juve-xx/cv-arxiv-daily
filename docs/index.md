@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2458,7 +2458,7 @@ layout: default
 |**2024-08-24**|**Preliminary Investigations of a Multi-Faceted Robust and Synergistic Approach in Semiconductor Electron Micrograph Analysis: Integrating Vision Transformers with Large Language and Multimodal Models**|Sakhinana Sagar Srinivas et.al.|[2408.13621](http://arxiv.org/abs/2408.13621)|null|
 |**2024-08-23**|**In-Context Learning with Reinforcement Learning for Incomplete Utterance Rewriting**|Haowei Du et.al.|[2408.13028](http://arxiv.org/abs/2408.13028)|null|
 |**2024-08-23**|**Multimodal Contrastive In-Context Learning**|Yosuke Miyanishi et.al.|[2408.12959](http://arxiv.org/abs/2408.12959)|null|
-|**2024-08-23**|**Causal-Guided Active Learning for Debiasing Large Language Models**|Zhouhao Sun et.al.|[2408.12942](http://arxiv.org/abs/2408.12942)|**[link](https://github.com/spirit-moon-fly/CAL)**|
+|**2024-08-30**|**Causal-Guided Active Learning for Debiasing Large Language Models**|Li Du et.al.|[2408.12942](http://arxiv.org/abs/2408.12942)|**[link](https://github.com/spirit-moon-fly/CAL)**|
 |**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|null|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186](http://arxiv.org/abs/2408.12186)|null|
