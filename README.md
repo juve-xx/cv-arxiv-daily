@@ -3271,6 +3271,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**C-RADAR: A Centralized Deep Learning System for Intrusion Detection in Software Defined Networks**|Osama Mustafa et.al.|[2408.17356](http://arxiv.org/abs/2408.17356)|null|
+|**2024-08-30**|**Geometry of Lightning Self-Attention: Identifiability and Dimension**|Nathan W. Henry et.al.|[2408.17221](http://arxiv.org/abs/2408.17221)|**[link](https://github.com/giovanni-marchetti/NeuroDim)**|
+|**2024-08-30**|**HiTSR: A Hierarchical Transformer for Reference-based Super-Resolution**|Masoomeh Aslahishahri et.al.|[2408.16959](http://arxiv.org/abs/2408.16959)|**[link](https://github.com/bia006/hitsr)**|
 |**2024-08-29**|**UV-free Texture Generation with Denoising and Geodesic Heat Diffusions**|Simone Foti et.al.|[2408.16762](http://arxiv.org/abs/2408.16762)|**[link](https://github.com/simofoti/uv3-ted)**|
 |**2024-08-29**|**Prediction-Feedback DETR for Temporal Action Detection**|Jihwan Kim et.al.|[2408.16729](http://arxiv.org/abs/2408.16729)|null|
 |**2024-08-29**|**H-SGANet: Hybrid Sparse Graph Attention Network for Deformable Medical Image Registration**|Yufeng Zhou et.al.|[2408.16719](http://arxiv.org/abs/2408.16719)|null|
@@ -4146,6 +4149,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Continual learning with the neural tangent ensemble**|Ari S. Benjamin et.al.|[2408.17394](http://arxiv.org/abs/2408.17394)|null|
+|**2024-08-30**|**Asynchronous Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2408.17156](http://arxiv.org/abs/2408.17156)|null|
+|**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145](http://arxiv.org/abs/2408.17145)|**[link](https://github.com/zk23du/fedli)**|
+|**2024-08-29**|**Best of two worlds: Cartesian sampling and volume computation for distance-constrained configuration spaces using Cayley coordinates**|Yichi Zhang et.al.|[2408.16946](http://arxiv.org/abs/2408.16946)|null|
+|**2024-08-29**|**Analyzing Inference Privacy Risks Through Gradients in Machine Learning**|Zhuohang Li et.al.|[2408.16913](http://arxiv.org/abs/2408.16913)|null|
 |**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
 |**2024-08-29**|**Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence**|Clémentine Chazal et.al.|[2408.16543](http://arxiv.org/abs/2408.16543)|**[link](https://github.com/cclementine25/kkl-divergence-gradient-flows)**|
 |**2024-08-29**|**A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy**|Jiameng Lyu et.al.|[2408.16181](http://arxiv.org/abs/2408.16181)|null|
@@ -5245,6 +5253,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Continual learning with the neural tangent ensemble**|Ari S. Benjamin et.al.|[2408.17394](http://arxiv.org/abs/2408.17394)|null|
+|**2024-08-30**|**Asynchronous Distributed Learning with Quantized Finite-Time Coordination**|Nicola Bastianello et.al.|[2408.17156](http://arxiv.org/abs/2408.17156)|null|
+|**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145](http://arxiv.org/abs/2408.17145)|**[link](https://github.com/zk23du/fedli)**|
+|**2024-08-29**|**Best of two worlds: Cartesian sampling and volume computation for distance-constrained configuration spaces using Cayley coordinates**|Yichi Zhang et.al.|[2408.16946](http://arxiv.org/abs/2408.16946)|null|
+|**2024-08-29**|**Analyzing Inference Privacy Risks Through Gradients in Machine Learning**|Zhuohang Li et.al.|[2408.16913](http://arxiv.org/abs/2408.16913)|null|
 |**2024-08-29**|**High-Dimensional Sparse Data Low-rank Representation via Accelerated Asynchronous Parallel Stochastic Gradient Descent**|Qicong Hu et.al.|[2408.16592](http://arxiv.org/abs/2408.16592)|null|
 |**2024-08-29**|**Statistical and Geometrical properties of regularized Kernel Kullback-Leibler divergence**|Clémentine Chazal et.al.|[2408.16543](http://arxiv.org/abs/2408.16543)|**[link](https://github.com/cclementine25/kkl-divergence-gradient-flows)**|
 |**2024-08-29**|**A Minibatch-SGD-Based Learning Meta-Policy for Inventory Systems with Myopic Optimal Policy**|Jiameng Lyu et.al.|[2408.16181](http://arxiv.org/abs/2408.16181)|null|
@@ -6264,6 +6277,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control**|Zihao Sheng et.al.|[2408.17380](http://arxiv.org/abs/2408.17380)|**[link](https://github.com/zihaosheng/traffic-expertise-rl)**|
+|**2024-08-30**|**Stationary Policies are Optimal in Risk-averse Total-reward MDPs with EVaR**|Xihong Su et.al.|[2408.17286](http://arxiv.org/abs/2408.17286)|null|
+|**2024-08-30**|**Using Quantum Solved Deep Boltzmann Machines to Increase the Data Efficiency of RL Agents**|Daniel Kent et.al.|[2408.17240](http://arxiv.org/abs/2408.17240)|null|
+|**2024-08-30**|**MaFeRw: Query Rewriting with Multi-Aspect Feedbacks for Retrieval-Augmented Large Language Models**|Yujing Wang et.al.|[2408.17072](http://arxiv.org/abs/2408.17072)|null|
+|**2024-08-30**|**Efficient Camera Exposure Control for Visual Odometry via Deep Reinforcement Learning**|Shuyang Zhang et.al.|[2408.17005](http://arxiv.org/abs/2408.17005)|**[link](https://github.com/shuyanguni/drl_exposure_ctrl)**|
+|**2024-08-30**|**A Tighter Convergence Proof of Reverse Experience Replay**|Nan Jiang et.al.|[2408.16999](http://arxiv.org/abs/2408.16999)|**[link](https://github.com/jiangnanhugo/RER-proof)**|
+|**2024-08-30**|**Discovery of False Data Injection Schemes on Frequency Controllers with Reinforcement Learning**|Romesh Prasad et.al.|[2408.16958](http://arxiv.org/abs/2408.16958)|null|
+|**2024-08-29**|**Manipulating OpenFlow Link Discovery Packet Forwarding for Topology Poisoning**|Mingming Chen et.al.|[2408.16940](http://arxiv.org/abs/2408.16940)|null|
+|**2024-08-29**|**Coverage Analysis of Multi-Environment Q-Learning Algorithms for Wireless Network Optimization**|Talha Bozkus et.al.|[2408.16882](http://arxiv.org/abs/2408.16882)|null|
+|**2024-08-29**|**Learning Multi-agent Multi-machine Tending by Mobile Robots**|Abdalwhab Abdalwhab et.al.|[2408.16875](http://arxiv.org/abs/2408.16875)|null|
+|**2024-08-29**|**AdapShare: An RL-Based Dynamic Spectrum Sharing Solution for O-RAN**|Sneihil Gopal et.al.|[2408.16842](http://arxiv.org/abs/2408.16842)|null|
 |**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
 |**2024-08-29**|**A GREAT Architecture for Edge-Based Graph Problems Like TSP**|Attila Lischka et.al.|[2408.16717](http://arxiv.org/abs/2408.16717)|null|
 |**2024-08-29**|**RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model**|Zhuan Shi et.al.|[2408.16634](http://arxiv.org/abs/2408.16634)|null|
