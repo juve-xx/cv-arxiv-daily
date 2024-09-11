@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2445,7 +2445,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286](http://arxiv.org/abs/2409.05286)|null|
-|**2024-09-08**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
+|**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
 |**2024-09-07**|**MILE: A Mutation Testing Framework of In-Context Learning Systems**|Zeming Wei et.al.|[2409.04831](http://arxiv.org/abs/2409.04831)|**[link](https://github.com/weizeming/mile)**|
 |**2024-09-06**|**Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs**|Aliakbar Nafar et.al.|[2409.04318](http://arxiv.org/abs/2409.04318)|null|
 |**2024-09-06**|**Context is the Key: Backdoor Attacks for In-Context Learning with Vision Transformers**|Gorka Abad et.al.|[2409.04142](http://arxiv.org/abs/2409.04142)|null|
@@ -3260,7 +3260,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**HMAFlow: Learning More Accurate Optical Flow via Hierarchical Motion Field Alignment**|Dianbo Ma et.al.|[2409.05531](http://arxiv.org/abs/2409.05531)|null|
-|**2024-09-09**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
+|**2024-09-10**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
 |**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|null|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
 |**2024-09-08**|**An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing**|Ashkan Moradifirouzabadi et.al.|[2409.04940](http://arxiv.org/abs/2409.04940)|null|
@@ -3322,7 +3322,7 @@ layout: default
 |**2024-08-31**|**xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations**|Can Qin et.al.|[2408.12590](http://arxiv.org/abs/2408.12590)|null|
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317](http://arxiv.org/abs/2408.12317)|null|
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
-|**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
+|**2024-09-09**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
 |**2024-08-21**|**Interpretable Long-term Action Quality Assessment**|Xu Dong et.al.|[2408.11687](http://arxiv.org/abs/2408.11687)|**[link](https://github.com/dx199771/interpretability-aqa)**|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**TrackGo: A Flexible and Efficient Method for Controllable Video Generation**|Haitao Zhou et.al.|[2408.11475](http://arxiv.org/abs/2408.11475)|null|
@@ -4189,7 +4189,7 @@ layout: default
 |**2024-09-06**|**Reconstruction methods for the phase-shifted Zernike wavefront sensor**|Vincent Chambouleyron et.al.|[2409.04547](http://arxiv.org/abs/2409.04547)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**A General Method for Optimal Decentralized Control with Current State/Output Feedback Strategy**|Hongdan Li et.al.|[2409.04144](http://arxiv.org/abs/2409.04144)|null|
-|**2024-09-06**|**Epistemic Uncertainty and Observation Noise with the Neural Tangent Kernel**|Sergio Calvo-Ordoñez et.al.|[2409.03953](http://arxiv.org/abs/2409.03953)|null|
+|**2024-09-10**|**Epistemic Uncertainty and Observation Noise with the Neural Tangent Kernel**|Sergio Calvo-Ordoñez et.al.|[2409.03953](http://arxiv.org/abs/2409.03953)|null|
 |**2024-09-05**|**Iterative thresholding for non-linear learning in the strong $\varepsilon$ -contamination model**|Arvind Rathnashyam et.al.|[2409.03703](http://arxiv.org/abs/2409.03703)|null|
 |**2024-09-05**|**Risk-based Calibration for Probabilistic Classifiers**|Aritz Pérez et.al.|[2409.03542](http://arxiv.org/abs/2409.03542)|null|
 |**2024-09-05**|**Physics-informed Neural Networks with Fourier Features for Seismic Wavefield Simulation in Time-Domain Nonsmooth Complex Media**|Yi Ding et.al.|[2409.03536](http://arxiv.org/abs/2409.03536)|null|
@@ -5333,7 +5333,7 @@ layout: default
 |**2024-09-06**|**Reconstruction methods for the phase-shifted Zernike wavefront sensor**|Vincent Chambouleyron et.al.|[2409.04547](http://arxiv.org/abs/2409.04547)|null|
 |**2024-09-06**|**Approximating Metric Magnitude of Point Sets**|Rayna Andreeva et.al.|[2409.04411](http://arxiv.org/abs/2409.04411)|null|
 |**2024-09-06**|**A General Method for Optimal Decentralized Control with Current State/Output Feedback Strategy**|Hongdan Li et.al.|[2409.04144](http://arxiv.org/abs/2409.04144)|null|
-|**2024-09-06**|**Epistemic Uncertainty and Observation Noise with the Neural Tangent Kernel**|Sergio Calvo-Ordoñez et.al.|[2409.03953](http://arxiv.org/abs/2409.03953)|null|
+|**2024-09-10**|**Epistemic Uncertainty and Observation Noise with the Neural Tangent Kernel**|Sergio Calvo-Ordoñez et.al.|[2409.03953](http://arxiv.org/abs/2409.03953)|null|
 |**2024-09-05**|**Iterative thresholding for non-linear learning in the strong $\varepsilon$ -contamination model**|Arvind Rathnashyam et.al.|[2409.03703](http://arxiv.org/abs/2409.03703)|null|
 |**2024-09-05**|**Risk-based Calibration for Probabilistic Classifiers**|Aritz Pérez et.al.|[2409.03542](http://arxiv.org/abs/2409.03542)|null|
 |**2024-09-05**|**Physics-informed Neural Networks with Fourier Features for Seismic Wavefield Simulation in Time-Domain Nonsmooth Complex Media**|Yi Ding et.al.|[2409.03536](http://arxiv.org/abs/2409.03536)|null|
@@ -6412,7 +6412,7 @@ layout: default
 |**2024-09-06**|**Stacked Universal Successor Feature Approximators for Safety in Reinforcement Learning**|Ian Cannon et.al.|[2409.04641](http://arxiv.org/abs/2409.04641)|null|
 |**2024-09-03**|**State and Action Factorization in Power Grids**|Gianvito Losapio et.al.|[2409.04467](http://arxiv.org/abs/2409.04467)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
-|**2024-09-06**|**Gaussian-Mixture-Model Q-Functions for Reinforcement Learning by Riemannian Optimization**|Minh Vu et.al.|[2409.04374](http://arxiv.org/abs/2409.04374)|null|
+|**2024-09-10**|**Gaussian-Mixture-Model Q-Functions for Reinforcement Learning by Riemannian Optimization**|Minh Vu et.al.|[2409.04374](http://arxiv.org/abs/2409.04374)|null|
 |**2024-09-06**|**Refined Bounds on Near Optimality Finite Window Policies in POMDPs and Their Reinforcement Learning**|Yunus Emre Demirci et.al.|[2409.04351](http://arxiv.org/abs/2409.04351)|null|
 |**2024-09-06**|**Advancing Multi-Organ Disease Care: A Hierarchical Multi-Agent Reinforcement Learning Framework**|Daniel J. Tan et.al.|[2409.04224](http://arxiv.org/abs/2409.04224)|null|
 |**2024-09-06**|**Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering**|Jan Hofmann et.al.|[2409.04122](http://arxiv.org/abs/2409.04122)|null|
