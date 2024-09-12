@@ -2470,6 +2470,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-10**|**Quantifying and Enabling the Interpretability of CLIP-like Models**|Avinash Madasu et.al.|[2409.06579](http://arxiv.org/abs/2409.06579)|null|
 |**2024-09-10**|**Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT**|Jihyun Lee et.al.|[2409.06243](http://arxiv.org/abs/2409.06243)|null|
 |**2024-09-10**|**Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks**|Georgios Chochlakis et.al.|[2409.06173](http://arxiv.org/abs/2409.06173)|**[link](https://github.com/gchochla/cot-priors)**|
@@ -3290,6 +3291,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|null|
+|**2024-08-26**|**MLP, XGBoost, KAN, TDNN, and LSTM-GRU Hybrid RNN with Attention for SPX and NDX European Call Option Pricing**|Boris Ter-Avanesov et.al.|[2409.06724](http://arxiv.org/abs/2409.06724)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
 |**2024-09-10**|**MCDGLN: Masked Connection-based Dynamic Graph Learning Network for Autism Spectrum Disorder**|Peng Wang et.al.|[2409.06163](http://arxiv.org/abs/2409.06163)|null|
@@ -4209,6 +4212,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Asymptotics of Stochastic Gradient Descent with Dropout Regularization in Linear Models**|Jiaqi Li et.al.|[2409.07434](http://arxiv.org/abs/2409.07434)|**[link](https://github.com/jiaqili97/dropout_sgd)**|
+|**2024-09-11**|**Convergence of continuous-time stochastic gradient descent with applications to linear deep neural networks**|Gabor Lugosi et.al.|[2409.07401](http://arxiv.org/abs/2409.07401)|null|
+|**2024-09-11**|**Tuning-Free Online Robust Principal Component Analysis through Implicit Regularization**|Lakshmi Jayalal et.al.|[2409.07275](http://arxiv.org/abs/2409.07275)|null|
 |**2024-09-10**|**Dynamic Decoupling of Placid Terminal Attractor-based Gradient Descent Algorithm**|Jinwei Zhao et.al.|[2409.06542](http://arxiv.org/abs/2409.06542)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
 |**2024-09-10**|**Frequency range non-Lipschitz parametric optimization of a noise absorption**|Frederic Magoules et.al.|[2409.06292](http://arxiv.org/abs/2409.06292)|null|
@@ -5362,6 +5368,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Asymptotics of Stochastic Gradient Descent with Dropout Regularization in Linear Models**|Jiaqi Li et.al.|[2409.07434](http://arxiv.org/abs/2409.07434)|**[link](https://github.com/jiaqili97/dropout_sgd)**|
+|**2024-09-11**|**Convergence of continuous-time stochastic gradient descent with applications to linear deep neural networks**|Gabor Lugosi et.al.|[2409.07401](http://arxiv.org/abs/2409.07401)|null|
+|**2024-09-11**|**A Contrastive Symmetric Forward-Forward Algorithm (SFFA) for Continual Learning Tasks**|Erik B. Terres-Escudero et.al.|[2409.07387](http://arxiv.org/abs/2409.07387)|null|
+|**2024-09-11**|**Tuning-Free Online Robust Principal Component Analysis through Implicit Regularization**|Lakshmi Jayalal et.al.|[2409.07275](http://arxiv.org/abs/2409.07275)|null|
 |**2024-09-10**|**Dynamic Decoupling of Placid Terminal Attractor-based Gradient Descent Algorithm**|Jinwei Zhao et.al.|[2409.06542](http://arxiv.org/abs/2409.06542)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
 |**2024-09-10**|**Frequency range non-Lipschitz parametric optimization of a noise absorption**|Frederic Magoules et.al.|[2409.06292](http://arxiv.org/abs/2409.06292)|null|
@@ -6435,6 +6445,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Autonomous loading of ore piles with Load-Haul-Dump machines using Deep Reinforcement Learning**|Rodrigo Salas et.al.|[2409.07449](http://arxiv.org/abs/2409.07449)|null|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
+|**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341](http://arxiv.org/abs/2409.07341)|null|
+|**2024-09-11**|**A Framework for Predicting the Impact of Game Balance Changes through Meta Discovery**|Akash Saravanan et.al.|[2409.07340](http://arxiv.org/abs/2409.07340)|null|
+|**2024-09-11**|**Multi-Type Preference Learning: Empowering Preference-Based Reinforcement Learning with Equal Preferences**|Ziang Liu et.al.|[2409.07268](http://arxiv.org/abs/2409.07268)|null|
+|**2024-09-11**|**Perceptive Pedipulation with Local Obstacle Avoidance**|Jonas Stolle et.al.|[2409.07195](http://arxiv.org/abs/2409.07195)|null|
+|**2024-09-11**|**Learning Efficient Recursive Numeral Systems via Reinforcement Learning**|Jonathan D. Thomas et.al.|[2409.07170](http://arxiv.org/abs/2409.07170)|null|
+|**2024-09-11**|**DCMAC: Demand-aware Customized Multi-Agent Communication via Upper Bound Training**|Dongkun Huo et.al.|[2409.07127](http://arxiv.org/abs/2409.07127)|null|
+|**2024-09-11**|**End-to-End and Highly-Efficient Differentiable Simulation for Robotics**|Quentin Le Lidec et.al.|[2409.07107](http://arxiv.org/abs/2409.07107)|null|
+|**2024-09-11**|**Enhancing Cross-domain Pre-Trained Decision Transformers with Adaptive Attention**|Wenhao Zhao et.al.|[2409.06985](http://arxiv.org/abs/2409.06985)|null|
+|**2024-09-11**|**Policy Filtration in RLHF to Fine-Tune LLM for Code Generation**|Wei Shen et.al.|[2409.06957](http://arxiv.org/abs/2409.06957)|**[link](https://github.com/swtheing/pf-ppo-rlhf)**|
+|**2024-09-11**|**Intrapartum Ultrasound Image Segmentation of Pubic Symphysis and Fetal Head Using Dual Student-Teacher Framework with CNN-ViT Collaborative Learning**|Jianmei Jiang et.al.|[2409.06928](http://arxiv.org/abs/2409.06928)|**[link](https://github.com/jjm1589/dstct)**|
+|**2024-09-10**|**Semi-Supervised Reward Modeling via Iterative Self-Training**|Yifei He et.al.|[2409.06903](http://arxiv.org/abs/2409.06903)|null|
+|**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
 |**2024-09-10**|**DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots**|Maria Bauza et.al.|[2409.06613](http://arxiv.org/abs/2409.06613)|null|
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-10**|**Superior Computer Chess with Model Predictive Control, Reinforcement Learning, and Rollout**|Atharva Gundawar et.al.|[2409.06477](http://arxiv.org/abs/2409.06477)|null|
