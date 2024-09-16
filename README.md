@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](http://arxiv.org/abs/2409.08597)|null|
 |**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185](http://arxiv.org/abs/2409.08185)|**[link](https://github.com/wbsg-uni-mannheim/tailormatch)**|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-10**|**Quantifying and Enabling the Interpretability of CLIP-like Models**|Avinash Madasu et.al.|[2409.06579](http://arxiv.org/abs/2409.06579)|null|
@@ -3292,6 +3295,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Distilling Monolingual and Crosslingual Word-in-Context Representations**|Yuki Arase et.al.|[2409.08719](http://arxiv.org/abs/2409.08719)|**[link](https://github.com/yukiar/distil_wic)**|
+|**2024-09-13**|**Dynamic Link and Flow Prediction in Bank Transfer Networks**|Shu Takahashi et.al.|[2409.08718](http://arxiv.org/abs/2409.08718)|null|
+|**2024-09-13**|**RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision**|Shuo Wang et.al.|[2409.08475](http://arxiv.org/abs/2409.08475)|null|
+|**2024-09-13**|**VistaFormer: Scalable Vision Transformers for Satellite Image Time Series Segmentation**|Ezra MacDonald et.al.|[2409.08461](http://arxiv.org/abs/2409.08461)|**[link](https://github.com/macdonaldezra/VistaFormer)**|
 |**2024-09-12**|**SDformer: Efficient End-to-End Transformer for Depth Completion**|Jian Qian et.al.|[2409.08159](http://arxiv.org/abs/2409.08159)|**[link](https://github.com/jamesqian11/sdformer-for-depth-completion)**|
 |**2024-09-12**|**MagicStyle: Portrait Stylization Based on Reference Image**|Zhaoli Deng et.al.|[2409.08156](http://arxiv.org/abs/2409.08156)|null|
 |**2024-09-12**|**Enhancing Few-Shot Image Classification through Learnable Multi-Scale Embedding and Attention Mechanisms**|Fatemeh Askari et.al.|[2409.07989](http://arxiv.org/abs/2409.07989)|**[link](https://github.com/FatemehAskari/MSENet)**|
@@ -4219,6 +4226,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
+|**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
+|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|null|
+|**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
+|**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
 |**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
 |**2024-09-12**|**Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints**|Meiyi Zhu et.al.|[2409.07902](http://arxiv.org/abs/2409.07902)|null|
 |**2024-09-12**|**ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable**|Yuan Yin et.al.|[2409.07830](http://arxiv.org/abs/2409.07830)|null|
@@ -5378,6 +5391,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
+|**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
+|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|null|
+|**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
+|**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
 |**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
 |**2024-09-12**|**Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints**|Meiyi Zhu et.al.|[2409.07902](http://arxiv.org/abs/2409.07902)|null|
 |**2024-09-12**|**ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable**|Yuan Yin et.al.|[2409.07830](http://arxiv.org/abs/2409.07830)|null|
@@ -6458,6 +6477,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
+|**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
+|**2024-09-13**|**Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2409.08938](http://arxiv.org/abs/2409.08938)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**Deep reinforcement learning for tracking a moving target in jellyfish-like swimming**|Yihao Chen et.al.|[2409.08815](http://arxiv.org/abs/2409.08815)|null|
+|**2024-09-13**|**DexSim2Real $^{2}$ : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**|Taoran Jiang et.al.|[2409.08750](http://arxiv.org/abs/2409.08750)|null|
+|**2024-09-13**|**Quasimetric Value Functions with Dense Rewards**|Khadichabonu Valieva et.al.|[2409.08724](http://arxiv.org/abs/2409.08724)|null|
+|**2024-09-13**|**Secure Offloading in NOMA-Aided Aerial MEC Systems Based on Deep Reinforcement Learning**|Hongjiang Lei et.al.|[2409.08579](http://arxiv.org/abs/2409.08579)|null|
+|**2024-09-13**|**Batch Ensemble for Variance Dependent Regret in Stochastic Bandits**|Asaf Cassel et.al.|[2409.08570](http://arxiv.org/abs/2409.08570)|null|
+|**2024-09-13**|**OIDM: An Observability-based Intelligent Distributed Edge Sensing Method for Industrial Cyber-Physical Systems**|Shigeng Wang et.al.|[2409.08549](http://arxiv.org/abs/2409.08549)|null|
+|**2024-09-13**|**Vision-driven UAV River Following: Benchmarking with Safe Reinforcement Learning**|Zihan Wang et.al.|[2409.08511](http://arxiv.org/abs/2409.08511)|null|
+|**2024-09-13**|**Hierarchical Learning Framework for Whole-Body Model Predictive Control of a Real Humanoid Robot**|Koji Ishihara et.al.|[2409.08488](http://arxiv.org/abs/2409.08488)|null|
+|**2024-09-12**|**Fitted Q-Iteration via Max-Plus-Linear Approximation**|Y. Liu et.al.|[2409.08422](http://arxiv.org/abs/2409.08422)|null|
+|**2024-09-12**|**Scores as Actions: a framework of fine-tuning diffusion models by continuous-time reinforcement learning**|Hanyang Zhao et.al.|[2409.08400](http://arxiv.org/abs/2409.08400)|null|
+|**2024-09-12**|**Stochastic Reinforcement Learning with Stability Guarantees for Control of Unknown Nonlinear Systems**|Thanin Quartz et.al.|[2409.08382](http://arxiv.org/abs/2409.08382)|null|
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
