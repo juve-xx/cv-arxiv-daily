@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3271,7 +3271,7 @@ layout: default
 |**2024-09-12**|**Enhancing Q&A Text Retrieval with Ranking Models: Benchmarking, fine-tuning and deploying Rerankers for RAG**|Gabriel de Souza P. Moreira et.al.|[2409.07691](http://arxiv.org/abs/2409.07691)|null|
 |**2024-09-11**|**ENACT: Entropy-based Clustering of Attention Input for Improving the Computational Performance of Object Detection Transformers**|Giorgos Savathrakis et.al.|[2409.07541](http://arxiv.org/abs/2409.07541)|null|
 |**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|**[link](https://github.com/samsunglabs/summarymixing)**|
-|**2024-08-26**|**MLP, XGBoost, KAN, TDNN, and LSTM-GRU Hybrid RNN with Attention for SPX and NDX European Call Option Pricing**|Boris Ter-Avanesov et.al.|[2409.06724](http://arxiv.org/abs/2409.06724)|null|
+|**2024-09-13**|**MLP, XGBoost, KAN, TDNN, and LSTM-GRU Hybrid RNN with Attention for SPX and NDX European Call Option Pricing**|Boris Ter-Avanesov et.al.|[2409.06724](http://arxiv.org/abs/2409.06724)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
 |**2024-09-10**|**MCDGLN: Masked Connection-based Dynamic Graph Learning Network for Autism Spectrum Disorder**|Peng Wang et.al.|[2409.06163](http://arxiv.org/abs/2409.06163)|null|
@@ -3353,7 +3353,7 @@ layout: default
 |**2024-08-18**|**Out-of-distribution generalization via composition: a lens through induction heads in Transformers**|Jiajun Song et.al.|[2408.09503](http://arxiv.org/abs/2408.09503)|**[link](https://github.com/jiajunsong629/ood-generalization-via-composition)**|
 |**2024-08-20**|**ELASTIC: Efficient Linear Attention for Sequential Interest Compression**|Jiaxin Deng et.al.|[2408.09380](http://arxiv.org/abs/2408.09380)|null|
 |**2024-08-17**|**Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification**|Zhipeng Zheng et.al.|[2408.09230](http://arxiv.org/abs/2408.09230)|null|
-|**2024-08-17**|**Linear Attention is Enough in Spatial-Temporal Forecasting**|Xinyu Ning et.al.|[2408.09158](http://arxiv.org/abs/2408.09158)|null|
+|**2024-09-13**|**Linear Attention is Enough in Spatial-Temporal Forecasting**|Xinyu Ning et.al.|[2408.09158](http://arxiv.org/abs/2408.09158)|null|
 |**2024-08-21**|**Selective Prompt Anchoring for Code Generation**|Yuan Tian et.al.|[2408.09121](http://arxiv.org/abs/2408.09121)|**[link](https://github.com/magic-yuantian/selective-prompt-anchoring)**|
 |**2024-08-16**|**Decoupling Feature Representations of Ego and Other Modalities for Incomplete Multi-modal Brain Tumor Segmentation**|Kaixiang Yang et.al.|[2408.08708](http://arxiv.org/abs/2408.08708)|**[link](https://github.com/kk42yy/demoseg)**|
 |**2024-08-28**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454](http://arxiv.org/abs/2408.08454)|**[link](https://github.com/zohaib-khan5040/key-driven-gqa)**|
@@ -4208,7 +4208,7 @@ layout: default
 |**2024-09-08**|**Asymptotic and Non-Asymptotic Convergence Analysis of AdaGrad for Non-Convex Optimization via Novel Stopping Time-based Analysis**|Ruinan Jin et.al.|[2409.05023](http://arxiv.org/abs/2409.05023)|null|
 |**2024-09-08**|**DynamicFL: Federated Learning with Dynamic Communication Resource Allocation**|Qi Le et.al.|[2409.04986](http://arxiv.org/abs/2409.04986)|null|
 |**2024-09-08**|**Stochastic gradient descent method with convex penalty for ill-posed problems in Banach spaces**|Ruixue Gu et.al.|[2409.04973](http://arxiv.org/abs/2409.04973)|null|
-|**2024-09-07**|**NGD converges to less degenerate solutions than SGD**|Moosa Saghir et.al.|[2409.04913](http://arxiv.org/abs/2409.04913)|**[link](https://github.com/cxtraa/ngd_with_slt)**|
+|**2024-09-12**|**NGD converges to less degenerate solutions than SGD**|Moosa Saghir et.al.|[2409.04913](http://arxiv.org/abs/2409.04913)|**[link](https://github.com/cxtraa/ngd_with_slt)**|
 |**2024-09-07**|**SPIRIT: Low Power Seizure Prediction using Unsupervised Online-Learning and Zoom Analog Frontends**|Aviral Pandey et.al.|[2409.04838](http://arxiv.org/abs/2409.04838)|null|
 |**2024-09-07**|**A Sample Efficient Alternating Minimization-based Algorithm For Robust Phase Retrieval**|Adarsh Barik et.al.|[2409.04733](http://arxiv.org/abs/2409.04733)|null|
 |**2024-09-07**|**Enhancing Deep Learning with Optimized Gradient Descent: Bridging Numerical Methods and Neural Network Training**|Yuhan Ma et.al.|[2409.04707](http://arxiv.org/abs/2409.04707)|null|
@@ -5364,7 +5364,7 @@ layout: default
 |**2024-09-08**|**Asymptotic and Non-Asymptotic Convergence Analysis of AdaGrad for Non-Convex Optimization via Novel Stopping Time-based Analysis**|Ruinan Jin et.al.|[2409.05023](http://arxiv.org/abs/2409.05023)|null|
 |**2024-09-08**|**DynamicFL: Federated Learning with Dynamic Communication Resource Allocation**|Qi Le et.al.|[2409.04986](http://arxiv.org/abs/2409.04986)|null|
 |**2024-09-08**|**Stochastic gradient descent method with convex penalty for ill-posed problems in Banach spaces**|Ruixue Gu et.al.|[2409.04973](http://arxiv.org/abs/2409.04973)|null|
-|**2024-09-07**|**NGD converges to less degenerate solutions than SGD**|Moosa Saghir et.al.|[2409.04913](http://arxiv.org/abs/2409.04913)|**[link](https://github.com/cxtraa/ngd_with_slt)**|
+|**2024-09-12**|**NGD converges to less degenerate solutions than SGD**|Moosa Saghir et.al.|[2409.04913](http://arxiv.org/abs/2409.04913)|**[link](https://github.com/cxtraa/ngd_with_slt)**|
 |**2024-09-07**|**SPIRIT: Low Power Seizure Prediction using Unsupervised Online-Learning and Zoom Analog Frontends**|Aviral Pandey et.al.|[2409.04838](http://arxiv.org/abs/2409.04838)|null|
 |**2024-09-07**|**A Sample Efficient Alternating Minimization-based Algorithm For Robust Phase Retrieval**|Adarsh Barik et.al.|[2409.04733](http://arxiv.org/abs/2409.04733)|null|
 |**2024-09-07**|**Enhancing Deep Learning with Optimized Gradient Descent: Bridging Numerical Methods and Neural Network Training**|Yuhan Ma et.al.|[2409.04707](http://arxiv.org/abs/2409.04707)|null|
@@ -6457,7 +6457,7 @@ layout: default
 |**2024-09-11**|**Intrapartum Ultrasound Image Segmentation of Pubic Symphysis and Fetal Head Using Dual Student-Teacher Framework with CNN-ViT Collaborative Learning**|Jianmei Jiang et.al.|[2409.06928](http://arxiv.org/abs/2409.06928)|**[link](https://github.com/jjm1589/dstct)**|
 |**2024-09-10**|**Semi-Supervised Reward Modeling via Iterative Self-Training**|Yifei He et.al.|[2409.06903](http://arxiv.org/abs/2409.06903)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-09-10**|**A Quality Diversity Approach to Automatically Generate Multi-Agent Path Finding Benchmark Maps**|Cheng Qian et.al.|[2409.06888](http://arxiv.org/abs/2409.06888)|null|
-|**2024-09-10**|**DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots**|Maria Bauza et.al.|[2409.06613](http://arxiv.org/abs/2409.06613)|null|
+|**2024-09-12**|**DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots**|Maria Bauza et.al.|[2409.06613](http://arxiv.org/abs/2409.06613)|null|
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-10**|**Superior Computer Chess with Model Predictive Control, Reinforcement Learning, and Rollout**|Atharva Gundawar et.al.|[2409.06477](http://arxiv.org/abs/2409.06477)|null|
 |**2024-09-10**|**Learning Generative Interactive Environments By Trained Agent Exploration**|Naser Kazemi et.al.|[2409.06445](http://arxiv.org/abs/2409.06445)|**[link](https://github.com/insait-institute/genieredux)**|
