@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3282,7 +3282,7 @@ layout: default
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**AgileIR: Memory-Efficient Group Shifted Windows Attention for Agile Image Restoration**|Hongyi Cai et.al.|[2409.06206](http://arxiv.org/abs/2409.06206)|null|
 |**2024-09-10**|**MCDGLN: Masked Connection-based Dynamic Graph Learning Network for Autism Spectrum Disorder**|Peng Wang et.al.|[2409.06163](http://arxiv.org/abs/2409.06163)|null|
-|**2024-09-09**|**HMAFlow: Learning More Accurate Optical Flow via Hierarchical Motion Field Alignment**|Dianbo Ma et.al.|[2409.05531](http://arxiv.org/abs/2409.05531)|**[link](https://github.com/booturbo/hmaflow)**|
+|**2024-09-15**|**HMAFlow: Learning More Accurate Optical Flow via Hierarchical Motion Field Alignment**|Dianbo Ma et.al.|[2409.05531](http://arxiv.org/abs/2409.05531)|**[link](https://github.com/booturbo/hmaflow)**|
 |**2024-09-10**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
 |**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|null|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
@@ -4266,7 +4266,7 @@ layout: default
 |**2024-08-28**|**Cellwise robust and sparse principal component analysis**|Pia Pfeiffer et.al.|[2408.15612](http://arxiv.org/abs/2408.15612)|null|
 |**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
-|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
+|**2024-09-14**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
 |**2024-08-24**|**Optimal Layer Selection for Latent Data Augmentation**|Tomoumi Takase et.al.|[2408.13426](http://arxiv.org/abs/2408.13426)|null|
 |**2024-09-10**|**Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity**|Dominik Stöger et.al.|[2408.13276](http://arxiv.org/abs/2408.13276)|null|
@@ -5432,7 +5432,7 @@ layout: default
 |**2024-08-28**|**Cellwise robust and sparse principal component analysis**|Pia Pfeiffer et.al.|[2408.15612](http://arxiv.org/abs/2408.15612)|null|
 |**2024-08-26**|**Effect of Adaptation Rate and Cost Display in a Human-AI Interaction Game**|Jason T. Isa et.al.|[2408.14640](http://arxiv.org/abs/2408.14640)|null|
 |**2024-08-25**|**Batch-FPM: Random batch-update multi-parameter physical Fourier ptychography neural network**|Ruiqing Sun et.al.|[2408.13782](http://arxiv.org/abs/2408.13782)|null|
-|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
+|**2024-09-14**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-24**|**DOPPLER: Differentially Private Optimizers with Low-pass Filter for Privacy Noise Reduction**|Xinwei Zhang et.al.|[2408.13460](http://arxiv.org/abs/2408.13460)|null|
 |**2024-08-24**|**Optimal Layer Selection for Latent Data Augmentation**|Tomoumi Takase et.al.|[2408.13426](http://arxiv.org/abs/2408.13426)|null|
 |**2024-09-10**|**Non-convex matrix sensing: Breaking the quadratic rank barrier in the sample complexity**|Dominik Stöger et.al.|[2408.13276](http://arxiv.org/abs/2408.13276)|null|
@@ -6460,7 +6460,7 @@ layout: default
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
 |**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231](http://arxiv.org/abs/2409.08231)|null|
-|**2024-09-12**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
+|**2024-09-13**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
 |**2024-09-12**|**Optimal Management of Grid-Interactive Efficient Buildings via Safe Reinforcement Learning**|Xiang Huo et.al.|[2409.08132](http://arxiv.org/abs/2409.08132)|null|
 |**2024-09-12**|**Linear Complementary Dual Codes Constructed from Reinforcement Learning**|Yansheng Wu et.al.|[2409.08114](http://arxiv.org/abs/2409.08114)|null|
 |**2024-09-12**|**Q-value Regularized Decision ConvFormer for Offline Reinforcement Learning**|Teng Yan et.al.|[2409.08062](http://arxiv.org/abs/2409.08062)|null|
