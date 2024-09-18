@@ -2470,6 +2470,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models**|Mengfei Liang et.al.|[2409.11353](http://arxiv.org/abs/2409.11353)|null|
+|**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
+|**2024-09-17**|**Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning**|Yukang Lin et.al.|[2409.11147](http://arxiv.org/abs/2409.11147)|**[link](https://github.com/yukang-lin/rger)**|
+|**2024-09-17**|**Semformer: Transformer Language Models with Semantic Planning**|Yongjing Yin et.al.|[2409.11143](http://arxiv.org/abs/2409.11143)|null|
+|**2024-09-17**|**Towards No-Code Programming of Cobots: Experiments with Code Synthesis by Large Code Models for Conversational Programming**|Kranti Chalamalasetti et.al.|[2409.11041](http://arxiv.org/abs/2409.11041)|null|
+|**2024-09-09**|**Unveiling Induction Heads: Provable Training Dynamics and Feature Learning in Transformers**|Siyu Chen et.al.|[2409.10559](http://arxiv.org/abs/2409.10559)|null|
+|**2024-08-31**|**Beyond Flashcards: Designing an Intelligent Assistant for USMLE Mastery and Virtual Tutoring in Medical Education (A Study on Harnessing Chatbot Technology for Personalized Step 1 Prep)**|Ritwik Raj Saxena et.al.|[2409.10540](http://arxiv.org/abs/2409.10540)|null|
 |**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
 |**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
 |**2024-09-16**|**From Text to Emoji: How PEFT-Driven Personality Manipulation Unleashes the Emoji Potential in LLMs**|Navya Jain et.al.|[2409.10245](http://arxiv.org/abs/2409.10245)|null|
@@ -3302,6 +3309,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics**|Luis E. Herrera Rodríguez et.al.|[2409.11320](http://arxiv.org/abs/2409.11320)|null|
+|**2024-09-17**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|null|
+|**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
+|**2024-09-16**|**Self-Attention Limits Working Memory Capacity of Transformer-Based Models**|Dongyu Gong et.al.|[2409.10715](http://arxiv.org/abs/2409.10715)|null|
 |**2024-09-16**|**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**|Minghan Chen et.al.|[2409.10262](http://arxiv.org/abs/2409.10262)|null|
 |**2024-09-16**|**Hedging Is Not All You Need: A Simple Baseline for Online Learning Under Haphazard Inputs**|Himanshu Buckchash et.al.|[2409.10242](http://arxiv.org/abs/2409.10242)|null|
 |**2024-09-16**|**Self-Supervised Syllable Discovery Based on Speaker-Disentangled HuBERT**|Ryota Komatsu et.al.|[2409.10103](http://arxiv.org/abs/2409.10103)|**[link](https://github.com/ryota-komatsu/speaker_disentangled_hubert)**|
@@ -4241,6 +4253,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Inexact Riemannian Gradient Descent Method for Nonconvex Optimization**|Juan Zhou et.al.|[2409.11181](http://arxiv.org/abs/2409.11181)|null|
+|**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049](http://arxiv.org/abs/2409.11049)|null|
+|**2024-09-16**|**Trajectory-Oriented Control Using Gradient Descent: An Unconventional Approach**|Ramin Esmzad et.al.|[2409.10662](http://arxiv.org/abs/2409.10662)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-17**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
@@ -5418,6 +5433,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Inexact Riemannian Gradient Descent Method for Nonconvex Optimization**|Juan Zhou et.al.|[2409.11181](http://arxiv.org/abs/2409.11181)|null|
+|**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049](http://arxiv.org/abs/2409.11049)|null|
+|**2024-09-16**|**Trajectory-Oriented Control Using Gradient Descent: An Unconventional Approach**|Ramin Esmzad et.al.|[2409.10662](http://arxiv.org/abs/2409.10662)|null|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
 |**2024-09-17**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
@@ -6516,6 +6534,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
+|**2024-09-17**|**Integrating Reinforcement Learning and Model Predictive Control with Applications to Microgrids**|Caio Fabio Oliveira da Silva et.al.|[2409.11267](http://arxiv.org/abs/2409.11267)|null|
+|**2024-09-17**|**Attacking Slicing Network via Side-channel Reinforcement Learning Attack**|Wei Shao et.al.|[2409.11258](http://arxiv.org/abs/2409.11258)|null|
+|**2024-09-17**|**LLM-as-a-Judge & Reward Model: What They Can and Cannot Do**|Guijin Son et.al.|[2409.11239](http://arxiv.org/abs/2409.11239)|null|
+|**2024-09-17**|**Leveraging Symmetry to Accelerate Learning of Trajectory Tracking Controllers for Free-Flying Robotic Systems**|Jake Welde et.al.|[2409.11238](http://arxiv.org/abs/2409.11238)|null|
+|**2024-09-17**|**Linear Jamming Bandits: Learning to Jam 5G-based Coded Communications Systems**|Zachary Schutz et.al.|[2409.11191](http://arxiv.org/abs/2409.11191)|null|
+|**2024-09-17**|**Preventing Unconstrained CBF Safety Filters Caused by Invalid Relative Degree Assumptions**|Lukas Brunke et.al.|[2409.11171](http://arxiv.org/abs/2409.11171)|null|
+|**2024-09-17**|**Co-Designing Tools and Control Policies for Robust Manipulation**|Yifei Dong et.al.|[2409.11113](http://arxiv.org/abs/2409.11113)|null|
+|**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
+|**2024-09-17**|**A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler**|Nazim Bendib et.al.|[2409.11068](http://arxiv.org/abs/2409.11068)|null|
+|**2024-09-17**|**On-policy Actor-Critic Reinforcement Learning for Multi-UAV Exploration**|Ali Moltajaei Farid et.al.|[2409.11058](http://arxiv.org/abs/2409.11058)|null|
+|**2024-09-17**|**Agile Continuous Jumping in Discontinuous Terrains**|Yuxiang Yang et.al.|[2409.10923](http://arxiv.org/abs/2409.10923)|null|
+|**2024-09-17**|**DIGIMON: Diagnosis and Mitigation of Sampling Skew for Reinforcement Learning based Meta-Planner in Robot Navigation**|Shiwei Feng et.al.|[2409.10832](http://arxiv.org/abs/2409.10832)|null|
+|**2024-09-16**|**Provably Efficient Infinite-Horizon Average-Reward Reinforcement Learning with Linear Function Approximation**|Woojin Chae et.al.|[2409.10772](http://arxiv.org/abs/2409.10772)|null|
+|**2024-09-16**|**A Model-Free Optimal Control Method With Fixed Terminal States and Delay**|Mi Zhou et.al.|[2409.10722](http://arxiv.org/abs/2409.10722)|null|
+|**2024-09-16**|**Direct Data-Driven Discounted Infinite Horizon Linear Quadratic Regulator with Robustness Guarantees**|Ramin Esmzad et.al.|[2409.10703](http://arxiv.org/abs/2409.10703)|null|
+|**2024-09-16**|**Mitigating Partial Observability in Adaptive Traffic Signal Control with Transformers**|Xiaoyu Wang et.al.|[2409.10693](http://arxiv.org/abs/2409.10693)|null|
+|**2024-09-16**|**Disentangling Uncertainty for Safe Social Navigation using Deep Reinforcement Learning**|Daniel Flögel et.al.|[2409.10655](http://arxiv.org/abs/2409.10655)|null|
+|**2024-09-16**|**Logic Synthesis Optimization with Predictive Self-Supervision via Causal Transformers**|Raika Karimi et.al.|[2409.10653](http://arxiv.org/abs/2409.10653)|null|
+|**2024-09-16**|**Offline Reinforcement Learning for Learning to Dispatch for Job Shop Scheduling**|Jesse van Remmerden et.al.|[2409.10589](http://arxiv.org/abs/2409.10589)|null|
+|**2024-09-16**|**Reinforcement Learning with Quasi-Hyperbolic Discounting**|S. R. Eshwar et.al.|[2409.10583](http://arxiv.org/abs/2409.10583)|null|
+|**2024-09-13**|**Applying Action Masking and Curriculum Learning Techniques to Improve Data Efficiency and Overall Performance in Operational Technology Cyber Security using Reinforcement Learning**|Alec Wilson et.al.|[2409.10563](http://arxiv.org/abs/2409.10563)|null|
 |**2024-09-16**|**Instigating Cooperation among LLM Agents Using Adaptive Information Modulation**|Qiliang Chen et.al.|[2409.10372](http://arxiv.org/abs/2409.10372)|null|
 |**2024-09-16**|**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**|Yuanhang Zhang et.al.|[2409.10319](http://arxiv.org/abs/2409.10319)|null|
 |**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
