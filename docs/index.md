@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2458,7 +2458,7 @@ layout: default
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-10**|**Quantifying and Enabling the Interpretability of CLIP-like Models**|Avinash Madasu et.al.|[2409.06579](http://arxiv.org/abs/2409.06579)|null|
 |**2024-09-10**|**Inference is All You Need: Self Example Retriever for Cross-domain Dialogue State Tracking with ChatGPT**|Jihyun Lee et.al.|[2409.06243](http://arxiv.org/abs/2409.06243)|null|
-|**2024-09-10**|**Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks**|Georgios Chochlakis et.al.|[2409.06173](http://arxiv.org/abs/2409.06173)|**[link](https://github.com/gchochla/cot-priors)**|
+|**2024-09-17**|**Larger Language Models Don't Care How You Think: Why Chain-of-Thought Prompting Fails in Subjective Tasks**|Georgios Chochlakis et.al.|[2409.06173](http://arxiv.org/abs/2409.06173)|**[link](https://github.com/gchochla/cot-priors)**|
 |**2024-09-09**|**Seek and Solve Reasoning for Table Question Answering**|Ruya Jiang et.al.|[2409.05286](http://arxiv.org/abs/2409.05286)|null|
 |**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
 |**2024-09-07**|**MILE: A Mutation Testing Framework of In-Context Learning Systems**|Zeming Wei et.al.|[2409.04831](http://arxiv.org/abs/2409.04831)|**[link](https://github.com/weizeming/mile)**|
@@ -4213,7 +4213,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
-|**2024-09-16**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
+|**2024-09-17**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
 |**2024-09-16**|**On the Hardness of Meaningful Local Guarantees in Nonsmooth Nonconvex Optimization**|Guy Kornowski et.al.|[2409.10323](http://arxiv.org/abs/2409.10323)|null|
 |**2024-09-16**|**Kernel Descent -- a Novel Optimizer for Variational Quantum Algorithms**|Lars Simon et.al.|[2409.10257](http://arxiv.org/abs/2409.10257)|null|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
@@ -5386,7 +5386,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-16**|**Partial Distribution Matching via Partial Wasserstein Adversarial Networks**|Zi-Ming Wang et.al.|[2409.10499](http://arxiv.org/abs/2409.10499)|null|
 |**2024-09-16**|**Local SGD for Near-Quadratic Problems: Improving Convergence under Unconstrained Noise Conditions**|Andrey Sadchikov et.al.|[2409.10478](http://arxiv.org/abs/2409.10478)|null|
-|**2024-09-16**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
+|**2024-09-17**|**New Aspects of Black Box Conditional Gradient: Variance Reduction and One Point Feedback**|Andrey Veprikov et.al.|[2409.10442](http://arxiv.org/abs/2409.10442)|null|
 |**2024-09-16**|**On the Hardness of Meaningful Local Guarantees in Nonsmooth Nonconvex Optimization**|Guy Kornowski et.al.|[2409.10323](http://arxiv.org/abs/2409.10323)|null|
 |**2024-09-16**|**Kernel Descent -- a Novel Optimizer for Variational Quantum Algorithms**|Lars Simon et.al.|[2409.10257](http://arxiv.org/abs/2409.10257)|null|
 |**2024-09-16**|**Adaptive Segmentation-Based Initialization for Steered Mixture of Experts Image Regression**|Yi-Hsin Li et.al.|[2409.10101](http://arxiv.org/abs/2409.10101)|null|
@@ -6504,7 +6504,7 @@ layout: default
 |**2024-09-14**|**Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens**|Joseph Clinton et.al.|[2409.09513](http://arxiv.org/abs/2409.09513)|null|
 |**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-09-14**|**Learning to enhance multi-legged robot on rugged landscapes**|Juntao He et.al.|[2409.09473](http://arxiv.org/abs/2409.09473)|null|
-|**2024-09-14**|**PIP-Loco: A Proprioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion**|Aditya Shirwatkar et.al.|[2409.09441](http://arxiv.org/abs/2409.09441)|null|
+|**2024-09-17**|**PIP-Loco: A Proprioceptive Infinite Horizon Planning Framework for Quadrupedal Robot Locomotion**|Aditya Shirwatkar et.al.|[2409.09441](http://arxiv.org/abs/2409.09441)|null|
 |**2024-09-14**|**Generative AI in Data Center Networking: Fundamentals, Perspectives, and Case Study**|Yinqiu Liu et.al.|[2409.09343](http://arxiv.org/abs/2409.09343)|null|
 |**2024-09-14**|**Persistent pseudopod splitting is an effective chemotaxis strategy in shallow gradients**|Albert Alonso et.al.|[2409.09342](http://arxiv.org/abs/2409.09342)|null|
 |**2024-09-14**|**High-Fidelity Data-Driven Dynamics Model for Reinforcement Learning-based Magnetic Control in HL-3 Tokamak**|Niannian Wu et.al.|[2409.09238](http://arxiv.org/abs/2409.09238)|null|
