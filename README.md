@@ -3322,7 +3322,7 @@
 |**2024-09-17**|**A Framework for Ranking Content Providers Using Prompt Engineering and Self-Attention Network**|Gosuddin Kamaruddin Siddiqi et.al.|[2409.11511](http://arxiv.org/abs/2409.11511)|null|
 |**2024-09-17**|**A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics**|Luis E. Herrera Rodríguez et.al.|[2409.11320](http://arxiv.org/abs/2409.11320)|null|
 |**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
-|**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|null|
+|**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|**[link](https://github.com/EruM16/Attention-Seeker)**|
 |**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
 |**2024-09-16**|**Self-Attention Limits Working Memory Capacity of Transformer-Based Models**|Dongyu Gong et.al.|[2409.10715](http://arxiv.org/abs/2409.10715)|null|
 |**2024-09-16**|**Hydra-SGG: Hybrid Relation Assignment for One-stage Scene Graph Generation**|Minghan Chen et.al.|[2409.10262](http://arxiv.org/abs/2409.10262)|null|
@@ -3350,7 +3350,7 @@
 |**2024-09-10**|**MCDGLN: Masked Connection-based Dynamic Graph Learning Network for Autism Spectrum Disorder**|Peng Wang et.al.|[2409.06163](http://arxiv.org/abs/2409.06163)|null|
 |**2024-09-15**|**HMAFlow: Learning More Accurate Optical Flow via Hierarchical Motion Field Alignment**|Dianbo Ma et.al.|[2409.05531](http://arxiv.org/abs/2409.05531)|**[link](https://github.com/booturbo/hmaflow)**|
 |**2024-09-18**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
-|**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|null|
+|**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|**[link](https://github.com/GISWLH/CAS-Canglong)**|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
 |**2024-09-08**|**An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing**|Ashkan Moradifirouzabadi et.al.|[2409.04940](http://arxiv.org/abs/2409.04940)|null|
 |**2024-09-07**|**Efficient Training of Transformers for Molecule Property Prediction on Small-scale Datasets**|Shivesh Prakash et.al.|[2409.04909](http://arxiv.org/abs/2409.04909)|null|
@@ -4284,10 +4284,10 @@
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
 |**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
-|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|null|
+|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|**[link](https://github.com/reysam93/online_ntf_expanding)**|
 |**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
 |**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
-|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|**[link](https://github.com/oarriaga/bayesian-inverse-graphics)**|
 |**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
 |**2024-09-12**|**Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints**|Meiyi Zhu et.al.|[2409.07902](http://arxiv.org/abs/2409.07902)|null|
 |**2024-09-12**|**ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable**|Yuan Yin et.al.|[2409.07830](http://arxiv.org/abs/2409.07830)|null|
@@ -4300,7 +4300,7 @@
 |**2024-09-09**|**Fast gradient-free optimization of excitations in variational quantum eigensolvers**|Jonas Jäger et.al.|[2409.05939](http://arxiv.org/abs/2409.05939)|null|
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**Input Space Mode Connectivity in Deep Neural Networks**|Jakub Vrabel et.al.|[2409.05800](http://arxiv.org/abs/2409.05800)|null|
-|**2024-09-09**|**Structured Random Model for Fast and Robust Phase Retrieval**|Zhiyuan Hu et.al.|[2409.05734](http://arxiv.org/abs/2409.05734)|null|
+|**2024-09-09**|**Structured Random Model for Fast and Robust Phase Retrieval**|Zhiyuan Hu et.al.|[2409.05734](http://arxiv.org/abs/2409.05734)|**[link](https://github.com/zhiyhucode/structured_random_phase_retrieval)**|
 |**2024-09-09**|**Efficient estimation with incomplete data via generalised ANOVA decomposition**|Thomas B. Berrett et.al.|[2409.05729](http://arxiv.org/abs/2409.05729)|null|
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-08**|**Designing precise dynamical steady states in disordered networks**|Marc Berneman et.al.|[2409.05060](http://arxiv.org/abs/2409.05060)|null|
@@ -5469,10 +5469,10 @@
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
 |**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
-|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|null|
+|**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|**[link](https://github.com/reysam93/online_ntf_expanding)**|
 |**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
 |**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
-|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|null|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351](http://arxiv.org/abs/2409.08351)|**[link](https://github.com/oarriaga/bayesian-inverse-graphics)**|
 |**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
 |**2024-09-12**|**Conformal Distributed Remote Inference in Sensor Networks Under Reliability and Communication Constraints**|Meiyi Zhu et.al.|[2409.07902](http://arxiv.org/abs/2409.07902)|null|
 |**2024-09-12**|**ReGentS: Real-World Safety-Critical Driving Scenario Generation Made Stable**|Yuan Yin et.al.|[2409.07830](http://arxiv.org/abs/2409.07830)|null|
@@ -5486,7 +5486,7 @@
 |**2024-09-09**|**Fast gradient-free optimization of excitations in variational quantum eigensolvers**|Jonas Jäger et.al.|[2409.05939](http://arxiv.org/abs/2409.05939)|null|
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**Input Space Mode Connectivity in Deep Neural Networks**|Jakub Vrabel et.al.|[2409.05800](http://arxiv.org/abs/2409.05800)|null|
-|**2024-09-09**|**Structured Random Model for Fast and Robust Phase Retrieval**|Zhiyuan Hu et.al.|[2409.05734](http://arxiv.org/abs/2409.05734)|null|
+|**2024-09-09**|**Structured Random Model for Fast and Robust Phase Retrieval**|Zhiyuan Hu et.al.|[2409.05734](http://arxiv.org/abs/2409.05734)|**[link](https://github.com/zhiyhucode/structured_random_phase_retrieval)**|
 |**2024-09-09**|**Efficient estimation with incomplete data via generalised ANOVA decomposition**|Thomas B. Berrett et.al.|[2409.05729](http://arxiv.org/abs/2409.05729)|null|
 |**2024-09-09**|**SpikingRx: From Neural to Spiking Receiver**|Ankit Gupta et.al.|[2409.05610](http://arxiv.org/abs/2409.05610)|null|
 |**2024-09-08**|**Designing precise dynamical steady states in disordered networks**|Marc Berneman et.al.|[2409.05060](http://arxiv.org/abs/2409.05060)|null|
@@ -6562,7 +6562,7 @@
 |**2024-09-18**|**Data-Efficient Quadratic Q-Learning Using LMIs**|J. S. van Hulst et.al.|[2409.11986](http://arxiv.org/abs/2409.11986)|null|
 |**2024-09-18**|**Reinforcement Learning with Lie Group Orientations for Robotics**|Martin Schuck et.al.|[2409.11935](http://arxiv.org/abs/2409.11935)|null|
 |**2024-09-18**|**Reinforcement Learning as an Improvement Heuristic for Real-World Production Scheduling**|Arthur Müller et.al.|[2409.11933](http://arxiv.org/abs/2409.11933)|null|
-|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|null|
+|**2024-09-18**|**Secure Control Systems for Autonomous Quadrotors against Cyber-Attacks**|Samuel Belkadi et.al.|[2409.11897](http://arxiv.org/abs/2409.11897)|**[link](https://github.com/samysam0/babee)**|
 |**2024-09-18**|**XP-MARL: Auxiliary Prioritization in Multi-Agent Reinforcement Learning to Address Non-Stationarity**|Jianye Xu et.al.|[2409.11852](http://arxiv.org/abs/2409.11852)|null|
 |**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
 |**2024-09-18**|**Synthesizing Evolving Symbolic Representations for Autonomous Systems**|Gabriele Sartor et.al.|[2409.11756](http://arxiv.org/abs/2409.11756)|**[link](https://github.com/gabrielesartor/discover_plan_act)**|
@@ -6601,10 +6601,10 @@
 |**2024-09-16**|**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**|Yuanhang Zhang et.al.|[2409.10319](http://arxiv.org/abs/2409.10319)|null|
 |**2024-09-18**|**ReflectDiffu:Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
 |**2024-09-16**|**Safety-Oriented Pruning and Interpretation of Reinforcement Learning Policies**|Dennis Gross et.al.|[2409.10218](http://arxiv.org/abs/2409.10218)|null|
-|**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|null|
+|**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-16**|**Safe and Stable Closed-Loop Learning for Neural-Network-Supported Model Predictive Control**|Sebastian Hirt et.al.|[2409.10171](http://arxiv.org/abs/2409.10171)|null|
-|**2024-09-16**|**Quantile Regression for Distributional Reward Models in RLHF**|Nicolai Dorka et.al.|[2409.10164](http://arxiv.org/abs/2409.10164)|null|
-|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|null|
+|**2024-09-16**|**Quantile Regression for Distributional Reward Models in RLHF**|Nicolai Dorka et.al.|[2409.10164](http://arxiv.org/abs/2409.10164)|**[link](https://github.com/nicolinho/qrm)**|
+|**2024-09-16**|**Robust Reinforcement Learning with Dynamic Distortion Risk Measures**|Anthony Coache et.al.|[2409.10096](http://arxiv.org/abs/2409.10096)|**[link](https://github.com/acoache/RL-DynamicRobustRisk)**|
 |**2024-09-16**|**Audio-Driven Reinforcement Learning for Head-Orientation in Naturalistic Environments**|Wessel Ledder et.al.|[2409.10048](http://arxiv.org/abs/2409.10048)|null|
 |**2024-09-16**|**Reinforcement learning-based statistical search strategy for an axion model from flavor**|Satsuki Nishimura et.al.|[2409.10023](http://arxiv.org/abs/2409.10023)|null|
 |**2024-09-16**|**Learning Agile Swimming: An End-to-End Approach without CPGs**|Xiaozhu Lin et.al.|[2409.10019](http://arxiv.org/abs/2409.10019)|null|
@@ -6631,7 +6631,7 @@
 |**2024-09-13**|**The unknotting number, hard unknot diagrams, and reinforcement learning**|Taylor Applebaum et.al.|[2409.09032](http://arxiv.org/abs/2409.09032)|null|
 |**2024-09-13**|**Modeling Rational Adaptation of Visual Search to Hierarchical Structures**|Saku Sourulahti et.al.|[2409.08967](http://arxiv.org/abs/2409.08967)|null|
 |**2024-09-13**|**Average-Reward Maximum Entropy Reinforcement Learning for Underactuated Double Pendulum Tasks**|Jean Seong Bjorn Choe et.al.|[2409.08938](http://arxiv.org/abs/2409.08938)|null|
-|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|**[link](https://github.com/sjtu-mvasl-robotics/AnyBipe)**|
 |**2024-09-13**|**Deep reinforcement learning for tracking a moving target in jellyfish-like swimming**|Yihao Chen et.al.|[2409.08815](http://arxiv.org/abs/2409.08815)|null|
 |**2024-09-13**|**DexSim2Real $^{2}$ : Building Explicit World Model for Precise Articulated Object Dexterous Manipulation**|Taoran Jiang et.al.|[2409.08750](http://arxiv.org/abs/2409.08750)|null|
 |**2024-09-13**|**Quasimetric Value Functions with Dense Rewards**|Khadichabonu Valieva et.al.|[2409.08724](http://arxiv.org/abs/2409.08724)|null|
@@ -6646,7 +6646,7 @@
 |**2024-09-12**|**Hand-Object Interaction Pretraining from Videos**|Himanshu Gaurav Singh et.al.|[2409.08273](http://arxiv.org/abs/2409.08273)|null|
 |**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
 |**2024-09-12**|**Towards Online Safety Corrections for Robotic Manipulation Policies**|Ariana Spalter et.al.|[2409.08233](http://arxiv.org/abs/2409.08233)|null|
-|**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231](http://arxiv.org/abs/2409.08231)|null|
+|**2024-09-12**|**Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning**|Jinsu Kim et.al.|[2409.08231](http://arxiv.org/abs/2409.08231)|**[link](https://github.com/ZINZINBIN/Fusion-Reactor-Design-Project)**|
 |**2024-09-13**|**Adaptive Language-Guided Abstraction from Contrastive Explanations**|Andi Peng et.al.|[2409.08212](http://arxiv.org/abs/2409.08212)|null|
 |**2024-09-12**|**Optimal Management of Grid-Interactive Efficient Buildings via Safe Reinforcement Learning**|Xiang Huo et.al.|[2409.08132](http://arxiv.org/abs/2409.08132)|null|
 |**2024-09-12**|**Linear Complementary Dual Codes Constructed from Reinforcement Learning**|Yansheng Wu et.al.|[2409.08114](http://arxiv.org/abs/2409.08114)|null|
