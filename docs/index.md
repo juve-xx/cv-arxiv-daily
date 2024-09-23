@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6581,7 +6581,7 @@ layout: default
 |**2024-09-15**|**Mitigating Dimensionality in 2D Rectangle Packing Problem under Reinforcement Learning Schema**|Waldemar Kołodziejczyk et.al.|[2409.09677](http://arxiv.org/abs/2409.09677)|null|
 |**2024-09-15**|**KAN v.s. MLP for Offline Reinforcement Learning**|Haihong Guo et.al.|[2409.09653](http://arxiv.org/abs/2409.09653)|null|
 |**2024-09-15**|**Towards Data-Centric RLHF: Simple Metrics for Preference Dataset Comparison**|Judy Hanwen Shen et.al.|[2409.09603](http://arxiv.org/abs/2409.09603)|null|
-|**2024-09-14**|**Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation**|Yiwei Shi et.al.|[2409.09541](http://arxiv.org/abs/2409.09541)|null|
+|**2024-09-20**|**Autonomous Goal Detection and Cessation in Reinforcement Learning: A Case Study on Source Term Estimation**|Yiwei Shi et.al.|[2409.09541](http://arxiv.org/abs/2409.09541)|null|
 |**2024-09-14**|**Planning Transformer: Long-Horizon Offline Reinforcement Learning with Planning Tokens**|Joseph Clinton et.al.|[2409.09513](http://arxiv.org/abs/2409.09513)|null|
 |**2024-09-14**|**Learning Nudges for Conditional Cooperation: A Multi-Agent Reinforcement Learning Model**|Shatayu Kulkarni et.al.|[2409.09509](http://arxiv.org/abs/2409.09509)|null|
 |**2024-09-14**|**Learning to enhance multi-legged robot on rugged landscapes**|Juntao He et.al.|[2409.09473](http://arxiv.org/abs/2409.09473)|null|
