@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3324,7 +3324,7 @@ layout: default
 |**2024-09-18**|**Retrofitting Temporal Graph Neural Networks with Transformer**|Qiang Huang et.al.|[2409.05477](http://arxiv.org/abs/2409.05477)|**[link](https://github.com/qianghuangwhu/tf-tgn)**|
 |**2024-09-09**|**CAS-Canglong: A skillful 3D Transformer model for sub-seasonal to seasonal global sea surface temperature prediction**|Longhao Wang et.al.|[2409.05369](http://arxiv.org/abs/2409.05369)|**[link](https://github.com/GISWLH/CAS-Canglong)**|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
-|**2024-09-08**|**An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing**|Ashkan Moradifirouzabadi et.al.|[2409.04940](http://arxiv.org/abs/2409.04940)|null|
+|**2024-09-20**|**An Analog and Digital Hybrid Attention Accelerator for Transformers with Charge-based In-memory Computing**|Ashkan Moradifirouzabadi et.al.|[2409.04940](http://arxiv.org/abs/2409.04940)|null|
 |**2024-09-07**|**Efficient Training of Transformers for Molecule Property Prediction on Small-scale Datasets**|Shivesh Prakash et.al.|[2409.04909](http://arxiv.org/abs/2409.04909)|null|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
 |**2024-09-07**|**Training-Free Style Consistent Image Synthesis with Condition and Mask Guidance in E-Commerce**|Guandong Li et.al.|[2409.04750](http://arxiv.org/abs/2409.04750)|null|
@@ -4236,7 +4236,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts**|Tianle Gu et.al.|[2409.11844](http://arxiv.org/abs/2409.11844)|**[link](https://github.com/carol-gutianle/meow)**|
 |**2024-09-18**|**NPAT Null-Space Projected Adversarial Training Towards Zero Deterioration**|Hanyi Hu et.al.|[2409.11754](http://arxiv.org/abs/2409.11754)|null|
-|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
 |**2024-09-17**|**Inexact Riemannian Gradient Descent Method for Nonconvex Optimization**|Juan Zhou et.al.|[2409.11181](http://arxiv.org/abs/2409.11181)|null|
 |**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049](http://arxiv.org/abs/2409.11049)|null|
 |**2024-09-16**|**Trajectory-Oriented Control Using Gradient Descent: An Unconventional Approach**|Ramin Esmzad et.al.|[2409.10662](http://arxiv.org/abs/2409.10662)|null|
@@ -4253,7 +4253,7 @@ layout: default
 |**2024-09-14**|**Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent**|Xuesong Li et.al.|[2409.09312](http://arxiv.org/abs/2409.09312)|null|
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
-|**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
+|**2024-09-21**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
 |**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|**[link](https://github.com/reysam93/online_ntf_expanding)**|
 |**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
 |**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
@@ -4297,7 +4297,7 @@ layout: default
 |**2024-09-05**|**Large Étendue 3D Holographic Display with Content-adpative Dynamic Fourier Modulation**|Brian Chao et.al.|[2409.03143](http://arxiv.org/abs/2409.03143)|null|
 |**2024-09-04**|**Resilient Two-Time-Scale Local Stochastic Gradient Descent for Byzantine Federated Learning**|Amit Dutta et.al.|[2409.03092](http://arxiv.org/abs/2409.03092)|null|
 |**2024-09-04**|**Online Scheduling via Gradient Descent for Weighted Flow Time Minimization**|Qingyun Chen et.al.|[2409.03020](http://arxiv.org/abs/2409.03020)|null|
-|**2024-09-10**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979](http://arxiv.org/abs/2409.02979)|null|
+|**2024-09-21**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979](http://arxiv.org/abs/2409.02979)|null|
 |**2024-09-04**|**Introduction to Machine Learning**|Laurent Younes et.al.|[2409.02668](http://arxiv.org/abs/2409.02668)|null|
 |**2024-09-11**|**Application of Langevin Dynamics to Advance the Quantum Natural Gradient Optimization Algorithm**|Oleksandr Borysenko et.al.|[2409.01978](http://arxiv.org/abs/2409.01978)|**[link](https://github.com/borbysh/momentum-qng)**|
 |**2024-09-03**|**A novel and efficient parameter estimation of the Lognormal-Rician turbulence model based on k-Nearest Neighbor and data generation method**|Maoke Miao et.al.|[2409.01694](http://arxiv.org/abs/2409.01694)|null|
@@ -5417,7 +5417,7 @@ layout: default
 |**2024-09-18**|**MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts**|Tianle Gu et.al.|[2409.11844](http://arxiv.org/abs/2409.11844)|**[link](https://github.com/carol-gutianle/meow)**|
 |**2024-09-18**|**NPAT Null-Space Projected Adversarial Training Towards Zero Deterioration**|Hanyi Hu et.al.|[2409.11754](http://arxiv.org/abs/2409.11754)|null|
 |**2024-09-18**|**Dense-TSNet: Dense Connected Two-Stage Structure for Ultra-Lightweight Speech Enhancement**|Zizhen Lin et.al.|[2409.11725](http://arxiv.org/abs/2409.11725)|null|
-|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
 |**2024-09-17**|**Inexact Riemannian Gradient Descent Method for Nonconvex Optimization**|Juan Zhou et.al.|[2409.11181](http://arxiv.org/abs/2409.11181)|null|
 |**2024-09-17**|**HoloTile RGB: Ultra-fast, Speckle-Free RGB Computer Generated Holography**|Andreas Erik Gejl Madsen et.al.|[2409.11049](http://arxiv.org/abs/2409.11049)|null|
 |**2024-09-16**|**Trajectory-Oriented Control Using Gradient Descent: An Unconventional Approach**|Ramin Esmzad et.al.|[2409.10662](http://arxiv.org/abs/2409.10662)|null|
@@ -5434,7 +5434,7 @@ layout: default
 |**2024-09-14**|**Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent**|Xuesong Li et.al.|[2409.09312](http://arxiv.org/abs/2409.09312)|null|
 |**2024-09-13**|**Gradient-based optimization of spintronic devices**|Yusuke Imai et.al.|[2409.09105](http://arxiv.org/abs/2409.09105)|null|
 |**2024-09-13**|**In-depth Analysis of Low-rank Matrix Factorisation in a Federated Setting**|Constantin Philippenko et.al.|[2409.08771](http://arxiv.org/abs/2409.08771)|**[link](https://github.com/philipco/matrix_factorization)**|
-|**2024-09-13**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
+|**2024-09-21**|**Increasing Both Batch Size and Learning Rate Accelerates Stochastic Gradient Descent**|Hikaru Umeda et.al.|[2409.08770](http://arxiv.org/abs/2409.08770)|null|
 |**2024-09-13**|**Online Learning Of Expanding Graphs**|Samuel Rey et.al.|[2409.08660](http://arxiv.org/abs/2409.08660)|**[link](https://github.com/reysam93/online_ntf_expanding)**|
 |**2024-09-13**|**Improved Finite-Particle Convergence Rates for Stein Variational Gradient Descent**|Krishnakumar Balasubramanian et.al.|[2409.08469](http://arxiv.org/abs/2409.08469)|null|
 |**2024-09-13**|**Explaining Datasets in Words: Statistical Models with Natural Language Parameters**|Ruiqi Zhong et.al.|[2409.08466](http://arxiv.org/abs/2409.08466)|**[link](https://github.com/ruiqi-zhong/nlparam)**|
@@ -5480,7 +5480,7 @@ layout: default
 |**2024-09-05**|**The AdEMAMix Optimizer: Better, Faster, Older**|Matteo Pagliardini et.al.|[2409.03137](http://arxiv.org/abs/2409.03137)|null|
 |**2024-09-04**|**Resilient Two-Time-Scale Local Stochastic Gradient Descent for Byzantine Federated Learning**|Amit Dutta et.al.|[2409.03092](http://arxiv.org/abs/2409.03092)|null|
 |**2024-09-04**|**Online Scheduling via Gradient Descent for Weighted Flow Time Minimization**|Qingyun Chen et.al.|[2409.03020](http://arxiv.org/abs/2409.03020)|null|
-|**2024-09-10**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979](http://arxiv.org/abs/2409.02979)|null|
+|**2024-09-21**|**Vec2Face: Scaling Face Dataset Generation with Loosely Constrained Vectors**|Haiyu Wu et.al.|[2409.02979](http://arxiv.org/abs/2409.02979)|null|
 |**2024-09-04**|**Introduction to Machine Learning**|Laurent Younes et.al.|[2409.02668](http://arxiv.org/abs/2409.02668)|null|
 |**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|null|
 |**2024-09-11**|**Application of Langevin Dynamics to Advance the Quantum Natural Gradient Optimization Algorithm**|Oleksandr Borysenko et.al.|[2409.01978](http://arxiv.org/abs/2409.01978)|**[link](https://github.com/borbysh/momentum-qng)**|
@@ -6550,7 +6550,7 @@ layout: default
 |**2024-09-17**|**Reactive Environments for Active Inference Agents with RxEnvironments.jl**|Wouter W. L. Nuijten et.al.|[2409.11087](http://arxiv.org/abs/2409.11087)|**[link](https://github.com/biaslab/RxEnvironments.jl)**|
 |**2024-09-17**|**A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler**|Nazim Bendib et.al.|[2409.11068](http://arxiv.org/abs/2409.11068)|null|
 |**2024-09-17**|**On-policy Actor-Critic Reinforcement Learning for Multi-UAV Exploration**|Ali Moltajaei Farid et.al.|[2409.11058](http://arxiv.org/abs/2409.11058)|null|
-|**2024-09-17**|**Agile Continuous Jumping in Discontinuous Terrains**|Yuxiang Yang et.al.|[2409.10923](http://arxiv.org/abs/2409.10923)|null|
+|**2024-09-20**|**Agile Continuous Jumping in Discontinuous Terrains**|Yuxiang Yang et.al.|[2409.10923](http://arxiv.org/abs/2409.10923)|null|
 |**2024-09-17**|**DIGIMON: Diagnosis and Mitigation of Sampling Skew for Reinforcement Learning based Meta-Planner in Robot Navigation**|Shiwei Feng et.al.|[2409.10832](http://arxiv.org/abs/2409.10832)|null|
 |**2024-09-16**|**Provably Efficient Infinite-Horizon Average-Reward Reinforcement Learning with Linear Function Approximation**|Woojin Chae et.al.|[2409.10772](http://arxiv.org/abs/2409.10772)|null|
 |**2024-09-16**|**A Model-Free Optimal Control Method With Fixed Terminal States and Delay**|Mi Zhou et.al.|[2409.10722](http://arxiv.org/abs/2409.10722)|null|
