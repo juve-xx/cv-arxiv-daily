@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2448,7 +2448,7 @@ layout: default
 |**2024-09-25**|**Enhancing Post-Hoc Attributions in Long Document Comprehension via Coarse Grained Answer Decomposition**|Pritika Ramu et.al.|[2409.17073](http://arxiv.org/abs/2409.17073)|null|
 |**2024-09-25**|**A Few Hypocrites: Few-Shot Learning and Subtype Definitions for Detecting Hypocrisy Accusations in Online Climate Change Debates**|Paulina Garcia Corral et.al.|[2409.16807](http://arxiv.org/abs/2409.16807)|null|
 |**2024-09-24**|**Do the Right Thing, Just Debias! Multi-Category Bias Mitigation Using LLMs**|Amartya Roy et.al.|[2409.16371](http://arxiv.org/abs/2409.16371)|null|
-|**2024-09-25**|**In-Context Ensemble Improves Video-Language Models for Low-Level Workflow Understanding from Human Demonstrations**|Moucheng Xu et.al.|[2409.15867](http://arxiv.org/abs/2409.15867)|**[link](https://github.com/moucheng2017/action-labelling)**|
+|**2024-09-26**|**In-Context Ensemble Improves Video-Language Models for Low-Level Workflow Understanding from Human Demonstrations**|Moucheng Xu et.al.|[2409.15867](http://arxiv.org/abs/2409.15867)|**[link](https://github.com/moucheng2017/action-labelling)**|
 |**2024-09-24**|**Small Language Models: Survey, Measurements, and Insights**|Zhenyan Lu et.al.|[2409.15790](http://arxiv.org/abs/2409.15790)|**[link](https://github.com/ubiquitouslearning/slm_survey)**|
 |**2024-09-24**|**Making Text Embedders Few-Shot Learners**|Chaofan Li et.al.|[2409.15700](http://arxiv.org/abs/2409.15700)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-09-23**|**Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction**|Yuanchao Li et.al.|[2409.15551](http://arxiv.org/abs/2409.15551)|**[link](https://github.com/yc-li20/emotion-prompt)**|
@@ -2540,7 +2540,7 @@ layout: default
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|**[link](https://github.com/nvlabs/verilog-eval)**|
 |**2024-08-20**|**Benchmarking Large Language Models for Math Reasoning Tasks**|Kathrin Seßler et.al.|[2408.10839](http://arxiv.org/abs/2408.10839)|null|
 |**2024-08-19**|**Self-Refined Generative Foundation Models for Wireless Traffic Prediction**|Chengming Hu et.al.|[2408.10390](http://arxiv.org/abs/2408.10390)|null|
-|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
+|**2024-09-25**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
 |**2024-08-19**|**Strategic Demonstration Selection for Improved Fairness in LLM In-Context Learning**|Jingyu Hu et.al.|[2408.09757](http://arxiv.org/abs/2408.09757)|null|
 |**2024-08-19**|**Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**|Jiaqing Liu et.al.|[2408.09688](http://arxiv.org/abs/2408.09688)|null|
 |**2024-08-18**|**Out-of-distribution generalization via composition: a lens through induction heads in Transformers**|Jiajun Song et.al.|[2408.09503](http://arxiv.org/abs/2408.09503)|**[link](https://github.com/jiajunsong629/ood-generalization-via-composition)**|
@@ -3313,8 +3313,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
-|**2024-09-25**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
+|**2024-09-26**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-09-26**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
 |**2024-09-24**|**Self-attention as an attractor network: transient memories without backpropagation**|Francesco D'Amico et.al.|[2409.16112](http://arxiv.org/abs/2409.16112)|**[link](https://github.com/francill99/self_attention_attractor_network)**|
 |**2024-09-24**|**GS-Net: Global Self-Attention Guided CNN for Multi-Stage Glaucoma Classification**|Dipankar Das et.al.|[2409.16082](http://arxiv.org/abs/2409.16082)|null|
 |**2024-09-24**|**Whisper in Medusa's Ear: Multi-head Efficient Decoding for Transformer-based ASR**|Yael Segal-Feldman et.al.|[2409.15869](http://arxiv.org/abs/2409.15869)|**[link](https://github.com/aiola-lab/whisper-medusa)**|
@@ -6653,7 +6653,7 @@ layout: default
 |**2024-09-25**|**Multi-UAV Pursuit-Evasion with Online Planning in Unknown Environments by Deep Reinforcement Learning**|Jiayu Chen et.al.|[2409.15866](http://arxiv.org/abs/2409.15866)|null|
 |**2024-09-24**|**Adaptive Learn-then-Test: Statistically Valid and Efficient Hyperparameter Selection**|Matteo Zecchin et.al.|[2409.15844](http://arxiv.org/abs/2409.15844)|null|
 |**2024-09-24**|**CLSP: High-Fidelity Contrastive Language-State Pre-training for Agent State Representation**|Fuxian Huang et.al.|[2409.15806](http://arxiv.org/abs/2409.15806)|null|
-|**2024-09-25**|**A Learning Framework for Diverse Legged Robot Locomotion Using Barrier-Based Style Rewards**|Gijeong Kim et.al.|[2409.15780](http://arxiv.org/abs/2409.15780)|null|
+|**2024-09-26**|**A Learning Framework for Diverse Legged Robot Locomotion Using Barrier-Based Style Rewards**|Gijeong Kim et.al.|[2409.15780](http://arxiv.org/abs/2409.15780)|null|
 |**2024-09-24**|**Smart Grid Security: A Verified Deep Reinforcement Learning Framework to Counter Cyber-Physical Attacks**|Suman Maiti et.al.|[2409.15757](http://arxiv.org/abs/2409.15757)|null|
 |**2024-09-24**|**Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach**|Dohyeong Kim et.al.|[2409.15755](http://arxiv.org/abs/2409.15755)|**[link](https://github.com/rllab-snu/stage-wise-cmorl)**|
 |**2024-09-24**|**Development and Validation of Heparin Dosing Policies Using an Offline Reinforcement Learning Algorithm**|Yooseok Lim et.al.|[2409.15753](http://arxiv.org/abs/2409.15753)|null|
@@ -6717,7 +6717,7 @@ layout: default
 |**2024-09-20**|**Causal Reinforcement Learning for Optimisation of Robot Dynamics in Unknown Environments**|Julian Gerald Dcruz et.al.|[2409.13423](http://arxiv.org/abs/2409.13423)|null|
 |**2024-09-20**|**OMG-RL:Offline Model-based Guided Reward Learning for Heparin Treatment**|Yooseok Lim et.al.|[2409.13299](http://arxiv.org/abs/2409.13299)|null|
 |**2024-09-20**|**From Cognition to Precognition: A Future-Aware Framework for Social Navigation**|Zeying Gong et.al.|[2409.13244](http://arxiv.org/abs/2409.13244)|null|
-|**2024-09-20**|**RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion**|Yinmin Zhong et.al.|[2409.13221](http://arxiv.org/abs/2409.13221)|null|
+|**2024-09-25**|**RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion**|Yinmin Zhong et.al.|[2409.13221](http://arxiv.org/abs/2409.13221)|null|
 |**2024-09-20**|**Guaranteed Reach-Avoid for Black-Box Systems through Narrow Gaps via Neural Network Reachability**|Long Kiu Chung et.al.|[2409.13195](http://arxiv.org/abs/2409.13195)|null|
 |**2024-09-20**|**ProxFly: Robust Control for Close Proximity Quadcopter Flight via Residual Reinforcement Learning**|Ruiqi Zhang et.al.|[2409.13193](http://arxiv.org/abs/2409.13193)|null|
 |**2024-09-20**|**RPAF: A Reinforcement Prediction-Allocation Framework for Cache Allocation in Large-Scale Recommender Systems**|Shuo Su et.al.|[2409.13175](http://arxiv.org/abs/2409.13175)|null|
