@@ -2444,6 +2444,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
+|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348](http://arxiv.org/abs/2410.02348)|null|
+|**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
+|**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
+|**2024-10-03**|**Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis**|Hongkang Li et.al.|[2410.02167](http://arxiv.org/abs/2410.02167)|null|
+|**2024-10-02**|**Long-range gene expression prediction with token alignment of large language model**|Edouardo Honig et.al.|[2410.01858](http://arxiv.org/abs/2410.01858)|null|
 |**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
 |**2024-10-02**|**ENTP: Encoder-only Next Token Prediction**|Ethan Ewer et.al.|[2410.01600](http://arxiv.org/abs/2410.01600)|null|
 |**2024-10-02**|**Bayes' Power for Explaining In-Context Learning Generalizations**|Samuel Müller et.al.|[2410.01565](http://arxiv.org/abs/2410.01565)|null|
@@ -3340,6 +3348,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483](http://arxiv.org/abs/2410.02483)|null|
+|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
 |**2024-10-02**|**Attention layers provably solve single-location regression**|Pierre Marion et.al.|[2410.01537](http://arxiv.org/abs/2410.01537)|**[link](https://github.com/pierremarion23/single-location-regression)**|
 |**2024-10-02**|**Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**|Zhiwen Shao et.al.|[2410.01251](http://arxiv.org/abs/2410.01251)|null|
 |**2024-10-01**|**TransResNet: Integrating the Strengths of ViTs and CNNs for High Resolution Medical Image Segmentation via Feature Grafting**|Muhammad Hamza Sharif et.al.|[2410.00986](http://arxiv.org/abs/2410.00986)|**[link](https://github.com/sharifmhamza/transresnet)**|
@@ -4341,6 +4352,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
+|**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
+|**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-03**|**Towards Better Generalization: Weight Decay Induces Low-rank Bias for Neural Networks**|Ke Chen et.al.|[2410.02176](http://arxiv.org/abs/2410.02176)|null|
+|**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164](http://arxiv.org/abs/2410.02164)|null|
+|**2024-10-02**|**Fast and Sample Efficient Multi-Task Representation Learning in Stochastic Contextual Bandits**|Jiabin Lin et.al.|[2410.02068](http://arxiv.org/abs/2410.02068)|null|
+|**2024-10-02**|**Impact of White-Box Adversarial Attacks on Convolutional Neural Networks**|Rakesh Podder et.al.|[2410.02043](http://arxiv.org/abs/2410.02043)|null|
+|**2024-10-02**|**Review Non-convex Optimization Method for Machine Learning**|Greg B Fotopoulos et.al.|[2410.02017](http://arxiv.org/abs/2410.02017)|null|
+|**2024-10-02**|**NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel**|Gabriel Thompson et.al.|[2410.01922](http://arxiv.org/abs/2410.01922)|null|
 |**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
 |**2024-10-02**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
@@ -5577,6 +5598,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
+|**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
+|**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-03**|**Towards Better Generalization: Weight Decay Induces Low-rank Bias for Neural Networks**|Ke Chen et.al.|[2410.02176](http://arxiv.org/abs/2410.02176)|null|
+|**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164](http://arxiv.org/abs/2410.02164)|null|
+|**2024-10-02**|**Fast and Sample Efficient Multi-Task Representation Learning in Stochastic Contextual Bandits**|Jiabin Lin et.al.|[2410.02068](http://arxiv.org/abs/2410.02068)|null|
+|**2024-10-02**|**Impact of White-Box Adversarial Attacks on Convolutional Neural Networks**|Rakesh Podder et.al.|[2410.02043](http://arxiv.org/abs/2410.02043)|null|
+|**2024-10-02**|**Review Non-convex Optimization Method for Machine Learning**|Greg B Fotopoulos et.al.|[2410.02017](http://arxiv.org/abs/2410.02017)|null|
+|**2024-10-02**|**NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel**|Gabriel Thompson et.al.|[2410.01922](http://arxiv.org/abs/2410.01922)|null|
 |**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
 |**2024-10-02**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
@@ -6739,6 +6770,39 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
+|**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
+|**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
+|**2024-10-03**|**Beyond Expected Returns: A Policy Gradient Algorithm for Cumulative Prospect Theoretic Reinforcement Learning**|Olivier Lepel et.al.|[2410.02605](http://arxiv.org/abs/2410.02605)|null|
+|**2024-10-03**|**Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance**|Joshua McClellan et.al.|[2410.02581](http://arxiv.org/abs/2410.02581)|null|
+|**2024-10-03**|**Machine Learning Approaches for Active Queue Management: A Survey, Taxonomy, and Future Directions**|Mohammad Parsa Toopchinezhad et.al.|[2410.02563](http://arxiv.org/abs/2410.02563)|null|
+|**2024-10-03**|**Semantic-Guided RL for Interpretable Feature Engineering**|Mohamed Bouadi et.al.|[2410.02519](http://arxiv.org/abs/2410.02519)|null|
+|**2024-10-03**|**Learning Emergence of Interaction Patterns across Independent RL Agents in Multi-Agent Environments**|Vasanth Reddy Baddam et.al.|[2410.02516](http://arxiv.org/abs/2410.02516)|null|
+|**2024-10-03**|**A Hitchhiker's Guide To Active Motion**|Tobias Plasczyk et.al.|[2410.02515](http://arxiv.org/abs/2410.02515)|null|
+|**2024-10-03**|**Choices are More Important than Efforts: LLM Enables Efficient Multi-Agent Exploration**|Yun Qu et.al.|[2410.02511](http://arxiv.org/abs/2410.02511)|**[link](https://github.com/hijkzzz/pymarl2)**|
+|**2024-10-03**|**Dual Active Learning for Reinforcement Learning from Human Feedback**|Pangpang Liu et.al.|[2410.02504](http://arxiv.org/abs/2410.02504)|null|
+|**2024-10-03**|**Cross-Embodiment Dexterous Grasping with Reinforcement Learning**|Haoqi Yuan et.al.|[2410.02479](http://arxiv.org/abs/2410.02479)|null|
+|**2024-10-03**|**Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations**|Bohan Zhou et.al.|[2410.02477](http://arxiv.org/abs/2410.02477)|null|
+|**2024-10-03**|**Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping**|Ziye Huang et.al.|[2410.02475](http://arxiv.org/abs/2410.02475)|null|
+|**2024-10-03**|**Optimised Hybrid Classical-Quantum Algorithm for Accelerated Solution of Sparse Linear Systems**|Hakikat Singh et.al.|[2410.02408](http://arxiv.org/abs/2410.02408)|null|
+|**2024-10-03**|**Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks**|Zeyu Feng et.al.|[2410.02389](http://arxiv.org/abs/2410.02389)|null|
+|**2024-10-03**|**Federated Reinforcement Learning to Optimize Teleoperated Driving Networks**|Filippo Bragato et.al.|[2410.02312](http://arxiv.org/abs/2410.02312)|null|
+|**2024-10-03**|**Unsupervised Meta-Learning via Dynamic Head and Heterogeneous Task Construction for Few-Shot Classification**|Yunchuan Guan et.al.|[2410.02267](http://arxiv.org/abs/2410.02267)|null|
+|**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[2410.02253](http://arxiv.org/abs/2410.02253)|null|
+|**2024-10-03**|**C-MORL: Multi-Objective Reinforcement Learning through Efficient Discovery of Pareto Front**|Ruohong Liu et.al.|[2410.02236](http://arxiv.org/abs/2410.02236)|null|
+|**2024-10-03**|**CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning**|Huimu Yu et.al.|[2410.02229](http://arxiv.org/abs/2410.02229)|null|
+|**2024-10-03**|**Doubly Optimal Policy Evaluation for Reinforcement Learning**|Shuze Liu et.al.|[2410.02226](http://arxiv.org/abs/2410.02226)|null|
+|**2024-10-03**|**General Preference Modeling with Preference Representations for Aligning Language Models**|Yifan Zhang et.al.|[2410.02197](http://arxiv.org/abs/2410.02197)|**[link](https://github.com/general-preference/general-preference-model)**|
+|**2024-10-03**|**Abstract Reward Processes: Leveraging State Abstraction for Consistent Off-Policy Evaluation**|Shreyas Chaudhari et.al.|[2410.02172](http://arxiv.org/abs/2410.02172)|null|
+|**2024-10-03**|**E2H: A Two-Stage Non-Invasive Neural Signal Driven Humanoid Robotic Whole-Body Control Framework**|Yiqun Duan et.al.|[2410.02141](http://arxiv.org/abs/2410.02141)|null|
+|**2024-10-03**|**A Comprehensive Review of Propagation Models in Complex Networks: From Deterministic to Deep Learning Approaches**|Bin Wu et.al.|[2410.02118](http://arxiv.org/abs/2410.02118)|null|
+|**2024-10-02**|**RLEF: Grounding Code LLMs in Execution Feedback with Reinforcement Learning**|Jonas Gehring et.al.|[2410.02089](http://arxiv.org/abs/2410.02089)|null|
+|**2024-10-02**|**Realizable Continuous-Space Shields for Safe Reinforcement Learning**|Kyungmin Kim et.al.|[2410.02038](http://arxiv.org/abs/2410.02038)|null|
+|**2024-10-02**|**Learning-Based Autonomous Navigation, Benchmark Environments and Simulation Framework for Endovascular Interventions**|Lennart Karstensen et.al.|[2410.01956](http://arxiv.org/abs/2410.01956)|null|
+|**2024-10-02**|**ComaDICE: Offline Cooperative Multi-Agent Reinforcement Learning with Stationary Distribution Shift Regularization**|The Viet Bui et.al.|[2410.01954](http://arxiv.org/abs/2410.01954)|null|
+|**2024-10-02**|**Don't flatten, tokenize! Unlocking the key to SoftMoE's efficacy in deep RL**|Ghada Sokar et.al.|[2410.01930](http://arxiv.org/abs/2410.01930)|null|
+|**2024-10-02**|**LLM-Augmented Symbolic Reinforcement Learning with Landmark-Based Task Decomposition**|Alireza Kheirandish et.al.|[2410.01929](http://arxiv.org/abs/2410.01929)|null|
+|**2024-10-02**|**Dynamic Portfolio Rebalancing: A Hybrid new Model Using GNNs and Pathfinding for Cost Efficiency**|Diego Vallarino et.al.|[2410.01864](http://arxiv.org/abs/2410.01864)|null|
 |**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
 |**2024-10-02**|**Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning**|Prasanth Sengadu Suresh et.al.|[2410.01790](http://arxiv.org/abs/2410.01790)|null|
 |**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789](http://arxiv.org/abs/2410.01789)|null|
