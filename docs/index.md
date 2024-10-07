@@ -2444,6 +2444,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
+|**2024-10-04**|**Enhanced Transformer architecture for in-context learning of dynamical systems**|Matteo Rufolo et.al.|[2410.03291](http://arxiv.org/abs/2410.03291)|null|
+|**2024-10-04**|**Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models**|Yuxiang Zhang et.al.|[2410.03212](http://arxiv.org/abs/2410.03212)|null|
+|**2024-10-04**|**Generating bilingual example sentences with large language models as lexicography assistants**|Raphael Merx et.al.|[2410.03182](http://arxiv.org/abs/2410.03182)|null|
+|**2024-10-04**|**In-context Learning in Presence of Spurious Correlations**|Hrayr Harutyunyan et.al.|[2410.03140](http://arxiv.org/abs/2410.03140)|null|
+|**2024-10-04**|**On Unsupervised Prompt Learning for Classification with Black-box Language Models**|Zhen-Yu Zhang et.al.|[2410.03124](http://arxiv.org/abs/2410.03124)|null|
+|**2024-10-04**|**RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning**|Zihao Zhao et.al.|[2410.03122](http://arxiv.org/abs/2410.03122)|null|
+|**2024-10-03**|**Demonstration Attack against In-Context Learning for Code Intelligence**|Yifei Ge et.al.|[2410.02841](http://arxiv.org/abs/2410.02841)|null|
+|**2024-09-21**|**StateAct: State Tracking and Reasoning for Acting and Planning with Large Language Models**|Nikolai Rozanov et.al.|[2410.02810](http://arxiv.org/abs/2410.02810)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-04**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
@@ -3348,6 +3357,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Selective Transformer for Hyperspectral Image Classification**|Yichu Xu et.al.|[2410.03171](http://arxiv.org/abs/2410.03171)|null|
+|**2024-10-04**|**Mamba in Vision: A Comprehensive Survey of Techniques and Applications**|Md Maklachur Rahman et.al.|[2410.03105](http://arxiv.org/abs/2410.03105)|**[link](https://github.com/maklachur/mamba-in-computer-vision)**|
+|**2024-10-03**|**Towards Understanding the Universality of Transformers for Next-Token Prediction**|Michael E. Sander et.al.|[2410.03011](http://arxiv.org/abs/2410.03011)|null|
 |**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483](http://arxiv.org/abs/2410.02483)|null|
 |**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
 |**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
@@ -4352,6 +4364,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Characterizations, Dynamical Systems and Gradient Methods for Strongly Quasiconvex Functions**|Felipe Lara et.al.|[2410.03534](http://arxiv.org/abs/2410.03534)|null|
+|**2024-10-03**|**From Optimization to Sampling via Lyapunov Potentials**|August Y. Chen et.al.|[2410.02979](http://arxiv.org/abs/2410.02979)|null|
 |**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
 |**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
 |**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
@@ -5598,6 +5612,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Characterizations, Dynamical Systems and Gradient Methods for Strongly Quasiconvex Functions**|Felipe Lara et.al.|[2410.03534](http://arxiv.org/abs/2410.03534)|null|
+|**2024-10-03**|**Differentiation and Specialization of Attention Heads via the Refined Local Learning Coefficient**|George Wang et.al.|[2410.02984](http://arxiv.org/abs/2410.02984)|null|
+|**2024-10-03**|**From Optimization to Sampling via Lyapunov Potentials**|August Y. Chen et.al.|[2410.02979](http://arxiv.org/abs/2410.02979)|null|
 |**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
 |**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
 |**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
@@ -6770,6 +6787,29 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Learning Humanoid Locomotion over Challenging Terrain**|Ilija Radosavovic et.al.|[2410.03654](http://arxiv.org/abs/2410.03654)|null|
+|**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
+|**2024-10-04**|**Open-World Reinforcement Learning over Long Short-Term Imagination**|Jiajian Li et.al.|[2410.03618](http://arxiv.org/abs/2410.03618)|null|
+|**2024-10-04**|**Training on more Reachable Tasks for Generalisation in Reinforcement Learning**|Max Weltevrede et.al.|[2410.03565](http://arxiv.org/abs/2410.03565)|null|
+|**2024-10-04**|**GAP-RL: Grasps As Points for RL Towards Dynamic Object Grasping**|Pengwei Xie et.al.|[2410.03509](http://arxiv.org/abs/2410.03509)|null|
+|**2024-10-04**|**STREAMS: An Assistive Multimodal AI Framework for Empowering Biosignal Based Robotic Controls**|Ali Rabiee et.al.|[2410.03486](http://arxiv.org/abs/2410.03486)|null|
+|**2024-10-04**|**Deep Reinforcement Learning for Delay-Optimized Task Offloading in Vehicular Fog Computin**|Mohammad Parsa Toopchinezhad et.al.|[2410.03472](http://arxiv.org/abs/2410.03472)|null|
+|**2024-10-04**|**CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control**|Guy Tevet et.al.|[2410.03441](http://arxiv.org/abs/2410.03441)|null|
+|**2024-10-04**|**ToolGen: Unified Tool Retrieval and Calling via Generation**|Renxi Wang et.al.|[2410.03439](http://arxiv.org/abs/2410.03439)|null|
+|**2024-10-04**|**Predictive Coding for Decision Transformer**|Tung M. Luu et.al.|[2410.03408](http://arxiv.org/abs/2410.03408)|null|
+|**2024-10-04**|**Mitigating Adversarial Perturbations for Deep Reinforcement Learning via Vector Quantization**|Tung M. Luu et.al.|[2410.03376](http://arxiv.org/abs/2410.03376)|**[link](https://github.com/tunglm2203/vq_robust_rl)**|
+|**2024-10-04**|**SELU: Self-Learning Embodied MLLMs in Unknown Environments**|Boyu Li et.al.|[2410.03303](http://arxiv.org/abs/2410.03303)|null|
+|**2024-10-04**|**Latent Action Priors From a Single Gait Cycle Demonstration for Online Imitation Learning**|Oliver Hausdörfer et.al.|[2410.03246](http://arxiv.org/abs/2410.03246)|null|
+|**2024-10-04**|**Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models**|Yuxiang Zhang et.al.|[2410.03212](http://arxiv.org/abs/2410.03212)|null|
+|**2024-10-04**|**Hybrid Centralized-Distributed Resource Allocation Based on Deep Reinforcement Learning for Cooperative D2D Communications**|Yang Yu et.al.|[2410.03177](http://arxiv.org/abs/2410.03177)|null|
+|**2024-10-04**|**Margin Matching Preference Optimization: Enhanced Model Alignment with Granular Feedback**|Kyuyoung Kim et.al.|[2410.03145](http://arxiv.org/abs/2410.03145)|null|
+|**2024-10-04**|**Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**|Hyosoon Jang et.al.|[2410.03138](http://arxiv.org/abs/2410.03138)|null|
+|**2024-10-04**|**Spatial-aware decision-making with ring attractors in reinforcement learning systems**|Marcos Negre Saura et.al.|[2410.03119](http://arxiv.org/abs/2410.03119)|null|
+|**2024-10-04**|**Residual Policy Learning for Perceptive Quadruped Control Using Differentiable Simulation**|Jing Yuan Luo et.al.|[2410.03076](http://arxiv.org/abs/2410.03076)|null|
+|**2024-10-04**|**Hybrid Classical/RL Local Planner for Ground Robot Navigation**|Vishnu D. Sharma et.al.|[2410.03066](http://arxiv.org/abs/2410.03066)|null|
+|**2024-10-03**|**Finite-Sample Analysis of the Monte Carlo Exploring Starts Algorithm for Reinforcement Learning**|Suei-Wen Chen et.al.|[2410.02994](http://arxiv.org/abs/2410.02994)|null|
+|**2024-10-03**|**Solving Reach-Avoid-Stay Problems Using Deep Deterministic Policy Gradients**|Gabriel Chenevert et.al.|[2410.02898](http://arxiv.org/abs/2410.02898)|null|
+|**2024-10-03**|**LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning**|Di Zhang et.al.|[2410.02884](http://arxiv.org/abs/2410.02884)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-03**|**MA-RLHF: Reinforcement Learning from Human Feedback with Macro Actions**|Yekun Chai et.al.|[2410.02743](http://arxiv.org/abs/2410.02743)|null|
 |**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
