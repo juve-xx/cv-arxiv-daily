@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3390,7 +3390,7 @@ layout: default
 |**2024-10-08**|**Reconstruction of Particle Flow Energy Distribution Using Deep Learning Algorithms**|Han Zhang et.al.|[2410.07250](http://arxiv.org/abs/2410.07250)|**[link](https://github.com/image-processing-particle-flow/project1)**|
 |**2024-10-09**|**Stanceformer: Target-Aware Transformer for Stance Detection**|Krishna Garg et.al.|[2410.07083](http://arxiv.org/abs/2410.07083)|null|
 |**2024-10-09**|**InAttention: Linear Context Scaling for Transformers**|Joseph Eisner et.al.|[2410.07063](http://arxiv.org/abs/2410.07063)|null|
-|**2024-10-09**|**ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling**|Deok-Kyeong Jang et.al.|[2410.06963](http://arxiv.org/abs/2410.06963)|null|
+|**2024-10-11**|**ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling**|Deok-Kyeong Jang et.al.|[2410.06963](http://arxiv.org/abs/2410.06963)|null|
 |**2024-10-09**|**Dynamic metastability in the self-attention model**|Borjan Geshkovski et.al.|[2410.06833](http://arxiv.org/abs/2410.06833)|**[link](https://github.com/hugokoubbi/2024-transformers-dotm)**|
 |**2024-10-09**|**LS-EEND: Long-Form Streaming End-to-End Neural Diarization with Online Attractor Extraction**|Di Liang et.al.|[2410.06670](http://arxiv.org/abs/2410.06670)|**[link](https://github.com/audio-westlakeu/fs-eend)**|
 |**2024-10-08**|**AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation**|Boyuan Cao et.al.|[2410.06055](http://arxiv.org/abs/2410.06055)|**[link](https://github.com/kmittle/ap-ldm)**|
@@ -4421,7 +4421,7 @@ layout: default
 |**2024-10-09**|**Adversarial Vulnerability as a Consequence of On-Manifold Inseparibility**|Rajdeep Haldar et.al.|[2410.06921](http://arxiv.org/abs/2410.06921)|null|
 |**2024-10-09**|**Noise is All You Need: Private Second-Order Convergence of Noisy SGD**|Dmitrii Avdiukhin et.al.|[2410.06878](http://arxiv.org/abs/2410.06878)|null|
 |**2024-10-09**|**Dynamic metastability in the self-attention model**|Borjan Geshkovski et.al.|[2410.06833](http://arxiv.org/abs/2410.06833)|**[link](https://github.com/hugokoubbi/2024-transformers-dotm)**|
-|**2024-10-09**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
+|**2024-10-11**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
 |**2024-10-09**|**Exact full-RSB SAT/UNSAT transition in infinitely wide two-layer neural networks**|Brandon L. Annesi et.al.|[2410.06717](http://arxiv.org/abs/2410.06717)|null|
 |**2024-10-09**|**Towards optimal algorithms for the recovery of low-dimensional models with linear rates**|Yann Traonmilin et.al.|[2410.06607](http://arxiv.org/abs/2410.06607)|null|
 |**2024-10-09**|**Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models**|Zeman Li et.al.|[2410.06441](http://arxiv.org/abs/2410.06441)|null|
@@ -5712,7 +5712,7 @@ layout: default
 |**2024-10-09**|**Adversarial Vulnerability as a Consequence of On-Manifold Inseparibility**|Rajdeep Haldar et.al.|[2410.06921](http://arxiv.org/abs/2410.06921)|null|
 |**2024-10-09**|**Noise is All You Need: Private Second-Order Convergence of Noisy SGD**|Dmitrii Avdiukhin et.al.|[2410.06878](http://arxiv.org/abs/2410.06878)|null|
 |**2024-10-09**|**Dynamic metastability in the self-attention model**|Borjan Geshkovski et.al.|[2410.06833](http://arxiv.org/abs/2410.06833)|**[link](https://github.com/hugokoubbi/2024-transformers-dotm)**|
-|**2024-10-09**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
+|**2024-10-11**|**Learning a Neural Solver for Parametric PDE to Enhance Physics-Informed Methods**|Lise Le Boudec et.al.|[2410.06820](http://arxiv.org/abs/2410.06820)|null|
 |**2024-10-09**|**Exact full-RSB SAT/UNSAT transition in infinitely wide two-layer neural networks**|Brandon L. Annesi et.al.|[2410.06717](http://arxiv.org/abs/2410.06717)|null|
 |**2024-10-09**|**Towards optimal algorithms for the recovery of low-dimensional models with linear rates**|Yann Traonmilin et.al.|[2410.06607](http://arxiv.org/abs/2410.06607)|null|
 |**2024-10-09**|**Addax: Utilizing Zeroth-Order Gradients to Improve Memory Efficiency and Performance of SGD for Fine-Tuning Language Models**|Zeman Li et.al.|[2410.06441](http://arxiv.org/abs/2410.06441)|null|
@@ -6958,7 +6958,7 @@ layout: default
 |**2024-10-09**|**A Safety Modulator Actor-Critic Method in Model-Free Safe Reinforcement Learning and Application in UAV Hovering**|Qihan Qi et.al.|[2410.06847](http://arxiv.org/abs/2410.06847)|null|
 |**2024-10-09**|**Transfer Learning for a Class of Cascade Dynamical Systems**|Shima Rabiei et.al.|[2410.06828](http://arxiv.org/abs/2410.06828)|null|
 |**2024-10-09**|**Deep End-to-End Survival Analysis with Temporal Consistency**|Mariana Vargas Vieyra et.al.|[2410.06786](http://arxiv.org/abs/2410.06786)|null|
-|**2024-10-10**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
+|**2024-10-11**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
 |**2024-10-09**|**Variations in Multi-Agent Actor-Critic Frameworks for Joint Optimizations in UAV Swarm Networks: Recent Evolution, Challenges, and Directions**|Muhammad Morshed Alam et.al.|[2410.06627](http://arxiv.org/abs/2410.06627)|null|
 |**2024-10-09**|**Effective Exploration Based on the Structural Information Principles**|Xianghua Zeng et.al.|[2410.06621](http://arxiv.org/abs/2410.06621)|**[link](https://github.com/SELGroup/SI2E)**|
 |**2024-10-09**|**Disturbance Observer-based Control Barrier Functions with Residual Model Learning for Safe Reinforcement Learning**|Dvij Kalaria et.al.|[2410.06570](http://arxiv.org/abs/2410.06570)|null|
@@ -6990,7 +6990,7 @@ layout: default
 |**2024-10-08**|**On the Modeling Capabilities of Large Language Models for Sequential Decision Making**|Martin Klissarov et.al.|[2410.05656](http://arxiv.org/abs/2410.05656)|null|
 |**2024-10-08**|**Efficient Policy Evaluation with Safety Constraint for Reinforcement Learning**|Claire Chen et.al.|[2410.05655](http://arxiv.org/abs/2410.05655)|null|
 |**2024-10-08**|**Gen-Drive: Enhancing Diffusion Generative Driving Policies with Reward Modeling and Reinforcement Learning Fine-tuning**|Zhiyu Huang et.al.|[2410.05582](http://arxiv.org/abs/2410.05582)|null|
-|**2024-10-07**|**Designing a Classifier for Active Fire Detection from Multispectral Satellite Imagery Using Neural Architecture Search**|Amber Cassimon et.al.|[2410.05425](http://arxiv.org/abs/2410.05425)|null|
+|**2024-10-11**|**Designing a Classifier for Active Fire Detection from Multispectral Satellite Imagery Using Neural Architecture Search**|Amber Cassimon et.al.|[2410.05425](http://arxiv.org/abs/2410.05425)|null|
 |**2024-10-07**|**Diffusion Model Predictive Control**|Guangyao Zhou et.al.|[2410.05364](http://arxiv.org/abs/2410.05364)|null|
 |**2024-10-07**|**LLMs Are In-Context Reinforcement Learners**|Giovanni Monea et.al.|[2410.05362](http://arxiv.org/abs/2410.05362)|null|
 |**2024-10-06**|**GreenLight-Gym: A Reinforcement Learning Benchmark Environment for Greenhouse Crop Production Control**|Bart van Laatum et.al.|[2410.05336](http://arxiv.org/abs/2410.05336)|**[link](https://github.com/BartvLaatum/GreenLightGym)**|
