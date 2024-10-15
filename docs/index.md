@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2479,7 +2479,7 @@ layout: default
 |**2024-10-06**|**Inference Scaling for Long-Context Retrieval Augmented Generation**|Zhenrui Yue et.al.|[2410.04343](http://arxiv.org/abs/2410.04343)|null|
 |**2024-10-05**|**Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**|Gang Liu et.al.|[2410.04223](http://arxiv.org/abs/2410.04223)|**[link](https://github.com/liugangcode/Llamole)**|
 |**2024-10-04**|**PersonalSum: A User-Subjective Guided Personalized Summarization Dataset for Large Language Models**|Lemei Zhang et.al.|[2410.03905](http://arxiv.org/abs/2410.03905)|**[link](https://github.com/smartmediaai/personalsum)**|
-|**2024-10-08**|**Unsupervised Human Preference Learning**|Sumuk Shashidhar et.al.|[2410.03731](http://arxiv.org/abs/2410.03731)|null|
+|**2024-10-11**|**Unsupervised Human Preference Learning**|Sumuk Shashidhar et.al.|[2410.03731](http://arxiv.org/abs/2410.03731)|null|
 |**2024-10-08**|**Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs**|Louis Serrano et.al.|[2410.03437](http://arxiv.org/abs/2410.03437)|null|
 |**2024-10-04**|**Enhanced Transformer architecture for in-context learning of dynamical systems**|Matteo Rufolo et.al.|[2410.03291](http://arxiv.org/abs/2410.03291)|null|
 |**2024-10-04**|**Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models**|Yuxiang Zhang et.al.|[2410.03212](http://arxiv.org/abs/2410.03212)|null|
@@ -5753,7 +5753,7 @@ layout: default
 |**2024-10-08**|**Benign Overfitting for Regression with Trained Two-Layer ReLU Networks**|Junhyung Park et.al.|[2410.06191](http://arxiv.org/abs/2410.06191)|null|
 |**2024-10-10**|**The Last Iterate Advantage: Empirical Auditing and Principled Heuristic Analysis of Differentially Private SGD**|Thomas Steinke et.al.|[2410.06186](http://arxiv.org/abs/2410.06186)|null|
 |**2024-10-08**|**QT-DoG: Quantization-aware Training for Domain Generalization**|Saqib Javed et.al.|[2410.06020](http://arxiv.org/abs/2410.06020)|**[link](https://github.com/saqibjaved1/QT-DoG)**|
-|**2024-10-08**|**Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization**|Wei Liu et.al.|[2410.06003](http://arxiv.org/abs/2410.06003)|**[link](https://github.com/jugechengzi/rationalization-mrd)**|
+|**2024-10-12**|**Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization**|Wei Liu et.al.|[2410.06003](http://arxiv.org/abs/2410.06003)|**[link](https://github.com/jugechengzi/rationalization-mrd)**|
 |**2024-10-08**|**Utilizing Lyapunov Exponents in designing deep neural networks**|Tirthankar Mittra et.al.|[2410.05988](http://arxiv.org/abs/2410.05988)|**[link](https://github.com/tirthankar95/chaosoptim)**|
 |**2024-10-08**|**Asynchronous Stochastic Gradient Descent with Decoupled Backpropagation and Layer-Wise Updates**|Cabrel Teguemne Fokam et.al.|[2410.05985](http://arxiv.org/abs/2410.05985)|null|
 |**2024-10-08**|**Extended convexity and smoothness and their applications in deep learning**|Binchuan Qi et.al.|[2410.05807](http://arxiv.org/abs/2410.05807)|null|
@@ -6997,7 +6997,7 @@ layout: default
 |**2024-10-10**|**Parallel Digital Twin-driven Deep Reinforcement Learning for User Association and Load Balancing in Dynamic Wireless Networks**|Zhenyu Tao et.al.|[2410.07611](http://arxiv.org/abs/2410.07611)|null|
 |**2024-10-10**|**How Does Vision-Language Adaptation Impact the Safety of Vision Language Models?**|Seongyun Lee et.al.|[2410.07571](http://arxiv.org/abs/2410.07571)|null|
 |**2024-10-10**|**Rank Aggregation in Crowdsourcing for Listwise Annotations**|Wenshui Luo et.al.|[2410.07538](http://arxiv.org/abs/2410.07538)|null|
-|**2024-10-10**|**Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**|Haolin Liu et.al.|[2410.07533](http://arxiv.org/abs/2410.07533)|null|
+|**2024-10-13**|**Corruption-Robust Linear Bandits: Minimax Optimality and Gap-Dependent Misspecification**|Haolin Liu et.al.|[2410.07533](http://arxiv.org/abs/2410.07533)|null|
 |**2024-10-10**|**Offline Inverse Constrained Reinforcement Learning for Safe-Critical Decision Making in Healthcare**|Nan Fang et.al.|[2410.07525](http://arxiv.org/abs/2410.07525)|null|
 |**2024-10-09**|**Collective variables of neural networks: empirical time evolution and scaling laws**|Samuel Tovey et.al.|[2410.07451](http://arxiv.org/abs/2410.07451)|null|
 |**2024-10-09**|**Zero-Shot Generalization of Vision-Based RL Without Data Augmentation**|Sumeet Batra et.al.|[2410.07441](http://arxiv.org/abs/2410.07441)|null|
