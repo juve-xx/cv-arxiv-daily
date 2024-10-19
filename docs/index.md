@@ -2454,7 +2454,7 @@ layout: default
 |**2024-10-15**|**Towards More Effective Table-to-Text Generation: Assessing In-Context Learning and Self-Evaluation with Open-Source Models**|Sahar Iravani et.al.|[2410.12878](http://arxiv.org/abs/2410.12878)|null|
 |**2024-10-16**|**Context-Scaling versus Task-Scaling in In-Context Learning**|Amirhesam Abedsoltan et.al.|[2410.12783](http://arxiv.org/abs/2410.12783)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
-|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|null|
+|**2024-10-16**|**A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**|Yuanning Cui et.al.|[2410.12288](http://arxiv.org/abs/2410.12288)|**[link](https://github.com/nju-websoft/KG-ICL)**|
 |**2024-10-16**|**Controlled Automatic Task-Specific Synthetic Data Generation for Hallucination Detection**|Yong Xie et.al.|[2410.12278](http://arxiv.org/abs/2410.12278)|null|
 |**2024-10-16**|**Accurate and Data-Efficient Toxicity Prediction when Annotators Disagree**|Harbani Jaggi et.al.|[2410.12217](http://arxiv.org/abs/2410.12217)|null|
 |**2024-10-15**|**Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning**|Fengyu Gao et.al.|[2410.12085](http://arxiv.org/abs/2410.12085)|null|
@@ -2464,7 +2464,7 @@ layout: default
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
 |**2024-10-15**|**BSM: Small but Powerful Biological Sequence Model for Genes and Proteins**|Weixi Xiang et.al.|[2410.11499](http://arxiv.org/abs/2410.11499)|null|
 |**2024-10-16**|**How Transformers Implement Induction Heads: Approximation and Optimization Analysis**|Mingze Wang et.al.|[2410.11474](http://arxiv.org/abs/2410.11474)|null|
-|**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|null|
+|**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|**[link](https://github.com/kingofheven/ICR)**|
 |**2024-10-15**|**Cognitive Overload Attack:Prompt Injection for Long Context**|Bibek Upadhayay et.al.|[2410.11272](http://arxiv.org/abs/2410.11272)|null|
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268](http://arxiv.org/abs/2410.11268)|null|
 |**2024-10-15**|**In-Context Learning for Long-Context Sentiment Analysis on Infrastructure Project Opinions**|Alireza Shamshiri et.al.|[2410.11265](http://arxiv.org/abs/2410.11265)|null|
@@ -2510,7 +2510,7 @@ layout: default
 |**2024-10-07**|**Task Diversity Shortens the ICL Plateau**|Jaeyeon Kim et.al.|[2410.05448](http://arxiv.org/abs/2410.05448)|**[link](https://github.com/sehyunkwon/task-diversity-icl)**|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
 |**2024-10-09**|**Density estimation with LLMs: a geometric investigation of in-context learning trajectories**|Toni J. B. Liu et.al.|[2410.05218](http://arxiv.org/abs/2410.05218)|null|
-|**2024-10-08**|**A Simple Image Segmentation Framework via In-Context Examples**|Yang Liu et.al.|[2410.04842](http://arxiv.org/abs/2410.04842)|null|
+|**2024-10-08**|**A Simple Image Segmentation Framework via In-Context Examples**|Yang Liu et.al.|[2410.04842](http://arxiv.org/abs/2410.04842)|**[link](https://github.com/aim-uofa/sine)**|
 |**2024-10-07**|**Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning**|Qingyu Yin et.al.|[2410.04691](http://arxiv.org/abs/2410.04691)|**[link](https://github.com/mikastars39/iclvsfinetune)**|
 |**2024-10-06**|**GAMformer: In-Context Learning for Generalized Additive Models**|Andreas Mueller et.al.|[2410.04560](http://arxiv.org/abs/2410.04560)|null|
 |**2024-10-06**|**Revisiting In-context Learning Inference Circuit in Large Language Models**|Hakaze Cho et.al.|[2410.04468](http://arxiv.org/abs/2410.04468)|null|
@@ -3441,7 +3441,7 @@ layout: default
 |**2024-10-15**|**Deep vectorised operators for pulsatile hemodynamics estimation in coronary arteries from a steady-state prior**|Julian Suk et.al.|[2410.11920](http://arxiv.org/abs/2410.11920)|null|
 |**2024-10-15**|**Visual Fixation-Based Retinal Prosthetic Simulation**|Yuli Wu et.al.|[2410.11688](http://arxiv.org/abs/2410.11688)|null|
 |**2024-10-15**|**State-space models can learn in-context by gradient descent**|Neeraj Mohan Sushma et.al.|[2410.11687](http://arxiv.org/abs/2410.11687)|null|
-|**2024-10-13**|**STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation**|Vamsi Krishna Vasa et.al.|[2410.11578](http://arxiv.org/abs/2410.11578)|null|
+|**2024-10-13**|**STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation**|Vamsi Krishna Vasa et.al.|[2410.11578](http://arxiv.org/abs/2410.11578)|**[link](https://github.com/retinal-research/sta-unet)**|
 |**2024-10-15**|**CTA-Net: A CNN-Transformer Aggregation Network for Improving Multi-Scale Feature Extraction**|Chunlei Meng et.al.|[2410.11428](http://arxiv.org/abs/2410.11428)|null|
 |**2024-10-15**|**Implementing Derivations of Definite Logic Programs with Self-Attention Networks**|Phan Thi Thanh Thuy et.al.|[2410.11396](http://arxiv.org/abs/2410.11396)|null|
 |**2024-10-16**|**Quadratic Gating Functions in Mixture of Experts: A Statistical Insight**|Pedram Akbarian et.al.|[2410.11222](http://arxiv.org/abs/2410.11222)|null|
@@ -5874,7 +5874,7 @@ layout: default
 |**2024-10-10**|**Simultaneous Weight and Architecture Optimization for Neural Networks**|Zitong Huang et.al.|[2410.08339](http://arxiv.org/abs/2410.08339)|null|
 |**2024-10-10**|**Randomized Asymmetric Chain of LoRA: The First Meaningful Theoretical Framework for Low-Rank Adaptation**|Grigory Malinovsky et.al.|[2410.08305](http://arxiv.org/abs/2410.08305)|null|
 |**2024-10-10**|**Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?**|Khashayar Gatmiry et.al.|[2410.08292](http://arxiv.org/abs/2410.08292)|null|
-|**2024-10-10**|**Adam Exploits $\ell_\infty$ -geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198](http://arxiv.org/abs/2410.08198)|null|
+|**2024-10-10**|**Adam Exploits $\ell_\infty$ -geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198](http://arxiv.org/abs/2410.08198)|**[link](https://github.com/mohamad-amin/adam-coordinate-adaptivity)**|
 |**2024-10-10**|**On Barycenter Computation: Semi-Unbalanced Optimal Transport-based Method on Gaussians**|Ngoc-Hai Nguyen et.al.|[2410.08117](http://arxiv.org/abs/2410.08117)|null|
 |**2024-10-10**|**Optimal Transportation by Orthogonal Coupling Dynamics**|Mohsen Sadr et.al.|[2410.08060](http://arxiv.org/abs/2410.08060)|null|
 |**2024-10-10**|**On the Convergence of (Stochastic) Gradient Descent for Kolmogorov--Arnold Networks**|Yihang Gao et.al.|[2410.08041](http://arxiv.org/abs/2410.08041)|null|
