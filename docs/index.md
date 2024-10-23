@@ -2444,6 +2444,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
+|**2024-10-22**|**Order Matters: Exploring Order Sensitivity in Multimodal Large Language Models**|Zhijie Tan et.al.|[2410.16983](http://arxiv.org/abs/2410.16983)|null|
+|**2024-10-21**|**Can Transformers In-Context Learn Behavior of a Linear Dynamical System?**|Usman Akram et.al.|[2410.16546](http://arxiv.org/abs/2410.16546)|null|
+|**2024-10-21**|**A Theoretical Understanding of Chain-of-Thought: Coherent Reasoning and Error-Aware Demonstration**|Yingqian Cui et.al.|[2410.16540](http://arxiv.org/abs/2410.16540)|null|
+|**2024-10-21**|**Bayesian scaling laws for in-context learning**|Aryaman Arora et.al.|[2410.16531](http://arxiv.org/abs/2410.16531)|null|
+|**2024-10-09**|**Steering Large Language Models using Conceptors: Improving Addition-Based Activation Engineering**|Joris Postmus et.al.|[2410.16314](http://arxiv.org/abs/2410.16314)|null|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
 |**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
 |**2024-10-20**|**How Aligned are Generative Models to Humans in High-Stakes Decision-Making?**|Sarah Tan et.al.|[2410.15471](http://arxiv.org/abs/2410.15471)|null|
@@ -3442,6 +3448,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**|Xiaoxuan Ma et.al.|[2410.17136](http://arxiv.org/abs/2410.17136)|null|
+|**2024-10-22**|**A Comparison of Baseline Models and a Transformer Network for SOC Prediction in Lithium-Ion Batteries**|Hadeel Aboueidah et.al.|[2410.17049](http://arxiv.org/abs/2410.17049)|null|
+|**2024-10-22**|**AGSENet: A Robust Road Ponding Detection Method for Proactive Traffic Safety**|Ronghui Zhang et.al.|[2410.16999](http://arxiv.org/abs/2410.16999)|null|
+|**2024-10-20**|**Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN**|Mahmoud Ranjbar et.al.|[2410.16336](http://arxiv.org/abs/2410.16336)|null|
 |**2024-10-21**|**START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation**|Jintao Guo et.al.|[2410.16020](http://arxiv.org/abs/2410.16020)|null|
 |**2024-10-21**|**Focus Where It Matters: Graph Selective State Focused Attention Networks**|Shikhar Vashistha et.al.|[2410.15849](http://arxiv.org/abs/2410.15849)|null|
 |**2024-10-20**|**Improving 3D Medical Image Segmentation at Boundary Regions using Local Self-attention and Global Volume Mixing**|Daniya Najiha Abdul Kareem et.al.|[2410.15360](http://arxiv.org/abs/2410.15360)|null|
@@ -4510,6 +4520,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
+|**2024-10-22**|**Theoretical Convergence Guarantees for Variational Autoencoders**|Sobihan Surendran et.al.|[2410.16750](http://arxiv.org/abs/2410.16750)|null|
+|**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
+|**2024-10-21**|**Gradient Normalization with(out) Clipping Ensures Convergence of Nonconvex SGD under Heavy-Tailed Noise with Improved Results**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
+|**2024-10-21**|**Limit Theorems for Stochastic Gradient Descent with Infinite Variance**|Jose Blanchet et.al.|[2410.16340](http://arxiv.org/abs/2410.16340)|null|
 |**2024-10-21**|**Composing Optimized Stepsize Schedules for Gradient Descent**|Benjamin Grimmer et.al.|[2410.16249](http://arxiv.org/abs/2410.16249)|null|
 |**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
 |**2024-10-21**|**Automatic Differentiation of Optimization Algorithms with Time-Varying Updates**|Sheheryar Mehmood et.al.|[2410.15923](http://arxiv.org/abs/2410.15923)|null|
@@ -5681,6 +5696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Rethinking generalization of classifiers in separable classes scenarios and over-parameterized regimes**|Julius Martinetz et.al.|[2410.16868](http://arxiv.org/abs/2410.16868)|null|
 |**2024-10-18**|**Privacy for Free in the Over-Parameterized Regime**|Simone Bombari et.al.|[2410.14787](http://arxiv.org/abs/2410.14787)|null|
 |**2024-10-13**|**Universal scaling laws in quantum-probabilistic machine learning by tensor network towards interpreting representation and generalization powers**|Sheng-Chen Bai et.al.|[2410.09703](http://arxiv.org/abs/2410.09703)|null|
 |**2024-10-11**|**MUSO: Achieving Exact Machine Unlearning in Over-Parameterized Regimes**|Ruikai Yang et.al.|[2410.08557](http://arxiv.org/abs/2410.08557)|null|
@@ -5869,6 +5885,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
+|**2024-10-22**|**Leaky ReLUs That Differ in Forward and Backward Pass Facilitate Activation Maximization in Deep Neural Networks**|Christoph Linse et.al.|[2410.16958](http://arxiv.org/abs/2410.16958)|null|
+|**2024-10-22**|**Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating Few-Shot Node Classification**|Yihong Luo et.al.|[2410.16845](http://arxiv.org/abs/2410.16845)|**[link](https://github.com/draym28/fgsam_neurips24)**|
+|**2024-10-22**|**Theoretical Convergence Guarantees for Variational Autoencoders**|Sobihan Surendran et.al.|[2410.16750](http://arxiv.org/abs/2410.16750)|null|
+|**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
+|**2024-10-21**|**Gradient Normalization with(out) Clipping Ensures Convergence of Nonconvex SGD under Heavy-Tailed Noise with Improved Results**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
+|**2024-10-21**|**Simplicity Bias via Global Convergence of Sharpness Minimization**|Khashayar Gatmiry et.al.|[2410.16401](http://arxiv.org/abs/2410.16401)|null|
+|**2024-10-21**|**Limit Theorems for Stochastic Gradient Descent with Infinite Variance**|Jose Blanchet et.al.|[2410.16340](http://arxiv.org/abs/2410.16340)|null|
 |**2024-10-21**|**Composing Optimized Stepsize Schedules for Gradient Descent**|Benjamin Grimmer et.al.|[2410.16249](http://arxiv.org/abs/2410.16249)|null|
 |**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
 |**2024-10-21**|**Automatic Differentiation of Optimization Algorithms with Time-Varying Updates**|Sheheryar Mehmood et.al.|[2410.15923](http://arxiv.org/abs/2410.15923)|null|
@@ -7160,6 +7184,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Few-shot In-Context Preference Learning Using Large Language Models**|Chao Yu et.al.|[2410.17233](http://arxiv.org/abs/2410.17233)|null|
+|**2024-10-22**|**DyPNIPP: Predicting Environment Dynamics for RL-based Robust Informative Path Planning**|Srujan Deolasee et.al.|[2410.17186](http://arxiv.org/abs/2410.17186)|null|
+|**2024-10-22**|**Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**|Yasha Ektefaie et.al.|[2410.17173](http://arxiv.org/abs/2410.17173)|null|
+|**2024-10-22**|**Reinforcement Learning for Data-Driven Workflows in Radio Interferometry. I. Principal Demonstration in Calibration**|Brian M. Kirk et.al.|[2410.17135](http://arxiv.org/abs/2410.17135)|null|
+|**2024-10-22**|**Exploring RL-based LLM Training for Formal Language Tasks with Programmed Rewards**|Alexander G. Padula et.al.|[2410.17126](http://arxiv.org/abs/2410.17126)|**[link](https://github.com/padlex/reinforcement-learning-from-explicitly-programmed-reward-signals)**|
+|**2024-10-22**|**Science Out of Its Ivory Tower: Improving Accessibility with Reinforcement Learning**|Haining Wang et.al.|[2410.17088](http://arxiv.org/abs/2410.17088)|null|
+|**2024-10-22**|**Delay-Constrained Grant-Free Random Access in MIMO Systems: Distributed Pilot Allocation and Power Control**|Jianan Bai et.al.|[2410.17068](http://arxiv.org/abs/2410.17068)|null|
+|**2024-10-22**|**Optimal Design for Reward Modeling in RLHF**|Antoine Scheid et.al.|[2410.17055](http://arxiv.org/abs/2410.17055)|null|
+|**2024-10-22**|**Safe Load Balancing in Software-Defined-Networking**|Lam Dinh et.al.|[2410.16846](http://arxiv.org/abs/2410.16846)|null|
+|**2024-10-22**|**Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning**|Zongmeng Zhang et.al.|[2410.16843](http://arxiv.org/abs/2410.16843)|**[link](https://github.com/zmzhang2000/trustworthy-alignment)**|
+|**2024-10-22**|**Guiding Reinforcement Learning with Incomplete System Dynamics**|Shuyuan Wang et.al.|[2410.16821](http://arxiv.org/abs/2410.16821)|null|
+|**2024-10-22**|**Sample-Efficient Curriculum Reinforcement Learning for Complex Reward Functions**|Kilian Freitag et.al.|[2410.16790](http://arxiv.org/abs/2410.16790)|null|
+|**2024-10-22**|**Corrected Soft Actor Critic for Continuous Control**|Yanjun Chen et.al.|[2410.16739](http://arxiv.org/abs/2410.16739)|null|
+|**2024-10-22**|**LLM-Assisted Red Teaming of Diffusion Models through "Failures Are Fated, But Can Be Faded"**|Som Sagar et.al.|[2410.16738](http://arxiv.org/abs/2410.16738)|null|
+|**2024-10-22**|**Magnetic Preference Optimization: Achieving Last-iterate Convergence for Language Models Alignment**|Mingzhi Wang et.al.|[2410.16714](http://arxiv.org/abs/2410.16714)|null|
+|**2024-10-22**|**QuasiNav: Asymmetric Cost-Aware Navigation Planning with Constrained Quasimetric Reinforcement Learning**|Jumman Hossain et.al.|[2410.16666](http://arxiv.org/abs/2410.16666)|null|
+|**2024-10-22**|**Enhancing Two-Player Performance Through Single-Player Knowledge Transfer: An Empirical Study on Atari 2600 Games**|Kimiya Saadat et.al.|[2410.16653](http://arxiv.org/abs/2410.16653)|null|
+|**2024-10-22**|**Benchmarking Smoothness and Reducing High-Frequency Oscillations in Continuous Control Policies**|Guilherme Christmann et.al.|[2410.16632](http://arxiv.org/abs/2410.16632)|null|
+|**2024-10-22**|**Cycloidal Quasi-Direct Drive Actuator Designs with Learning-based Torque Estimation for Legged Robotics**|Alvin Zhu et.al.|[2410.16591](http://arxiv.org/abs/2410.16591)|null|
+|**2024-10-22**|**Optimizing LLMs with Direct Preferences: A Data Efficiency Perspective**|Pietro Bernardelle et.al.|[2410.16586](http://arxiv.org/abs/2410.16586)|null|
+|**2024-10-21**|**RGMDT: Return-Gap-Minimizing Decision Tree Extraction in Non-Euclidean Metric Space**|Jingdi Chen et.al.|[2410.16517](http://arxiv.org/abs/2410.16517)|null|
+|**2024-10-21**|**Advancements in Electric Vehicle Charging Optimization: A Survey of Reinforcement Learning Approaches**|Mehrshad Shokati et.al.|[2410.16425](http://arxiv.org/abs/2410.16425)|null|
+|**2024-10-21**|**AttentionPainter: An Efficient and Adaptive Stroke Predictor for Scene Painting**|Yizhe Tang et.al.|[2410.16418](http://arxiv.org/abs/2410.16418)|null|
+|**2024-10-21**|**Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**|Angelo Moroncelli et.al.|[2410.16411](http://arxiv.org/abs/2410.16411)|null|
+|**2024-10-18**|**CybORG++: An Enhanced Gym for the Development of Autonomous Cyber Agents**|Harry Emerson et.al.|[2410.16324](http://arxiv.org/abs/2410.16324)|null|
 |**2024-10-21**|**Improve Vision Language Model Chain-of-thought Reasoning**|Ruohong Zhang et.al.|[2410.16198](http://arxiv.org/abs/2410.16198)|null|
 |**2024-10-21**|**RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style**|Yantao Liu et.al.|[2410.16184](http://arxiv.org/abs/2410.16184)|**[link](https://github.com/thu-keg/rm-bench)**|
 |**2024-10-21**|**SMART: Self-learning Meta-strategy Agent for Reasoning Tasks**|Rongxing Liu et.al.|[2410.16128](http://arxiv.org/abs/2410.16128)|**[link](https://github.com/kumar-shridhar/smart)**|
