@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2455,7 +2455,7 @@ layout: default
 |**2024-10-17**|**Style-Compress: An LLM-Based Prompt Compression Framework Considering Task-Specific Styles**|Xiao Pu et.al.|[2410.14042](http://arxiv.org/abs/2410.14042)|null|
 |**2024-10-17**|**Personalized Adaptation via In-Context Preference Learning**|Allison Lau et.al.|[2410.14001](http://arxiv.org/abs/2410.14001)|null|
 |**2024-10-17**|**On the Learn-to-Optimize Capabilities of Transformers in In-Context Sparse Recovery**|Renpu Liu et.al.|[2410.13981](http://arxiv.org/abs/2410.13981)|null|
-|**2024-10-18**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
+|**2024-10-21**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
 |**2024-10-18**|**Aggregation Artifacts in Subjective Tasks Collapse Large Language Models' Posteriors**|Georgios Chochlakis et.al.|[2410.13776](http://arxiv.org/abs/2410.13776)|null|
 |**2024-10-21**|**MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs**|Andreas Opedal et.al.|[2410.13502](http://arxiv.org/abs/2410.13502)|null|
 |**2024-10-17**|**Repetition Neurons: How Do Language Models Produce Repetitions?**|Tatsuya Hiraoka et.al.|[2410.13497](http://arxiv.org/abs/2410.13497)|null|
@@ -5962,7 +5962,7 @@ layout: default
 |**2024-10-08**|**Benign Overfitting for Regression with Trained Two-Layer ReLU Networks**|Junhyung Park et.al.|[2410.06191](http://arxiv.org/abs/2410.06191)|null|
 |**2024-10-10**|**The Last Iterate Advantage: Empirical Auditing and Principled Heuristic Analysis of Differentially Private SGD**|Thomas Steinke et.al.|[2410.06186](http://arxiv.org/abs/2410.06186)|null|
 |**2024-10-08**|**QT-DoG: Quantization-aware Training for Domain Generalization**|Saqib Javed et.al.|[2410.06020](http://arxiv.org/abs/2410.06020)|**[link](https://github.com/saqibjaved1/QT-DoG)**|
-|**2024-10-21**|**Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization**|Wei Liu et.al.|[2410.06003](http://arxiv.org/abs/2410.06003)|**[link](https://github.com/jugechengzi/rationalization-mrd)**|
+|**2024-10-22**|**Is the MMI Criterion Necessary for Interpretability? Degenerating Non-causal Features to Plain Noise for Self-Rationalization**|Wei Liu et.al.|[2410.06003](http://arxiv.org/abs/2410.06003)|**[link](https://github.com/jugechengzi/rationalization-mrd)**|
 |**2024-10-08**|**Utilizing Lyapunov Exponents in designing deep neural networks**|Tirthankar Mittra et.al.|[2410.05988](http://arxiv.org/abs/2410.05988)|**[link](https://github.com/tirthankar95/chaosoptim)**|
 |**2024-10-08**|**Asynchronous Stochastic Gradient Descent with Decoupled Backpropagation and Layer-Wise Updates**|Cabrel Teguemne Fokam et.al.|[2410.05985](http://arxiv.org/abs/2410.05985)|null|
 |**2024-10-08**|**Extended convexity and smoothness and their applications in deep learning**|Binchuan Qi et.al.|[2410.05807](http://arxiv.org/abs/2410.05807)|null|
@@ -7195,12 +7195,12 @@ layout: default
 |**2024-10-19**|**Reinfier and Reintrainer: Verification and Interpretation-Driven Safe Deep Reinforcement Learning Frameworks**|Zixuan Yang et.al.|[2410.15127](http://arxiv.org/abs/2410.15127)|**[link](https://github.com/kurayuri/reinfier)**|
 |**2024-10-19**|**Mean Field LQG Social Optimization: A Reinforcement Learning Approach**|Zhenhui Xu et.al.|[2410.15119](http://arxiv.org/abs/2410.15119)|null|
 |**2024-10-19**|**GDPO: Learning to Directly Align Language Models with Diversity Using GFlowNets**|Oh Joon Kwon et.al.|[2410.15096](http://arxiv.org/abs/2410.15096)|null|
-|**2024-10-19**|**A Novel Reinforcement Learning Model for Post-Incident Malware Investigations**|Dipo Dunsin et.al.|[2410.15028](http://arxiv.org/abs/2410.15028)|null|
+|**2024-10-22**|**A Novel Reinforcement Learning Model for Post-Incident Malware Investigations**|Dipo Dunsin et.al.|[2410.15028](http://arxiv.org/abs/2410.15028)|null|
 |**2024-10-19**|**MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**|Suning Huang et.al.|[2410.14972](http://arxiv.org/abs/2410.14972)|null|
 |**2024-10-19**|**Offline-to-online Reinforcement Learning for Image-based Grasping with Scarce Demonstrations**|Bryan Chan et.al.|[2410.14957](http://arxiv.org/abs/2410.14957)|null|
 |**2024-10-19**|**Hierarchical Reinforced Trader (HRT): A Bi-Level Approach for Optimizing Stock Selection and Execution**|Zijie Zhao et.al.|[2410.14927](http://arxiv.org/abs/2410.14927)|null|
 |**2024-10-19**|**Aligning LLMs with Human Instructions and Stock Market Feedback in Financial Sentiment Analysis**|Zijie Zhao et.al.|[2410.14926](http://arxiv.org/abs/2410.14926)|null|
-|**2024-10-19**|**Cooperation and Fairness in Multi-Agent Reinforcement Learning**|Jasmine Jerry Aloor et.al.|[2410.14916](http://arxiv.org/abs/2410.14916)|null|
+|**2024-10-19**|**Cooperation and Fairness in Multi-Agent Reinforcement Learning**|Jasmine Jerry Aloor et.al.|[2410.14916](http://arxiv.org/abs/2410.14916)|**[link](https://github.com/Jaroan/Fair-MARL)**|
 |**2024-10-18**|**How to Evaluate Reward Models for RLHF**|Evan Frick et.al.|[2410.14872](http://arxiv.org/abs/2410.14872)|null|
 |**2024-10-18**|**DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents**|Taiyi Wang et.al.|[2410.14803](http://arxiv.org/abs/2410.14803)|null|
 |**2024-10-18**|**Online Reinforcement Learning with Passive Memory**|Anay Pattanaik et.al.|[2410.14665](http://arxiv.org/abs/2410.14665)|null|
