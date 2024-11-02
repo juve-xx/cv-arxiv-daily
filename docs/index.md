@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3482,9 +3482,9 @@ layout: default
 |**2024-10-31**|**Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting**|Suhan Guo et.al.|[2410.24023](http://arxiv.org/abs/2410.24023)|null|
 |**2024-10-31**|**MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation**|Yufeng Jiang et.al.|[2410.23738](http://arxiv.org/abs/2410.23738)|null|
 |**2024-10-31**|**Context-Aware Token Selection and Packing for Enhanced Vision Transformer**|Tianyi Zhang et.al.|[2410.23608](http://arxiv.org/abs/2410.23608)|null|
-|**2024-10-30**|**Lina-Speech: Gated Linear Attention is a Fast and Parameter-Efficient Learner for text-to-speech synthesis**|Théodor Lemerle et.al.|[2410.23320](http://arxiv.org/abs/2410.23320)|null|
+|**2024-10-30**|**Lina-Speech: Gated Linear Attention is a Fast and Parameter-Efficient Learner for text-to-speech synthesis**|Théodor Lemerle et.al.|[2410.23320](http://arxiv.org/abs/2410.23320)|**[link](https://github.com/theodorblackbird/lina-speech)**|
 |**2024-10-30**|**A Neural Transformer Framework for Simultaneous Tasks of Segmentation, Classification, and Caller Identification of Marmoset Vocalization**|Bin Wu et.al.|[2410.23279](http://arxiv.org/abs/2410.23279)|null|
-|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|null|
+|**2024-10-30**|**DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET**|Yitong Li et.al.|[2410.23219](http://arxiv.org/abs/2410.23219)|**[link](https://github.com/ai-med/diamond)**|
 |**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|null|
 |**2024-10-30**|**WaveRoRA: Wavelet Rotary Route Attention for Multivariate Time Series Forecasting**|Aobo Liang et.al.|[2410.22649](http://arxiv.org/abs/2410.22649)|null|
 |**2024-10-29**|**EfficientNet with Hybrid Attention Mechanisms for Enhanced Breast Histopathology Classification: A Comprehensive Approach**|Naren Sengodan et.al.|[2410.22392](http://arxiv.org/abs/2410.22392)|null|
@@ -4580,8 +4580,8 @@ layout: default
 |**2024-10-31**|**$ψ$ DAG: Projected Stochastic Approximation Iteration for DAG Structure Learning**|Klea Ziu et.al.|[2410.23862](http://arxiv.org/abs/2410.23862)|null|
 |**2024-10-30**|**Non-binary artificial neuron with phase variation implemented on a quantum computer**|Jhordan Silveira de Borba et.al.|[2410.23373](http://arxiv.org/abs/2410.23373)|null|
 |**2024-10-30**|**Performative Control for Linear Dynamical Systems**|Songfu Cai et.al.|[2410.23251](http://arxiv.org/abs/2410.23251)|null|
-|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170](http://arxiv.org/abs/2410.23170)|null|
-|**2024-10-30**|**Differentiable Conservative Radially Symmetric Fluid Simulations and Stellar Winds -- jf1uids**|Leonard Storcks et.al.|[2410.23093](http://arxiv.org/abs/2410.23093)|null|
+|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170](http://arxiv.org/abs/2410.23170)|**[link](https://github.com/ShiyueZhang66/Constrained-Functional-Gradient-Flow)**|
+|**2024-10-30**|**Differentiable Conservative Radially Symmetric Fluid Simulations and Stellar Winds -- jf1uids**|Leonard Storcks et.al.|[2410.23093](http://arxiv.org/abs/2410.23093)|**[link](https://github.com/leo1200/jf1uids)**|
 |**2024-10-30**|**ELBOing Stein: Variational Bayes with Stein Mixture Inference**|Ola Rønning et.al.|[2410.22948](http://arxiv.org/abs/2410.22948)|null|
 |**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|**[link](https://github.com/modichirag/gsm-vi)**|
 |**2024-10-29**|**Flavors of Margin: Implicit Bias of Steepest Descent in Homogeneous Neural Networks**|Nikolaos Tsilivis et.al.|[2410.22069](http://arxiv.org/abs/2410.22069)|null|
@@ -5991,8 +5991,8 @@ layout: default
 |**2024-10-31**|**$ψ$ DAG: Projected Stochastic Approximation Iteration for DAG Structure Learning**|Klea Ziu et.al.|[2410.23862](http://arxiv.org/abs/2410.23862)|null|
 |**2024-10-30**|**Non-binary artificial neuron with phase variation implemented on a quantum computer**|Jhordan Silveira de Borba et.al.|[2410.23373](http://arxiv.org/abs/2410.23373)|null|
 |**2024-10-30**|**Performative Control for Linear Dynamical Systems**|Songfu Cai et.al.|[2410.23251](http://arxiv.org/abs/2410.23251)|null|
-|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170](http://arxiv.org/abs/2410.23170)|null|
-|**2024-10-30**|**Differentiable Conservative Radially Symmetric Fluid Simulations and Stellar Winds -- jf1uids**|Leonard Storcks et.al.|[2410.23093](http://arxiv.org/abs/2410.23093)|null|
+|**2024-10-30**|**Functional Gradient Flows for Constrained Sampling**|Shiyue Zhang et.al.|[2410.23170](http://arxiv.org/abs/2410.23170)|**[link](https://github.com/ShiyueZhang66/Constrained-Functional-Gradient-Flow)**|
+|**2024-10-30**|**Differentiable Conservative Radially Symmetric Fluid Simulations and Stellar Winds -- jf1uids**|Leonard Storcks et.al.|[2410.23093](http://arxiv.org/abs/2410.23093)|**[link](https://github.com/leo1200/jf1uids)**|
 |**2024-10-30**|**ELBOing Stein: Variational Bayes with Stein Mixture Inference**|Ola Rønning et.al.|[2410.22948](http://arxiv.org/abs/2410.22948)|null|
 |**2024-10-30**|**Reweighting Local Mimina with Tilted SAM**|Tian Li et.al.|[2410.22656](http://arxiv.org/abs/2410.22656)|null|
 |**2024-10-29**|**Batch, match, and patch: low-rank approximations for score-based variational inference**|Chirag Modi et.al.|[2410.22292](http://arxiv.org/abs/2410.22292)|**[link](https://github.com/modichirag/gsm-vi)**|
@@ -7331,7 +7331,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
 |**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
-|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|null|
+|**2024-10-31**|**Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity**|AmirMohammad Tahmasbi et.al.|[2410.24205](http://arxiv.org/abs/2410.24205)|**[link](https://github.com/saleh-faghfoorian/rl-rrt-kdtree)**|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers**|Kai Yan et.al.|[2410.24108](http://arxiv.org/abs/2410.24108)|**[link](https://github.com/kaiyan289/rl_as_vitamin_for_online_decision_transformers)**|
 |**2024-10-31**|**Progressive Safeguards for Safe and Model-Agnostic Reinforcement Learning**|Nabil Omi et.al.|[2410.24096](http://arxiv.org/abs/2410.24096)|null|
@@ -7342,15 +7342,15 @@ layout: default
 |**2024-10-31**|**Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks**|Steve Bakos et.al.|[2410.23870](http://arxiv.org/abs/2410.23870)|null|
 |**2024-10-31**|**Deterministic Exploration via Stationary Bellman Error Maximization**|Sebastian Griesbach et.al.|[2410.23840](http://arxiv.org/abs/2410.23840)|null|
 |**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753](http://arxiv.org/abs/2410.23753)|**[link](https://github.com/akulen/alphagateau)**|
-|**2024-10-31**|**A Non-Monolithic Policy Approach of Offline-to-Online Reinforcement Learning**|JaeYoon Kim et.al.|[2410.23737](http://arxiv.org/abs/2410.23737)|null|
+|**2024-10-31**|**A Non-Monolithic Policy Approach of Offline-to-Online Reinforcement Learning**|JaeYoon Kim et.al.|[2410.23737](http://arxiv.org/abs/2410.23737)|**[link](https://github.com/jangikim2/Offline-to-online-RL-with-non-monolithic-exploration-methodology)**|
 |**2024-10-31**|**Towards Reliable Alignment: Uncertainty-aware RLHF**|Debangshu Banerjee et.al.|[2410.23726](http://arxiv.org/abs/2410.23726)|null|
-|**2024-10-31**|**Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment**|Weichao Zhou et.al.|[2410.23680](http://arxiv.org/abs/2410.23680)|null|
+|**2024-10-31**|**Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment**|Weichao Zhou et.al.|[2410.23680](http://arxiv.org/abs/2410.23680)|**[link](https://github.com/zwc662/PAGAR)**|
 |**2024-10-31**|**Anytime-Constrained Multi-Agent Reinforcement Learning**|Jeremy McMahan et.al.|[2410.23637](http://arxiv.org/abs/2410.23637)|null|
 |**2024-10-31**|**Sample-Efficient Agnostic Boosting**|Udaya Ghai et.al.|[2410.23632](http://arxiv.org/abs/2410.23632)|null|
 |**2024-10-31**|**Adaptive Alignment: Dynamic Preference Adjustments via Multi-Objective Reinforcement Learning for Pluralistic AI**|Hadassah Harland et.al.|[2410.23630](http://arxiv.org/abs/2410.23630)|null|
 |**2024-10-31**|**Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs**|Shuyang Yu et.al.|[2410.23605](http://arxiv.org/abs/2410.23605)|null|
 |**2024-10-31**|**Dual Agent Learning Based Aerial Trajectory Tracking**|Shaswat Garg et.al.|[2410.23571](http://arxiv.org/abs/2410.23571)|null|
-|**2024-10-31**|**RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning**|Yujie Zhao et.al.|[2410.23569](http://arxiv.org/abs/2410.23569)|null|
+|**2024-10-31**|**RA-PbRL: Provably Efficient Risk-Aware Preference-Based Reinforcement Learning**|Yujie Zhao et.al.|[2410.23569](http://arxiv.org/abs/2410.23569)|**[link](https://github.com/aguilarjose11/pbrlneurips)**|
 |**2024-10-31**|**Prosody as a Teaching Signal for Agent Learning: Exploratory Studies and Algorithmic Implications**|Matilda Knierim et.al.|[2410.23554](http://arxiv.org/abs/2410.23554)|null|
 |**2024-10-31**|**Simulating User Agents for Embodied Conversational-AI**|Daniel Philipov et.al.|[2410.23535](http://arxiv.org/abs/2410.23535)|null|
 |**2024-10-30**|**Kernel-Based Function Approximation for Average Reward Reinforcement Learning: An Optimist No-Regret Algorithm**|Sattar Vakili et.al.|[2410.23498](http://arxiv.org/abs/2410.23498)|null|
