@@ -2448,7 +2448,7 @@ layout: default
 |**2024-10-31**|**Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?**|Zhanke Zhou et.al.|[2410.23856](http://arxiv.org/abs/2410.23856)|**[link](https://github.com/tmlr-group/noisyrationales)**|
 |**2024-10-31**|**What is Wrong with Perplexity for Long-context Language Modeling?**|Lizhe Fang et.al.|[2410.23771](http://arxiv.org/abs/2410.23771)|**[link](https://github.com/pku-ml/longppl)**|
 |**2024-10-31**|**Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs**|Shuyang Yu et.al.|[2410.23605](http://arxiv.org/abs/2410.23605)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
+|**2024-11-01**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
 |**2024-10-30**|**EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning**|Peide Huang et.al.|[2410.23234](http://arxiv.org/abs/2410.23234)|null|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
 |**2024-10-30**|**Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning**|Dong Shu et.al.|[2410.23099](http://arxiv.org/abs/2410.23099)|**[link](https://github.com/tizzzzy/demonstration_selection_overview)**|
@@ -4596,11 +4596,11 @@ layout: default
 |**2024-10-26**|**ISDNN: A Deep Neural Network for Channel Estimation in Massive MIMO systems**|Do Hai Son et.al.|[2410.20110](http://arxiv.org/abs/2410.20110)|null|
 |**2024-10-26**|**Adversarial Attacks Against Double RIS-Assisted MIMO Systems-based Autoencoder in Finite-Scattering Environments**|Bui Duc Son et.al.|[2410.20103](http://arxiv.org/abs/2410.20103)|null|
 |**2024-10-25**|**Understanding Adam Requires Better Rotation Dependent Assumptions**|Lucas Maes et.al.|[2410.19964](http://arxiv.org/abs/2410.19964)|null|
-|**2024-10-25**|**Provable optimal transport with transformers: The essence of depth and prompt engineering**|Hadi Daneshmand et.al.|[2410.19931](http://arxiv.org/abs/2410.19931)|**[link](https://github.com/hadidaneshmand/ot-transformer)**|
+|**2024-11-01**|**Provable optimal transport with transformers: The essence of depth and prompt engineering**|Hadi Daneshmand et.al.|[2410.19931](http://arxiv.org/abs/2410.19931)|**[link](https://github.com/hadidaneshmand/ot-transformer)**|
 |**2024-10-21**|**A practical, fast method for solving sum-of-squares problems for very large polynomials**|Daniel Keren et.al.|[2410.19844](http://arxiv.org/abs/2410.19844)|null|
 |**2024-10-29**|**Super Gradient Descent: Global Optimization requires Global Gradient**|Seifeddine Achour et.al.|[2410.19706](http://arxiv.org/abs/2410.19706)|null|
 |**2024-10-25**|**Optimization with First Order Algorithms**|Charles Dossal et.al.|[2410.19506](http://arxiv.org/abs/2410.19506)|null|
-|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
+|**2024-11-01**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
 |**2024-10-25**|**Gradient Descent Efficiency Index**|Aviral Dhingra et.al.|[2410.19448](http://arxiv.org/abs/2410.19448)|null|
 |**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
 |**2024-10-25**|**Accelerated optimization algorithms and ordinary differential equations: the convex non Euclidean case**|Paul Dobson et.al.|[2410.19380](http://arxiv.org/abs/2410.19380)|null|
@@ -4612,7 +4612,7 @@ layout: default
 |**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938](http://arxiv.org/abs/2410.18938)|null|
 |**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858](http://arxiv.org/abs/2410.18858)|**[link](https://github.com/SPOC-group/bilinear-sequence-regression)**|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
-|**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
+|**2024-10-31**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Rethinking Positive Pairs in Contrastive Learning**|Jiantao Wu et.al.|[2410.18200](http://arxiv.org/abs/2410.18200)|null|
 |**2024-10-23**|**Stochastic gradient descent in high dimensions for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2410.18162](http://arxiv.org/abs/2410.18162)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
@@ -6008,11 +6008,11 @@ layout: default
 |**2024-10-26**|**ISDNN: A Deep Neural Network for Channel Estimation in Massive MIMO systems**|Do Hai Son et.al.|[2410.20110](http://arxiv.org/abs/2410.20110)|null|
 |**2024-10-26**|**Adversarial Attacks Against Double RIS-Assisted MIMO Systems-based Autoencoder in Finite-Scattering Environments**|Bui Duc Son et.al.|[2410.20103](http://arxiv.org/abs/2410.20103)|null|
 |**2024-10-25**|**Understanding Adam Requires Better Rotation Dependent Assumptions**|Lucas Maes et.al.|[2410.19964](http://arxiv.org/abs/2410.19964)|null|
-|**2024-10-25**|**Provable optimal transport with transformers: The essence of depth and prompt engineering**|Hadi Daneshmand et.al.|[2410.19931](http://arxiv.org/abs/2410.19931)|**[link](https://github.com/hadidaneshmand/ot-transformer)**|
+|**2024-11-01**|**Provable optimal transport with transformers: The essence of depth and prompt engineering**|Hadi Daneshmand et.al.|[2410.19931](http://arxiv.org/abs/2410.19931)|**[link](https://github.com/hadidaneshmand/ot-transformer)**|
 |**2024-10-21**|**A practical, fast method for solving sum-of-squares problems for very large polynomials**|Daniel Keren et.al.|[2410.19844](http://arxiv.org/abs/2410.19844)|null|
 |**2024-10-29**|**Super Gradient Descent: Global Optimization requires Global Gradient**|Seifeddine Achour et.al.|[2410.19706](http://arxiv.org/abs/2410.19706)|null|
 |**2024-10-25**|**Optimization with First Order Algorithms**|Charles Dossal et.al.|[2410.19506](http://arxiv.org/abs/2410.19506)|null|
-|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
+|**2024-11-01**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
 |**2024-10-25**|**Gradient Descent Efficiency Index**|Aviral Dhingra et.al.|[2410.19448](http://arxiv.org/abs/2410.19448)|null|
 |**2024-10-25**|**Genetic Motifs as a Blueprint for Mismatch-Tolerant Neuromorphic Computing**|Tommaso Boccato et.al.|[2410.19403](http://arxiv.org/abs/2410.19403)|null|
 |**2024-10-25**|**Accelerated optimization algorithms and ordinary differential equations: the convex non Euclidean case**|Paul Dobson et.al.|[2410.19380](http://arxiv.org/abs/2410.19380)|null|
@@ -6024,7 +6024,7 @@ layout: default
 |**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938](http://arxiv.org/abs/2410.18938)|null|
 |**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858](http://arxiv.org/abs/2410.18858)|**[link](https://github.com/SPOC-group/bilinear-sequence-regression)**|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
-|**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
+|**2024-10-31**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Rethinking Positive Pairs in Contrastive Learning**|Jiantao Wu et.al.|[2410.18200](http://arxiv.org/abs/2410.18200)|null|
 |**2024-10-23**|**Stochastic gradient descent in high dimensions for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2410.18162](http://arxiv.org/abs/2410.18162)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
