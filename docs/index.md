@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5810,7 +5810,7 @@ layout: default
 |**2024-09-09**|**On the Convergence Analysis of Over-Parameterized Variational Autoencoders: A Neural Tangent Kernel Perspective**|Li Wang et.al.|[2409.05349](http://arxiv.org/abs/2409.05349)|null|
 |**2024-09-06**|**Over-parameterized regression methods and their application to semi-supervised learning**|Katsuyuki Hagiwara et.al.|[2409.04001](http://arxiv.org/abs/2409.04001)|null|
 |**2024-09-03**|**DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection**|Weichao Pan et.al.|[2409.01604](http://arxiv.org/abs/2409.01604)|null|
-|**2024-09-02**|**Improving Adaptivity via Over-Parameterization in Sequence Models**|Yicheng Li et.al.|[2409.00894](http://arxiv.org/abs/2409.00894)|null|
+|**2024-10-31**|**Improving Adaptivity via Over-Parameterization in Sequence Models**|Yicheng Li et.al.|[2409.00894](http://arxiv.org/abs/2409.00894)|null|
 |**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-10-23**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|**[link](https://github.com/erfanhatefi/pruning-by-explaining-in-pytorch)**|
