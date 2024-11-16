@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2445,7 +2445,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289](http://arxiv.org/abs/2411.09289)|null|
-|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/XiYan-SQL)**|
 |**2024-11-13**|**Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data**|Anum Afzal et.al.|[2411.08438](http://arxiv.org/abs/2411.08438)|null|
 |**2024-11-12**|**Decision Feedback In-Context Symbol Detection over Block-Fading Channels**|Li Fan et.al.|[2411.07600](http://arxiv.org/abs/2411.07600)|null|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
@@ -7553,7 +7553,7 @@ layout: default
 |**2024-11-12**|**Aligning Visual Contrastive learning models via Preference Optimization**|Amirabbas Afzali et.al.|[2411.08923](http://arxiv.org/abs/2411.08923)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections**|Shutong Chen et.al.|[2411.08835](http://arxiv.org/abs/2411.08835)|null|
-|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
+|**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|**[link](https://github.com/buds-lab/recommender-sys-for-buildings-textmining-review)**|
 |**2024-11-13**|**Joint Model Caching and Resource Allocation in Generative AI-Enabled Wireless Edge Networks**|Zhang Liu et.al.|[2411.08672](http://arxiv.org/abs/2411.08672)|null|
 |**2024-11-13**|**Estimating unknown parameters in differential equations with a reinforcement learning based PSO method**|Wenkui Sun et.al.|[2411.08651](http://arxiv.org/abs/2411.08651)|null|
 |**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
