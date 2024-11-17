@@ -2445,7 +2445,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289](http://arxiv.org/abs/2411.09289)|null|
-|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/XiYan-SQL)**|
+|**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|**[link](https://github.com/XGenerationLab/M-Schema)**|
 |**2024-11-13**|**Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data**|Anum Afzal et.al.|[2411.08438](http://arxiv.org/abs/2411.08438)|null|
 |**2024-11-12**|**Decision Feedback In-Context Symbol Detection over Block-Fading Channels**|Li Fan et.al.|[2411.07600](http://arxiv.org/abs/2411.07600)|null|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
@@ -4655,10 +4655,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|**[link](https://github.com/MaHermann/Riemannian-coupledGPE)**|
 |**2024-11-14**|**Stability and Generalization for Distributed SGDA**|Miaoxi Zhu et.al.|[2411.09365](http://arxiv.org/abs/2411.09365)|null|
 |**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
-|**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|null|
+|**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|**[link](https://github.com/hkirvesl/ECTOPLASM)**|
 |**2024-11-13**|**HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere**|Hatef Otroshi Shahreza et.al.|[2411.08470](http://arxiv.org/abs/2411.08470)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam et.al.|[2411.08335](http://arxiv.org/abs/2411.08335)|null|
 |**2024-11-11**|**Improved Greedy Identification of Latent Dynamics with Application to Fluid Flows**|R. Ayoub et.al.|[2411.08071](http://arxiv.org/abs/2411.08071)|null|
@@ -6129,11 +6129,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|**[link](https://github.com/MaHermann/Riemannian-coupledGPE)**|
 |**2024-11-14**|**Stability and Generalization for Distributed SGDA**|Miaoxi Zhu et.al.|[2411.09365](http://arxiv.org/abs/2411.09365)|null|
 |**2024-11-14**|**Enhancing Variational Quantum Circuit Training: An Improved Neural Network Approach for Barren Plateau Mitigation**|Zhehao Yi et.al.|[2411.09226](http://arxiv.org/abs/2411.09226)|null|
 |**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
-|**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|null|
+|**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|**[link](https://github.com/hkirvesl/ECTOPLASM)**|
 |**2024-11-13**|**HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere**|Hatef Otroshi Shahreza et.al.|[2411.08470](http://arxiv.org/abs/2411.08470)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam et.al.|[2411.08335](http://arxiv.org/abs/2411.08335)|null|
 |**2024-11-11**|**Improved Greedy Identification of Latent Dynamics with Application to Fluid Flows**|R. Ayoub et.al.|[2411.08071](http://arxiv.org/abs/2411.08071)|null|
