@@ -3593,7 +3593,7 @@
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
 |**2024-11-13**|**PerceiverS: A Multi-Scale Perceiver with Effective Segmentation for Long-Term Expressive Symbolic Music Generation**|Yungang Yi et.al.|[2411.08307](http://arxiv.org/abs/2411.08307)|null|
 |**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
-|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|null|
+|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|**[link](https://github.com/Shawey94/WACV2025-FFTAT)**|
 |**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740](http://arxiv.org/abs/2411.07740)|null|
 |**2024-11-17**|**ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2411.07118](http://arxiv.org/abs/2411.07118)|**[link](https://github.com/mallikagarg/convmixformer)**|
 |**2024-11-11**|**Spatially Constrained Transformer with Efficient Global Relation Modelling for Spatio-Temporal Prediction**|Ashutosh Sao et.al.|[2411.06836](http://arxiv.org/abs/2411.06836)|**[link](https://github.com/ashusao/st-samplenet)**|
