@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.23
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7666,7 +7666,7 @@ layout: default
 |**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
 |**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
 |**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
-|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|null|
+|**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|**[link](https://github.com/eugleo/vista-dataset)**|
 |**2024-11-21**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
 |**2024-11-20**|**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**|Johannes Pitz et.al.|[2411.13148](http://arxiv.org/abs/2411.13148)|null|
 |**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
