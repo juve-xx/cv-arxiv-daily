@@ -7683,7 +7683,7 @@
 |**2024-11-21**|**Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect**|Ojash Neopane et.al.|[2411.14341](http://arxiv.org/abs/2411.14341)|null|
 |**2024-11-21**|**Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation**|Pedro Enrique Iturria-Rivera et.al.|[2411.14264](http://arxiv.org/abs/2411.14264)|null|
 |**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|null|
-|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://huggingface.co/alimotahharynia/DrugGen)**|
+|**2024-11-20**|**DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback**|Mahsa Sheikholeslami et.al.|[2411.14157](http://arxiv.org/abs/2411.14157)|**[link](https://github.com/mahsasheikh/DrugGen)**|
 |**2024-11-21**|**Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems**|Egor E. Nuzhin et.al.|[2411.14117](http://arxiv.org/abs/2411.14117)|null|
 |**2024-11-21**|**Exploration by Running Away from the Past**|Paul-Antoine Le Tolguenec et.al.|[2411.14085](http://arxiv.org/abs/2411.14085)|null|
 |**2024-11-21**|**Dynamic Trajectory and Power Control in Ultra-Dense UAV Networks: A Mean-Field Reinforcement Learning Approach**|Fei Song et.al.|[2411.14052](http://arxiv.org/abs/2411.14052)|null|
