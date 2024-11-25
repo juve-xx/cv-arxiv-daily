@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Optimizing Social Media Annotation of HPV Vaccine Skepticism and Misinformation Using Large Language Models: An Experimental Evaluation of In-Context Learning and Fine-Tuning Stance Detection Across Multiple Models**|Luhang Sun et.al.|[2411.14720](http://arxiv.org/abs/2411.14720)|null|
 |**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|**[link](https://github.com/czbnlp/LPE-SQL)**|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
 |**2024-11-17**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
@@ -3534,6 +3535,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**FloAt: Flow Warping of Self-Attention for Clothing Animation Generation**|Swasti Shreya Mishra et.al.|[2411.15028](http://arxiv.org/abs/2411.15028)|null|
+|**2024-11-22**|**Point Cloud Understanding via Attention-Driven Contrastive Learning**|Yi Wang et.al.|[2411.14744](http://arxiv.org/abs/2411.14744)|null|
+|**2024-11-22**|**FLARE: FP-Less PTQ and Low-ENOB ADC Based AMS-PiM for Error-Resilient, Fast, and Efficient Transformer Acceleration**|Donghyeon Yi et.al.|[2411.14733](http://arxiv.org/abs/2411.14733)|null|
+|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
+|**2024-11-21**|**CodeSAM: Source Code Representation Learning by Infusing Self-Attention with Multi-Code-View Graphs**|Alex Mathai et.al.|[2411.14611](http://arxiv.org/abs/2411.14611)|null|
 |**2024-11-21**|**Revisiting the Integration of Convolution and Attention for Vision Backbone**|Lei Zhu et.al.|[2411.14429](http://arxiv.org/abs/2411.14429)|**[link](https://github.com/rayleizhu/glmix)**|
 |**2024-11-21**|**CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation**|Lin Sun et.al.|[2411.13836](http://arxiv.org/abs/2411.13836)|**[link](https://github.com/linsun449/cliper.code)**|
 |**2024-11-21**|**X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion**|Chang Sun et.al.|[2411.13811](http://arxiv.org/abs/2411.13811)|null|
@@ -4694,7 +4700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-21**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
+|**2024-11-22**|**Applications of fractional calculus in learned optimization**|Teodor Alexandru Szente et.al.|[2411.14855](http://arxiv.org/abs/2411.14855)|null|
+|**2024-11-22**|**High-Bandwidth, Low-Computational Approach: Estimator-Based Control for Hybrid Flying Capacitor Multilevel Converters Using Multi-Cost Gradient Descent and State Feedforward**|Inhwi Hwang et.al.|[2411.14707](http://arxiv.org/abs/2411.14707)|null|
+|**2024-11-22**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
+|**2024-11-22**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
 |**2024-11-21**|**Performance Analysis of STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Electromagnetic Interference and Phase Errors**|Jun Qian et.al.|[2411.14030](http://arxiv.org/abs/2411.14030)|null|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-21**|**Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial Heavy Load Hydraulic Robot**|Dexian Ma et.al.|[2411.13859](http://arxiv.org/abs/2411.13859)|null|
@@ -6198,7 +6207,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-21**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
+|**2024-11-22**|**Applications of fractional calculus in learned optimization**|Teodor Alexandru Szente et.al.|[2411.14855](http://arxiv.org/abs/2411.14855)|null|
+|**2024-11-22**|**High-Bandwidth, Low-Computational Approach: Estimator-Based Control for Hybrid Flying Capacitor Multilevel Converters Using Multi-Cost Gradient Descent and State Feedforward**|Inhwi Hwang et.al.|[2411.14707](http://arxiv.org/abs/2411.14707)|null|
+|**2024-11-22**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
+|**2024-11-22**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
 |**2024-11-21**|**Performance Analysis of STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Electromagnetic Interference and Phase Errors**|Jun Qian et.al.|[2411.14030](http://arxiv.org/abs/2411.14030)|null|
 |**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-21**|**Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial Heavy Load Hydraulic Robot**|Dexian Ma et.al.|[2411.13859](http://arxiv.org/abs/2411.13859)|null|
@@ -7641,6 +7653,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots**|Jiaze Cai et.al.|[2411.15130](http://arxiv.org/abs/2411.15130)|null|
+|**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
+|**2024-11-22**|**On Multi-Agent Inverse Reinforcement Learning**|Till Freihaut et.al.|[2411.15046](http://arxiv.org/abs/2411.15046)|null|
+|**2024-11-22**|**Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium**|Zeyang Li et.al.|[2411.15036](http://arxiv.org/abs/2411.15036)|null|
+|**2024-11-22**|**On the Linear Speedup of Personalized Federated Reinforcement Learning with Shared Representations**|Guojun Xiong et.al.|[2411.15014](http://arxiv.org/abs/2411.15014)|null|
+|**2024-11-22**|**Free Energy Projective Simulation (FEPS): Active inference with interpretability**|Joséphine Pazem et.al.|[2411.14991](http://arxiv.org/abs/2411.14991)|null|
+|**2024-11-22**|**Enhancing Exploration with Diffusion Policies in Hybrid Off-Policy RL: Application to Non-Prehensile Manipulation**|Huy Le et.al.|[2411.14913](http://arxiv.org/abs/2411.14913)|null|
+|**2024-11-22**|**Segmenting Action-Value Functions Over Time-Scales in SARSA using TD( $Δ$ )**|Mahammad Humayoo et.al.|[2411.14783](http://arxiv.org/abs/2411.14783)|null|
+|**2024-11-22**|**Enhancing Molecular Design through Graph-based Topological Reinforcement Learning**|Xiangyu Zhang et.al.|[2411.14726](http://arxiv.org/abs/2411.14726)|null|
+|**2024-11-21**|**Learning Autonomous Surgical Irrigation and Suction with the da Vinci Research Kit Using Reinforcement Learning**|Yafei Ou et.al.|[2411.14622](http://arxiv.org/abs/2411.14622)|null|
+|**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[2411.14593](http://arxiv.org/abs/2411.14593)|null|
+|**2024-11-21**|**Maximum Solar Energy Tracking Leverage High-DoF Robotics System with Deep Reinforcement Learning**|Anjie Jiang et.al.|[2411.14568](http://arxiv.org/abs/2411.14568)|null|
+|**2024-11-21**|**Multi-agent reinforcement learning strategy to maximize the lifetime of Wireless Rechargeable**|Bao Nguyen et.al.|[2411.14496](http://arxiv.org/abs/2411.14496)|null|
+|**2024-11-19**|**GRL-Prompt: Towards Knowledge Graph based Prompt Optimization via Reinforcement Learning**|Yuze Liu et.al.|[2411.14479](http://arxiv.org/abs/2411.14479)|null|
+|**2024-11-15**|**Guiding Reinforcement Learning Using Uncertainty-Aware Large Language Models**|Maryam Shoaeinaeini et.al.|[2411.14457](http://arxiv.org/abs/2411.14457)|null|
 |**2024-11-21**|**Multi-Agent Environments for Vehicle Routing Problems**|Ricardo Gama et.al.|[2411.14411](http://arxiv.org/abs/2411.14411)|null|
 |**2024-11-21**|**Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions**|Yu Zhao et.al.|[2411.14405](http://arxiv.org/abs/2411.14405)|null|
 |**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[2411.14375](http://arxiv.org/abs/2411.14375)|null|
@@ -7667,7 +7694,7 @@ layout: default
 |**2024-11-20**|**Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment**|Kilian Freitag et.al.|[2411.13327](http://arxiv.org/abs/2411.13327)|null|
 |**2024-11-20**|**Backward Stochastic Control System with Entropy Regularization**|Ziyue Chen et.al.|[2411.13219](http://arxiv.org/abs/2411.13219)|null|
 |**2024-11-21**|**ViSTa Dataset: Do vision-language models understand sequential tasks?**|Evžen Wybitul et.al.|[2411.13211](http://arxiv.org/abs/2411.13211)|**[link](https://github.com/eugleo/vista-dataset)**|
-|**2024-11-21**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
+|**2024-11-22**|**Engagement-Driven Content Generation with Large Language Models**|Erica Coppolillo et.al.|[2411.13187](http://arxiv.org/abs/2411.13187)|null|
 |**2024-11-20**|**Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation**|Johannes Pitz et.al.|[2411.13148](http://arxiv.org/abs/2411.13148)|null|
 |**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
 |**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[2411.13116](http://arxiv.org/abs/2411.13116)|null|
