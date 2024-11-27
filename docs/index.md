@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.26
+## Updated on 2024.11.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7768,7 +7768,7 @@ layout: default
 |**2024-11-20**|**ReinFog: A DRL Empowered Framework for Resource Management in Edge and Cloud Computing Environments**|Zhiyu Wang et.al.|[2411.13121](http://arxiv.org/abs/2411.13121)|null|
 |**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[2411.13116](http://arxiv.org/abs/2411.13116)|null|
 |**2024-11-20**|**DRL-Based Optimization for AoI and Energy Consumption in C-V2X Enabled IoV**|Zheng Zhang et.al.|[2411.13104](http://arxiv.org/abs/2411.13104)|**[link](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)**|
-|**2024-11-20**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
+|**2024-11-25**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-20**|**AsymDex: Leveraging Asymmetry and Relative Motion in Learning Bimanual Dexterity**|Zhaodong Yang et.al.|[2411.13020](http://arxiv.org/abs/2411.13020)|null|
 |**2024-11-19**|**LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits**|Dimple Vijay Kochar et.al.|[2411.12930](http://arxiv.org/abs/2411.12930)|null|
 |**2024-11-19**|**GenAI Assistance for Deep Reinforcement Learning-based VNF Placement and SFC Provisioning in 5G Cores**|Murat Arda Onsu et.al.|[2411.12851](http://arxiv.org/abs/2411.12851)|null|
