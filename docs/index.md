@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2503,7 +2503,7 @@ layout: default
 |**2024-11-05**|**Transformer-Based Fault-Tolerant Control for Fixed-Wing UAVs Using Knowledge Distillation and In-Context Adaptation**|Francisco Giral et.al.|[2411.02975](http://arxiv.org/abs/2411.02975)|null|
 |**2024-11-05**|**Mixtures of In-Context Learners**|Giwon Hong et.al.|[2411.02830](http://arxiv.org/abs/2411.02830)|null|
 |**2024-11-04**|**Fair In-Context Learning via Latent Concept Variables**|Karuna Bhaila et.al.|[2411.02671](http://arxiv.org/abs/2411.02671)|**[link](https://github.com/karuna-bhaila/fairicl)**|
-|**2024-11-04**|**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**|Leonardo Plini et.al.|[2411.02570](http://arxiv.org/abs/2411.02570)|null|
+|**2024-11-04**|**TI-PREGO: Chain of Thought and In-Context Learning for Online Mistake Detection in PRocedural EGOcentric Videos**|Leonardo Plini et.al.|[2411.02570](http://arxiv.org/abs/2411.02570)|**[link](https://github.com/aleflabo/prego)**|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
 |**2024-11-04**|**Pretrained transformer efficiently learns low-dimensional target functions in-context**|Kazusato Oko et.al.|[2411.02544](http://arxiv.org/abs/2411.02544)|null|
 |**2024-11-04**|**See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers**|Jiaxin Zhuang et.al.|[2411.02465](http://arxiv.org/abs/2411.02465)|null|
@@ -3589,7 +3589,7 @@ layout: default
 |**2024-11-15**|**ULTra: Unveiling Latent Token Interpretability in Transformer Based Understanding**|Hesam Hosseini et.al.|[2411.12589](http://arxiv.org/abs/2411.12589)|null|
 |**2024-11-18**|**Higher Order Graph Attention Probabilistic Walk Networks**|Thomas Bailie et.al.|[2411.12052](http://arxiv.org/abs/2411.12052)|null|
 |**2024-11-16**|**$\text{S}^{3}$ Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model**|Peizhe Xia et.al.|[2411.11906](http://arxiv.org/abs/2411.11906)|null|
-|**2024-11-18**|**ST-Tree with Interpretability for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.11620](http://arxiv.org/abs/2411.11620)|null|
+|**2024-11-18**|**ST-Tree with Interpretability for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.11620](http://arxiv.org/abs/2411.11620)|**[link](https://github.com/dumingsen/ST-Tree)**|
 |**2024-11-17**|**TeG: Temporal-Granularity Method for Anomaly Detection with Attention in Smart City Surveillance**|Erkut Akdag et.al.|[2411.11003](http://arxiv.org/abs/2411.11003)|null|
 |**2024-11-17**|**Distributed solar generation forecasting using attention-based deep neural networks for cloud movement prediction**|Maneesha Perera et.al.|[2411.10921](http://arxiv.org/abs/2411.10921)|null|
 |**2024-11-16**|**FIAS: Feature Imbalance-Aware Medical Image Segmentation with Dynamic Fusion and Mixing Attention**|Xiwei Liu et.al.|[2411.10881](http://arxiv.org/abs/2411.10881)|null|
