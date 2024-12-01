@@ -4769,7 +4769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|null|
+|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|**[link](https://github.com/amal-alphonse/nnvi)**|
 |**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
 |**2024-11-27**|**Information geometry of bosonic Gaussian thermal states**|Zixin Huang et.al.|[2411.18268](http://arxiv.org/abs/2411.18268)|null|
 |**2024-11-26**|**Rock the KASBA: Blazingly Fast and Accurate Time Series Clustering**|Christopher Holder et.al.|[2411.17838](http://arxiv.org/abs/2411.17838)|null|
@@ -6304,7 +6304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|null|
+|**2024-11-27**|**A neural network approach to learning solutions of a class of elliptic variational inequalities**|Amal Alphonse et.al.|[2411.18565](http://arxiv.org/abs/2411.18565)|**[link](https://github.com/amal-alphonse/nnvi)**|
 |**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
 |**2024-11-27**|**Information geometry of bosonic Gaussian thermal states**|Zixin Huang et.al.|[2411.18268](http://arxiv.org/abs/2411.18268)|null|
 |**2024-11-26**|**Rock the KASBA: Blazingly Fast and Accurate Time Series Clustering**|Christopher Holder et.al.|[2411.17838](http://arxiv.org/abs/2411.17838)|null|
@@ -7786,14 +7786,14 @@
 |**2024-11-27**|**Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management**|Mohit Apte et.al.|[2411.18261](http://arxiv.org/abs/2411.18261)|null|
 |**2024-11-27**|**Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning**|Xiang Cheng et.al.|[2411.18230](http://arxiv.org/abs/2411.18230)|null|
 |**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
-|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/sias-uva/mo-transport-network-design)**|
+|**2024-11-27**|**Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance**|Dimitris Michailidis et.al.|[2411.18195](http://arxiv.org/abs/2411.18195)|**[link](https://github.com/dimichai/mo-tndp)**|
 |**2024-11-27**|**ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System**|Rahul Pandey et.al.|[2411.18060](http://arxiv.org/abs/2411.18060)|null|
 |**2024-11-27**|**RL for Mitigating Cascading Failures: Targeted Exploration via Sensitivity Factors**|Anmol Dwivedi et.al.|[2411.18050](http://arxiv.org/abs/2411.18050)|**[link](https://github.com/anmold-07/physics-guided-blackout-mitigation)**|
 |**2024-11-27**|**JPPO: Joint Power and Prompt Optimization for Accelerated Large Language Model Services**|Feiran You et.al.|[2411.18010](http://arxiv.org/abs/2411.18010)|null|
-|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009](http://arxiv.org/abs/2411.18009)|null|
-|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|null|
+|**2024-11-27**|**Monocular Obstacle Avoidance Based on Inverse PPO for Fixed-wing UAVs**|Haochen Chai et.al.|[2411.18009](http://arxiv.org/abs/2411.18009)|**[link](https://github.com/ch9397/fixedwing-monoppo)**|
+|**2024-11-26**|**Pretrained LLM Adapted with LoRA as a Decision Transformer for Offline RL in Quantitative Trading**|Suyeol Yun et.al.|[2411.17900](http://arxiv.org/abs/2411.17900)|**[link](https://github.com/syyunn/finrl-dt)**|
 |**2024-11-26**|**Accelerating Proximal Policy Optimization Learning Using Task Prediction for Solving Games with Delayed Rewards**|Ahmad Ahmad et.al.|[2411.17861](http://arxiv.org/abs/2411.17861)|null|
-|**2024-11-26**|**Learning Mean First Passage Time: Chemical Short-Range Order and Kinetics of Diffusive Relaxation**|Hoje Chun et.al.|[2411.17839](http://arxiv.org/abs/2411.17839)|null|
+|**2024-11-26**|**Learning Mean First Passage Time: Chemical Short-Range Order and Kinetics of Diffusive Relaxation**|Hoje Chun et.al.|[2411.17839](http://arxiv.org/abs/2411.17839)|**[link](https://github.com/learningmatter-mit/rlvacdiffsim)**|
 |**2024-11-26**|**PROGRESSOR: A Perceptually Guided Reward Estimator with Self-Supervised Online Refinement**|Tewodros Ayalew et.al.|[2411.17764](http://arxiv.org/abs/2411.17764)|null|
 |**2024-11-21**|**Incentives to Build Houses, Trade Houses, or Trade House Building Skills in Simulated Worlds under Various Governing Systems or Institutions: Comparing Multi-agent Reinforcement Learning to Generative Agent-based Model**|Aslan S. Dizaji et.al.|[2411.17724](http://arxiv.org/abs/2411.17724)|null|
 |**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
