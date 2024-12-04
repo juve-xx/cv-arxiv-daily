@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4822,7 +4822,7 @@ layout: default
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
 |**2024-11-10**|**An Energy-Based Self-Adaptive Learning Rate for Stochastic Gradient Descent: Enhancing Unconstrained Optimization with VAV method**|Jiahao Zhang et.al.|[2411.06573](http://arxiv.org/abs/2411.06573)|null|
-|**2024-11-10**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
+|**2024-12-02**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
 |**2024-11-09**|**PDE Models for Deep Neural Networks: Learning Theory, Calculus of Variations and Optimal Control**|Peter Markowich et.al.|[2411.06290](http://arxiv.org/abs/2411.06290)|null|
 |**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
 |**2024-11-09**|**Learning Mixtures of Experts with EM**|Quentin Fruytier et.al.|[2411.06056](http://arxiv.org/abs/2411.06056)|null|
@@ -6369,7 +6369,7 @@ layout: default
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
 |**2024-11-10**|**An Energy-Based Self-Adaptive Learning Rate for Stochastic Gradient Descent: Enhancing Unconstrained Optimization with VAV method**|Jiahao Zhang et.al.|[2411.06573](http://arxiv.org/abs/2411.06573)|null|
 |**2024-11-10**|**Learning Loss Landscapes in Preference Optimization**|Carlo Alfano et.al.|[2411.06568](http://arxiv.org/abs/2411.06568)|null|
-|**2024-11-10**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
+|**2024-12-02**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
 |**2024-11-09**|**PDE Models for Deep Neural Networks: Learning Theory, Calculus of Variations and Optimal Control**|Peter Markowich et.al.|[2411.06290](http://arxiv.org/abs/2411.06290)|null|
 |**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
 |**2024-11-09**|**Learning Mixtures of Experts with EM**|Quentin Fruytier et.al.|[2411.06056](http://arxiv.org/abs/2411.06056)|null|
