@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Intent-driven In-context Learning for Few-shot Dialogue State Tracking**|Zihao Yi et.al.|[2412.03270](http://arxiv.org/abs/2412.03270)|null|
+|**2024-12-03**|**Minimization of Boolean Complexity in In-Context Concept Learning**|Leroy Z. Wang et.al.|[2412.02823](http://arxiv.org/abs/2412.02823)|null|
+|**2024-12-03**|**CPP-UT-Bench: Can LLMs Write Complex Unit Tests in C++?**|Vaishnavi Bhargava et.al.|[2412.02735](http://arxiv.org/abs/2412.02735)|null|
 |**2024-12-03**|**A Comprehensive Evaluation of Large Language Models on Aspect-Based Sentiment Analysis**|Changzhi Zhou et.al.|[2412.02279](http://arxiv.org/abs/2412.02279)|null|
 |**2024-12-03**|**Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs**|Zixuan Hu et.al.|[2412.02220](http://arxiv.org/abs/2412.02220)|null|
 |**2024-12-03**|**VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding**|Kangsan Kim et.al.|[2412.02186](http://arxiv.org/abs/2412.02186)|**[link](https://github.com/kangsankim07/videoicl)**|
@@ -3594,8 +3597,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Mapping using Transformers for Volumes -- Network for Super-Resolution with Long-Range Interactions**|August Leander Høeg et.al.|[2412.03379](http://arxiv.org/abs/2412.03379)|**[link](https://github.com/augusthoeg/mtvnet)**|
+|**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699](http://arxiv.org/abs/2412.02699)|null|
-|**2024-12-03**|**FCL-ViT: Task-Aware Attention Tuning for Continual Learning**|Anestis Kaimakamidis et.al.|[2412.02509](http://arxiv.org/abs/2412.02509)|null|
+|**2024-12-04**|**FCL-ViT: Task-Aware Attention Tuning for Continual Learning**|Anestis Kaimakamidis et.al.|[2412.02509](http://arxiv.org/abs/2412.02509)|null|
 |**2024-12-03**|**GQWformer: A Quantum-based Transformer for Graph Representation Learning**|Lei Yu et.al.|[2412.02285](http://arxiv.org/abs/2412.02285)|null|
 |**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197](http://arxiv.org/abs/2412.02197)|null|
 |**2024-12-02**|**FGATT: A Robust Framework for Wireless Data Imputation Using Fuzzy Graph Attention Networks and Transformer Encoders**|Jinming Xing et.al.|[2412.01979](http://arxiv.org/abs/2412.01979)|null|
@@ -4808,6 +4813,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
+|**2024-12-04**|**Higher-order Differentiable Rendering**|Zican et.al.|[2412.03489](http://arxiv.org/abs/2412.03489)|null|
+|**2024-12-04**|**Path-Guided Particle-based Sampling**|Mingzhou Fan et.al.|[2412.03312](http://arxiv.org/abs/2412.03312)|null|
+|**2024-12-04**|**Mixed-Precision Quantization: Make the Best Use of Bits Where They Matter Most**|Yiming Fang et.al.|[2412.03101](http://arxiv.org/abs/2412.03101)|null|
+|**2024-12-04**|**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**|Peiyan Zhang et.al.|[2412.03092](http://arxiv.org/abs/2412.03092)|**[link](https://github.com/peiyance/revolve)**|
+|**2024-12-04**|**A Granger-Causal Perspective on Gradient Descent with Application to Pruning**|Aditya Shah et.al.|[2412.03035](http://arxiv.org/abs/2412.03035)|null|
 |**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
 |**2024-12-03**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
 |**2024-12-03**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175](http://arxiv.org/abs/2412.02175)|null|
@@ -6362,6 +6373,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570](http://arxiv.org/abs/2412.03570)|null|
+|**2024-12-04**|**Higher-order Differentiable Rendering**|Zican et.al.|[2412.03489](http://arxiv.org/abs/2412.03489)|null|
+|**2024-12-04**|**Path-Guided Particle-based Sampling**|Mingzhou Fan et.al.|[2412.03312](http://arxiv.org/abs/2412.03312)|null|
+|**2024-12-04**|**Mixed-Precision Quantization: Make the Best Use of Bits Where They Matter Most**|Yiming Fang et.al.|[2412.03101](http://arxiv.org/abs/2412.03101)|null|
+|**2024-12-04**|**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**|Peiyan Zhang et.al.|[2412.03092](http://arxiv.org/abs/2412.03092)|**[link](https://github.com/peiyance/revolve)**|
+|**2024-12-04**|**A Granger-Causal Perspective on Gradient Descent with Application to Pruning**|Aditya Shah et.al.|[2412.03035](http://arxiv.org/abs/2412.03035)|null|
 |**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
 |**2024-12-03**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
 |**2024-12-03**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175](http://arxiv.org/abs/2412.02175)|null|
@@ -7854,6 +7871,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb**|Arnaud Bersier et.al.|[2412.03279](http://arxiv.org/abs/2412.03279)|null|
+|**2024-12-04**|**Learning on One Mode: Addressing Multi-Modality in Offline Reinforcement Learning**|Mianchu Wang et.al.|[2412.03258](http://arxiv.org/abs/2412.03258)|null|
+|**2024-12-04**|**Alignment at Pre-training! Towards Native Alignment for Arabic LLMs**|Juhao Liang et.al.|[2412.03253](http://arxiv.org/abs/2412.03253)|**[link](https://github.com/freedomintelligence/acegpt-v2)**|
+|**2024-12-04**|**Using Deep Reinforcement Learning to Enhance Channel Sampling Patterns in Integrated Sensing and Communication**|Federico Mason et.al.|[2412.03157](http://arxiv.org/abs/2412.03157)|null|
+|**2024-12-04**|**Experience-driven discovery of planning strategies**|Ruiqi He et.al.|[2412.03111](http://arxiv.org/abs/2412.03111)|null|
+|**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2412.03051](http://arxiv.org/abs/2412.03051)|null|
+|**2024-12-04**|**Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator**|Kaiwen Jiang et.al.|[2412.03012](http://arxiv.org/abs/2412.03012)|null|
+|**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
+|**2024-12-04**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
+|**2024-12-04**|**Model Predictive Control of Nonlinear Dynamics Using Online Adaptive Koopman Operators**|Daisuke Uchida et.al.|[2412.02972](http://arxiv.org/abs/2412.02972)|null|
+|**2024-12-04**|**Incorporating System-level Safety Requirements in Perception Models via Reinforcement Learning**|Weisi Fan et.al.|[2412.02951](http://arxiv.org/abs/2412.02951)|null|
+|**2024-12-04**|**Inverse Delayed Reinforcement Learning**|Simon Sinong Zhan et.al.|[2412.02931](http://arxiv.org/abs/2412.02931)|null|
+|**2024-12-03**|**Out-of-Distribution Detection for Neurosymbolic Autonomous Cyber Agents**|Ankita Samaddar et.al.|[2412.02875](http://arxiv.org/abs/2412.02875)|null|
+|**2024-12-03**|**RoboFail: Analyzing Failures in Robot Learning Policies**|Som Sagar et.al.|[2412.02818](http://arxiv.org/abs/2412.02818)|null|
 |**2024-12-03**|**UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping**|Wenbo Wang et.al.|[2412.02699](http://arxiv.org/abs/2412.02699)|null|
 |**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
 |**2024-12-03**|**AI-Driven Resource Allocation Framework for Microservices in Hybrid Cloud Platforms**|Biman Barua et.al.|[2412.02610](http://arxiv.org/abs/2412.02610)|null|
@@ -7872,7 +7904,7 @@
 |**2024-12-03**|**GNN-based Auto-Encoder for Short Linear Block Codes: A DRL Approach**|Kou Tian et.al.|[2412.02053](http://arxiv.org/abs/2412.02053)|null|
 |**2024-12-02**|**Learning Ensembles of Vision-based Safety Control Filters**|Ihab Tabbara et.al.|[2412.02029](http://arxiv.org/abs/2412.02029)|null|
 |**2024-12-02**|**Explore Reinforced: Equilibrium Approximation with Reinforcement Learning**|Ryan Yu et.al.|[2412.02016](http://arxiv.org/abs/2412.02016)|null|
-|**2024-12-02**|**Approximately Optimal Search on a Higher-dimensional Sliding Puzzle**|Nono SC Merleau et.al.|[2412.01937](http://arxiv.org/abs/2412.01937)|null|
+|**2024-12-02**|**Approximately Optimal Search on a Higher-dimensional Sliding Puzzle**|Nono SC Merleau et.al.|[2412.01937](http://arxiv.org/abs/2412.01937)|**[link](https://github.com/lemerleau/CubicPuzzle)**|
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
 |**2024-11-27**|**DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands**|Ritvik Singh et.al.|[2412.01791](http://arxiv.org/abs/2412.01791)|null|
 |**2024-12-02**|**STLGame: Signal Temporal Logic Games in Adversarial Multi-Agent Systems**|Shuo Yang et.al.|[2412.01656](http://arxiv.org/abs/2412.01656)|null|
@@ -7900,10 +7932,10 @@
 |**2024-12-01**|**Combinatorial Rising Bandit**|Seockbean Song et.al.|[2412.00798](http://arxiv.org/abs/2412.00798)|null|
 |**2024-12-01**|**Online Poisoning Attack Against Reinforcement Learning under Black-box Environments**|Jianhui Li et.al.|[2412.00797](http://arxiv.org/abs/2412.00797)|null|
 |**2024-12-01**|**A Cross-Scene Benchmark for Open-World Drone Active Tracking**|Haowei Sun et.al.|[2412.00744](http://arxiv.org/abs/2412.00744)|null|
-|**2024-12-01**|**Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games**|Ke Yan et.al.|[2412.00725](http://arxiv.org/abs/2412.00725)|null|
+|**2024-12-01**|**Decision Transformer vs. Decision Mamba: Analysing the Complexity of Sequential Decision Making in Atari Games**|Ke Yan et.al.|[2412.00725](http://arxiv.org/abs/2412.00725)|**[link](https://github.com/0x1DA9430/Decision-Transformer-vs-Decision-Mamba)**|
 |**2024-12-01**|**Mean-Field Sampling for Cooperative Multi-Agent Reinforcement Learning**|Emile Anand et.al.|[2412.00661](http://arxiv.org/abs/2412.00661)|null|
 |**2024-11-30**|**Learning Dynamic Weight Adjustment for Spatial-Temporal Trajectory Planning in Crowd Navigation**|Muqing Cao et.al.|[2412.00555](http://arxiv.org/abs/2412.00555)|null|
-|**2024-11-30**|**Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective**|Jiangmeng Li et.al.|[2412.00542](http://arxiv.org/abs/2412.00542)|null|
+|**2024-11-30**|**Rethinking Generalizability and Discriminability of Self-Supervised Learning from Evolutionary Game Theory Perspective**|Jiangmeng Li et.al.|[2412.00542](http://arxiv.org/abs/2412.00542)|**[link](https://github.com/ZangZehua/essl)**|
 |**2024-11-30**|**Towards Fault Tolerance in Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2412.00534](http://arxiv.org/abs/2412.00534)|null|
 |**2024-11-30**|**BOTS: Batch Bayesian Optimization of Extended Thompson Sampling for Severely Episode-Limited RL Settings**|Karine Karine et.al.|[2412.00308](http://arxiv.org/abs/2412.00308)|null|
 |**2024-11-30**|**PlanCritic: Formal Planning with Human Feedback**|Owen Burns et.al.|[2412.00300](http://arxiv.org/abs/2412.00300)|null|
