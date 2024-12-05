@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6144,7 +6144,7 @@ layout: default
 |**2024-10-13**|**Universal scaling laws in quantum-probabilistic machine learning by tensor network towards interpreting representation and generalization powers**|Sheng-Chen Bai et.al.|[2410.09703](http://arxiv.org/abs/2410.09703)|null|
 |**2024-10-11**|**MUSO: Achieving Exact Machine Unlearning in Over-Parameterized Regimes**|Ruikai Yang et.al.|[2410.08557](http://arxiv.org/abs/2410.08557)|**[link](https://github.com/Yruikk/MUSO)**|
 |**2024-10-09**|**Defending Membership Inference Attacks via Privacy-aware Sparsity Tuning**|Qiang Hu et.al.|[2410.06814](http://arxiv.org/abs/2410.06814)|null|
-|**2024-10-24**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|**[link](https://github.com/facebookresearch/luckmatters)**|
+|**2024-12-03**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|**[link](https://github.com/facebookresearch/luckmatters)**|
 |**2024-09-29**|**Investigating the Effect of Network Pruning on Performance and Interpretability**|Jonathan von Rad et.al.|[2409.19727](http://arxiv.org/abs/2409.19727)|null|
 |**2024-09-26**|**Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism**|Keitaro Sakamoto et.al.|[2409.17625](http://arxiv.org/abs/2409.17625)|null|
 |**2024-09-25**|**Generative Pre-trained Ranking Model with Over-parameterization at Web-Scale (Extended Abstract)**|Yuchen Li et.al.|[2409.16594](http://arxiv.org/abs/2409.16594)|null|
