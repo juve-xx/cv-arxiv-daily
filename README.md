@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks**|Yushi Bai et.al.|[2412.15204](http://arxiv.org/abs/2412.15204)|null|
+|**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
+|**2024-12-19**|**MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**|Hallee E. Wong et.al.|[2412.15058](http://arxiv.org/abs/2412.15058)|null|
+|**2024-12-19**|**DS $^2$ -ABSA: Dual-Stream Data Synthesis with Label Refinement for Few-Shot Aspect-Based Sentiment Analysis**|Hongling Xu et.al.|[2412.14849](http://arxiv.org/abs/2412.14849)|**[link](https://github.com/behappyplz/ds2-absa)**|
+|**2024-12-19**|**Relational Programming with Foundation Models**|Ziyang Li et.al.|[2412.14515](http://arxiv.org/abs/2412.14515)|null|
 |**2024-12-18**|**LIFT: Improving Long Context Understanding Through Long Input Fine-Tuning**|Yansheng Mao et.al.|[2412.13626](http://arxiv.org/abs/2412.13626)|null|
 |**2024-12-17**|**In-context learning for medical image segmentation**|Eichi Takaya et.al.|[2412.13299](http://arxiv.org/abs/2412.13299)|null|
 |**2024-12-17**|**In-Context Learning Distillation for Efficient Few-Shot Fine-Tuning**|Yifei Duan et.al.|[2412.13243](http://arxiv.org/abs/2412.13243)|null|
@@ -2490,7 +2495,7 @@
 |**2024-12-14**|**Can LLMs Help Create Grammar?: Automating Grammar Creation for Endangered Languages with In-Context Learning**|Piyapath T Spencer et.al.|[2412.10960](http://arxiv.org/abs/2412.10960)|null|
 |**2024-12-12**|**Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning**|Shihao Xu et.al.|[2412.10455](http://arxiv.org/abs/2412.10455)|null|
 |**2024-12-13**|**ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL**|Yang Qin et.al.|[2412.10138](http://arxiv.org/abs/2412.10138)|**[link](https://github.com/alibaba/route)**|
-|**2024-12-18**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
+|**2024-12-18**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|**[link](https://github.com/funaudiollm/cosyvoice)**|
 |**2024-12-13**|**RETQA: A Large-Scale Open-Domain Tabular Question Answering Dataset for Real Estate Sector**|Zhensheng Wang et.al.|[2412.10104](http://arxiv.org/abs/2412.10104)|**[link](https://github.com/jensenw1/RETQA)**|
 |**2024-12-12**|**A Systematic Review of Knowledge Tracing and Large Language Models in Education: Opportunities, Issues, and Future Research**|Yongwan Cho et.al.|[2412.09248](http://arxiv.org/abs/2412.09248)|null|
 |**2024-12-12**|**Align, Generate, Learn: A Novel Closed-Loop Framework for Cross-Lingual In-Context Learning**|Mateo Alejandro Rojas et.al.|[2412.08955](http://arxiv.org/abs/2412.08955)|null|
@@ -2553,7 +2558,7 @@
 |**2024-11-18**|**ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification**|Son T. Luu et.al.|[2411.11247](http://arxiv.org/abs/2411.11247)|**[link](https://github.com/sonlam1102/zefav)**|
 |**2024-11-17**|**AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers**|Jake Grigsby et.al.|[2411.11188](http://arxiv.org/abs/2411.11188)|**[link](https://github.com/ut-austin-rpl/amago)**|
 |**2024-11-17**|**Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering**|Zeping Yu et.al.|[2411.10950](http://arxiv.org/abs/2411.10950)|**[link](https://github.com/zepingyu0512/llava-mechanism)**|
-|**2024-11-16**|**SPICA: Retrieving Scenarios for Pluralistic In-Context Alignment**|Quan Ze Chen et.al.|[2411.10912](http://arxiv.org/abs/2411.10912)|null|
+|**2024-12-19**|**SPICA: Retrieving Scenarios for Pluralistic In-Context Alignment**|Quan Ze Chen et.al.|[2411.10912](http://arxiv.org/abs/2411.10912)|null|
 |**2024-11-16**|**One-Layer Transformer Provably Learns One-Nearest Neighbor In Context**|Zihao Li et.al.|[2411.10830](http://arxiv.org/abs/2411.10830)|null|
 |**2024-11-16**|**IntentGPT: Few-shot Intent Discovery with Large Language Models**|Juan A. Rodriguez et.al.|[2411.10670](http://arxiv.org/abs/2411.10670)|null|
 |**2024-11-15**|**Drift-Resilient TabPFN: In-Context Learning Temporal Distribution Shifts on Tabular Data**|Kai Helli et.al.|[2411.10634](http://arxiv.org/abs/2411.10634)|null|
@@ -3637,13 +3642,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation**|Moayed Haji-Ali et.al.|[2412.15191](http://arxiv.org/abs/2412.15191)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**A Full Transformer-based Framework for Automatic Pain Estimation using Videos**|Stefanos Gkikas et.al.|[2412.15095](http://arxiv.org/abs/2412.15095)|null|
+|**2024-12-19**|**A Survey of RWKV**|Zhiyuan Li et.al.|[2412.14847](http://arxiv.org/abs/2412.14847)|null|
+|**2024-12-19**|**MARIA: a Multimodal Transformer Model for Incomplete Healthcare Data**|Camillo Maria Caruso et.al.|[2412.14810](http://arxiv.org/abs/2412.14810)|null|
+|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|
+|**2024-12-19**|**Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization Through Spare-Coding Transformer**|Lei Su et.al.|[2412.14598](http://arxiv.org/abs/2412.14598)|null|
+|**2024-12-19**|**Consistent Human Image and Video Generation with Spatially Conditioned Diffusion**|Mingdeng Cao et.al.|[2412.14531](http://arxiv.org/abs/2412.14531)|**[link](https://github.com/ljzycmd/scd)**|
+|**2024-12-18**|**SAFERec: Self-Attention and Frequency Enriched Model for Next Basket Recommendation**|Oleg Lashinin et.al.|[2412.14302](http://arxiv.org/abs/2412.14302)|null|
+|**2024-12-18**|**TRecViT: A Recurrent Video Transformer**|Viorica Pătrăucean et.al.|[2412.14294](http://arxiv.org/abs/2412.14294)|null|
+|**2024-12-18**|**ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods**|Eduard Hogea et.al.|[2412.14231](http://arxiv.org/abs/2412.14231)|null|
+|**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**Self-attentive Transformer for Fast and Accurate Postprocessing of Temperature and Wind Speed Forecasts**|Aaron Van Poecke et.al.|[2412.13957](http://arxiv.org/abs/2412.13957)|null|
 |**2024-12-18**|**Graph-Driven Models for Gas Mixture Identification and Concentration Estimation on Heterogeneous Sensor Array Signals**|Ding Wang et.al.|[2412.13891](http://arxiv.org/abs/2412.13891)|null|
 |**2024-12-18**|**Domain-adaptative Continual Learning for Low-resource Tasks: Evaluation on Nepali**|Sharad Duwal et.al.|[2412.13860](http://arxiv.org/abs/2412.13860)|null|
 |**2024-12-18**|**Self-control: A Better Conditional Mechanism for Masked Autoregressive Model**|Qiaoying Qu et.al.|[2412.13635](http://arxiv.org/abs/2412.13635)|null|
 |**2024-12-18**|**Combining Aggregated Attention and Transformer Architecture for Accurate and Efficient Performance of Spiking Neural Networks**|Hangming Zhang et.al.|[2412.13553](http://arxiv.org/abs/2412.13553)|null|
 |**2024-12-17**|**FastVLM: Efficient Vision Encoding for Vision Language Models**|Pavan Kumar Anasosalu Vasu et.al.|[2412.13303](http://arxiv.org/abs/2412.13303)|null|
-|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-19**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
 |**2024-12-17**|**Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning**|Moritz Reuss et.al.|[2412.12953](http://arxiv.org/abs/2412.12953)|null|
 |**2024-12-17**|**ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers**|Lianghua Huang et.al.|[2412.12571](http://arxiv.org/abs/2412.12571)|**[link](https://github.com/ali-vilab/chatdit)**|
 |**2024-12-17**|**Core Context Aware Attention for Long Context Language Modeling**|Yaofo Chen et.al.|[2412.12465](http://arxiv.org/abs/2412.12465)|null|
@@ -3671,7 +3688,7 @@
 |**2024-12-09**|**XLSTM-HVED: Cross-Modal Brain Tumor Segmentation and MRI Reconstruction Method Using Vision XLSTM and Heteromodal Variational Encoder-Decoder**|Shenghao Zhu et.al.|[2412.07804](http://arxiv.org/abs/2412.07804)|**[link](https://github.com/quanato607/xlstm-hved)**|
 |**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759](http://arxiv.org/abs/2412.07759)|null|
 |**2024-12-10**|**Multi-Shot Character Consistency for Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
-|**2024-12-10**|**Piece of Table: A Divide-and-Conquer Approach for Selecting Sub-Tables in Table Question Answering**|Wonjin Lee et.al.|[2412.07629](http://arxiv.org/abs/2412.07629)|null|
+|**2024-12-19**|**Piece of Table: A Divide-and-Conquer Approach for Selecting Sub-Tables in Table Question Answering**|Wonjin Lee et.al.|[2412.07629](http://arxiv.org/abs/2412.07629)|null|
 |**2024-12-10**|**Repetitive Action Counting with Hybrid Temporal Relation Modeling**|Kun Li et.al.|[2412.07233](http://arxiv.org/abs/2412.07233)|null|
 |**2024-12-10**|**An Enhancement of CNN Algorithm for Rice Leaf Disease Image Classification in Mobile Applications**|Kayne Uriel K. Rodrigo et.al.|[2412.07182](http://arxiv.org/abs/2412.07182)|null|
 |**2024-12-09**|**Static Key Attention in Vision**|Zizhao Hu et.al.|[2412.07049](http://arxiv.org/abs/2412.07049)|null|
@@ -4909,6 +4926,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Cramér-Rao Bound Optimization for Near-Field Sensing with Continuous-Aperture Arrays**|Hao Jiang et.al.|[2412.15007](http://arxiv.org/abs/2412.15007)|null|
+|**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
+|**2024-12-19**|**Complexities of Armijo-like algorithms in Deep Learning context**|Bensaid Bilel et.al.|[2412.14637](http://arxiv.org/abs/2412.14637)|null|
 |**2024-12-18**|**A convexity-like structure for polar decomposition with an application to distributed computing**|Foivos Alimisis et.al.|[2412.13990](http://arxiv.org/abs/2412.13990)|null|
 |**2024-12-18**|**Speeding up Stochastic Proximal Optimization in the High Hessian Dissimilarity Setting**|Elnur Gasanov et.al.|[2412.13619](http://arxiv.org/abs/2412.13619)|null|
 |**2024-12-18**|**Lyapunov Analysis For Monotonically Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2412.13527](http://arxiv.org/abs/2412.13527)|null|
@@ -6336,7 +6356,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-17**|**ITP: Instance-Aware Test Pruning for Out-of-Distribution Detection**|Haonan Xu et.al.|[2412.12566](http://arxiv.org/abs/2412.12566)|null|
+|**2024-12-19**|**Efficient Few-Shot Neural Architecture Search by Counting the Number of Nonlinear Functions**|Youngmin Oh et.al.|[2412.14678](http://arxiv.org/abs/2412.14678)|null|
+|**2024-12-19**|**Benign Overfitting in Out-of-Distribution Generalization of Linear Models**|Shange Tang et.al.|[2412.14474](http://arxiv.org/abs/2412.14474)|null|
+|**2024-12-17**|**ITP: Instance-Aware Test Pruning for Out-of-Distribution Detection**|Haonan Xu et.al.|[2412.12566](http://arxiv.org/abs/2412.12566)|**[link](https://github.com/njustkmg/AAAI25-ITP)**|
 |**2024-12-14**|**Exploring Grokking: Experimental and Mechanistic Investigations**|Hu Qiye et.al.|[2412.10898](http://arxiv.org/abs/2412.10898)|null|
 |**2024-12-13**|**OP-LoRA: The Blessing of Dimensionality**|Piotr Teterwak et.al.|[2412.10362](http://arxiv.org/abs/2412.10362)|null|
 |**2024-12-11**|**Robustness of Graph Classification: failure modes, causes, and noise-resistant loss in Graph Neural Networks**|Farooq Ahmad Wani et.al.|[2412.08419](http://arxiv.org/abs/2412.08419)|null|
@@ -6390,7 +6412,7 @@
 |**2024-06-13**|**Bengining overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Iductive Bias**|Honam Wong et.al.|[2406.09194](http://arxiv.org/abs/2406.09194)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
 |**2024-06-03**|**Achieving Sparse Activation in Small Language Models**|Jifeng Song et.al.|[2406.06562](http://arxiv.org/abs/2406.06562)|**[link](https://github.com/pittisl/sparse-activation)**|
-|**2024-11-21**|**Distribution Learning and Its Application in Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
+|**2024-12-19**|**Probability Distribution Learning and Its Application in Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
 |**2024-06-11**|**VTrans: Accelerating Transformer Compression with Variational Information Bottleneck based Pruning**|Oshin Dutta et.al.|[2406.05276](http://arxiv.org/abs/2406.05276)|null|
 |**2024-07-17**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
 |**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
@@ -6542,6 +6564,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Cramér-Rao Bound Optimization for Near-Field Sensing with Continuous-Aperture Arrays**|Hao Jiang et.al.|[2412.15007](http://arxiv.org/abs/2412.15007)|null|
+|**2024-12-19**|**EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space**|Jianrong Zhang et.al.|[2412.14706](http://arxiv.org/abs/2412.14706)|null|
+|**2024-12-19**|**Complexities of Armijo-like algorithms in Deep Learning context**|Bensaid Bilel et.al.|[2412.14637](http://arxiv.org/abs/2412.14637)|null|
 |**2024-12-18**|**A convexity-like structure for polar decomposition with an application to distributed computing**|Foivos Alimisis et.al.|[2412.13990](http://arxiv.org/abs/2412.13990)|null|
 |**2024-12-18**|**SSE-SAM: Balancing Head and Tail Classes Gradually through Stage-Wise SAM**|Xingyu Lyu et.al.|[2412.13715](http://arxiv.org/abs/2412.13715)|null|
 |**2024-12-18**|**Speeding up Stochastic Proximal Optimization in the High Hessian Dissimilarity Setting**|Elnur Gasanov et.al.|[2412.13619](http://arxiv.org/abs/2412.13619)|null|
@@ -8118,6 +8143,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Effective Method with Compression for Distributed and Federated Cocoercive Variational Inequalities**|Daniil Medyakov et.al.|[2412.14935](http://arxiv.org/abs/2412.14935)|null|
+|**2024-12-19**|**Hierarchical Subspaces of Policies for Continual Offline Reinforcement Learning**|Anthony Kobanda et.al.|[2412.14865](http://arxiv.org/abs/2412.14865)|null|
+|**2024-12-19**|**Entropy Regularized Task Representation Learning for Offline Meta-Reinforcement Learning**|Mohammadreza nakhaei et.al.|[2412.14834](http://arxiv.org/abs/2412.14834)|**[link](https://github.com/mohammadrezanakhaei/er-trl)**|
+|**2024-12-19**|**Agent-Temporal Credit Assignment for Optimal Policy Preservation in Sparse Multi-Agent Reinforcement Learning**|Aditya Kapoor et.al.|[2412.14779](http://arxiv.org/abs/2412.14779)|null|
+|**2024-12-19**|**Learning to Generate Research Idea with Dynamic Control**|Ruochen Li et.al.|[2412.14626](http://arxiv.org/abs/2412.14626)|null|
+|**2024-12-19**|**Simulation-Free Hierarchical Latent Policy Planning for Proactive Dialogues**|Tao He et.al.|[2412.14584](http://arxiv.org/abs/2412.14584)|null|
+|**2024-12-19**|**Single-Loop Federated Actor-Critic across Heterogeneous Environments**|Ye Zhu et.al.|[2412.14555](http://arxiv.org/abs/2412.14555)|null|
+|**2024-12-18**|**Implementing TD3 to train a Neural Network to fly a Quadcopter through an FPV Gate**|Patrick Thomas et.al.|[2412.14367](http://arxiv.org/abs/2412.14367)|null|
+|**2024-12-18**|**Enabling Realtime Reinforcement Learning at Scale with Staggered Asynchronous Inference**|Matthew Riemer et.al.|[2412.14355](http://arxiv.org/abs/2412.14355)|**[link](https://github.com/cerc-aai/realtime_rl)**|
+|**2024-12-18**|**Stealing That Free Lunch: Exposing the Limits of Dyna-Style Reinforcement Learning**|Brett Barkley et.al.|[2412.14312](http://arxiv.org/abs/2412.14312)|null|
+|**2024-12-18**|**Reinforcement Learning from Automatic Feedback for High-Quality Unit Test Generation**|Benjamin Steenhoek et.al.|[2412.14308](http://arxiv.org/abs/2412.14308)|null|
+|**2024-12-18**|**Heterogeneous Multi-Agent Reinforcement Learning for Distributed Channel Access in WLANs**|Jiaming Yu et.al.|[2412.14218](http://arxiv.org/abs/2412.14218)|null|
 |**2024-12-18**|**Learning from Massive Human Videos for Universal Humanoid Pose Control**|Jiageng Mao et.al.|[2412.14172](http://arxiv.org/abs/2412.14172)|null|
 |**2024-12-18**|**Scaling of Search and Learning: A Roadmap to Reproduce o1 from Reinforcement Learning Perspective**|Zhiyuan Zeng et.al.|[2412.14135](http://arxiv.org/abs/2412.14135)|null|
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
@@ -8135,7 +8173,7 @@
 |**2024-12-17**|**ExBody2: Advanced Expressive Humanoid Whole-Body Control**|Mazeyu Ji et.al.|[2412.13196](http://arxiv.org/abs/2412.13196)|null|
 |**2024-12-17**|**Tilted Quantile Gradient Updates for Quantile-Constrained Reinforcement Learning**|Chenglin Li et.al.|[2412.13184](http://arxiv.org/abs/2412.13184)|**[link](https://github.com/CharlieLeeeee/TQPO)**|
 |**2024-12-17**|**Learning Visuotactile Estimation and Control for Non-prehensile Manipulation under Occlusions**|Juan Del Aguila Ferrandis et.al.|[2412.13157](http://arxiv.org/abs/2412.13157)|null|
-|**2024-12-17**|**Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method**|Jiate Li et.al.|[2412.13134](http://arxiv.org/abs/2412.13134)|**[link](https://github.com/JetRichardLee/GSE-METP)**|
+|**2024-12-17**|**Practicable Black-box Evasion Attacks on Link Prediction in Dynamic Graphs -- A Graph Sequential Embedding Method**|Jiate Li et.al.|[2412.13134](http://arxiv.org/abs/2412.13134)|null|
 |**2024-12-17**|**Active Reinforcement Learning Strategies for Offline Policy Improvement**|Ambedkar Dukkipati et.al.|[2412.13106](http://arxiv.org/abs/2412.13106)|null|
 |**2024-12-17**|**Reservoir Computing for Fast, Simplified Reinforcement Learning on Memory Tasks**|Kevin McKee et.al.|[2412.13093](http://arxiv.org/abs/2412.13093)|null|
 |**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
@@ -8150,7 +8188,7 @@
 |**2024-12-17**|**Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation**|Andong Chen et.al.|[2412.12627](http://arxiv.org/abs/2412.12627)|null|
 |**2024-12-17**|**Neighbor-Aware Reinforcement Learning for Mixed Traffic Optimization in Large-scale Networks**|Iftekharul Islam et.al.|[2412.12622](http://arxiv.org/abs/2412.12622)|null|
 |**2024-12-17**|**An Advantage-based Optimization Method for Reinforcement Learning in Large Action Space**|Hai Lin et.al.|[2412.12605](http://arxiv.org/abs/2412.12605)|null|
-|**2024-12-17**|**Distribution-Free Uncertainty Quantification in Mechanical Ventilation Treatment: A Conformal Deep Q-Learning Framework**|Niloufar Eghbali et.al.|[2412.12597](http://arxiv.org/abs/2412.12597)|**[link](https://github.com/HAAIL/ConformalDQN)**|
+|**2024-12-17**|**Distribution-Free Uncertainty Quantification in Mechanical Ventilation Treatment: A Conformal Deep Q-Learning Framework**|Niloufar Eghbali et.al.|[2412.12597](http://arxiv.org/abs/2412.12597)|null|
 |**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|null|
 |**2024-12-17**|**Personalized Federated Deep Reinforcement Learning for Heterogeneous Edge Content Caching Networks**|Zhen Li et.al.|[2412.12543](http://arxiv.org/abs/2412.12543)|null|
 |**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
