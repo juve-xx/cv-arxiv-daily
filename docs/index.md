@@ -3636,7 +3636,7 @@ layout: default
 |**2024-12-13**|**MANGO: Multimodal Acuity traNsformer for intelliGent ICU Outcomes**|Jiaqing Zhang et.al.|[2412.17832](http://arxiv.org/abs/2412.17832)|null|
 |**2024-12-23**|**Token Statistics Transformer: Linear-Time Attention via Variational Rate Reduction**|Ziyang Wu et.al.|[2412.17810](http://arxiv.org/abs/2412.17810)|null|
 |**2024-12-23**|**CALLIC: Content Adaptive Learning for Lossless Image Compression**|Daxin Li et.al.|[2412.17464](http://arxiv.org/abs/2412.17464)|null|
-|**2024-12-23**|**DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2412.17350](http://arxiv.org/abs/2412.17350)|null|
+|**2024-12-23**|**DiffFormer: a Differential Spatial-Spectral Transformer for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2412.17350](http://arxiv.org/abs/2412.17350)|**[link](https://github.com/mahmad000/diffformer)**|
 |**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
 |**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
 |**2024-12-22**|**Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach**|Chunxu Zhang et.al.|[2412.16969](http://arxiv.org/abs/2412.16969)|**[link](https://github.com/zhangcx19/aaai-25-mrff)**|
@@ -8248,7 +8248,7 @@ layout: default
 |**2024-12-21**|**Deep Reinforcement Learning Based Systems for Safety Critical Applications in Aerospace**|Abedin Sherifi et.al.|[2412.16489](http://arxiv.org/abs/2412.16489)|null|
 |**2024-12-20**|**Autonomous Option Invention for Continual Hierarchical Reinforcement Learning and Planning**|Rashmeet Kaur Nayyar et.al.|[2412.16395](http://arxiv.org/abs/2412.16395)|null|
 |**2024-12-20**|**Towards Safe and Honest AI Agents with Neural Self-Other Overlap**|Marc Carauleanu et.al.|[2412.16325](http://arxiv.org/abs/2412.16325)|null|
-|**2024-12-20**|**Decoding fairness: a reinforcement learning perspective**|Guozhong Zheng et.al.|[2412.16249](http://arxiv.org/abs/2412.16249)|null|
+|**2024-12-20**|**Decoding fairness: a reinforcement learning perspective**|Guozhong Zheng et.al.|[2412.16249](http://arxiv.org/abs/2412.16249)|**[link](https://github.com/chenli-lab/RL-Fairness)**|
 |**2024-12-20**|**Optimizing Low-Speed Autonomous Driving: A Reinforcement Learning Approach to Route Stability and Maximum Speed**|Benny Bao-Sheng Li et.al.|[2412.16248](http://arxiv.org/abs/2412.16248)|null|
 |**2024-12-18**|**Bayesian Critique-Tune-Based Reinforcement Learning with Attention-Based Adaptive Pressure for Multi-Intersection Traffic Signal Control**|Wenchang Duan et.al.|[2412.16225](http://arxiv.org/abs/2412.16225)|null|
 |**2024-12-18**|**AdvIRL: Reinforcement Learning-Based Adversarial Attacks on 3D NeRF Models**|Tommy Nguyen et.al.|[2412.16213](http://arxiv.org/abs/2412.16213)|**[link](https://github.com/tommy-nguyen-cpu/advirl)**|
