@@ -3148,7 +3148,7 @@ layout: default
 |**2024-05-27**|**SelfCP: Compressing Long Prompt to 1/12 Using the Frozen Large Language Model Itself**|Jun Gao et.al.|[2405.17052](http://arxiv.org/abs/2405.17052)|null|
 |**2024-05-27**|**On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability**|Chenyu Zheng et.al.|[2405.16845](http://arxiv.org/abs/2405.16845)|**[link](https://github.com/ML-GSAI/MesaOpt-AR-Transformer)**|
 |**2024-05-27**|**Automatic Domain Adaptation by Transformers in In-Context Learning**|Ryuichiro Hataya et.al.|[2405.16819](http://arxiv.org/abs/2405.16819)|null|
-|**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|null|
+|**2024-05-27**|**ARC: A Generalist Graph Anomaly Detector with In-Context Learning**|Yixin Liu et.al.|[2405.16771](http://arxiv.org/abs/2405.16771)|**[link](https://github.com/yixinliu233/arc)**|
 |**2024-05-28**|**Learning to Reason via Program Generation, Emulation, and Search**|Nathaniel Weir et.al.|[2405.16337](http://arxiv.org/abs/2405.16337)|**[link](https://github.com/nweir127/cogex)**|
 |**2024-05-25**|**Mixture of In-Context Prompters for Tabular PFNs**|Derek Xu et.al.|[2405.16156](http://arxiv.org/abs/2405.16156)|null|
 |**2024-05-25**|**Unsupervised Meta-Learning via In-Context Learning**|Anna Vettoruzzo et.al.|[2405.16124](http://arxiv.org/abs/2405.16124)|null|
@@ -4168,7 +4168,7 @@ layout: default
 |**2024-08-12**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|**[link](https://github.com/eatbeanss/CSWin-UNet)**|
 |**2024-07-25**|**EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling**|Yiming Ma et.al.|[2407.17869](http://arxiv.org/abs/2407.17869)|**[link](https://github.com/wellsssssss/Ellipbench)**|
 |**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
-|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|**[link](https://github.com/mie-lab/ckg-traffic-forecasting)**|
 |**2024-07-23**|**S-E Pipeline: A Vision Transformer (ViT) based Resilient Classification Pipeline for Medical Imaging Against Adversarial Attacks**|Neha A S et.al.|[2407.17587](http://arxiv.org/abs/2407.17587)|null|
 |**2024-07-08**|**Transfer Learning Enabled Transformer based Generative Adversarial Networks (TT-GAN) for Terahertz Channel Modeling and Generating**|Zhengdong Hu et.al.|[2407.17510](http://arxiv.org/abs/2407.17510)|null|
 |**2024-07-24**|**LoFormer: Local Frequency Transformer for Image Deblurring**|Xintian Mao et.al.|[2407.16993](http://arxiv.org/abs/2407.16993)|**[link](https://github.com/deepmed-lab-ecnu/single-image-deblur)**|
@@ -5026,7 +5026,7 @@ layout: default
 |**2024-12-05**|**Fairness-aware Principal Component Analysis for Mortality Forecasting and Annuity Pricing**|Fei Huang et.al.|[2412.04663](http://arxiv.org/abs/2412.04663)|null|
 |**2024-12-05**|**Communication Compression for Distributed Learning without Control Variates**|Tomas Ortega et.al.|[2412.04538](http://arxiv.org/abs/2412.04538)|null|
 |**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part I. Performance Criterion $\Vert \nabla f(x_N)\Vert^2/(f(x_0)-f_*)$**|Jungbin Kim et.al.|[2412.04435](http://arxiv.org/abs/2412.04435)|null|
-|**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part II. Performance Criterion $(f(x_N)-f_*)/\|x_0-x_*\|^2$**|Jungbin Kim et.al.|[2412.04427](http://arxiv.org/abs/2412.04427)|null|
+|**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part II. Performance Criterion $(f(x_N)-f_*)/\|x_0-x_*\|^2$**|Jungbin Kim et.al.|
 |**2024-12-05**|**A Variable Smoothing for Weakly Convex Composite Minimization with Nonconvex Constraint**|Keita Kume et.al.|[2412.04225](http://arxiv.org/abs/2412.04225)|null|
 |**2024-12-05**|**Pathwise optimization for bridge-type estimators and its applications**|Alessandro De Gregorio et.al.|[2412.04047](http://arxiv.org/abs/2412.04047)|null|
 |**2024-12-04**|**How to Correctly do Semantic Backpropagation on Language-based Agentic Systems**|Wenyi Wang et.al.|[2412.03624](http://arxiv.org/abs/2412.03624)|**[link](https://github.com/hishamalyahya/semantic_backprop)**|
@@ -5167,7 +5167,7 @@ layout: default
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|**[link](https://github.com/lfochamon/pdlmc)**|
 |**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|**[link](https://github.com/charleshsc/CommFormer)**|
-|**2024-10-31**|**Learning local discrete features in explainable-by-design convolutional neural networks**|Pantelis I. Kaplanoglou et.al.|[2411.00139](http://arxiv.org/abs/2411.00139)|null|
+|**2024-10-31**|**Learning local discrete features in explainable-by-design convolutional neural networks**|Pantelis I. Kaplanoglou et.al.|[2411.00139](http://arxiv.org/abs/2411.00139)|**[link](https://github.com/pikaplan/LearnExplaiNet)**|
 |**2024-10-31**|**Derivative-Free Optimization via Finite Difference Approximation: An Experimental Study**|Wang Du-Yi et.al.|[2411.00112](http://arxiv.org/abs/2411.00112)|null|
 |**2024-10-31**|**Natural gradient and parameter estimation for quantum Boltzmann machines**|Dhrumil Patel et.al.|[2410.24058](http://arxiv.org/abs/2410.24058)|null|
 |**2024-10-31**|**TrAct: Making First-layer Pre-Activations Trainable**|Felix Petersen et.al.|[2410.23970](http://arxiv.org/abs/2410.23970)|null|
@@ -6699,7 +6699,7 @@ layout: default
 |**2024-12-05**|**Fairness-aware Principal Component Analysis for Mortality Forecasting and Annuity Pricing**|Fei Huang et.al.|[2412.04663](http://arxiv.org/abs/2412.04663)|null|
 |**2024-12-05**|**Communication Compression for Distributed Learning without Control Variates**|Tomas Ortega et.al.|[2412.04538](http://arxiv.org/abs/2412.04538)|null|
 |**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part I. Performance Criterion $\Vert \nabla f(x_N)\Vert^2/(f(x_0)-f_*)$**|Jungbin Kim et.al.|[2412.04435](http://arxiv.org/abs/2412.04435)|null|
-|**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part II. Performance Criterion $(f(x_N)-f_*)/\|x_0-x_*\|^2$**|Jungbin Kim et.al.|[2412.04427](http://arxiv.org/abs/2412.04427)|null|
+|**2024-12-05**|**A Proof of Exact Convergence Rate of Gradient Descent. Part II. Performance Criterion $(f(x_N)-f_*)/\|x_0-x_*\|^2$**|Jungbin Kim et.al.|
 |**2024-12-05**|**A Variable Smoothing for Weakly Convex Composite Minimization with Nonconvex Constraint**|Keita Kume et.al.|[2412.04225](http://arxiv.org/abs/2412.04225)|null|
 |**2024-12-05**|**Pathwise optimization for bridge-type estimators and its applications**|Alessandro De Gregorio et.al.|[2412.04047](http://arxiv.org/abs/2412.04047)|null|
 |**2024-12-04**|**Beyond Local Sharpness: Communication-Efficient Global Sharpness-aware Minimization for Federated Learning**|Debora Caldarola et.al.|[2412.03752](http://arxiv.org/abs/2412.03752)|null|
@@ -6856,7 +6856,7 @@ layout: default
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|**[link](https://github.com/lfochamon/pdlmc)**|
 |**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|**[link](https://github.com/charleshsc/CommFormer)**|
-|**2024-10-31**|**Learning local discrete features in explainable-by-design convolutional neural networks**|Pantelis I. Kaplanoglou et.al.|[2411.00139](http://arxiv.org/abs/2411.00139)|null|
+|**2024-10-31**|**Learning local discrete features in explainable-by-design convolutional neural networks**|Pantelis I. Kaplanoglou et.al.|[2411.00139](http://arxiv.org/abs/2411.00139)|**[link](https://github.com/pikaplan/LearnExplaiNet)**|
 |**2024-10-31**|**Derivative-Free Optimization via Finite Difference Approximation: An Experimental Study**|Wang Du-Yi et.al.|[2411.00112](http://arxiv.org/abs/2411.00112)|null|
 |**2024-10-31**|**Understanding Optimization in Deep Learning with Central Flows**|Jeremy M. Cohen et.al.|[2410.24206](http://arxiv.org/abs/2410.24206)|null|
 |**2024-10-31**|**Natural gradient and parameter estimation for quantum Boltzmann machines**|Dhrumil Patel et.al.|[2410.24058](http://arxiv.org/abs/2410.24058)|null|
@@ -8400,7 +8400,7 @@ layout: default
 |**2024-12-11**|**Latent Safety-Constrained Policy Approach for Safe Offline Reinforcement Learning**|Prajwal Koirala et.al.|[2412.08794](http://arxiv.org/abs/2412.08794)|null|
 |**2024-12-11**|**A quantum-classical reinforcement learning model to play Atari games**|Dominik Freinberger et.al.|[2412.08725](http://arxiv.org/abs/2412.08725)|**[link](https://github.com/Spiegeldondi/A-Hybrid-Quantum-Classical-Framework-for-Reinforcement-Learning-of-Atari-Games)**|
 |**2024-12-11**|**Learning Sketch Decompositions in Planning via Deep Reinforcement Learning**|Michael Aichmüller et.al.|[2412.08574](http://arxiv.org/abs/2412.08574)|null|
-|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|null|
+|**2024-12-11**|**GenPlan: Generative sequence models as adaptive planners**|Akash Karthikeyan et.al.|[2412.08565](http://arxiv.org/abs/2412.08565)|**[link](https://github.com/cl2-uwaterloo/genplan)**|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-11**|**MaestroMotif: Skill Design from Artificial Intelligence Feedback**|Martin Klissarov et.al.|[2412.08542](http://arxiv.org/abs/2412.08542)|null|
 |**2024-12-11**|**Subspace-wise Hybrid RL for Articulated Object Manipulation**|Yujin Kim et.al.|[2412.08522](http://arxiv.org/abs/2412.08522)|null|
@@ -8490,7 +8490,7 @@ layout: default
 |**2024-12-04**|**Hyper: Hyperparameter Robust Efficient Exploration in Reinforcement Learning**|Yiran Wang et.al.|[2412.03767](http://arxiv.org/abs/2412.03767)|null|
 |**2024-12-04**|**PathletRL++: Optimizing Trajectory Pathlet Extraction and Dictionary Formation via Reinforcement Learning**|Gian Alix et.al.|[2412.03715](http://arxiv.org/abs/2412.03715)|**[link](https://github.com/arianhgh/pathletrl)**|
 |**2024-12-04**|**Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression**|Feiran You et.al.|[2412.03621](http://arxiv.org/abs/2412.03621)|null|
-|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|null|
+|**2024-12-04**|**AI-Driven Day-to-Day Route Choice**|Leizhen Wang et.al.|[2412.03338](http://arxiv.org/abs/2412.03338)|**[link](https://github.com/georgewanglz2019/LLMTraveler)**|
 |**2024-12-04**|**Rotograb: Combining Biomimetic Hands with Industrial Grippers using a Rotating Thumb**|Arnaud Bersier et.al.|[2412.03279](http://arxiv.org/abs/2412.03279)|null|
 |**2024-12-04**|**Learning on One Mode: Addressing Multi-Modality in Offline Reinforcement Learning**|Mianchu Wang et.al.|[2412.03258](http://arxiv.org/abs/2412.03258)|**[link](https://github.com/MianchuWang/LOM)**|
 |**2024-12-04**|**Alignment at Pre-training! Towards Native Alignment for Arabic LLMs**|Juhao Liang et.al.|[2412.03253](http://arxiv.org/abs/2412.03253)|**[link](https://github.com/freedomintelligence/acegpt-v2)**|
@@ -9051,7 +9051,7 @@ layout: default
 |**2024-10-28**|**Reward Modeling with Weak Supervision for Language Models**|Ben Hauptvogel et.al.|[2410.20869](http://arxiv.org/abs/2410.20869)|**[link](https://github.com/DFKI-NLP/weak-supervision-rlhf)**|
 |**2024-10-28**|**Adversarial Constrained Policy Optimization: Improving Constrained Reinforcement Learning by Adapting Budgets**|Jianmina Ma et.al.|[2410.20786](http://arxiv.org/abs/2410.20786)|null|
 |**2024-10-28**|**ODRL: A Benchmark for Off-Dynamics Reinforcement Learning**|Jiafei Lyu et.al.|[2410.20750](http://arxiv.org/abs/2410.20750)|**[link](https://github.com/offdynamicsrl/off-dynamics-rl)**|
-|**2024-10-28**|**TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models**|Kiwoong Yoo et.al.|[2410.20660](http://arxiv.org/abs/2410.20660)|null|
+|**2024-10-28**|**TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models**|Kiwoong Yoo et.al.|[2410.20660](http://arxiv.org/abs/2410.20660)|**[link](https://github.com/orgw/TurboHopp)**|
 |**2024-10-28**|**Video to Video Generative Adversarial Network for Few-shot Learning Based on Policy Gradient**|Yintai Ma et.al.|[2410.20657](http://arxiv.org/abs/2410.20657)|null|
 |**2024-10-27**|**Deep Reinforcement Learning Agents for Strategic Production Policies in Microeconomic Market Simulations**|Eduardo C. Garrido-Merchán et.al.|[2410.20550](http://arxiv.org/abs/2410.20550)|**[link](https://github.com/EduardoGarrido90/micro_agents)**|
 |**2024-10-27**|**Efficient Diversity-based Experience Replay for Deep Reinforcement Learning**|Kaiyan Zhao et.al.|[2410.20487](http://arxiv.org/abs/2410.20487)|null|
@@ -11374,7 +11374,7 @@ layout: default
 |**2024-06-02**|**Learning Multimodal Behaviors from Scratch with Diffusion Policy Gradient**|Zechu Li et.al.|[2406.00681](http://arxiv.org/abs/2406.00681)|null|
 |**2024-06-02**|**Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback**|Chen Chen et.al.|[2406.00654](http://arxiv.org/abs/2406.00654)|null|
 |**2024-06-05**|**FuRL: Visual-Language Models as Fuzzy Rewards for Reinforcement Learning**|Yuwei Fu et.al.|[2406.00645](http://arxiv.org/abs/2406.00645)|**[link](https://github.com/fuyw/furl)**|
-|**2024-06-02**|**Improving GFlowNets for Text-to-Image Diffusion Alignment**|Dinghuai Zhang et.al.|[2406.00633](http://arxiv.org/abs/2406.00633)|null|
+|**2024-06-02**|**Improving GFlowNets for Text-to-Image Diffusion Alignment**|Dinghuai Zhang et.al.|[2406.00633](http://arxiv.org/abs/2406.00633)|**[link](https://github.com/apple/ml-diffusion-alignment-gflownet)**|
 |**2024-06-02**|**Model Predictive Control and Reinforcement Learning: A Unified Framework Based on Dynamic Programming**|Dimitri P. Bertsekas et.al.|[2406.00592](http://arxiv.org/abs/2406.00592)|null|
 |**2024-06-01**|**Leveraging Knowlegde Graphs for Interpretable Feature Generation**|Mohamed Bouadi et.al.|[2406.00544](http://arxiv.org/abs/2406.00544)|null|
 |**2024-06-01**|**Learning to Play Air Hockey with Model-Based Deep Reinforcement Learning**|Andrej Orsula et.al.|[2406.00518](http://arxiv.org/abs/2406.00518)|**[link](https://github.com/andrejorsula/drl_air_hockey)**|
@@ -11601,7 +11601,7 @@ layout: default
 |**2024-05-24**|**iVideoGPT: Interactive VideoGPTs are Scalable World Models**|Jialong Wu et.al.|[2405.15223](http://arxiv.org/abs/2405.15223)|**[link](https://github.com/thuml/iVideoGPT)**|
 |**2024-05-24**|**Efficient Reinforcement Learning via Large Language Model-based Search**|Siddhant Bhambri et.al.|[2405.15194](http://arxiv.org/abs/2405.15194)|null|
 |**2024-05-24**|**TrojanForge: Adversarial Hardware Trojan Examples with Reinforcement Learning**|Amin Sarihi et.al.|[2405.15184](http://arxiv.org/abs/2405.15184)|null|
-|**2024-05-24**|**Diffusion Actor-Critic with Entropy Regulator**|Yinuo Wang et.al.|[2405.15177](http://arxiv.org/abs/2405.15177)|null|
+|**2024-05-24**|**Diffusion Actor-Critic with Entropy Regulator**|Yinuo Wang et.al.|[2405.15177](http://arxiv.org/abs/2405.15177)|**[link](https://github.com/happy-yan/DACER-Diffusion-with-Online-RL)**|
 |**2024-05-23**|**MuDreamer: Learning Predictive World Models without Reconstruction**|Maxime Burchi et.al.|[2405.15083](http://arxiv.org/abs/2405.15083)|null|
 |**2024-05-23**|**Direct Preference Optimization With Unobserved Preference Heterogeneity**|Keertana Chidambaram et.al.|[2405.15065](http://arxiv.org/abs/2405.15065)|null|
 |**2024-05-23**|**Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning**|Matteo Bettini et.al.|[2405.15054](http://arxiv.org/abs/2405.15054)|**[link](https://github.com/proroklab/controllingbehavioraldiversity)**|
