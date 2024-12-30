@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.29
+## Updated on 2024.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8211,7 +8211,7 @@ layout: default
 |**2024-12-24**|**Improving Multi-Step Reasoning Abilities of Large Language Models with Direct Advantage Policy Optimization**|Jiacai Liu et.al.|[2412.18279](http://arxiv.org/abs/2412.18279)|null|
 |**2024-12-24**|**Accelerating AIGC Services with Latent Action Diffusion Scheduling in Edge Networks**|Changfu Xu et.al.|[2412.18212](http://arxiv.org/abs/2412.18212)|**[link](https://github.com/changfuxu/dedgeai)**|
 |**2024-12-24**|**Quantum framework for Reinforcement Learning: integrating Markov Decision Process, quantum arithmetic, and trajectory search**|Thet Htar Su et.al.|[2412.18208](http://arxiv.org/abs/2412.18208)|null|
-|**2024-12-24**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
+|**2024-12-25**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
 |**2024-12-24**|**Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity, and Convergence**|Yinbin Han et.al.|[2412.18164](http://arxiv.org/abs/2412.18164)|null|
 |**2024-12-24**|**AutoSculpt: A Pattern-based Model Auto-pruning Framework Using Reinforcement Learning and Graph Learning**|Lixian Jing et.al.|[2412.18091](http://arxiv.org/abs/2412.18091)|null|
 |**2024-12-23**|**Generating refactored code accurately using reinforcement learning**|Indranil Palit et.al.|[2412.18035](http://arxiv.org/abs/2412.18035)|null|
@@ -8244,7 +8244,7 @@ layout: default
 |**2024-12-21**|**On Enhancing Network Throughput using Reinforcement Learning in Sliced Testbeds**|Daniel Pereira Monteiro et.al.|[2412.16673](http://arxiv.org/abs/2412.16673)|null|
 |**2024-12-21**|**Task-Driven Co-Design of Mobile Manipulators**|Raphael Schneider et.al.|[2412.16635](http://arxiv.org/abs/2412.16635)|null|
 |**2024-12-21**|**A Tutorial on Non-Terrestrial Networks: Towards Global and Ubiquitous 6G Connectivity**|Muhammad Ali Jamshed et.al.|[2412.16611](http://arxiv.org/abs/2412.16611)|null|
-|**2024-12-21**|**Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI**|Shizhe Liang et.al.|[2412.16543](http://arxiv.org/abs/2412.16543)|null|
+|**2024-12-24**|**Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI**|Shizhe Liang et.al.|[2412.16543](http://arxiv.org/abs/2412.16543)|null|
 |**2024-12-21**|**Deep Reinforcement Learning Based Systems for Safety Critical Applications in Aerospace**|Abedin Sherifi et.al.|[2412.16489](http://arxiv.org/abs/2412.16489)|null|
 |**2024-12-20**|**Autonomous Option Invention for Continual Hierarchical Reinforcement Learning and Planning**|Rashmeet Kaur Nayyar et.al.|[2412.16395](http://arxiv.org/abs/2412.16395)|null|
 |**2024-12-20**|**Towards Safe and Honest AI Agents with Neural Self-Other Overlap**|Marc Carauleanu et.al.|[2412.16325](http://arxiv.org/abs/2412.16325)|null|
