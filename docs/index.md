@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.30
+## Updated on 2024.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8262,7 +8262,7 @@ layout: default
 |**2024-12-25**|**Optimistic Critic Reconstruction and Constrained Fine-Tuning for General Offline-to-Online RL**|Qin-Wen Luo et.al.|[2412.18855](http://arxiv.org/abs/2412.18855)|null|
 |**2024-12-25**|**Robustness Evaluation of Offline Reinforcement Learning for Robot Control Against Action Perturbations**|Shingo Ayabe et.al.|[2412.18781](http://arxiv.org/abs/2412.18781)|null|
 |**2024-12-24**|**Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning**|Alex Beutel et.al.|[2412.18693](http://arxiv.org/abs/2412.18693)|null|
-|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|null|
+|**2024-12-24**|**Modeling the Centaur: Human-Machine Synergy in Sequential Decision Making**|David Shoresh et.al.|[2412.18593](http://arxiv.org/abs/2412.18593)|**[link](https://github.com/ReserveJudgement/Centaur-GPT)**|
 |**2024-12-24**|**Dynamic Optimization of Portfolio Allocation Using Deep Reinforcement Learning**|Gang Huang et.al.|[2412.18563](http://arxiv.org/abs/2412.18563)|**[link](https://github.com/watermeloncq/drl-dynamic-optimization-portfolio-SB3py37)**|
 |**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
 |**2024-12-24**|**Joint Adaptive OFDM and Reinforcement Learning Design for Autonomous Vehicles: Leveraging Age of Updates**|Mamady Delamou et.al.|[2412.18500](http://arxiv.org/abs/2412.18500)|null|
