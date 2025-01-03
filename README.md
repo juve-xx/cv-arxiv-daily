@@ -3693,7 +3693,7 @@
 |**2024-12-23**|**Dual Conditioned Motion Diffusion for Pose-Based Video Anomaly Detection**|Andi Xu et.al.|[2412.17210](http://arxiv.org/abs/2412.17210)|**[link](https://github.com/guijiejie/dcmd-main)**|
 |**2024-12-22**|**Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach**|Chunxu Zhang et.al.|[2412.16969](http://arxiv.org/abs/2412.16969)|**[link](https://github.com/zhangcx19/aaai-25-mrff)**|
 |**2024-12-24**|**Semantic Hierarchical Prompt Tuning for Parameter-Efficient Fine-Tuning**|Haowei Zhu et.al.|[2412.16956](http://arxiv.org/abs/2412.16956)|**[link](https://github.com/haoweiz23/ship)**|
-|**2024-12-21**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
+|**2025-01-02**|**Mamba-SEUNet: Mamba UNet for Monaural Speech Enhancement**|Junyu Wang et.al.|[2412.16626](http://arxiv.org/abs/2412.16626)|null|
 |**2024-12-21**|**V"Mean"ba: Visual State Space Models only need 1 hidden dimension**|Tien-Yu Chi et.al.|[2412.16602](http://arxiv.org/abs/2412.16602)|null|
 |**2024-12-21**|**Attention Entropy is a Key Factor: An Analysis of Parallel Context Encoding with Full-attention-based Pre-trained Language Models**|Zhisong Zhang et.al.|[2412.16545](http://arxiv.org/abs/2412.16545)|null|
 |**2024-12-21**|**VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification**|Wenjie Xi et.al.|[2412.16515](http://arxiv.org/abs/2412.16515)|null|
@@ -5000,10 +5000,10 @@
 |**2024-12-28**|**Exploiting Movable-Element STARS for Wireless Communications**|Jingjing Zhao et.al.|[2412.19974](http://arxiv.org/abs/2412.19974)|null|
 |**2024-12-27**|**On the Convergence of DP-SGD with Adaptive Clipping**|Egor Shulgin et.al.|[2412.19916](http://arxiv.org/abs/2412.19916)|null|
 |**2024-12-27**|**Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping**|Zijian Liu et.al.|[2412.19529](http://arxiv.org/abs/2412.19529)|null|
-|**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
+|**2024-12-30**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
 |**2024-12-26**|**Adaptive Conformal Inference by Betting**|Aleksandr Podkopaev et.al.|[2412.19318](http://arxiv.org/abs/2412.19318)|null|
 |**2024-12-25**|**PhyloGen: Language Model-Enhanced Phylogenetic Inference via Graph Structure Generation**|ChenRui Duan et.al.|[2412.18827](http://arxiv.org/abs/2412.18827)|null|
-|**2024-12-24**|**High-accuracy sampling from constrained spaces with the Metropolis-adjusted Preconditioned Langevin Algorithm**|Vishwak Srinivasan et.al.|[2412.18701](http://arxiv.org/abs/2412.18701)|**[link](https://github.com/vishwakftw/conspacesampler)**|
+|**2024-12-31**|**High-accuracy sampling from constrained spaces with the Metropolis-adjusted Preconditioned Langevin Algorithm**|Vishwak Srinivasan et.al.|[2412.18701](http://arxiv.org/abs/2412.18701)|**[link](https://github.com/vishwakftw/conspacesampler)**|
 |**2024-12-24**|**STITCH: Surface reconstrucTion using Implicit neural representations with Topology Constraints and persistent Homology**|Anushrut Jignasu et.al.|[2412.18696](http://arxiv.org/abs/2412.18696)|null|
 |**2024-12-24**|**Simple Quantum Gradient Descent Without Coherent Oracle Access**|Nhat A. Nghiem et.al.|[2412.18309](http://arxiv.org/abs/2412.18309)|null|
 |**2024-12-24**|**Age Optimal Sampling for Unreliable Channels under Unknown Channel Statistics**|Hongyi He et.al.|[2412.18119](http://arxiv.org/abs/2412.18119)|null|
@@ -6689,12 +6689,12 @@
 |**2024-12-28**|**Exploiting Movable-Element STARS for Wireless Communications**|Jingjing Zhao et.al.|[2412.19974](http://arxiv.org/abs/2412.19974)|null|
 |**2024-12-27**|**On the Convergence of DP-SGD with Adaptive Clipping**|Egor Shulgin et.al.|[2412.19916](http://arxiv.org/abs/2412.19916)|null|
 |**2024-12-27**|**Nonconvex Stochastic Optimization under Heavy-Tailed Noises: Optimal Convergence without Gradient Clipping**|Zijian Liu et.al.|[2412.19529](http://arxiv.org/abs/2412.19529)|null|
-|**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
+|**2024-12-30**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
 |**2024-12-26**|**Adaptive Conformal Inference by Betting**|Aleksandr Podkopaev et.al.|[2412.19318](http://arxiv.org/abs/2412.19318)|null|
 |**2024-12-30**|**Improving Generalization for AI-Synthesized Voice Detection**|Hainan Ren et.al.|[2412.19279](http://arxiv.org/abs/2412.19279)|**[link](https://github.com/Purdue-M2/AI-Synthesized-Voice-Generalization)**|
 |**2024-12-25**|**PhyloGen: Language Model-Enhanced Phylogenetic Inference via Graph Structure Generation**|ChenRui Duan et.al.|[2412.18827](http://arxiv.org/abs/2412.18827)|null|
 |**2024-12-25**|**Torque-Aware Momentum**|Pranshu Malviya et.al.|[2412.18790](http://arxiv.org/abs/2412.18790)|null|
-|**2024-12-24**|**High-accuracy sampling from constrained spaces with the Metropolis-adjusted Preconditioned Langevin Algorithm**|Vishwak Srinivasan et.al.|[2412.18701](http://arxiv.org/abs/2412.18701)|**[link](https://github.com/vishwakftw/conspacesampler)**|
+|**2024-12-31**|**High-accuracy sampling from constrained spaces with the Metropolis-adjusted Preconditioned Langevin Algorithm**|Vishwak Srinivasan et.al.|[2412.18701](http://arxiv.org/abs/2412.18701)|**[link](https://github.com/vishwakftw/conspacesampler)**|
 |**2024-12-24**|**STITCH: Surface reconstrucTion using Implicit neural representations with Topology Constraints and persistent Homology**|Anushrut Jignasu et.al.|[2412.18696](http://arxiv.org/abs/2412.18696)|null|
 |**2024-12-24**|**Simple Quantum Gradient Descent Without Coherent Oracle Access**|Nhat A. Nghiem et.al.|[2412.18309](http://arxiv.org/abs/2412.18309)|null|
 |**2024-12-24**|**Age Optimal Sampling for Unreliable Channels under Unknown Channel Statistics**|Hongyi He et.al.|[2412.18119](http://arxiv.org/abs/2412.18119)|null|
@@ -8321,7 +8321,7 @@
 |**2024-12-29**|**Towards a General Framework for Practical Quantum Network Protocols**|Sumeet Khatri et.al.|[2412.20472](http://arxiv.org/abs/2412.20472)|null|
 |**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
 |**2024-12-29**|**Artificial Intelligence for Quantum Error Correction: A Comprehensive Review**|Zihao Wang et.al.|[2412.20380](http://arxiv.org/abs/2412.20380)|null|
-|**2024-12-29**|**Enhancing Code LLMs with Reinforcement Learning in Code Generation**|Junqiao Wang et.al.|[2412.20367](http://arxiv.org/abs/2412.20367)|null|
+|**2025-01-02**|**Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey**|Junqiao Wang et.al.|[2412.20367](http://arxiv.org/abs/2412.20367)|null|
 |**2024-12-29**|**Safe Multiagent Coordination via Entropic Exploration**|Ayhan Alp Aydeniz et.al.|[2412.20361](http://arxiv.org/abs/2412.20361)|null|
 |**2024-12-29**|**Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation**|Hao Zhang et.al.|[2412.20338](http://arxiv.org/abs/2412.20338)|**[link](https://github.com/charlie0257/hytl)**|
 |**2024-12-29**|**Protein Structure Prediction in the 3D HP Model Using Deep Reinforcement Learning**|Giovanny Espitia et.al.|[2412.20329](http://arxiv.org/abs/2412.20329)|null|
@@ -8345,10 +8345,10 @@
 |**2024-12-27**|**Comparing Few to Rank Many: Active Human Preference Learning using Randomized Frank-Wolfe**|Kiran Koshy Thekumparampil et.al.|[2412.19396](http://arxiv.org/abs/2412.19396)|null|
 |**2024-12-27**|**Two-echelon Electric Vehicle Routing Problem in Parcel Delivery: A Literature Review**|Nima Moradi et.al.|[2412.19395](http://arxiv.org/abs/2412.19395)|null|
 |**2024-12-26**|**Preventive Energy Management for Distribution Systems Under Uncertain Events: A Deep Reinforcement Learning Approach**|Md Isfakul Anam et.al.|[2412.19382](http://arxiv.org/abs/2412.19382)|null|
-|**2024-12-26**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
+|**2024-12-30**|**Minimal Batch Adaptive Learning Policy Engine for Real-Time Mid-Price Forecasting in High-Frequency Trading**|Adamantios Ntakaris et.al.|[2412.19372](http://arxiv.org/abs/2412.19372)|null|
 |**2024-12-26**|**A Reinforcement Learning-Based Task Mapping Method to Improve the Reliability of Clustered Manycores**|Fatemeh Hossein-Khani et.al.|[2412.19340](http://arxiv.org/abs/2412.19340)|null|
 |**2024-12-26**|**xSRL: Safety-Aware Explainable Reinforcement Learning -- Safety as a Product of Explainability**|Risal Shahriar Shefin et.al.|[2412.19311](http://arxiv.org/abs/2412.19311)|**[link](https://github.com/risal-shefin/xsrl)**|
-|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|null|
+|**2025-01-01**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|**[link](https://github.com/hkuds/reclm)**|
 |**2024-12-26**|**Optimizing Fantasy Sports Team Selection with Deep Reinforcement Learning**|Shamik Bhattacharjee et.al.|[2412.19215](http://arxiv.org/abs/2412.19215)|null|
 |**2024-12-26**|**Provably Efficient Exploration in Reward Machines with Low Regret**|Hippolyte Bourel et.al.|[2412.19194](http://arxiv.org/abs/2412.19194)|null|
 |**2024-12-26**|**Mobile Robots through Task-Based Human Instructions using Incremental Curriculum Learning**|Muhammad A. Muttaqien et.al.|[2412.19159](http://arxiv.org/abs/2412.19159)|null|
@@ -8390,7 +8390,7 @@
 |**2024-12-23**|**ACECode: A Reinforcement Learning Framework for Aligning Code Efficiency and Correctness in Code Language Models**|Chengran Yang et.al.|[2412.17264](http://arxiv.org/abs/2412.17264)|null|
 |**2024-12-23**|**A Coalition Game for On-demand Multi-modal 3D Automated Delivery System**|Farzan Moosavi et.al.|[2412.17252](http://arxiv.org/abs/2412.17252)|null|
 |**2024-12-23**|**Model-free stochastic linear quadratic design by semidefinite programming**|Jing Guo et.al.|[2412.17230](http://arxiv.org/abs/2412.17230)|null|
-|**2024-12-22**|**Fairness in Reinforcement Learning with Bisimulation Metrics**|Sahand Rezaei-Shoshtari et.al.|[2412.17123](http://arxiv.org/abs/2412.17123)|null|
+|**2024-12-31**|**Fairness in Reinforcement Learning with Bisimulation Metrics**|Sahand Rezaei-Shoshtari et.al.|[2412.17123](http://arxiv.org/abs/2412.17123)|null|
 |**2024-12-22**|**Adam on Local Time: Addressing Nonstationarity in RL with Relative Adam Timesteps**|Benjamin Ellis et.al.|[2412.17113](http://arxiv.org/abs/2412.17113)|null|
 |**2024-12-22**|**LLM-Powered User Simulator for Recommender System**|Zijian Zhang et.al.|[2412.16984](http://arxiv.org/abs/2412.16984)|null|
 |**2024-12-22**|**Cannot or Should Not? Automatic Analysis of Refusal Composition in IFT/RLHF Datasets and Refusal Behavior of Black-Box LLMs**|Alexander von Recum et.al.|[2412.16974](http://arxiv.org/abs/2412.16974)|null|
