@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3640,7 +3640,7 @@ layout: default
 |**2024-12-28**|**MAKIMA: Tuning-free Multi-Attribute Open-domain Video Editing via Mask-Guided Attention Modulation**|Haoyu Zheng et.al.|[2412.19978](http://arxiv.org/abs/2412.19978)|null|
 |**2024-12-24**|**Multimodal joint prediction of traffic spatial-temporal data with graph sparse attention mechanism and bidirectional temporal convolutional network**|Dongran Zhang et.al.|[2412.19842](http://arxiv.org/abs/2412.19842)|null|
 |**2024-12-19**|**GFormer: Accelerating Large Language Models with Optimized Transformers on Gaudi Processors**|Chengming Zhang et.al.|[2412.19829](http://arxiv.org/abs/2412.19829)|null|
-|**2024-12-11**|**Predicting Human Brain States with Transformer**|Yifei Sun et.al.|[2412.19814](http://arxiv.org/abs/2412.19814)|null|
+|**2024-12-11**|**Predicting Human Brain States with Transformer**|Yifei Sun et.al.|[2412.19814](http://arxiv.org/abs/2412.19814)|**[link](https://github.com/syf0122/brain_state_pred)**|
 |**2024-12-30**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645](http://arxiv.org/abs/2412.19645)|null|
 |**2024-12-27**|**Meta-Learning-Based Delayless Subband Adaptive Filter using Complex Self-Attention for Active Noise Control**|Pengxing Feng et.al.|[2412.19471](http://arxiv.org/abs/2412.19471)|null|
 |**2024-12-26**|**6Diffusion: IPv6 Target Generation Using a Diffusion Model with Global-Local Attention Mechanisms for Internet-wide IPv6 Scanning**|Nabo He et.al.|[2412.19243](http://arxiv.org/abs/2412.19243)|null|
