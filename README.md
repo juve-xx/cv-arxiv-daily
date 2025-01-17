@@ -2470,6 +2470,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
+|**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
+|**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|
 |**2025-01-15**|**Exploring ChatGPT for Face Presentation Attack Detection in Zero and Few-Shot in-Context Learning**|Alain Komaty et.al.|[2501.08799](http://arxiv.org/abs/2501.08799)|null|
 |**2025-01-15**|**The Inherent Limits of Pretrained LLMs: The Unexpected Convergence of Instruction Tuning and In-Context Learning Capabilities**|Irina Bigoulaeva et.al.|[2501.08716](http://arxiv.org/abs/2501.08716)|**[link](https://github.com/ukplab/arxiv2025-inherent-limits-plms)**|
@@ -3684,6 +3689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**|Jiayi Han et.al.|[2501.09532](http://arxiv.org/abs/2501.09532)|null|
 |**2025-01-15**|**Transformer-based Multivariate Time Series Anomaly Localization**|Charalampos Shimillas et.al.|[2501.08628](http://arxiv.org/abs/2501.08628)|null|
 |**2025-01-14**|**Predicting 4D Hand Trajectory from Monocular Videos**|Yufei Ye et.al.|[2501.08329](http://arxiv.org/abs/2501.08329)|null|
 |**2025-01-14**|**EmoNeXt: an Adapted ConvNeXt for Facial Emotion Recognition**|Yassine El Boudouri et.al.|[2501.08199](http://arxiv.org/abs/2501.08199)|**[link](https://github.com/yelboudouri/EmoNeXt)**|
@@ -5063,13 +5069,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
+|**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
 |**2025-01-15**|**Computing Game Symmetries and Equilibria That Respect Them**|Emanuel Tewolde et.al.|[2501.08905](http://arxiv.org/abs/2501.08905)|null|
 |**2025-01-15**|**Increasing Batch Size Improves Convergence of Stochastic Gradient Descent with Momentum**|Keisuke Kamo et.al.|[2501.08883](http://arxiv.org/abs/2501.08883)|null|
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
 |**2025-01-15**|**Nesterov Acceleration for Ensemble Kalman Inversion and Variants**|Sydney Vernon et.al.|[2501.08779](http://arxiv.org/abs/2501.08779)|null|
 |**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
-|**2025-01-15**|**A new perspective on brain stimulation interventions: Optimal stochastic tracking control of brain network dynamics**|Kangli Dong et.al.|[2501.08567](http://arxiv.org/abs/2501.08567)|null|
+|**2025-01-16**|**A new perspective on brain stimulation interventions: Optimal stochastic tracking control of brain network dynamics**|Kangli Dong et.al.|[2501.08567](http://arxiv.org/abs/2501.08567)|null|
 |**2025-01-15**|**Research on stock price forecast of general electric based on mixed CNN-LSTM model**|Zi-xi Hu et.al.|[2501.08539](http://arxiv.org/abs/2501.08539)|null|
 |**2025-01-14**|**Is Stochastic Gradient Descent Effective? A PDE Perspective on Machine Learning processes**|Davide Barbieri et.al.|[2501.08425](http://arxiv.org/abs/2501.08425)|null|
 |**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330](http://arxiv.org/abs/2501.08330)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
@@ -6816,13 +6824,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
+|**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
 |**2025-01-15**|**Computing Game Symmetries and Equilibria That Respect Them**|Emanuel Tewolde et.al.|[2501.08905](http://arxiv.org/abs/2501.08905)|null|
 |**2025-01-15**|**Increasing Batch Size Improves Convergence of Stochastic Gradient Descent with Momentum**|Keisuke Kamo et.al.|[2501.08883](http://arxiv.org/abs/2501.08883)|null|
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
 |**2025-01-15**|**Nesterov Acceleration for Ensemble Kalman Inversion and Variants**|Sydney Vernon et.al.|[2501.08779](http://arxiv.org/abs/2501.08779)|null|
 |**2025-01-15**|**Networked Agents in the Dark: Team Value Learning under Partial Observability**|Guilherme S. Varela et.al.|[2501.08778](http://arxiv.org/abs/2501.08778)|null|
-|**2025-01-15**|**A new perspective on brain stimulation interventions: Optimal stochastic tracking control of brain network dynamics**|Kangli Dong et.al.|[2501.08567](http://arxiv.org/abs/2501.08567)|null|
+|**2025-01-16**|**A new perspective on brain stimulation interventions: Optimal stochastic tracking control of brain network dynamics**|Kangli Dong et.al.|[2501.08567](http://arxiv.org/abs/2501.08567)|null|
 |**2025-01-15**|**Research on stock price forecast of general electric based on mixed CNN-LSTM model**|Zi-xi Hu et.al.|[2501.08539](http://arxiv.org/abs/2501.08539)|null|
 |**2025-01-14**|**Is Stochastic Gradient Descent Effective? A PDE Perspective on Machine Learning processes**|Davide Barbieri et.al.|[2501.08425](http://arxiv.org/abs/2501.08425)|null|
 |**2025-01-03**|**Dissecting a Small Artificial Neural Network**|Xiguang Yang et.al.|[2501.08341](http://arxiv.org/abs/2501.08341)|null|
@@ -8512,6 +8522,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
+|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
+|**2025-01-16**|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan et.al.|[2501.09611](http://arxiv.org/abs/2501.09611)|null|
+|**2025-01-16**|**RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**|Jianrui Shi et.al.|[2501.09465](http://arxiv.org/abs/2501.09465)|null|
+|**2025-01-16**|**ADAGE: A generic two-layer framework for adaptive agent based modelling**|Benjamin Patrick Evans et.al.|[2501.09429](http://arxiv.org/abs/2501.09429)|null|
+|**2025-01-16**|**Fast Searching of Extreme Operating Conditions for Relay Protection Setting Calculation Based on Graph Neural Network and Reinforcement Learning**|Yan Li et.al.|[2501.09399](http://arxiv.org/abs/2501.09399)|null|
+|**2025-01-16**|**Contract-Inspired Contest Theory for Controllable Image Generation in Mobile Edge Metaverse**|Guangyuan Liu et.al.|[2501.09391](http://arxiv.org/abs/2501.09391)|null|
+|**2025-01-16**|**Adaptive Contextual Caching for Mobile Edge Large Language Model Service**|Guangyuan Liu et.al.|[2501.09383](http://arxiv.org/abs/2501.09383)|null|
+|**2025-01-16**|**Solving Infinite-Player Games with Player-to-Strategy Networks**|Carlos Martin et.al.|[2501.09330](http://arxiv.org/abs/2501.09330)|null|
+|**2025-01-16**|**Interoceptive Robots for Convergent Shared Control in Collaborative Construction Work**|Xiaoshan Zhou et.al.|[2501.09290](http://arxiv.org/abs/2501.09290)|null|
+|**2025-01-16**|**Clone-Robust AI Alignment**|Ariel D. Procaccia et.al.|[2501.09254](http://arxiv.org/abs/2501.09254)|null|
+|**2025-01-16**|**Hierarchical Deep Reinforcement Learning for Adaptive Resource Management in Integrated Terrestrial and Non-Terrestrial Networks**|Muhammad Ahmed Mohsin et.al.|[2501.09212](http://arxiv.org/abs/2501.09212)|null|
+|**2025-01-15**|**Intelligent Backhaul Link Selection for Traffic Offloading in B5G Networks**|António J. Morgado et.al.|[2501.09123](http://arxiv.org/abs/2501.09123)|null|
+|**2025-01-15**|**Inferring Transition Dynamics from Value Functions**|Jacob Adamczyk et.al.|[2501.09081](http://arxiv.org/abs/2501.09081)|null|
+|**2025-01-15**|**Average-Reward Reinforcement Learning with Entropy Regularization**|Jacob Adamczyk et.al.|[2501.09080](http://arxiv.org/abs/2501.09080)|null|
 |**2025-01-15**|**Computing Approximated Fixpoints via Dampened Mann Iteration**|Paolo Baldan et.al.|[2501.08950](http://arxiv.org/abs/2501.08950)|null|
 |**2025-01-15**|**A Reinforcement Learning Approach to Quiet and Safe UAM Traffic Management**|Surya Murthy et.al.|[2501.08941](http://arxiv.org/abs/2501.08941)|null|
 |**2025-01-15**|**Reinforcement learning-based adaptive time-integration for nonsmooth dynamics**|David Riley et.al.|[2501.08934](http://arxiv.org/abs/2501.08934)|null|
@@ -8549,7 +8575,7 @@
 |**2025-01-13**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
 |**2025-01-13**|**Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data**|Shilong Deng et.al.|[2501.07346](http://arxiv.org/abs/2501.07346)|**[link](https://github.com/sldeng1003/gild)**|
 |**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324](http://arxiv.org/abs/2501.07324)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
-|**2025-01-13**|**Mining Intraday Risk Factor Collections via Hierarchical Reinforcement Learning based on Transferred Options**|Wenyan Xu et.al.|[2501.07274](http://arxiv.org/abs/2501.07274)|null|
+|**2025-01-16**|**Mining Intraday Risk Factor Collections via Hierarchical Reinforcement Learning based on Transferred Options**|Wenyan Xu et.al.|[2501.07274](http://arxiv.org/abs/2501.07274)|null|
 |**2025-01-13**|**Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**|Chongming Gao et.al.|[2501.07212](http://arxiv.org/abs/2501.07212)|null|
 |**2025-01-13**|**TIMRL: A Novel Meta-Reinforcement Learning Framework for Non-Stationary and Multi-Task Environments**|Chenyang Qi et.al.|[2501.07146](http://arxiv.org/abs/2501.07146)|null|
 |**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126](http://arxiv.org/abs/2501.07126)|null|
