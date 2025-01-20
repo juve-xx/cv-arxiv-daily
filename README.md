@@ -5069,6 +5069,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**A Family of Controllable Momentum Coefficients for Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2501.10051](http://arxiv.org/abs/2501.10051)|null|
+|**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
 |**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
 |**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
@@ -5107,7 +5109,7 @@
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667](http://arxiv.org/abs/2501.04667)|null|
 |**2025-01-09**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572](http://arxiv.org/abs/2501.04572)|null|
-|**2025-01-08**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
+|**2025-01-17**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
 |**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448](http://arxiv.org/abs/2501.04448)|null|
 |**2025-01-08**|**Cluster & Disperse: a general air conflict resolution heuristic using unsupervised learning**|Mirmojtaba Gharibi et.al.|[2501.04281](http://arxiv.org/abs/2501.04281)|null|
 |**2025-01-08**|**Modeling Hypergraphs with Diversity and Heterogeneous Popularity**|Xianshi Yu et.al.|[2501.04251](http://arxiv.org/abs/2501.04251)|null|
@@ -6824,6 +6826,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**A Family of Controllable Momentum Coefficients for Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2501.10051](http://arxiv.org/abs/2501.10051)|null|
+|**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
 |**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
 |**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
@@ -6864,7 +6868,7 @@
 |**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667](http://arxiv.org/abs/2501.04667)|null|
 |**2025-01-09**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572](http://arxiv.org/abs/2501.04572)|null|
-|**2025-01-08**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
+|**2025-01-17**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
 |**2025-01-08**|**AI-assisted design of experiments at the frontiers of computation: methods and new perspectives**|Pietro Vischia et.al.|[2501.04448](http://arxiv.org/abs/2501.04448)|null|
 |**2025-01-08**|**Cluster & Disperse: a general air conflict resolution heuristic using unsupervised learning**|Mirmojtaba Gharibi et.al.|[2501.04281](http://arxiv.org/abs/2501.04281)|null|
 |**2025-01-08**|**Modeling Hypergraphs with Diversity and Heterogeneous Popularity**|Xianshi Yu et.al.|[2501.04251](http://arxiv.org/abs/2501.04251)|null|
@@ -8522,8 +8526,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-16**|**Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
-|**2025-01-16**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
+|**2025-01-17**|**Enhancing AI Transparency: XRL-Based Resource Management and RAN Slicing for 6G ORAN Architecture**|Suvidha Mhatre et.al.|[2501.10292](http://arxiv.org/abs/2501.10292)|null|
+|**2025-01-17**|**Enhancing UAV Path Planning Efficiency Through Accelerated Learning**|Joseanne Viana et.al.|[2501.10141](http://arxiv.org/abs/2501.10141)|null|
+|**2025-01-17**|**Spatio-temporal Graph Learning on Adaptive Mined Key Frames for High-performance Multi-Object Tracking**|Futian Wang et.al.|[2501.10129](http://arxiv.org/abs/2501.10129)|null|
+|**2025-01-17**|**PaSa: An LLM Agent for Comprehensive Academic Paper Search**|Yichen He et.al.|[2501.10120](http://arxiv.org/abs/2501.10120)|null|
+|**2025-01-17**|**GAWM: Global-Aware World Model for Multi-Agent Reinforcement Learning**|Zifeng Shi et.al.|[2501.10116](http://arxiv.org/abs/2501.10116)|null|
+|**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
+|**2025-01-17**|**ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring**|Kenneth Bonilla-Ormachea et.al.|[2501.09926](http://arxiv.org/abs/2501.09926)|null|
+|**2025-01-17**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
+|**2025-01-16**|**From Explainability to Interpretability: Interpretable Policies in Reinforcement Learning Via Model Explanation**|Peilang Li et.al.|[2501.09858](http://arxiv.org/abs/2501.09858)|null|
+|**2025-01-16**|**VideoWorld: Exploring Knowledge Learning from Unlabeled Videos**|Zhongwei Ren et.al.|[2501.09781](http://arxiv.org/abs/2501.09781)|null|
+|**2025-01-15**|**EVAL: EigenVector-based Average-reward Learning**|Jacob Adamczyk et.al.|[2501.09770](http://arxiv.org/abs/2501.09770)|null|
+|**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
+|**2025-01-17**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
 |**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
 |**2025-01-16**|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan et.al.|[2501.09611](http://arxiv.org/abs/2501.09611)|null|
 |**2025-01-16**|**RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**|Jianrui Shi et.al.|[2501.09465](http://arxiv.org/abs/2501.09465)|null|
