@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2446,7 +2446,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-16**|**Confidence Estimation for Error Detection in Text-to-SQL Systems**|Oleg Somov et.al.|[2501.09527](http://arxiv.org/abs/2501.09527)|null|
 |**2025-01-16**|**Evaluating LLM Abilities to Understand Tabular Electronic Health Records: A Comprehensive Study of Patient Data Extraction and Retrieval**|Jesus Lovon et.al.|[2501.09384](http://arxiv.org/abs/2501.09384)|null|
-|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|null|
+|**2025-01-16**|**A Study of In-Context-Learning-Based Text-to-SQL Errors**|Jiawei Shen et.al.|[2501.09310](http://arxiv.org/abs/2501.09310)|**[link](https://github.com/nl2sql-empirical/nl2sql_error_empirical)**|
 |**2025-01-16**|**Perspective Transition of Large Language Models for Solving Subjective Tasks**|Xiaolong Wang et.al.|[2501.09265](http://arxiv.org/abs/2501.09265)|null|
 |**2025-01-16**|**Task Vectors in In-Context Learning: Emergence, Formation, and Benefit**|Liu Yang et.al.|[2501.09240](http://arxiv.org/abs/2501.09240)|null|
 |**2025-01-15**|**Exploring Task-Level Optimal Prompts for Visual In-Context Learning**|Yan Zhu et.al.|[2501.08841](http://arxiv.org/abs/2501.08841)|null|
@@ -5041,7 +5041,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-17**|**A Family of Controllable Momentum Coefficients for Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2501.10051](http://arxiv.org/abs/2501.10051)|null|
 |**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
-|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
+|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|**[link](https://github.com/kinit-sk/overshoot)**|
 |**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
 |**2025-01-15**|**Computing Game Symmetries and Equilibria That Respect Them**|Emanuel Tewolde et.al.|[2501.08905](http://arxiv.org/abs/2501.08905)|null|
@@ -5105,7 +5105,7 @@ layout: default
 |**2024-12-31**|**Stochastic Extragradient with Flip-Flop Shuffling & Anchoring: Provable Improvements**|Jiseok Chae et.al.|[2501.00511](http://arxiv.org/abs/2501.00511)|null|
 |**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
 |**2024-12-29**|**Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD**|Arseniy Andreyev et.al.|[2412.20553](http://arxiv.org/abs/2412.20553)|null|
-|**2024-12-29**|**Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data**|Cristian Castiglione et.al.|[2412.20509](http://arxiv.org/abs/2412.20509)|**[link](https://github.com/CristianCastiglione/sgdGMF)**|
+|**2024-12-29**|**Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data**|Cristian Castiglione et.al.|[2412.20509](http://arxiv.org/abs/2412.20509)|**[link](https://github.com/alexandresegers/sgdGMF_Paper)**|
 |**2024-12-29**|**Random Matrix Theory for Stochastic Gradient Descent**|Chanju Park et.al.|[2412.20496](http://arxiv.org/abs/2412.20496)|null|
 |**2024-12-29**|**EM algorithms for optimization problems with polynomial objectives**|Kensuke Asai et.al.|[2412.20481](http://arxiv.org/abs/2412.20481)|null|
 |**2024-12-29**|**Movable Antenna Array Aided Ultra Reliable Covert Communications**|Yida Wang et.al.|[2412.20417](http://arxiv.org/abs/2412.20417)|null|
@@ -6794,7 +6794,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-17**|**A Family of Controllable Momentum Coefficients for Forward-Backward Accelerated Algorithms**|Mingwei Fu et.al.|[2501.10051](http://arxiv.org/abs/2501.10051)|null|
 |**2025-01-17**|**Sparse Binary Representation Learning for Knowledge Tracing**|Yahya Badran et.al.|[2501.09893](http://arxiv.org/abs/2501.09893)|null|
-|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|null|
+|**2025-01-16**|**Overshoot: Taking advantage of future gradients in momentum-based stochastic optimization**|Jakub Kopal et.al.|[2501.09556](http://arxiv.org/abs/2501.09556)|**[link](https://github.com/kinit-sk/overshoot)**|
 |**2025-01-15**|**Gradient Descent Converges Linearly to Flatter Minima than Gradient Flow in Shallow Linear Networks**|Pierfrancesco Beneventano et.al.|[2501.09137](http://arxiv.org/abs/2501.09137)|null|
 |**2025-01-15**|**A consensus-based optimization method for nonsmooth nonconvex programs with approximated gradient descent scheme**|Jiazhen Wei et.al.|[2501.08906](http://arxiv.org/abs/2501.08906)|null|
 |**2025-01-15**|**Computing Game Symmetries and Equilibria That Respect Them**|Emanuel Tewolde et.al.|[2501.08905](http://arxiv.org/abs/2501.08905)|null|
@@ -6862,7 +6862,7 @@ layout: default
 |**2024-12-31**|**Stochastic Extragradient with Flip-Flop Shuffling & Anchoring: Provable Improvements**|Jiseok Chae et.al.|[2501.00511](http://arxiv.org/abs/2501.00511)|null|
 |**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
 |**2024-12-29**|**Edge of Stochastic Stability: Revisiting the Edge of Stability for SGD**|Arseniy Andreyev et.al.|[2412.20553](http://arxiv.org/abs/2412.20553)|null|
-|**2024-12-29**|**Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data**|Cristian Castiglione et.al.|[2412.20509](http://arxiv.org/abs/2412.20509)|**[link](https://github.com/CristianCastiglione/sgdGMF)**|
+|**2024-12-29**|**Stochastic gradient descent estimation of generalized matrix factorization models with application to single-cell RNA sequencing data**|Cristian Castiglione et.al.|[2412.20509](http://arxiv.org/abs/2412.20509)|**[link](https://github.com/alexandresegers/sgdGMF_Paper)**|
 |**2024-12-29**|**Random Matrix Theory for Stochastic Gradient Descent**|Chanju Park et.al.|[2412.20496](http://arxiv.org/abs/2412.20496)|null|
 |**2024-12-29**|**EM algorithms for optimization problems with polynomial objectives**|Kensuke Asai et.al.|[2412.20481](http://arxiv.org/abs/2412.20481)|null|
 |**2024-12-29**|**Movable Antenna Array Aided Ultra Reliable Covert Communications**|Yida Wang et.al.|[2412.20417](http://arxiv.org/abs/2412.20417)|null|
@@ -8503,7 +8503,7 @@ layout: default
 |**2025-01-15**|**EVAL: EigenVector-based Average-reward Learning**|Jacob Adamczyk et.al.|[2501.09770](http://arxiv.org/abs/2501.09770)|null|
 |**2025-01-17**|**Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities**|Fengli Xu et.al.|[2501.09686](http://arxiv.org/abs/2501.09686)|null|
 |**2025-01-17**|**Optimizing hypergraph product codes with random walks, simulated annealing and reinforcement learning**|Bruno C. A. Freire et.al.|[2501.09622](http://arxiv.org/abs/2501.09622)|null|
-|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|null|
+|**2025-01-16**|**Beyond Reward Hacking: Causal Rewards for Large Language Model Alignment**|Chaoqi Wang et.al.|[2501.09620](http://arxiv.org/abs/2501.09620)|**[link](https://github.com/tatsu-lab/alpaca_farm)**|
 |**2025-01-16**|**EVaDE : Event-Based Variational Thompson Sampling for Model-Based Reinforcement Learning**|Siddharth Aravindan et.al.|[2501.09611](http://arxiv.org/abs/2501.09611)|null|
 |**2025-01-16**|**RE-POSE: Synergizing Reinforcement Learning-Based Partitioning and Offloading for Edge Object Detection**|Jianrui Shi et.al.|[2501.09465](http://arxiv.org/abs/2501.09465)|null|
 |**2025-01-16**|**ADAGE: A generic two-layer framework for adaptive agent based modelling**|Benjamin Patrick Evans et.al.|[2501.09429](http://arxiv.org/abs/2501.09429)|null|
@@ -8554,7 +8554,7 @@ layout: default
 |**2025-01-13**|**Attention when you need**|Lokesh Boominathan et.al.|[2501.07440](http://arxiv.org/abs/2501.07440)|null|
 |**2025-01-13**|**Enhancing Online Reinforcement Learning with Meta-Learned Objective from Offline Data**|Shilong Deng et.al.|[2501.07346](http://arxiv.org/abs/2501.07346)|**[link](https://github.com/sldeng1003/gild)**|
 |**2025-01-13**|**Foundation Models at Work: Fine-Tuning for Fairness in Algorithmic Hiring**|Buse Sibel Korkmaz et.al.|[2501.07324](http://arxiv.org/abs/2501.07324)|**[link](https://github.com/buseskorkmaz/fms-at-work)**|
-|**2025-01-16**|**Mining Intraday Risk Factor Collections via Hierarchical Reinforcement Learning based on Transferred Options**|Wenyan Xu et.al.|[2501.07274](http://arxiv.org/abs/2501.07274)|null|
+|**2025-01-16**|**Mining Intraday Risk Factor Collections via Hierarchical Reinforcement Learning based on Transferred Options**|Wenyan Xu et.al.|[2501.07274](http://arxiv.org/abs/2501.07274)|**[link](https://github.com/wencyxu/hrl-hf_risk_factor_set)**|
 |**2025-01-13**|**Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**|Chongming Gao et.al.|[2501.07212](http://arxiv.org/abs/2501.07212)|null|
 |**2025-01-13**|**TIMRL: A Novel Meta-Reinforcement Learning Framework for Non-Stationary and Multi-Task Environments**|Chenyang Qi et.al.|[2501.07146](http://arxiv.org/abs/2501.07146)|null|
 |**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126](http://arxiv.org/abs/2501.07126)|null|
