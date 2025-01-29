@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8654,7 +8654,7 @@ layout: default
 |**2025-01-25**|**Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System**|Zhangfeng Ma et.al.|[2501.15091](http://arxiv.org/abs/2501.15091)|null|
 |**2025-01-25**|**Data Center Cooling System Optimization Using Offline Reinforcement Learning**|Xianyuan Zhan et.al.|[2501.15085](http://arxiv.org/abs/2501.15085)|null|
 |**2025-01-25**|**Signal Whisperers: Enhancing Wireless Reception Using DRL-Guided Reflector Arrays**|Hieu Le et.al.|[2501.15044](http://arxiv.org/abs/2501.15044)|null|
-|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|null|
+|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|**[link](https://github.com/lns/dapo)**|
 |**2025-01-25**|**Extensive Exploration in Complex Traffic Scenarios using Hierarchical Reinforcement Learning**|Zhihao Zhang et.al.|[2501.14992](http://arxiv.org/abs/2501.14992)|null|
 |**2025-01-24**|**BPS spectroscopy with reinforcement learning**|Federico Carta et.al.|[2501.14863](http://arxiv.org/abs/2501.14863)|null|
 |**2025-01-24**|**Noise-conditioned Energy-based Annealed Rewards (NEAR): A Generative Framework for Imitation Learning from Observation**|Anish Abhijit Diwan et.al.|[2501.14856](http://arxiv.org/abs/2501.14856)|null|
