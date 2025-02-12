@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3765,11 +3765,11 @@ layout: default
 |**2025-02-03**|**Partial Channel Network: Compute Fewer, Perform Better**|Haiduo Huang et.al.|[2502.01303](http://arxiv.org/abs/2502.01303)|**[link](https://github.com/haiduo/PartialNet)**|
 |**2025-02-03**|**Pushing the Boundaries of State Space Models for Image and Video Generation**|Yicong Hong et.al.|[2502.00972](http://arxiv.org/abs/2502.00972)|null|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et.al.|[2502.00910](http://arxiv.org/abs/2502.00910)|null|
-|**2025-02-02**|**Fundamental limits of learning in sequence multi-index models and deep attention networks: High-dimensional asymptotics and sharp thresholds**|Emanuele Troiani et.al.|[2502.00901](http://arxiv.org/abs/2502.00901)|null|
+|**2025-02-02**|**Fundamental limits of learning in sequence multi-index models and deep attention networks: High-dimensional asymptotics and sharp thresholds**|Emanuele Troiani et.al.|[2502.00901](http://arxiv.org/abs/2502.00901)|**[link](https://github.com/spoc-group/sequenceindexmodels)**|
 |**2025-02-01**|**Converting Transformers into DGNNs Form**|Jie Zhang et.al.|[2502.00585](http://arxiv.org/abs/2502.00585)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-02-01**|**Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective**|Fanqi Yan et.al.|[2502.00281](http://arxiv.org/abs/2502.00281)|null|
-|**2025-02-01**|**Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion**|Binchi Zhang et.al.|[2502.00264](http://arxiv.org/abs/2502.00264)|null|
+|**2025-02-01**|**Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion**|Binchi Zhang et.al.|[2502.00264](http://arxiv.org/abs/2502.00264)|**[link](https://github.com/zhengzaiyi/rotationsymmetry)**|
 |**2025-02-01**|**Patch Triplet Similarity Purification for Guided Real-World Low-Dose CT Image Denoising**|Junhao Long et.al.|[2502.00253](http://arxiv.org/abs/2502.00253)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-31**|**Transformer-Based Financial Fraud Detection with Cloud-Optimized Real-Time Streaming**|Tingting Deng et.al.|[2501.19267](http://arxiv.org/abs/2501.19267)|null|
@@ -5232,13 +5232,13 @@ layout: default
 |**2025-02-03**|**Observation Noise and Initialization in Wide Neural Networks**|Sergio Calvo-Ordoñez et.al.|[2502.01556](http://arxiv.org/abs/2502.01556)|null|
 |**2025-02-03**|**Compact Rule-Based Classifier Learning via Gradient Descent**|Javier Fumanal-Idocin et.al.|[2502.01375](http://arxiv.org/abs/2502.01375)|null|
 |**2025-02-10**|**Non-Stationary Gradient Descent for Optimal Auto-Scaling in Serverless Platforms**|Jonatha Anselmi et.al.|[2502.01284](http://arxiv.org/abs/2502.01284)|null|
-|**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262](http://arxiv.org/abs/2502.01262)|null|
+|**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262](http://arxiv.org/abs/2502.01262)|**[link](https://github.com/ku-aivs/fspgd)**|
 |**2025-02-03**|**Simple Linear Neuron Boosting**|Daniel Munoz et.al.|[2502.01131](http://arxiv.org/abs/2502.01131)|null|
 |**2025-02-03**|**Federated Linear Dueling Bandits**|Xuhan Huang et.al.|[2502.01085](http://arxiv.org/abs/2502.01085)|null|
 |**2025-02-03**|**qNBO: quasi-Newton Meets Bilevel Optimization**|Sheng Fang et.al.|[2502.01076](http://arxiv.org/abs/2502.01076)|null|
-|**2025-02-03**|**DiffIM: Differentiable Influence Minimization with Surrogate Modeling and Continuous Relaxation**|Junghun Lee et.al.|[2502.01031](http://arxiv.org/abs/2502.01031)|null|
+|**2025-02-03**|**DiffIM: Differentiable Influence Minimization with Surrogate Modeling and Continuous Relaxation**|Junghun Lee et.al.|[2502.01031](http://arxiv.org/abs/2502.01031)|**[link](https://github.com/junghunl/diffim)**|
 |**2025-02-02**|**Algorithmic Stability of Stochastic Gradient Descent with Momentum under Heavy-Tailed Noise**|Thanh Dang et.al.|[2502.00885](http://arxiv.org/abs/2502.00885)|null|
-|**2025-02-02**|**Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing**|Gil Goldshlager et.al.|[2502.00882](http://arxiv.org/abs/2502.00882)|null|
+|**2025-02-02**|**Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing**|Gil Goldshlager et.al.|[2502.00882](http://arxiv.org/abs/2502.00882)|**[link](https://github.com/ggoldsh/block-kaczmarz-without-preprocessing)**|
 |**2025-02-02**|**Error-quantified Conformal Inference for Time Series**|Junxi Wu et.al.|[2502.00818](http://arxiv.org/abs/2502.00818)|null|
 |**2025-02-02**|**Optimization for Neural Operators can Benefit from Width**|Pedro Cisneros-Velarde et.al.|[2502.00705](http://arxiv.org/abs/2502.00705)|null|
 |**2025-02-06**|**Efficient Over-parameterized Matrix Sensing from Noisy Measurements via Alternating Preconditioned Gradient Descent**|Zhiyu Liu et.al.|[2502.00463](http://arxiv.org/abs/2502.00463)|null|
@@ -7116,14 +7116,14 @@ layout: default
 |**2025-02-03**|**Observation Noise and Initialization in Wide Neural Networks**|Sergio Calvo-Ordoñez et.al.|[2502.01556](http://arxiv.org/abs/2502.01556)|null|
 |**2025-02-03**|**Compact Rule-Based Classifier Learning via Gradient Descent**|Javier Fumanal-Idocin et.al.|[2502.01375](http://arxiv.org/abs/2502.01375)|null|
 |**2025-02-10**|**Non-Stationary Gradient Descent for Optimal Auto-Scaling in Serverless Platforms**|Jonatha Anselmi et.al.|[2502.01284](http://arxiv.org/abs/2502.01284)|null|
-|**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262](http://arxiv.org/abs/2502.01262)|null|
+|**2025-02-03**|**FSPGD: Rethinking Black-box Attacks on Semantic Segmentation**|Eun-Sol Park et.al.|[2502.01262](http://arxiv.org/abs/2502.01262)|**[link](https://github.com/ku-aivs/fspgd)**|
 |**2025-02-03**|**Simple Linear Neuron Boosting**|Daniel Munoz et.al.|[2502.01131](http://arxiv.org/abs/2502.01131)|null|
 |**2025-02-03**|**Federated Linear Dueling Bandits**|Xuhan Huang et.al.|[2502.01085](http://arxiv.org/abs/2502.01085)|null|
 |**2025-02-03**|**qNBO: quasi-Newton Meets Bilevel Optimization**|Sheng Fang et.al.|[2502.01076](http://arxiv.org/abs/2502.01076)|null|
 |**2025-02-03**|**eagle: early approximated gradient based learning rate estimator**|Takumi Fujimoto et.al.|[2502.01036](http://arxiv.org/abs/2502.01036)|null|
-|**2025-02-03**|**DiffIM: Differentiable Influence Minimization with Surrogate Modeling and Continuous Relaxation**|Junghun Lee et.al.|[2502.01031](http://arxiv.org/abs/2502.01031)|null|
+|**2025-02-03**|**DiffIM: Differentiable Influence Minimization with Surrogate Modeling and Continuous Relaxation**|Junghun Lee et.al.|[2502.01031](http://arxiv.org/abs/2502.01031)|**[link](https://github.com/junghunl/diffim)**|
 |**2025-02-02**|**Algorithmic Stability of Stochastic Gradient Descent with Momentum under Heavy-Tailed Noise**|Thanh Dang et.al.|[2502.00885](http://arxiv.org/abs/2502.00885)|null|
-|**2025-02-02**|**Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing**|Gil Goldshlager et.al.|[2502.00882](http://arxiv.org/abs/2502.00882)|null|
+|**2025-02-02**|**Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing**|Gil Goldshlager et.al.|[2502.00882](http://arxiv.org/abs/2502.00882)|**[link](https://github.com/ggoldsh/block-kaczmarz-without-preprocessing)**|
 |**2025-02-02**|**Error-quantified Conformal Inference for Time Series**|Junxi Wu et.al.|[2502.00818](http://arxiv.org/abs/2502.00818)|null|
 |**2025-02-02**|**Optimization for Neural Operators can Benefit from Width**|Pedro Cisneros-Velarde et.al.|[2502.00705](http://arxiv.org/abs/2502.00705)|null|
 |**2025-02-01**|**Learn Sharp Interface Solution by Homotopy Dynamics**|Chuqi Chen et.al.|[2502.00488](http://arxiv.org/abs/2502.00488)|null|
@@ -8945,7 +8945,7 @@ layout: default
 |**2025-02-07**|**DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails**|Yihe Deng et.al.|[2502.05163](http://arxiv.org/abs/2502.05163)|null|
 |**2025-02-07**|**Use of Winsome Robots for Understanding Human Feedback (UWU)**|Jessica Eggers et.al.|[2502.05118](http://arxiv.org/abs/2502.05118)|null|
 |**2025-02-07**|**3DMolFormer: A Dual-channel Framework for Structure-based Drug Discovery**|Xiuyuan Hu et.al.|[2502.05107](http://arxiv.org/abs/2502.05107)|null|
-|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/abs/2502.05078)|null|
+|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/abs/2502.05078)|**[link](https://github.com/AgnostiqHQ/multi-agent-llm)**|
 |**2025-02-07**|**Exploring the Generalizability of Geomagnetic Navigation: A Deep Reinforcement Learning approach with Policy Distillation**|Wenqi Bai et.al.|[2502.05069](http://arxiv.org/abs/2502.05069)|null|
 |**2025-02-07**|**Seasonal Station-Keeping of Short Duration High Altitude Balloons using Deep Reinforcement Learning**|Tristan K. Schuler et.al.|[2502.05014](http://arxiv.org/abs/2502.05014)|null|
 |**2025-02-07**|**A New Paradigm in Tuning Learned Indexes: A Reinforcement Learning Enhanced Approach**|Taiyi Wang et.al.|[2502.05001](http://arxiv.org/abs/2502.05001)|null|
