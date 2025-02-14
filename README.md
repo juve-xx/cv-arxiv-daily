@@ -2470,6 +2470,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
+|**2025-02-13**|**Task Generalization With AutoRegressive Compositional Structure: Can Learning From $\d$ Tasks Generalize to $\d^{T}$ Tasks?**|Amirhesam Abedsoltan et.al.|[2502.08991](http://arxiv.org/abs/2502.08991)|null|
+|**2025-02-13**|**What exactly has TabPFN learned to do?**|Calvin McCarter et.al.|[2502.08978](http://arxiv.org/abs/2502.08978)|null|
+|**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972](http://arxiv.org/abs/2502.08972)|null|
+|**2025-02-13**|**The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding**|Mo Yu et.al.|[2502.08946](http://arxiv.org/abs/2502.08946)|**[link](https://github.com/physico-benchmark/physico)**|
+|**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
+|**2025-02-09**|**Few-shot_LLM_Synthetic_Data_with_Distribution_Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
 |**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|null|
 |**2025-02-12**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
 |**2025-02-11**|**The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models**|Artem Kirsanov et.al.|[2502.08009](http://arxiv.org/abs/2502.08009)|null|
@@ -2479,7 +2486,7 @@
 |**2025-02-07**|**LLM-Supported Natural Language to Bash Translation**|Finnian Westenfelder et.al.|[2502.06858](http://arxiv.org/abs/2502.06858)|**[link](https://github.com/westenfelder/NL2SH)**|
 |**2025-02-10**|**EquiTabPFN: A Target-Permutation Equivariant Prior Fitted Networks**|Michael Arbel et.al.|[2502.06684](http://arxiv.org/abs/2502.06684)|null|
 |**2025-02-10**|**In-Context Learning (and Unlearning) of Length Biases**|Stephanie Schoch et.al.|[2502.06653](http://arxiv.org/abs/2502.06653)|null|
-|**2025-02-10**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
+|**2025-02-12**|**MATH-Perturb: Benchmarking LLMs' Math Reasoning Abilities against Hard Perturbations**|Kaixuan Huang et.al.|[2502.06453](http://arxiv.org/abs/2502.06453)|null|
 |**2025-02-10**|**DebateBench: A Challenging Long Context Reasoning Benchmark For Large Language Models**|Utkarsh Tiwari et.al.|[2502.06279](http://arxiv.org/abs/2502.06279)|null|
 |**2025-02-09**|**ARISE: Iterative Rule Induction and Synthetic Data Generation for Text Classification**|Yashwanth M. et.al.|[2502.05923](http://arxiv.org/abs/2502.05923)|null|
 |**2025-02-08**|**TabICL: A Tabular Foundation Model for In-Context Learning on Large Data**|Jingang Qu et.al.|[2502.05564](http://arxiv.org/abs/2502.05564)|null|
@@ -3759,6 +3766,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Simple Path Structural Encoding for Graph Transformers**|Louis Airale et.al.|[2502.09365](http://arxiv.org/abs/2502.09365)|null|
+|**2025-02-13**|**Diversity Enhances an LLM's Performance in RAG and Long-context Task**|Zhchao Wang et.al.|[2502.09017](http://arxiv.org/abs/2502.09017)|null|
+|**2025-02-13**|**Biologically Plausible Brain Graph Transformer**|Ciyuan Peng et.al.|[2502.08958](http://arxiv.org/abs/2502.08958)|null|
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Top-Theta Attention: Sparsifying Transformers by Compensated Thresholding**|Konstantin Berestizshevsky et.al.|[2502.08363](http://arxiv.org/abs/2502.08363)|**[link](https://github.com/kostyanoob/top-theta-attention)**|
 |**2025-02-12**|**Contextual Compression Encoding for Large Language Models: A Novel Framework for Multi-Layered Parameter Space Pruning**|Barnaby Schmitt et.al.|[2502.08323](http://arxiv.org/abs/2502.08323)|null|
@@ -3842,7 +3852,7 @@
 |**2025-01-26**|**MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies**|Long Yang et.al.|[2501.15384](http://arxiv.org/abs/2501.15384)|**[link](https://github.com/lucasyang567/metaocc)**|
 |**2025-01-26**|**iFormer: Integrating ConvNet and Transformer for Mobile Application**|Chuanyang Zheng et.al.|[2501.15369](http://arxiv.org/abs/2501.15369)|**[link](https://github.com/chuanyangzheng/iformer)**|
 |**2025-01-27**|**Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
-|**2025-01-24**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577](http://arxiv.org/abs/2501.14577)|null|
+|**2025-02-13**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577](http://arxiv.org/abs/2501.14577)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-02-03**|**VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting**|Junhyeok Kang et.al.|[2501.14183](http://arxiv.org/abs/2501.14183)|**[link](https://github.com/kaist-dmlab/VarDrop)**|
 |**2025-02-09**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492](http://arxiv.org/abs/2501.13492)|**[link](https://github.com/bollossom/qsd-transformer)**|
@@ -5236,6 +5246,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Scaling Law for Stochastic Gradient Descent in Quadratically Parameterized Linear Regression**|Shihong Ding et.al.|[2502.09106](http://arxiv.org/abs/2502.09106)|null|
+|**2025-02-13**|**Analysis of Off-Policy $n$ -Step TD-Learning with Linear Function Approximation**|Han-Dong Lim et.al.|[2502.08941](http://arxiv.org/abs/2502.08941)|null|
+|**2025-02-13**|**Linear-Time User-Level DP-SCO via Robust Statistics**|Badih Ghazi et.al.|[2502.08889](http://arxiv.org/abs/2502.08889)|null|
 |**2025-02-12**|**Learning Selection Cuts With Gradients**|Mike Hance et.al.|[2502.08615](http://arxiv.org/abs/2502.08615)|null|
 |**2025-02-12**|**Matrix Completion with Graph Information: A Provable Nonconvex Optimization Approach**|Yao Wang et.al.|[2502.08536](http://arxiv.org/abs/2502.08536)|null|
 |**2025-02-12**|**Monge SAM: Robust Reparameterization-Invariant Sharpness-Aware Minimization Based on Loss Geometry**|Albert Kjøller Jacobsen et.al.|[2502.08448](http://arxiv.org/abs/2502.08448)|null|
@@ -7138,6 +7151,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**LoRA Training Provably Converges to a Low-Rank Global Minimum or It Fails Loudly (But it Probably Won't Fail)**|Junsu Kim et.al.|[2502.09376](http://arxiv.org/abs/2502.09376)|null|
+|**2025-02-13**|**Scaling Law for Stochastic Gradient Descent in Quadratically Parameterized Linear Regression**|Shihong Ding et.al.|[2502.09106](http://arxiv.org/abs/2502.09106)|null|
+|**2025-02-13**|**Analysis of Off-Policy $n$ -Step TD-Learning with Linear Function Approximation**|Han-Dong Lim et.al.|[2502.08941](http://arxiv.org/abs/2502.08941)|null|
+|**2025-02-13**|**Linear-Time User-Level DP-SCO via Robust Statistics**|Badih Ghazi et.al.|[2502.08889](http://arxiv.org/abs/2502.08889)|null|
 |**2025-02-12**|**Learning Selection Cuts With Gradients**|Mike Hance et.al.|[2502.08615](http://arxiv.org/abs/2502.08615)|null|
 |**2025-02-12**|**Matrix Completion with Graph Information: A Provable Nonconvex Optimization Approach**|Yao Wang et.al.|[2502.08536](http://arxiv.org/abs/2502.08536)|null|
 |**2025-02-12**|**Monge SAM: Robust Reparameterization-Invariant Sharpness-Aware Minimization Based on Loss Geometry**|Albert Kjøller Jacobsen et.al.|[2502.08448](http://arxiv.org/abs/2502.08448)|null|
@@ -8988,6 +9005,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
+|**2025-02-13**|**Coupled Rendezvous and Docking Maneuver control of satellite using Reinforcement learning-based Adaptive Fixed-Time Sliding Mode Controller**|Rakesh Kumar Sahoo et.al.|[2502.09517](http://arxiv.org/abs/2502.09517)|null|
+|**2025-02-13**|**Variable Stiffness for Robust Locomotion through Reinforcement Learning**|Dario Spoljaric et.al.|[2502.09436](http://arxiv.org/abs/2502.09436)|null|
+|**2025-02-13**|**A Survey of Reinforcement Learning for Optimization in Automation**|Ahmad Farooq et.al.|[2502.09417](http://arxiv.org/abs/2502.09417)|null|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
+|**2025-02-13**|**Machine learning for modelling unstructured grid data in computational physics: a review**|Sibo Cheng et.al.|[2502.09346](http://arxiv.org/abs/2502.09346)|null|
+|**2025-02-13**|**Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective**|Zhiwei Shan et.al.|[2502.09344](http://arxiv.org/abs/2502.09344)|null|
+|**2025-02-13**|**Convex Is Back: Solving Belief MDPs With Convexity-Informed Deep Reinforcement Learning**|Daniel Koutas et.al.|[2502.09298](http://arxiv.org/abs/2502.09298)|null|
+|**2025-02-13**|**Autonomous Task Completion Based on Goal-directed Answer Set Programming**|Alexis R. Tudor et.al.|[2502.09208](http://arxiv.org/abs/2502.09208)|null|
+|**2025-02-13**|**Logical Reasoning in Large Language Models: A Survey**|Hanmeng Liu et.al.|[2502.09100](http://arxiv.org/abs/2502.09100)|null|
+|**2025-02-13**|**Typhoon T1: An Open Thai Reasoning Model**|Pittawat Taveekitworachai et.al.|[2502.09042](http://arxiv.org/abs/2502.09042)|null|
+|**2025-02-13**|**AoI-Sensitive Data Forwarding with Distributed Beamforming in UAV-Assisted IoT**|Zifan Lang et.al.|[2502.09038](http://arxiv.org/abs/2502.09038)|null|
+|**2025-02-13**|**Few is More: Task-Efficient Skill-Discovery for Multi-Task Offline Multi-Agent Reinforcement Learning**|Xun Wang et.al.|[2502.08985](http://arxiv.org/abs/2502.08985)|null|
+|**2025-02-13**|**Analysis of Off-Policy $n$ -Step TD-Learning with Linear Function Approximation**|Han-Dong Lim et.al.|[2502.08941](http://arxiv.org/abs/2502.08941)|null|
+|**2025-02-13**|**Reevaluating Policy Gradient Methods for Imperfect-Information Games**|Max Rudolph et.al.|[2502.08938](http://arxiv.org/abs/2502.08938)|null|
+|**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
+|**2025-02-13**|**Reinforced Large Language Model is a formal theorem prover**|Zhiling Luo et.al.|[2502.08908](http://arxiv.org/abs/2502.08908)|null|
+|**2025-02-12**|**A Survey on Data-Centric AI: Tabular Learning from Reinforcement Learning and Generative AI Perspective**|Wangyang Ying et.al.|[2502.08828](http://arxiv.org/abs/2502.08828)|null|
+|**2025-02-12**|**A Framework to Develop and Validate RL-Based Obstacle-Aware UAV Positioning Algorithms**|Kamran Shafafi et.al.|[2502.08787](http://arxiv.org/abs/2502.08787)|null|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
+|**2025-02-12**|**Centrally Coordinated Multi-Agent Reinforcement Learning for Power Grid Topology Control**|Barbera de Mol et.al.|[2502.08681](http://arxiv.org/abs/2502.08681)|null|
 |**2025-02-12**|**A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards**|Shivansh Patel et.al.|[2502.08643](http://arxiv.org/abs/2502.08643)|null|
 |**2025-02-12**|**Necessary and Sufficient Oracles: Toward a Computational Taxonomy For Reinforcement Learning**|Dhruv Rohatgi et.al.|[2502.08632](http://arxiv.org/abs/2502.08632)|null|
 |**2025-02-12**|**Acceleration of crystal structure relaxation with Deep Reinforcement Learning**|Elena Trukhan et.al.|[2502.08405](http://arxiv.org/abs/2502.08405)|null|
@@ -9029,7 +9067,7 @@
 |**2025-02-11**|**Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**|Xinren Zhang et.al.|[2502.07211](http://arxiv.org/abs/2502.07211)|null|
 |**2025-02-11**|**Provably Efficient RLHF Pipeline: A Unified View from Contextual Bandits**|Long-Fei Li et.al.|[2502.07193](http://arxiv.org/abs/2502.07193)|**[link](https://github.com/zinyy/rlhf_pipeline)**|
 |**2025-02-10**|**Cross-platform Learning-based Fault Tolerant Surfacing Controller for Underwater Robots**|Yuya Hamamatsu et.al.|[2502.07133](http://arxiv.org/abs/2502.07133)|null|
-|**2025-02-12**|**Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects**|Tai Hoang et.al.|[2502.07005](http://arxiv.org/abs/2502.07005)|null|
+|**2025-02-13**|**Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects**|Tai Hoang et.al.|[2502.07005](http://arxiv.org/abs/2502.07005)|null|
 |**2025-02-10**|**Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models**|Siddarth Venkatraman et.al.|[2502.06999](http://arxiv.org/abs/2502.06999)|null|
 |**2025-02-10**|**A view on learning robust goal-conditioned value functions: Interplay between RL and MPC**|Nathan P. Lawrence et.al.|[2502.06996](http://arxiv.org/abs/2502.06996)|null|
 |**2025-02-10**|**Who is Helping Whom? Analyzing Inter-dependencies to Evaluate Cooperation in Human-AI Teaming**|Upasana Biswas et.al.|[2502.06976](http://arxiv.org/abs/2502.06976)|null|
