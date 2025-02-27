@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9212,7 +9212,7 @@ layout: default
 |**2025-02-25**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[2502.16736](http://arxiv.org/abs/2502.16736)|null|
 |**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
 |**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](http://arxiv.org/abs/2502.16718)|**[link](https://github.com/sneheshs/natsgld)**|
-|**2025-02-23**|**OptionZero: Planning with Learned Options**|Po-Wei Huang et.al.|[2502.16634](http://arxiv.org/abs/2502.16634)|null|
+|**2025-02-23**|**OptionZero: Planning with Learned Options**|Po-Wei Huang et.al.|[2502.16634](http://arxiv.org/abs/2502.16634)|**[link](https://github.com/rlglab/optionzero)**|
 |**2025-02-23**|**Toward Dependency Dynamics in Multi-Agent Reinforcement Learning for Traffic Signal Control**|Yuli Zhang et.al.|[2502.16608](http://arxiv.org/abs/2502.16608)|null|
 |**2025-02-23**|**Bounded Foresight Equilibrium in Large Dynamic Economies with Heterogeneous Agents and Aggregate Shocks**|Bilal Islah et.al.|[2502.16536](http://arxiv.org/abs/2502.16536)|null|
 |**2025-02-23**|**Rebalancing the Scales: A Systematic Mapping Study of Generative Adversarial Networks (GANs) in Addressing Data Imbalance**|Pankaj Yadav et.al.|[2502.16535](http://arxiv.org/abs/2502.16535)|null|
