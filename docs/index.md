@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9262,7 +9262,7 @@ layout: default
 |**2025-02-27**|**Improving the Efficiency of a Deep Reinforcement Learning-Based Power Management System for HPC Clusters Using Curriculum Learning**|Thomas Budiarjo et.al.|[2502.20348](http://arxiv.org/abs/2502.20348)|null|
 |**2025-02-27**|**Safety Representations for Safer Policy Learning**|Kaustubh Mani et.al.|[2502.20341](http://arxiv.org/abs/2502.20341)|null|
 |**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326](http://arxiv.org/abs/2502.20326)|null|
-|**2025-02-27**|**On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+( $λ$,$λ$ ))-GA**|Tai Nguyen et.al.|[2502.20265](http://arxiv.org/abs/2502.20265)|null|
+|**2025-03-03**|**On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+( $λ$,$λ$ ))-GA**|Tai Nguyen et.al.|[2502.20265](http://arxiv.org/abs/2502.20265)|null|
 |**2025-03-03**|**Explainable physics-based constraints on reinforcement learning for accelerator controls**|Jonathan Colen et.al.|[2502.20247](http://arxiv.org/abs/2502.20247)|null|
 |**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217](http://arxiv.org/abs/2502.20217)|null|
 |**2025-02-27**|**Highly Parallelized Reinforcement Learning Training with Relaxed Assignment Dependencies**|Zhouyu He et.al.|[2502.20190](http://arxiv.org/abs/2502.20190)|**[link](https://github.com/hiprl/tianji)**|
