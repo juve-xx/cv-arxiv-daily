@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2493,7 +2493,7 @@ layout: default
 |**2025-02-28**|**Self-Training Elicits Concise Reasoning in Large Language Models**|Tergel Munkhbat et.al.|[2502.20122](http://arxiv.org/abs/2502.20122)|**[link](https://github.com/tergelmunkhbat/concise-reasoning)**|
 |**2025-02-28**|**In-Context Learning with Hypothesis-Class Guidance**|Ziqian Lin et.al.|[2502.19787](http://arxiv.org/abs/2502.19787)|**[link](https://github.com/uw-madison-lee-lab/icl-hcg)**|
 |**2025-02-26**|**NeoBERT: A Next-Generation BERT**|Lola Le Breton et.al.|[2502.19587](http://arxiv.org/abs/2502.19587)|**[link](https://github.com/chandar-lab/NeoBERT)**|
-|**2025-02-26**|**DataMan: Data Manager for Pre-training Large Language Models**|Ru Peng et.al.|[2502.19363](http://arxiv.org/abs/2502.19363)|null|
+|**2025-03-13**|**DataMan: Data Manager for Pre-training Large Language Models**|Ru Peng et.al.|[2502.19363](http://arxiv.org/abs/2502.19363)|null|
 |**2025-02-26**|**FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users**|Anikait Singh et.al.|[2502.19312](http://arxiv.org/abs/2502.19312)|null|
 |**2025-02-26**|**Detecting Linguistic Indicators for Stereotype Assessment with Large Language Models**|Rebekka Görge et.al.|[2502.19160](http://arxiv.org/abs/2502.19160)|null|
 |**2025-02-26**|**OntologyRAG: Better and Faster Biomedical Code Mapping with Retrieval-Augmented Generation (RAG) Leveraging Ontology Knowledge Graphs and Large Language Models**|Hui Feng et.al.|[2502.18992](http://arxiv.org/abs/2502.18992)|null|
@@ -3868,7 +3868,7 @@ layout: default
 |**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|null|
 |**2025-03-06**|**Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863](http://arxiv.org/abs/2503.04863)|null|
 |**2025-03-05**|**StickMotion: Generating 3D Human Motions by Drawing a Stickman**|Tao Wang et.al.|[2503.04829](http://arxiv.org/abs/2503.04829)|null|
-|**2025-03-05**|**DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction**|Yuheng Kuang et.al.|[2503.04823](http://arxiv.org/abs/2503.04823)|null|
+|**2025-03-13**|**DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction**|Yuheng Kuang et.al.|[2503.04823](http://arxiv.org/abs/2503.04823)|null|
 |**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643](http://arxiv.org/abs/2503.04643)|null|
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 |**2025-03-05**|**Partial Convolution Meets Visual Attention**|Haiduo Huang et.al.|[2503.03148](http://arxiv.org/abs/2503.03148)|null|
@@ -3881,7 +3881,7 @@ layout: default
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
 |**2025-02-27**|**Enhancing Transformer with GNN Structural Knowledge via Distillation: A Novel Approach**|Zhihua Duan et.al.|[2503.01888](http://arxiv.org/abs/2503.01888)|null|
 |**2025-03-03**|**Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios**|Mohammad Rafid Ul Islam et.al.|[2503.01737](http://arxiv.org/abs/2503.01737)|null|
-|**2025-03-03**|**Attention Condensation via Sparsity Induced Regularized Training**|Eli Sason et.al.|[2503.01564](http://arxiv.org/abs/2503.01564)|null|
+|**2025-03-12**|**Attention Condensation via Sparsity Induced Regularized Training**|Eli Sason et.al.|[2503.01564](http://arxiv.org/abs/2503.01564)|null|
 |**2025-03-04**|**Tera-MIND: Tera-scale mouse brain simulation via spatial mRNA-guided diffusion**|Jiqing Wu et.al.|[2503.01220](http://arxiv.org/abs/2503.01220)|null|
 |**2025-03-03**|**ViKANformer: Embedding Kolmogorov Arnold Networks in Vision Transformers for Pattern-Based Learning**|Shreyas S et.al.|[2503.01124](http://arxiv.org/abs/2503.01124)|null|
 |**2025-03-02**|**Graph Attention Networks Unleashed: A Fast and Explainable Vulnerability Assessment Framework for Microgrids**|Wei Liu et.al.|[2503.00786](http://arxiv.org/abs/2503.00786)|null|
@@ -5423,7 +5423,7 @@ layout: default
 |**2025-03-11**|**Seal Your Backdoor with Variational Defense**|Ivan Sabolić et.al.|[2503.08829](http://arxiv.org/abs/2503.08829)|null|
 |**2025-03-11**|**Neural Network/de Sitter Space Correspondence**|Donghee Lee et.al.|[2503.08827](http://arxiv.org/abs/2503.08827)|null|
 |**2025-03-11**|**Mirror Descent and Novel Exponentiated Gradient Algorithms Using Trace-Form Entropies and Deformed Logarithms**|Andrzej Cichocki et.al.|[2503.08748](http://arxiv.org/abs/2503.08748)|null|
-|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489](http://arxiv.org/abs/2503.08489)|null|
+|**2025-03-13**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489](http://arxiv.org/abs/2503.08489)|null|
 |**2025-03-11**|**Sampling the space of solutions of an artificial neural network**|Alessandro Zambon et.al.|[2503.08266](http://arxiv.org/abs/2503.08266)|null|
 |**2025-03-10**|**Virtual VNA 3.0: Unambiguous Scattering Matrix Estimation for Non-Reciprocal Systems by Leveraging Tunable and Coupled Loads**|Philipp del Hougne et.al.|[2503.07239](http://arxiv.org/abs/2503.07239)|null|
 |**2025-03-10**|**Symplectic Optimization for Cross Subcarrier Precoder Design with Channel Smoothing in Massive MIMO-OFDM System**|Yuxuan Zhang et.al.|[2503.07090](http://arxiv.org/abs/2503.07090)|null|
@@ -7457,7 +7457,7 @@ layout: default
 |**2025-03-11**|**Seal Your Backdoor with Variational Defense**|Ivan Sabolić et.al.|[2503.08829](http://arxiv.org/abs/2503.08829)|null|
 |**2025-03-11**|**Neural Network/de Sitter Space Correspondence**|Donghee Lee et.al.|[2503.08827](http://arxiv.org/abs/2503.08827)|null|
 |**2025-03-11**|**Mirror Descent and Novel Exponentiated Gradient Algorithms Using Trace-Form Entropies and Deformed Logarithms**|Andrzej Cichocki et.al.|[2503.08748](http://arxiv.org/abs/2503.08748)|null|
-|**2025-03-11**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489](http://arxiv.org/abs/2503.08489)|null|
+|**2025-03-13**|**A Triple-Inertial Accelerated Alternating Optimization Method for Deep Learning Training**|Chengcheng Yan et.al.|[2503.08489](http://arxiv.org/abs/2503.08489)|null|
 |**2025-03-11**|**Sampling the space of solutions of an artificial neural network**|Alessandro Zambon et.al.|[2503.08266](http://arxiv.org/abs/2503.08266)|null|
 |**2025-03-10**|**Virtual VNA 3.0: Unambiguous Scattering Matrix Estimation for Non-Reciprocal Systems by Leveraging Tunable and Coupled Loads**|Philipp del Hougne et.al.|[2503.07239](http://arxiv.org/abs/2503.07239)|null|
 |**2025-03-10**|**Symplectic Optimization for Cross Subcarrier Precoder Design with Channel Smoothing in Massive MIMO-OFDM System**|Yuxuan Zhang et.al.|[2503.07090](http://arxiv.org/abs/2503.07090)|null|
@@ -9446,7 +9446,7 @@ layout: default
 |**2025-03-12**|**Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning**|Qiang Li et.al.|[2503.09252](http://arxiv.org/abs/2503.09252)|null|
 |**2025-03-12**|**MarineGym: A High-Performance Reinforcement Learning Platform for Underwater Robotics**|Shuguang Chu et.al.|[2503.09203](http://arxiv.org/abs/2503.09203)|null|
 |**2025-03-12**|**Memory-enhanced Retrieval Augmentation for Long Video Understanding**|Huaying Yuan et.al.|[2503.09149](http://arxiv.org/abs/2503.09149)|null|
-|**2025-03-12**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119](http://arxiv.org/abs/2503.09119)|null|
+|**2025-03-13**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119](http://arxiv.org/abs/2503.09119)|null|
 |**2025-03-12**|**Data-Driven Inverse Optimal Control for Continuous-Time Nonlinear Systems**|Hamed Jabbari Asl et.al.|[2503.09090](http://arxiv.org/abs/2503.09090)|null|
 |**2025-03-12**|**Aligning to What? Limits to RLHF Based Alignment**|Logan Barnhart et.al.|[2503.09025](http://arxiv.org/abs/2503.09025)|null|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
