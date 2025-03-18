@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3880,7 +3880,7 @@ layout: default
 |**2025-03-08**|**Hybrid CNN-Dilated Self-attention Model Using Inertial and Body-Area Electrostatic Sensing for Gym Workout Recognition, Counting, and User Authentification**|Sizhen Bian et.al.|[2503.06311](http://arxiv.org/abs/2503.06311)|**[link](https://github.com/zhaxidele/toolkit-for-hbc-sensing)**|
 |**2025-03-08**|**End-to-End HOI Reconstruction Transformer with Graph-based Encoding**|Zhenrong Wang et.al.|[2503.06012](http://arxiv.org/abs/2503.06012)|null|
 |**2025-03-08**|**ReJSHand: Efficient Real-Time Hand Pose Estimation and Mesh Reconstruction Using Refined Joint and Skeleton Features**|Shan An et.al.|[2503.05995](http://arxiv.org/abs/2503.05995)|**[link](https://github.com/daishipeng/rejshand)**|
-|**2025-03-07**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|**[link](https://github.com/camel-ai/vlm-play-starcraft2)**|
+|**2025-03-15**|**VLMs Play StarCraft II: A Benchmark and Multimodal Decision Method**|Weiyu Ma et.al.|[2503.05383](http://arxiv.org/abs/2503.05383)|**[link](https://github.com/camel-ai/vlm-play-starcraft2)**|
 |**2025-03-06**|**Manboformer: Learning Gaussian Representations via Spatial-temporal Attention Mechanism**|Ziyue Zhao et.al.|[2503.04863](http://arxiv.org/abs/2503.04863)|null|
 |**2025-03-05**|**StickMotion: Generating 3D Human Motions by Drawing a Stickman**|Tao Wang et.al.|[2503.04829](http://arxiv.org/abs/2503.04829)|null|
 |**2025-03-13**|**DA-STGCN: 4D Trajectory Prediction Based on Spatiotemporal Feature Extraction**|Yuheng Kuang et.al.|[2503.04823](http://arxiv.org/abs/2503.04823)|null|
@@ -3916,7 +3916,7 @@ layout: default
 |**2025-02-26**|**A Hybrid Transformer Architecture with a Quantized Self-Attention Mechanism Applied to Molecular Generation**|Anthony M. Smaldone et.al.|[2502.19214](http://arxiv.org/abs/2502.19214)|**[link](https://github.com/anthonysmaldone/quantum-transformer)**|
 |**2025-02-26**|**The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training**|Jinbo Wang et.al.|[2502.19002](http://arxiv.org/abs/2502.19002)|null|
 |**2025-02-26**|**Grad-ECLIP: Gradient-based Visual and Textual Explanations for CLIP**|Chenyang Zhao et.al.|[2502.18816](http://arxiv.org/abs/2502.18816)|null|
-|**2025-03-06**|**The FFT Strikes Back: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394](http://arxiv.org/abs/2502.18394)|**[link](https://github.com/jacobfa/fft)**|
+|**2025-03-16**|**The FFT Strikes Again: An Efficient Alternative to Self-Attention**|Jacob Fein-Ashley et.al.|[2502.18394](http://arxiv.org/abs/2502.18394)|**[link](https://github.com/jacobfa/fft)**|
 |**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[2502.17949](http://arxiv.org/abs/2502.17949)|null|
 |**2025-02-23**|**Attention-based UAV Trajectory Optimization for Wireless Power Transfer-assisted IoT Systems**|Li Dong et.al.|[2502.17517](http://arxiv.org/abs/2502.17517)|null|
 |**2025-02-18**|**ConSense: Continually Sensing Human Activity with WiFi via Growing and Picking**|Rong Li et.al.|[2502.17483](http://arxiv.org/abs/2502.17483)|**[link](https://github.com/kikihub/consense)**|
@@ -5478,7 +5478,7 @@ layout: default
 |**2025-02-26**|**Contextual Quantum Neural Networks for Stock Price Prediction**|Sharan Mourya et.al.|[2503.01884](http://arxiv.org/abs/2503.01884)|null|
 |**2025-03-03**|**No Plan but Everything Under Control: Robustly Solving Sequential Tasks with Dynamically Composed Gradient Descent**|Vito Mengers et.al.|[2503.01732](http://arxiv.org/abs/2503.01732)|null|
 |**2025-03-03**|**Non-convergence to the optimal risk for Adam and stochastic gradient descent optimization in the training of deep neural networks**|Thang Do et.al.|[2503.01660](http://arxiv.org/abs/2503.01660)|null|
-|**2025-03-02**|**Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure**|Samet Demir et.al.|[2503.00856](http://arxiv.org/abs/2503.00856)|**[link](https://github.com/KU-MLIP/2-Layer-NNs-with-Gaussian-Mixtures-Data)**|
+|**2025-03-15**|**Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure**|Samet Demir et.al.|[2503.00856](http://arxiv.org/abs/2503.00856)|**[link](https://github.com/KU-MLIP/2-Layer-NNs-with-Gaussian-Mixtures-Data)**|
 |**2025-03-02**|**Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo**|Hyunsu Kim et.al.|[2503.00699](http://arxiv.org/abs/2503.00699)|null|
 |**2025-03-01**|**Distributionally Robust Reinforcement Learning with Human Feedback**|Debmalya Mandal et.al.|[2503.00539](http://arxiv.org/abs/2503.00539)|null|
 |**2025-03-01**|**On the Saturation Effects of Spectral Algorithms in Large Dimensions**|Weihao Lu et.al.|[2503.00504](http://arxiv.org/abs/2503.00504)|null|
@@ -7245,7 +7245,7 @@ layout: default
 |**2025-03-01**|**Polyconvex Physics-Augmented Neural Network Constitutive Models in Principal Stretches**|Adrian Buganza Tepole et.al.|[2503.00575](http://arxiv.org/abs/2503.00575)|null|
 |**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612](http://arxiv.org/abs/2502.18612)|null|
 |**2025-02-19**|**Improving the Sparse Structure Learning of Spiking Neural Networks from the View of Compression Efficiency**|Jiangrong Shen et.al.|[2502.13572](http://arxiv.org/abs/2502.13572)|null|
-|**2025-02-19**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models**|Jun Zhang et.al.|[2502.13533](http://arxiv.org/abs/2502.13533)|**[link](https://github.com/junzhang-zj/LoRAM)**|
+|**2025-03-15**|**Train Small, Infer Large: Memory-Efficient LoRA Training for Large Language Models**|Jun Zhang et.al.|[2502.13533](http://arxiv.org/abs/2502.13533)|**[link](https://github.com/junzhang-zj/LoRAM)**|
 |**2025-02-15**|**Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime**|Yun Gong et.al.|[2502.06862](http://arxiv.org/abs/2502.06862)|null|
 |**2025-02-05**|**Uncertainty Quantification with the Empirical Neural Tangent Kernel**|Joseph Wilson et.al.|[2502.02870](http://arxiv.org/abs/2502.02870)|null|
 |**2025-02-03**|**Re-examining Double Descent and Scaling Laws under Norm-based Capacity via Deterministic Equivalence**|Yichen Wang et.al.|[2502.01585](http://arxiv.org/abs/2502.01585)|null|
@@ -7528,7 +7528,7 @@ layout: default
 |**2025-02-26**|**Contextual Quantum Neural Networks for Stock Price Prediction**|Sharan Mourya et.al.|[2503.01884](http://arxiv.org/abs/2503.01884)|null|
 |**2025-03-03**|**No Plan but Everything Under Control: Robustly Solving Sequential Tasks with Dynamically Composed Gradient Descent**|Vito Mengers et.al.|[2503.01732](http://arxiv.org/abs/2503.01732)|null|
 |**2025-03-03**|**Non-convergence to the optimal risk for Adam and stochastic gradient descent optimization in the training of deep neural networks**|Thang Do et.al.|[2503.01660](http://arxiv.org/abs/2503.01660)|null|
-|**2025-03-02**|**Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure**|Samet Demir et.al.|[2503.00856](http://arxiv.org/abs/2503.00856)|**[link](https://github.com/KU-MLIP/2-Layer-NNs-with-Gaussian-Mixtures-Data)**|
+|**2025-03-15**|**Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure**|Samet Demir et.al.|[2503.00856](http://arxiv.org/abs/2503.00856)|**[link](https://github.com/KU-MLIP/2-Layer-NNs-with-Gaussian-Mixtures-Data)**|
 |**2025-03-02**|**Parameter Expanded Stochastic Gradient Markov Chain Monte Carlo**|Hyunsu Kim et.al.|[2503.00699](http://arxiv.org/abs/2503.00699)|null|
 |**2025-03-01**|**Distributionally Robust Reinforcement Learning with Human Feedback**|Debmalya Mandal et.al.|[2503.00539](http://arxiv.org/abs/2503.00539)|null|
 |**2025-03-01**|**On the Saturation Effects of Spectral Algorithms in Large Dimensions**|Weihao Lu et.al.|[2503.00504](http://arxiv.org/abs/2503.00504)|null|
