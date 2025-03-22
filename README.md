@@ -5504,9 +5504,9 @@
 |**2025-03-17**|**Beyond Propagation of Chaos: A Stochastic Algorithm for Mean Field Optimization**|Chandan Tankala et.al.|[2503.13115](http://arxiv.org/abs/2503.13115)|null|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822](http://arxiv.org/abs/2503.12822)|null|
 |**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
-|**2025-03-15**|**Towards Learning High-Precision Least Squares Algorithms with Sequence Models**|Jerry Liu et.al.|[2503.12295](http://arxiv.org/abs/2503.12295)|null|
+|**2025-03-15**|**Towards Learning High-Precision Least Squares Algorithms with Sequence Models**|Jerry Liu et.al.|[2503.12295](http://arxiv.org/abs/2503.12295)|**[link](https://github.com/HazyResearch/precision-ls)**|
 |**2025-03-15**|**LAPIG: Language Guided Projector Image Generation with Surface Adaptation and Stylization**|Yuchen Deng et.al.|[2503.12173](http://arxiv.org/abs/2503.12173)|null|
-|**2025-03-18**|**Revisiting Gradient Descent: A Dual-Weight Method for Improved Learning**|Xi Wang et.al.|[2503.11965](http://arxiv.org/abs/2503.11965)|null|
+|**2025-03-18**|**Revisiting Gradient Descent: A Dual-Weight Method for Improved Learning**|Xi Wang et.al.|[2503.11965](http://arxiv.org/abs/2503.11965)|**[link](https://github.com/Dataojitori/Dual-Weight-NN)**|
 |**2025-03-14**|**Training Diagonal Linear Networks with Stochastic Sharpness-Aware Minimization**|Gabriel Clara et.al.|[2503.11891](http://arxiv.org/abs/2503.11891)|null|
 |**2025-03-14**|**Adaptive Stochastic Gradient Descents on Manifolds with an Application on Weighted Low-Rank Approximation**|Peiqi Yang et.al.|[2503.11833](http://arxiv.org/abs/2503.11833)|null|
 |**2025-03-14**|**NNPDFpol2.0: unbiased global determination of polarized PDFs and their uncertainties at next-to-next-to-leading order**|Juan Cruz-Martinez et.al.|[2503.11814](http://arxiv.org/abs/2503.11814)|null|
@@ -7574,9 +7574,9 @@
 |**2025-03-17**|**Beyond Propagation of Chaos: A Stochastic Algorithm for Mean Field Optimization**|Chandan Tankala et.al.|[2503.13115](http://arxiv.org/abs/2503.13115)|null|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822](http://arxiv.org/abs/2503.12822)|null|
 |**2025-03-17**|**In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention**|Jianliang He et.al.|[2503.12734](http://arxiv.org/abs/2503.12734)|null|
-|**2025-03-15**|**Towards Learning High-Precision Least Squares Algorithms with Sequence Models**|Jerry Liu et.al.|[2503.12295](http://arxiv.org/abs/2503.12295)|null|
+|**2025-03-15**|**Towards Learning High-Precision Least Squares Algorithms with Sequence Models**|Jerry Liu et.al.|[2503.12295](http://arxiv.org/abs/2503.12295)|**[link](https://github.com/HazyResearch/precision-ls)**|
 |**2025-03-15**|**LAPIG: Language Guided Projector Image Generation with Surface Adaptation and Stylization**|Yuchen Deng et.al.|[2503.12173](http://arxiv.org/abs/2503.12173)|null|
-|**2025-03-18**|**Revisiting Gradient Descent: A Dual-Weight Method for Improved Learning**|Xi Wang et.al.|[2503.11965](http://arxiv.org/abs/2503.11965)|null|
+|**2025-03-18**|**Revisiting Gradient Descent: A Dual-Weight Method for Improved Learning**|Xi Wang et.al.|[2503.11965](http://arxiv.org/abs/2503.11965)|**[link](https://github.com/Dataojitori/Dual-Weight-NN)**|
 |**2025-03-14**|**Training Diagonal Linear Networks with Stochastic Sharpness-Aware Minimization**|Gabriel Clara et.al.|[2503.11891](http://arxiv.org/abs/2503.11891)|null|
 |**2025-03-14**|**Adaptive Stochastic Gradient Descents on Manifolds with an Application on Weighted Low-Rank Approximation**|Peiqi Yang et.al.|[2503.11833](http://arxiv.org/abs/2503.11833)|null|
 |**2025-03-14**|**NNPDFpol2.0: unbiased global determination of polarized PDFs and their uncertainties at next-to-next-to-leading order**|Juan Cruz-Martinez et.al.|[2503.11814](http://arxiv.org/abs/2503.11814)|null|
@@ -9646,7 +9646,7 @@
 |**2025-03-18**|**Integral modelling and Reinforcement Learning control of 3D liquid metal coating on a moving substrate**|Fabio Pino et.al.|[2503.14270](http://arxiv.org/abs/2503.14270)|null|
 |**2025-03-18**|**Automating Experimental Optics with Sample Efficient Machine Learning Methods**|Arindam Saha et.al.|[2503.14260](http://arxiv.org/abs/2503.14260)|null|
 |**2025-03-18**|**CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration**|Chunyu Yang et.al.|[2503.14254](http://arxiv.org/abs/2503.14254)|null|
-|**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|null|
+|**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|**[link](https://github.com/cjwyx/ph-ddpg-model)**|
 |**2025-03-18**|**Deep Reinforcement Learning-based Video-Haptic Radio Resource Slicing in Tactile Internet**|Georgios Kokkinis et.al.|[2503.14066](http://arxiv.org/abs/2503.14066)|null|
 |**2025-03-18**|**Synthetic Data Generation Using Large Language Models: Advances in Text and Code**|Mihai Nadas et.al.|[2503.14023](http://arxiv.org/abs/2503.14023)|null|
 |**2025-03-19**|**Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models**|Yuxiang Lai et.al.|[2503.13939](http://arxiv.org/abs/2503.13939)|null|
