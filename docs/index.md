@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3871,7 +3871,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-24**|**Training-free Diffusion Acceleration with Bottleneck Sampling**|Ye Tian et.al.|[2503.18940](http://arxiv.org/abs/2503.18940)|null|
-|**2025-03-24**|**CQ-DINO: Mitigating Gradient Dilution via Category Queries for Vast Vocabulary Object Detection**|Zhichao Sun et.al.|[2503.18430](http://arxiv.org/abs/2503.18430)|null|
+|**2025-03-25**|**CQ-DINO: Mitigating Gradient Dilution via Category Queries for Vast Vocabulary Object Detection**|Zhichao Sun et.al.|[2503.18430](http://arxiv.org/abs/2503.18430)|null|
 |**2025-03-23**|**Self-Attention Diffusion Models for Zero-Shot Biomedical Image Segmentation: Unlocking New Frontiers in Medical Imaging**|Abderrachid Hamrani et.al.|[2503.18170](http://arxiv.org/abs/2503.18170)|null|
 |**2025-03-23**|**OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models**|Dvir Samuel et.al.|[2503.18033](http://arxiv.org/abs/2503.18033)|null|
 |**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
@@ -5479,7 +5479,7 @@ layout: default
 |**2025-03-24**|**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**|Wenxi Chen et.al.|[2503.18784](http://arxiv.org/abs/2503.18784)|null|
 |**2025-03-24**|**Dynamically Learning to Integrate in Recurrent Neural Networks**|Blake Bordelon et.al.|[2503.18754](http://arxiv.org/abs/2503.18754)|null|
 |**2025-03-24**|**Improved Rates of Differentially Private Nonconvex-Strongly-Concave Minimax Optimization**|Ruijia Zhang et.al.|[2503.18317](http://arxiv.org/abs/2503.18317)|null|
-|**2025-03-23**|**Dataset Distillation for Quantum Neural Networks**|Koustubh Phalak et.al.|[2503.17935](http://arxiv.org/abs/2503.17935)|null|
+|**2025-03-25**|**Dataset Distillation for Quantum Neural Networks**|Koustubh Phalak et.al.|[2503.17935](http://arxiv.org/abs/2503.17935)|null|
 |**2025-03-22**|**A quantum gradient descent algorithm for optimizing Gaussian Process models**|Junpeng Hu et.al.|[2503.17780](http://arxiv.org/abs/2503.17780)|null|
 |**2025-03-21**|**OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters**|Sahil Tyagi et.al.|[2503.17469](http://arxiv.org/abs/2503.17469)|null|
 |**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356](http://arxiv.org/abs/2503.17356)|null|
@@ -7556,7 +7556,7 @@ layout: default
 |**2025-03-24**|**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**|Wenxi Chen et.al.|[2503.18784](http://arxiv.org/abs/2503.18784)|null|
 |**2025-03-24**|**Dynamically Learning to Integrate in Recurrent Neural Networks**|Blake Bordelon et.al.|[2503.18754](http://arxiv.org/abs/2503.18754)|null|
 |**2025-03-24**|**Improved Rates of Differentially Private Nonconvex-Strongly-Concave Minimax Optimization**|Ruijia Zhang et.al.|[2503.18317](http://arxiv.org/abs/2503.18317)|null|
-|**2025-03-23**|**Dataset Distillation for Quantum Neural Networks**|Koustubh Phalak et.al.|[2503.17935](http://arxiv.org/abs/2503.17935)|null|
+|**2025-03-25**|**Dataset Distillation for Quantum Neural Networks**|Koustubh Phalak et.al.|[2503.17935](http://arxiv.org/abs/2503.17935)|null|
 |**2025-03-23**|**Finding Stable Subnetworks at Initialization with Dataset Distillation**|Luke McDermott et.al.|[2503.17905](http://arxiv.org/abs/2503.17905)|null|
 |**2025-03-22**|**A quantum gradient descent algorithm for optimizing Gaussian Process models**|Junpeng Hu et.al.|[2503.17780](http://arxiv.org/abs/2503.17780)|null|
 |**2025-03-21**|**OmniLearn: A Framework for Distributed Deep Learning over Heterogeneous Clusters**|Sahil Tyagi et.al.|[2503.17469](http://arxiv.org/abs/2503.17469)|null|
@@ -9626,7 +9626,7 @@ layout: default
 |**2025-03-22**|**Safe RLHF-V: Safe Reinforcement Learning from Human Feedback in Multimodal Large Language Models**|Jiaming Ji et.al.|[2503.17682](http://arxiv.org/abs/2503.17682)|null|
 |**2025-03-22**|**Computationally and Sample Efficient Safe Reinforcement Learning Using Adaptive Conformal Prediction**|Hao Zhou et.al.|[2503.17678](http://arxiv.org/abs/2503.17678)|null|
 |**2025-03-22**|**ComfyGPT: A Self-Optimizing Multi-Agent System for Comprehensive ComfyUI Workflow Generation**|Oucheng Huang et.al.|[2503.17671](http://arxiv.org/abs/2503.17671)|null|
-|**2025-03-22**|**Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning**|Ke Ji et.al.|[2503.17662](http://arxiv.org/abs/2503.17662)|null|
+|**2025-03-25**|**Enhancing Persona Consistency for LLMs' Role-Playing using Persona-Aware Contrastive Learning**|Ke Ji et.al.|[2503.17662](http://arxiv.org/abs/2503.17662)|null|
 |**2025-03-22**|**On The Sample Complexity Bounds In Bilevel Reinforcement Learning**|Mudit Gaur et.al.|[2503.17644](http://arxiv.org/abs/2503.17644)|null|
 |**2025-03-22**|**Transferable Latent-to-Latent Locomotion Policy for Efficient and Versatile Motion Control of Diverse Legged Robots**|Ziang Zheng et.al.|[2503.17626](http://arxiv.org/abs/2503.17626)|null|
 |**2025-03-22**|**Feature Selection Based on Reinforcement Learning and Hazard State Classification for Magnetic Adhesion Wall-Climbing Robots**|Zhen Ma et.al.|[2503.17615](http://arxiv.org/abs/2503.17615)|null|
