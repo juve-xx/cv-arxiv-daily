@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3919,7 +3919,7 @@ layout: default
 |**2025-03-26**|**VideoGEM: Training-free Action Grounding in Videos**|Felix Vogel et.al.|[2503.20348](http://arxiv.org/abs/2503.20348)|null|
 |**2025-03-26**|**Faster Parameter-Efficient Tuning with Token Redundancy Reduction**|Kwonyoung Kim et.al.|[2503.20282](http://arxiv.org/abs/2503.20282)|**[link](https://github.com/kyk120/fpet)**|
 |**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246](http://arxiv.org/abs/2503.20246)|null|
-|**2025-03-31**|**Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework**|Zhenkai Qin et.al.|[2503.20136](http://arxiv.org/abs/2503.20136)|**[link](https://github.com/weibaozhong/lgstime)**|
+|**2025-04-01**|**Innovative LSGTime Model for Crime Spatiotemporal Prediction Based on MindSpore Framework**|Zhenkai Qin et.al.|[2503.20136](http://arxiv.org/abs/2503.20136)|**[link](https://github.com/weibaozhong/lgstime)**|
 |**2025-03-25**|**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**|Xuan Ju et.al.|[2503.19907](http://arxiv.org/abs/2503.19907)|null|
 |**2025-03-25**|**An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators**|Tseng-Jen Li et.al.|[2503.19640](http://arxiv.org/abs/2503.19640)|null|
 |**2025-03-25**|**Burst Image Super-Resolution with Mamba**|Ozan Unal et.al.|[2503.19634](http://arxiv.org/abs/2503.19634)|null|
@@ -5542,7 +5542,7 @@ layout: default
 |**2025-03-30**|**Loss-aware Pricing Strategies for Peer-to-Peer Energy Trading**|Varsha N. Behrunani et.al.|[2503.23477](http://arxiv.org/abs/2503.23477)|null|
 |**2025-03-30**|**Accelerated Stein Variational Gradient Flow**|Viktor Stein et.al.|[2503.23462](http://arxiv.org/abs/2503.23462)|null|
 |**2025-03-29**|**Towards Understanding the Optimization Mechanisms in Deep Learning**|Binchuan Qi et.al.|[2503.23016](http://arxiv.org/abs/2503.23016)|null|
-|**2025-03-29**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
+|**2025-04-01**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
 |**2025-03-29**|**Nested Stochastic Gradient Descent for (Generalized) Sinkhorn Distance-Regularized Distributionally Robust Optimization**|Yufeng Yang et.al.|[2503.22923](http://arxiv.org/abs/2503.22923)|null|
 |**2025-03-28**|**Almost Bayesian: The Fractal Dynamics of Stochastic Gradient Descent**|Max Hennick et.al.|[2503.22478](http://arxiv.org/abs/2503.22478)|null|
 |**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462](http://arxiv.org/abs/2503.22462)|null|
@@ -5552,7 +5552,7 @@ layout: default
 |**2025-03-27**|**Low Stein Discrepancy via Message-Passing Monte Carlo**|Nathan Kirk et.al.|[2503.21103](http://arxiv.org/abs/2503.21103)|null|
 |**2025-03-26**|**Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2503.20462](http://arxiv.org/abs/2503.20462)|null|
 |**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401](http://arxiv.org/abs/2503.20401)|null|
-|**2025-03-25**|**A stochastic gradient descent algorithm with random search directions**|Eméric Gbaguidi et.al.|[2503.19942](http://arxiv.org/abs/2503.19942)|null|
+|**2025-04-01**|**A stochastic gradient descent algorithm with random search directions**|Eméric Gbaguidi et.al.|[2503.19942](http://arxiv.org/abs/2503.19942)|null|
 |**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
 |**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
 |**2025-03-25**|**Quality-focused Active Adversarial Policy for Safe Grasping in Human-Robot Interaction**|Chenghao Li et.al.|[2503.19397](http://arxiv.org/abs/2503.19397)|**[link](https://github.com/clee-jaist/QFAAP)**|
@@ -7649,7 +7649,7 @@ layout: default
 |**2025-03-30**|**Accelerated Stein Variational Gradient Flow**|Viktor Stein et.al.|[2503.23462](http://arxiv.org/abs/2503.23462)|null|
 |**2025-03-30**|**DGSAM: Domain Generalization via Individual Sharpness-Aware Minimization**|Youngjun Song et.al.|[2503.23430](http://arxiv.org/abs/2503.23430)|null|
 |**2025-03-29**|**Towards Understanding the Optimization Mechanisms in Deep Learning**|Binchuan Qi et.al.|[2503.23016](http://arxiv.org/abs/2503.23016)|null|
-|**2025-03-29**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
+|**2025-04-01**|**DC-SGD: Differentially Private SGD with Dynamic Clipping through Gradient Norm Distribution Estimation**|Chengkun Wei et.al.|[2503.22988](http://arxiv.org/abs/2503.22988)|null|
 |**2025-03-29**|**Nested Stochastic Gradient Descent for (Generalized) Sinkhorn Distance-Regularized Distributionally Robust Optimization**|Yufeng Yang et.al.|[2503.22923](http://arxiv.org/abs/2503.22923)|null|
 |**2025-03-28**|**Almost Bayesian: The Fractal Dynamics of Stochastic Gradient Descent**|Max Hennick et.al.|[2503.22478](http://arxiv.org/abs/2503.22478)|null|
 |**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462](http://arxiv.org/abs/2503.22462)|null|
@@ -7661,7 +7661,7 @@ layout: default
 |**2025-03-24**|**Fundamental Safety-Capability Trade-offs in Fine-tuning Large Language Models**|Pin-Yu Chen et.al.|[2503.20807](http://arxiv.org/abs/2503.20807)|null|
 |**2025-03-26**|**Multi-agent Uncertainty-Aware Pessimistic Model-Based Reinforcement Learning for Connected Autonomous Vehicles**|Ruoqi Wen et.al.|[2503.20462](http://arxiv.org/abs/2503.20462)|null|
 |**2025-03-26**|**Estimation and variable selection in nonlinear mixed-effects models**|Antoine Caillebotte et.al.|[2503.20401](http://arxiv.org/abs/2503.20401)|null|
-|**2025-03-25**|**A stochastic gradient descent algorithm with random search directions**|Eméric Gbaguidi et.al.|[2503.19942](http://arxiv.org/abs/2503.19942)|null|
+|**2025-04-01**|**A stochastic gradient descent algorithm with random search directions**|Eméric Gbaguidi et.al.|[2503.19942](http://arxiv.org/abs/2503.19942)|null|
 |**2025-03-25**|**Geometric Meta-Learning via Coupled Ricci Flow: Unifying Knowledge Representation and Quantum Entanglement**|Ming Lei et.al.|[2503.19867](http://arxiv.org/abs/2503.19867)|null|
 |**2025-03-25**|**An Overview of Low-Rank Structures in the Training and Adaptation of Large Models**|Laura Balzano et.al.|[2503.19859](http://arxiv.org/abs/2503.19859)|null|
 |**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
@@ -9719,7 +9719,7 @@ layout: default
 |**2025-03-31**|**A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi**|Chenyu Zhang et.al.|[2503.23975](http://arxiv.org/abs/2503.23975)|null|
 |**2025-03-31**|**Noise-based reward-modulated learning**|Jesús García Fernández et.al.|[2503.23972](http://arxiv.org/abs/2503.23972)|null|
 |**2025-03-31**|**MAER-Nav: Bidirectional Motion Learning Through Mirror-Augmented Experience Replay for Robot Navigation**|Shanze Wang et.al.|[2503.23908](http://arxiv.org/abs/2503.23908)|null|
-|**2025-03-31**|**Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829](http://arxiv.org/abs/2503.23829)|null|
+|**2025-04-01**|**Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains**|Yi Su et.al.|[2503.23829](http://arxiv.org/abs/2503.23829)|null|
 |**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766](http://arxiv.org/abs/2503.23766)|null|
 |**2025-03-31**|**Multi-Agent Deep Reinforcement Learning for Optimized Multi-UAV Coverage and Power-Efficient UE Connectivity**|Xuli Cai et.al.|[2503.23669](http://arxiv.org/abs/2503.23669)|null|
 |**2025-03-31**|**Dynamic Operating System Scheduling Using Double DQN: A Reinforcement Learning Approach to Task Optimization**|Xiaoxuan Sun et.al.|[2503.23659](http://arxiv.org/abs/2503.23659)|null|
@@ -9730,13 +9730,13 @@ layout: default
 |**2025-03-30**|**A Systematic Decade Review of Trip Route Planning with Travel Time Estimation based on User Preferences and Behavior**|Nikil Jayasuriya et.al.|[2503.23486](http://arxiv.org/abs/2503.23486)|null|
 |**2025-03-30**|**Handling Delay in Real-Time Reinforcement Learning**|Ivan Anokhin et.al.|[2503.23478](http://arxiv.org/abs/2503.23478)|**[link](https://github.com/avecplezir/realtime-agent)**|
 |**2025-03-30**|**Reinforcement Learning-based Token Pruning in Vision Transformers: A Markov Game Approach**|Chenglong Lu et.al.|[2503.23459](http://arxiv.org/abs/2503.23459)|**[link](https://github.com/daashuai/rl4evit)**|
-|**2025-03-30**|**CoRanking: Collaborative Ranking with Small and Large Ranking Agents**|Wenhan Liu et.al.|[2503.23427](http://arxiv.org/abs/2503.23427)|null|
+|**2025-04-01**|**CoRanking: Collaborative Ranking with Small and Large Ranking Agents**|Wenhan Liu et.al.|[2503.23427](http://arxiv.org/abs/2503.23427)|null|
 |**2025-03-30**|**ToRL: Scaling Tool-Integrated RL**|Xuefeng Li et.al.|[2503.23383](http://arxiv.org/abs/2503.23383)|null|
 |**2025-03-30**|**Reinforcement Learning for Active Matter**|Wenjie Cai et.al.|[2503.23308](http://arxiv.org/abs/2503.23308)|null|
 |**2025-03-30**|**SalesRLAgent: A Reinforcement Learning Approach for Real-Time Sales Conversion Prediction and Optimization**|Nandakishor M et.al.|[2503.23303](http://arxiv.org/abs/2503.23303)|null|
 |**2025-03-30**|**Efficient Twin Migration in Vehicular Metaverses: Multi-Agent Split Deep Reinforcement Learning with Spatio-Temporal Trajectory Generation**|Junlong Chen et.al.|[2503.23290](http://arxiv.org/abs/2503.23290)|null|
 |**2025-03-29**|**Multi-Agent Reinforcement Learning for Graph Discovery in D2D-Enabled Federated Learning**|Satyavrat Wagle et.al.|[2503.23218](http://arxiv.org/abs/2503.23218)|null|
-|**2025-03-29**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157](http://arxiv.org/abs/2503.23157)|null|
+|**2025-04-01**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157](http://arxiv.org/abs/2503.23157)|null|
 |**2025-03-29**|**Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity**|Yuhan Wang et.al.|[2503.23120](http://arxiv.org/abs/2503.23120)|null|
 |**2025-03-29**|**RL2Grid: Benchmarking Reinforcement Learning in Power Grid Operations**|Enrico Marchesini et.al.|[2503.23101](http://arxiv.org/abs/2503.23101)|null|
 |**2025-03-29**|**Late Breaking Results: Breaking Symmetry- Unconventional Placement of Analog Circuits using Multi-Level Multi-Agent Reinforcement Learning**|Supriyo Maji et.al.|[2503.22958](http://arxiv.org/abs/2503.22958)|null|
