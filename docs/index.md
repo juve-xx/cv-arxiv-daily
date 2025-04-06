@@ -3911,7 +3911,7 @@ layout: default
 |**2025-04-03**|**VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection**|Sinchee Chin et.al.|[2504.02498](http://arxiv.org/abs/2504.02498)|null|
 |**2025-04-03**|**Beyond Conventional Transformers: The Medical X-ray Attention (MXA) Block for Improved Multi-Label Diagnosis Using Knowledge Distillation**|Amit Rand et.al.|[2504.02277](http://arxiv.org/abs/2504.02277)|null|
 |**2025-04-03**|**FT-Transformer: Resilient and Reliable Transformer with End-to-End Fault Tolerant Attention**|Huangliang Dai et.al.|[2504.02211](http://arxiv.org/abs/2504.02211)|null|
-|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|null|
+|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|**[link](https://github.com/shi-labs/slow-fast-video-multimodal-llm)**|
 |**2025-04-01**|**MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization**|Siyuan Li et.al.|[2504.00999](http://arxiv.org/abs/2504.00999)|null|
 |**2025-04-01**|**Efficient LLaMA-3.2-Vision by Trimming Cross-attended Visual Features**|Jewon Lee et.al.|[2504.00557](http://arxiv.org/abs/2504.00557)|null|
 |**2025-03-31**|**A Deep Learning Approach to Anomaly Detection in High-Frequency Trading Data**|Qiuliuyang Bao et.al.|[2504.00287](http://arxiv.org/abs/2504.00287)|null|
@@ -7682,7 +7682,7 @@ layout: default
 |**2025-04-02**|**From Easy to Hard: Building a Shortcut for Differentially Private Image Synthesis**|Kecen Li et.al.|[2504.01395](http://arxiv.org/abs/2504.01395)|**[link](https://github.com/sunnierlee/dp-feta)**|
 |**2025-04-01**|**Explainable post-training bias mitigation with distribution-based fairness metrics**|Ryan Franks et.al.|[2504.01223](http://arxiv.org/abs/2504.01223)|null|
 |**2025-04-01**|**Gradient-free Continual Learning**|Grzegorz Rypeść et.al.|[2504.01219](http://arxiv.org/abs/2504.01219)|null|
-|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
+|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|**[link](https://github.com/tbanker/MPCritic)**|
 |**2025-04-01**|**Explorable INR: An Implicit Neural Representation for Ensemble Simulation Enabling Efficient Spatial and Parameter Exploration**|Yi-Tang Chen et.al.|[2504.00904](http://arxiv.org/abs/2504.00904)|null|
 |**2025-04-01**|**Coordinate projected gradient descent minimization and its application to orthogonal nonnegative matrix factorization**|Flavia Chorobura et.al.|[2504.00770](http://arxiv.org/abs/2504.00770)|null|
 |**2025-04-01**|**Automated Feature Labeling with Token-Space Gradient Descent**|Julian Schulz et.al.|[2504.00754](http://arxiv.org/abs/2504.00754)|null|
@@ -9795,17 +9795,17 @@ layout: default
 |**2025-04-02**|**Deep Graph Reinforcement Learning for UAV-Enabled Multi-User Secure Communications**|Xiao Tang et.al.|[2504.01446](http://arxiv.org/abs/2504.01446)|null|
 |**2025-04-02**|**De Novo Molecular Design Enabled by Direct Preference Optimization and Curriculum Learning**|Junyu Hou et.al.|[2504.01389](http://arxiv.org/abs/2504.01389)|null|
 |**2025-04-02**|**Inverse RL Scene Dynamics Learning for Nonlinear Predictive Control in Autonomous Vehicles**|Sorin Grigorescu et.al.|[2504.01336](http://arxiv.org/abs/2504.01336)|null|
-|**2025-04-02**|**ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**|Bairu Hou et.al.|[2504.01296](http://arxiv.org/abs/2504.01296)|null|
-|**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|null|
+|**2025-04-02**|**ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning**|Bairu Hou et.al.|[2504.01296](http://arxiv.org/abs/2504.01296)|**[link](https://github.com/UCSB-NLP-Chang/ThinkPrune)**|
+|**2025-04-01**|**Value Iteration for Learning Concurrently Executable Robotic Control Tasks**|Sheikh A. Tahmid et.al.|[2504.01174](http://arxiv.org/abs/2504.01174)|**[link](https://github.com/erablab/value_iteration_for_learning_concurrently_executable_robotic_control_tasks)**|
 |**2025-04-01**|**Extended Hybrid Zero Dynamics for Bipedal Walking of the Knee-less Robot SLIDER**|Rui Zong et.al.|[2504.01165](http://arxiv.org/abs/2504.01165)|null|
-|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|null|
+|**2025-04-01**|**MPCritic: A plug-and-play MPC architecture for reinforcement learning**|Nathan P. Lawrence et.al.|[2504.01086](http://arxiv.org/abs/2504.01086)|**[link](https://github.com/tbanker/MPCritic)**|
 |**2025-04-01**|**A Parametric Model for Near-Optimal Online Synthesis with Robust Reach-Avoid Guarantees**|Mario Gleirscher et.al.|[2504.01006](http://arxiv.org/abs/2504.01006)|null|
 |**2025-04-01**|**Resource Allocation for RIS-Assisted CoMP-NOMA Networks using Reinforcement Learning**|Muhammad Umer et.al.|[2504.00975](http://arxiv.org/abs/2504.00975)|null|
 |**2025-04-02**|**Grounding Multimodal LLMs to Embodied Agents that Ask for Help with Reinforcement Learning**|Ram Ramrakhya et.al.|[2504.00907](http://arxiv.org/abs/2504.00907)|null|
 |**2025-04-01**|**How Difficulty-Aware Staged Reinforcement Learning Enhances LLMs' Reasoning Capabilities: A Preliminary Experimental Study**|Yunjie Ji et.al.|[2504.00829](http://arxiv.org/abs/2504.00829)|null|
 |**2025-04-01**|**Reinforcement learning for robust dynamic metabolic control**|Sebastián Espinel-Ríos et.al.|[2504.00735](http://arxiv.org/abs/2504.00735)|null|
 |**2025-04-01**|**Immersive Explainability: Visualizing Robot Navigation Decisions through XAI Semantic Scene Projections in Virtual Reality**|Jorge de Heuvel et.al.|[2504.00682](http://arxiv.org/abs/2504.00682)|null|
-|**2025-04-01**|**Probabilistically safe and efficient model-based Reinforcement Learning**|Filippo Airaldi et.al.|[2504.00626](http://arxiv.org/abs/2504.00626)|null|
+|**2025-04-01**|**Probabilistically safe and efficient model-based Reinforcement Learning**|Filippo Airaldi et.al.|[2504.00626](http://arxiv.org/abs/2504.00626)|**[link](https://github.com/filippoairaldi/mpcrl-cbf)**|
 |**2025-04-01**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Sotaro Katayama et.al.|[2504.00614](http://arxiv.org/abs/2504.00614)|null|
 |**2025-04-01**|**Efficient and Sustainable Task Offloading in UAV-Assisted MEC Systems via Meta Deep Reinforcement Learning**|Maryam Farajzadeh Dehkordi et.al.|[2504.00453](http://arxiv.org/abs/2504.00453)|null|
 |**2025-04-01**|**Hawkeye:Efficient Reasoning with Model Collaboration**|Jianshu She et.al.|[2504.00424](http://arxiv.org/abs/2504.00424)|null|
