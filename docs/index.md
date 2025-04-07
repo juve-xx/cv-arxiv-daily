@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9763,7 +9763,7 @@ layout: default
 |**2025-04-03**|**Multi-SWE-bench: A Multilingual Benchmark for Issue Resolving**|Daoguang Zan et.al.|[2504.02605](http://arxiv.org/abs/2504.02605)|null|
 |**2025-04-03**|**Regulating Spatial Fairness in a Tripartite Micromobility Sharing System via Reinforcement Learning**|Matteo Cederle et.al.|[2504.02597](http://arxiv.org/abs/2504.02597)|null|
 |**2025-04-03**|**LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning**|Kepu Zhang et.al.|[2504.02590](http://arxiv.org/abs/2504.02590)|null|
-|**2025-04-03**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|null|
+|**2025-04-04**|**Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**|Yan Ma et.al.|[2504.02587](http://arxiv.org/abs/2504.02587)|null|
 |**2025-04-03**|**MAD: A Magnitude And Direction Policy Parametrization for Stability Constrained Reinforcement Learning**|Luca Furieri et.al.|[2504.02565](http://arxiv.org/abs/2504.02565)|null|
 |**2025-04-03**|**GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning**|Xiangxiang Chu et.al.|[2504.02546](http://arxiv.org/abs/2504.02546)|null|
 |**2025-04-03**|**Probabilistic Pontryagin's Maximum Principle for Continuous-Time Model-Based Reinforcement Learning**|David Leeftink et.al.|[2504.02543](http://arxiv.org/abs/2504.02543)|null|
@@ -9784,7 +9784,7 @@ layout: default
 |**2025-04-02**|**FastFlow: Early Yet Robust Network Flow Classification using the Minimal Number of Time-Series Packets**|Rushi Jayeshkumar Babaria et.al.|[2504.02174](http://arxiv.org/abs/2504.02174)|null|
 |**2025-04-02**|**Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning**|Zhen Meng et.al.|[2504.02161](http://arxiv.org/abs/2504.02161)|null|
 |**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
-|**2025-04-02**|**Overcoming Deceptiveness in Fitness Optimization with Unsupervised Quality-Diversity**|Lisa Coiffard et.al.|[2504.01915](http://arxiv.org/abs/2504.01915)|**[link](https://github.com/lisacoiffard/aurora-xcon)**|
+|**2025-04-04**|**Overcoming Deceptiveness in Fitness Optimization with Unsupervised Quality-Diversity**|Lisa Coiffard et.al.|[2504.01915](http://arxiv.org/abs/2504.01915)|**[link](https://github.com/lisacoiffard/aurora-xcon)**|
 |**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
 |**2025-04-02**|**Interpreting Emergent Planning in Model-Free Reinforcement Learning**|Thomas Bush et.al.|[2504.01871](http://arxiv.org/abs/2504.01871)|null|
 |**2025-04-02**|**Learning with Imperfect Models: When Multi-step Prediction Mitigates Compounding Error**|Anne Somalwar et.al.|[2504.01766](http://arxiv.org/abs/2504.01766)|null|
@@ -9849,9 +9849,9 @@ layout: default
 |**2025-04-01**|**Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL**|Mohammadreza Pourreza et.al.|[2503.23157](http://arxiv.org/abs/2503.23157)|null|
 |**2025-03-29**|**Dexterous Non-Prehensile Manipulation for Ungraspable Object via Extrinsic Dexterity**|Yuhan Wang et.al.|[2503.23120](http://arxiv.org/abs/2503.23120)|null|
 |**2025-03-29**|**RL2Grid: Benchmarking Reinforcement Learning in Power Grid Operations**|Enrico Marchesini et.al.|[2503.23101](http://arxiv.org/abs/2503.23101)|null|
-|**2025-03-29**|**Late Breaking Results: Breaking Symmetry- Unconventional Placement of Analog Circuits using Multi-Level Multi-Agent Reinforcement Learning**|Supriyo Maji et.al.|[2503.22958](http://arxiv.org/abs/2503.22958)|null|
+|**2025-04-03**|**Late Breaking Results: Breaking Symmetry- Unconventional Placement of Analog Circuits using Multi-Level Multi-Agent Reinforcement Learning**|Supriyo Maji et.al.|[2503.22958](http://arxiv.org/abs/2503.22958)|null|
 |**2025-03-29**|**Adaptive Interactive Navigation of Quadruped Robots using Large Language Models**|Kangjie Zhou et.al.|[2503.22942](http://arxiv.org/abs/2503.22942)|null|
-|**2025-03-29**|**Predictive Traffic Rule Compliance using Reinforcement Learning**|Yanliang Huang et.al.|[2503.22925](http://arxiv.org/abs/2503.22925)|null|
+|**2025-04-04**|**Predictive Traffic Rule Compliance using Reinforcement Learning**|Yanliang Huang et.al.|[2503.22925](http://arxiv.org/abs/2503.22925)|null|
 |**2025-03-28**|**Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models**|Ron Vainshtein et.al.|[2503.22886](http://arxiv.org/abs/2503.22886)|null|
 |**2025-03-28**|**Markov Potential Game Construction and Multi-Agent Reinforcement Learning with Applications to Autonomous Driving**|Huiwen Yan et.al.|[2503.22867](http://arxiv.org/abs/2503.22867)|null|
 |**2025-03-28**|**Policy Optimization and Multi-agent Reinforcement Learning for Mean-variance Team Stochastic Games**|Junkai Hu et.al.|[2503.22779](http://arxiv.org/abs/2503.22779)|null|
