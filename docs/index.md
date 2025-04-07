@@ -2444,6 +2444,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**The Dual-Route Model of Induction**|Sheridan Feucht et.al.|[2504.03022](http://arxiv.org/abs/2504.03022)|null|
 |**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
 |**2025-04-03**|**BOOST: Bootstrapping Strategy-Driven Reasoning Programs for Program-Guided Fact-Checking**|Qisheng Hu et.al.|[2504.02467](http://arxiv.org/abs/2504.02467)|null|
 |**2025-04-03**|**Large (Vision) Language Models are Unsupervised In-Context Learners**|Artyom Gadetsky et.al.|[2504.02349](http://arxiv.org/abs/2504.02349)|**[link](https://github.com/mlbio-epfl/joint-inference)**|
@@ -3906,6 +3907,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
+|**2025-04-04**|**JanusDDG: A Thermodynamics-Compliant Model for Sequence-Based Protein Stability via Two-Fronts Multi-Head Attention**|Guido Barducci et.al.|[2504.03278](http://arxiv.org/abs/2504.03278)|null|
+|**2025-04-04**|**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2504.03258](http://arxiv.org/abs/2504.03258)|null|
+|**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135](http://arxiv.org/abs/2504.03135)|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
 |**2025-04-03**|**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**|Xingguang Zhang et.al.|[2504.02697](http://arxiv.org/abs/2504.02697)|null|
 |**2025-04-03**|**VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection**|Sinchee Chin et.al.|[2504.02498](http://arxiv.org/abs/2504.02498)|null|
@@ -5558,6 +5563,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483](http://arxiv.org/abs/2504.03483)|null|
+|**2025-04-04**|**A Polynomial-Time Algorithm for Variational Inequalities under the Minty Condition**|Ioannis Anagnostides et.al.|[2504.03432](http://arxiv.org/abs/2504.03432)|null|
+|**2025-04-04**|**On the rate of convergence of an over-parametrized deep neural network regression estimate learned by gradient descent**|Michael Kohler et.al.|[2504.03405](http://arxiv.org/abs/2504.03405)|null|
+|**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
+|**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040](http://arxiv.org/abs/2504.03040)|null|
+|**2025-04-03**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
+|**2025-03-19**|**Enhanced ECG Arrhythmia Detection Accuracy by Optimizing Divergence-Based Data Fusion**|Baozhuo Su et.al.|[2504.02842](http://arxiv.org/abs/2504.02842)|null|
 |**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
 |**2025-04-02**|**Learning from Streaming Video with Orthogonal Gradients**|Tengda Han et.al.|[2504.01961](http://arxiv.org/abs/2504.01961)|null|
 |**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875](http://arxiv.org/abs/2504.01875)|null|
@@ -7675,6 +7687,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483](http://arxiv.org/abs/2504.03483)|null|
+|**2025-04-04**|**A Polynomial-Time Algorithm for Variational Inequalities under the Minty Condition**|Ioannis Anagnostides et.al.|[2504.03432](http://arxiv.org/abs/2504.03432)|null|
+|**2025-04-04**|**On the rate of convergence of an over-parametrized deep neural network regression estimate learned by gradient descent**|Michael Kohler et.al.|[2504.03405](http://arxiv.org/abs/2504.03405)|null|
+|**2025-04-03**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
+|**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040](http://arxiv.org/abs/2504.03040)|null|
+|**2025-04-03**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
+|**2025-03-19**|**Enhanced ECG Arrhythmia Detection Accuracy by Optimizing Divergence-Based Data Fusion**|Baozhuo Su et.al.|[2504.02842](http://arxiv.org/abs/2504.02842)|null|
 |**2025-04-03**|**Reservoir Computing: A New Paradigm for Neural Networks**|Felix Grezes et.al.|[2504.02639](http://arxiv.org/abs/2504.02639)|null|
 |**2025-04-02**|**Learning from Streaming Video with Orthogonal Gradients**|Tengda Han et.al.|[2504.01961](http://arxiv.org/abs/2504.01961)|null|
 |**2025-04-02**|**Architect Your Landscape Approach (AYLA) for Optimizations in Deep Learning**|Ben Keslaki et.al.|[2504.01875](http://arxiv.org/abs/2504.01875)|null|
@@ -9755,6 +9774,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning**|Will Thacher et.al.|[2504.03610](http://arxiv.org/abs/2504.03610)|null|
+|**2025-04-04**|**Dexterous Manipulation through Imitation Learning: A Survey**|Shan An et.al.|[2504.03515](http://arxiv.org/abs/2504.03515)|null|
+|**2025-04-04**|**Learning Dual-Arm Coordination for Grasping Large Flat Objects**|Yongliang Wang et.al.|[2504.03500](http://arxiv.org/abs/2504.03500)|null|
+|**2025-04-04**|**Optimizing Quantum Circuits via ZX Diagrams using Reinforcement Learning and Graph Neural Networks**|Alexander Mattick et.al.|[2504.03429](http://arxiv.org/abs/2504.03429)|null|
+|**2025-04-04**|**DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models**|Sathish Kumar et.al.|[2504.03423](http://arxiv.org/abs/2504.03423)|null|
+|**2025-04-04**|**Autonomous state-space segmentation for Deep-RL sparse reward scenarios**|Gianluca Maselli et.al.|[2504.03420](http://arxiv.org/abs/2504.03420)|null|
+|**2025-04-04**|**Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning**|Sanghwan Bae et.al.|[2504.03380](http://arxiv.org/abs/2504.03380)|null|
+|**2025-04-04**|**Verification of Autonomous Neural Car Control with KeYmaera X**|Enguerrand Prebet et.al.|[2504.03272](http://arxiv.org/abs/2504.03272)|null|
+|**2025-04-04**|**Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward**|Yanming Wan et.al.|[2504.03206](http://arxiv.org/abs/2504.03206)|null|
+|**2025-04-04**|**Learning Natural Language Constraints for Safe Reinforcement Learning of Language Agents**|Jaymari Chua et.al.|[2504.03185](http://arxiv.org/abs/2504.03185)|null|
+|**2025-04-04**|**Enhanced Penalty-based Bidirectional Reinforcement Learning Algorithms**|Sai Gana Sandeep Pula et.al.|[2504.03163](http://arxiv.org/abs/2504.03163)|null|
+|**2025-04-04**|**DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments**|Yuxiang Zheng et.al.|[2504.03160](http://arxiv.org/abs/2504.03160)|null|
+|**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153](http://arxiv.org/abs/2504.03153)|null|
+|**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040](http://arxiv.org/abs/2504.03040)|null|
+|**2025-04-03**|**Low Rank Factorizations are Indirect Encodings for Deep Neuroevolution**|Jack Garbus et.al.|[2504.03037](http://arxiv.org/abs/2504.03037)|null|
+|**2025-04-03**|**Deep Reinforcement Learning via Object-Centric Attention**|Jannis Blüml et.al.|[2504.03024](http://arxiv.org/abs/2504.03024)|**[link](https://github.com/VanillaWhey/OCAtariWrappers)**|
+|**2025-04-03**|**Anomaly Detection in Time Series Data Using Reinforcement Learning, Variational Autoencoder, and Active Learning**|Bahareh Golchin et.al.|[2504.02999](http://arxiv.org/abs/2504.02999)|null|
+|**2025-04-03**|**Improving log-based anomaly detection through learned adaptive filter**|Yiyuan Xiong et.al.|[2504.02994](http://arxiv.org/abs/2504.02994)|null|
+|**2025-04-03**|**VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning**|Xianwei Zhuang et.al.|[2504.02949](http://arxiv.org/abs/2504.02949)|null|
+|**2025-04-02**|**OnRL-RAG: Real-Time Personalized Mental Health Dialogue System**|Ahsan Bilal et.al.|[2504.02894](http://arxiv.org/abs/2504.02894)|null|
 |**2025-04-03**|**A Numerically Efficient Method to Enhance Model Predictive Control Performance with a Reinforcement Learning Policy**|Andrea Ghezzi et.al.|[2504.02710](http://arxiv.org/abs/2504.02710)|null|
 |**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688](http://arxiv.org/abs/2504.02688)|null|
 |**2025-04-03**|**Integrating Human Knowledge Through Action Masking in Reinforcement Learning for Operations Research**|Mirko Stappert et.al.|[2504.02662](http://arxiv.org/abs/2504.02662)|null|
