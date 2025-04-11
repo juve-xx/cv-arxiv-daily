@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3916,7 +3916,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-09**|**EDIT: Enhancing Vision Transformers by Mitigating Attention Sink through an Encoder-Decoder Architecture**|Wenfeng Feng et.al.|[2504.06738](http://arxiv.org/abs/2504.06738)|null|
-|**2025-04-09**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643](http://arxiv.org/abs/2504.06643)|null|
+|**2025-04-10**|**AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection**|Tiange Huang et.al.|[2504.06643](http://arxiv.org/abs/2504.06643)|null|
 |**2025-04-09**|**BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation**|Kaiyuan Li et.al.|[2504.06636](http://arxiv.org/abs/2504.06636)|null|
 |**2025-04-08**|**Multihead self-attention in cortico-thalamic circuits**|Arno Granier et.al.|[2504.06354](http://arxiv.org/abs/2504.06354)|null|
 |**2025-04-08**|**MM-STFlowNet: A Transportation Hub-Oriented Multi-Mode Passenger Flow Prediction Method via Spatial-Temporal Dynamic Graph Modeling**|Ronghui Zhang et.al.|[2504.06325](http://arxiv.org/abs/2504.06325)|null|
@@ -3935,13 +3935,13 @@ layout: default
 |**2025-04-07**|**Feature Importance-Aware Deep Joint Source-Channel Coding for Computationally Efficient and Adjustable Image Transmission**|Hansung Choi et.al.|[2504.04758](http://arxiv.org/abs/2504.04758)|null|
 |**2025-04-07**|**DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation**|Bo-Wen Yin et.al.|[2504.04701](http://arxiv.org/abs/2504.04701)|**[link](https://github.com/VCIP-RGBD/DFormer)**|
 |**2025-04-05**|**Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images**|Hamza Riaz et.al.|[2504.04225](http://arxiv.org/abs/2504.04225)|null|
-|**2025-04-05**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
+|**2025-04-10**|**LATTE: Lightweight Attention-based Traffic Accident Anticipation Engine**|Jiaxun Zhang et.al.|[2504.04103](http://arxiv.org/abs/2504.04103)|null|
 |**2025-04-04**|**Decision SpikeFormer: Spike-Driven Transformer for Decision Making**|Wei Huang et.al.|[2504.03800](http://arxiv.org/abs/2504.03800)|null|
 |**2025-04-01**|**Hierarchical Local-Global Feature Learning for Few-shot Malicious Traffic Detection**|Songtao Peng et.al.|[2504.03742](http://arxiv.org/abs/2504.03742)|null|
-|**2025-04-04**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
+|**2025-04-10**|**Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models**|NVIDIA et.al.|[2504.03624](http://arxiv.org/abs/2504.03624)|null|
 |**2025-04-04**|**JanusDDG: A Thermodynamics-Compliant Model for Sequence-Based Protein Stability via Two-Fronts Multi-Head Attention**|Guido Barducci et.al.|[2504.03278](http://arxiv.org/abs/2504.03278)|null|
 |**2025-04-04**|**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2504.03258](http://arxiv.org/abs/2504.03258)|null|
-|**2025-04-04**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135](http://arxiv.org/abs/2504.03135)|null|
+|**2025-04-10**|**Hierarchical Modeling for Medical Visual Question Answering with Cross-Attention Fusion**|Junkai Zhang et.al.|[2504.03135](http://arxiv.org/abs/2504.03135)|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
 |**2025-04-03**|**Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation**|Xingguang Zhang et.al.|[2504.02697](http://arxiv.org/abs/2504.02697)|null|
 |**2025-04-03**|**VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection**|Sinchee Chin et.al.|[2504.02498](http://arxiv.org/abs/2504.02498)|null|
@@ -9861,7 +9861,7 @@ layout: default
 |**2025-04-09**|**A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility**|Andreas Hochlehnert et.al.|[2504.07086](http://arxiv.org/abs/2504.07086)|null|
 |**2025-04-09**|**To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning**|Tian Qin et.al.|[2504.07052](http://arxiv.org/abs/2504.07052)|null|
 |**2025-04-09**|**Free Random Projection for In-Context Reinforcement Learning**|Tomohiro Hayase et.al.|[2504.06983](http://arxiv.org/abs/2504.06983)|null|
-|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
+|**2025-04-10**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
 |**2025-04-09**|**Regret Bounds for Robust Online Decision Making**|Alexander Appel et.al.|[2504.06820](http://arxiv.org/abs/2504.06820)|null|
 |**2025-04-09**|**Learning global control of underactuated systems with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2504.06721](http://arxiv.org/abs/2504.06721)|null|
 |**2025-04-09**|**SDHN: Skewness-Driven Hypergraph Networks for Enhanced Localized Multi-Robot Coordination**|Delin Zhao et.al.|[2504.06684](http://arxiv.org/abs/2504.06684)|null|
@@ -9870,14 +9870,14 @@ layout: default
 |**2025-04-09**|**RAMBO: RL-augmented Model-based Optimal Control for Whole-body Loco-manipulation**|Jin Cheng et.al.|[2504.06662](http://arxiv.org/abs/2504.06662)|null|
 |**2025-04-09**|**Bridging the Gap Between Preference Alignment and Machine Unlearning**|Xiaohua Feng et.al.|[2504.06659](http://arxiv.org/abs/2504.06659)|null|
 |**2025-04-09**|**Human-like compositional learning of visually-grounded concepts using synthetic environments**|Zijun Lin et.al.|[2504.06618](http://arxiv.org/abs/2504.06618)|null|
-|**2025-04-09**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
+|**2025-04-10**|**Wanting to be Understood**|Chrisantha Fernando et.al.|[2504.06611](http://arxiv.org/abs/2504.06611)|null|
 |**2025-04-09**|**Do Reasoning Models Show Better Verbalized Calibration?**|Qingcheng Zeng et.al.|[2504.06564](http://arxiv.org/abs/2504.06564)|null|
 |**2025-04-09**|**Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?**|Chenrui Fan et.al.|[2504.06514](http://arxiv.org/abs/2504.06514)|null|
 |**2025-04-08**|**SPoRt -- Safe Policy Ratio: Certified Training and Deployment of Task Policies in Model-Free RL**|Jacques Cloete et.al.|[2504.06386](http://arxiv.org/abs/2504.06386)|null|
 |**2025-04-08**|**An Information-Geometric Approach to Artificial Curiosity**|Alexander Nedergaard et.al.|[2504.06355](http://arxiv.org/abs/2504.06355)|null|
 |**2025-04-08**|**A Geometric-Aware Perspective and Beyond: Hybrid Quantum-Classical Machine Learning Methods**|Azadeh Alavia et.al.|[2504.06328](http://arxiv.org/abs/2504.06328)|null|
 |**2025-04-08**|**Adversarial Training of Reward Models**|Alexander Bukharin et.al.|[2504.06141](http://arxiv.org/abs/2504.06141)|null|
-|**2025-04-08**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
+|**2025-04-10**|**A Multimedia Analytics Model for the Foundation Model Era**|Marcel Worring et.al.|[2504.06138](http://arxiv.org/abs/2504.06138)|null|
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126](http://arxiv.org/abs/2504.06126)|null|
 |**2025-04-09**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|null|
 |**2025-04-09**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122](http://arxiv.org/abs/2504.06122)|null|
