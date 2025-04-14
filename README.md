@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**GenXSS: an AI-Driven Framework for Automated Detection of XSS Attacks in WAFs**|Vahid Babaey et.al.|[2504.08176](http://arxiv.org/abs/2504.08176)|null|
+|**2025-04-10**|**Investigating Vision-Language Model for Point Cloud-based Vehicle Classification**|Yiqiao Li et.al.|[2504.08154](http://arxiv.org/abs/2504.08154)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-09**|**Improving Examples in Web API Specifications using Iterated-Calls In-Context Learning**|Kush Jain et.al.|[2504.07250](http://arxiv.org/abs/2504.07250)|null|
@@ -3947,6 +3949,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage**|Haohang Jian et.al.|[2504.08718](http://arxiv.org/abs/2504.08718)|null|
+|**2025-04-11**|**Enhancing knowledge retention for continual learning with domain-specific adapters and features gating**|Mohamed Abbas Hedjazi et.al.|[2504.08613](http://arxiv.org/abs/2504.08613)|null|
+|**2025-04-11**|**A Hybrid Fully Convolutional CNN-Transformer Model for Inherently Interpretable Medical Image Classification**|Kerol Djoumessi et.al.|[2504.08481](http://arxiv.org/abs/2504.08481)|null|
+|**2025-04-11**|**In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**|Sauradip Nag et.al.|[2504.08366](http://arxiv.org/abs/2504.08366)|null|
+|**2025-04-10**|**Between Linear and Sinusoidal: Rethinking the Time Encoder in Dynamic Graph Learning**|Hsing-Huan Chung et.al.|[2504.08129](http://arxiv.org/abs/2504.08129)|null|
 |**2025-04-11**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
 |**2025-04-10**|**Extending Visual Dynamics for Video-to-Music Generation**|Xiaohao Liu et.al.|[2504.07594](http://arxiv.org/abs/2504.07594)|null|
 |**2025-04-10**|**A Novel Mamba-based Sequential Recommendation Method**|Jun Yuan et.al.|[2504.07398](http://arxiv.org/abs/2504.07398)|null|
@@ -5631,6 +5638,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638](http://arxiv.org/abs/2504.08638)|null|
+|**2025-04-11**|**Gradient Descent Robustly Learns the Intrinsic Dimension of Data in Training Convolutional Neural Networks**|Chenyang Zhang et.al.|[2504.08628](http://arxiv.org/abs/2504.08628)|null|
+|**2025-04-11**|**Statistically guided deep learning**|Michael Kohler et.al.|[2504.08489](http://arxiv.org/abs/2504.08489)|null|
+|**2025-04-11**|**A Piecewise Lyapunov Analysis of sub--quadratic SGD: Applications to Robust and Quantile Regression**|Yixuan Zhang et.al.|[2504.08178](http://arxiv.org/abs/2504.08178)|null|
+|**2025-04-07**|**Comparative analysis of Realistic EMF Exposure Estimation from Low Density Sensor Network by Finite & Infinite Neural Networks**|Mohammed Mallik et.al.|[2504.07990](http://arxiv.org/abs/2504.07990)|null|
 |**2025-04-10**|**Smoothed Distance Kernels for MMDs and Applications in Wasserstein Gradient Flows**|Nicolaj Rux et.al.|[2504.07820](http://arxiv.org/abs/2504.07820)|null|
 |**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809](http://arxiv.org/abs/2504.07809)|**[link](https://github.com/albanbloorriley/rgd_lp)**|
 |**2025-04-10**|**Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**|Elmehdi Cherrat et.al.|[2504.07796](http://arxiv.org/abs/2504.07796)|null|
@@ -7551,6 +7563,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Gradient Descent Robustly Learns the Intrinsic Dimension of Data in Training Convolutional Neural Networks**|Chenyang Zhang et.al.|[2504.08628](http://arxiv.org/abs/2504.08628)|null|
 |**2025-04-07**|**Bayesian Shrinkage in High-Dimensional VAR Models: A Comparative Study**|Harrison Katz et.al.|[2504.05489](http://arxiv.org/abs/2504.05489)|null|
 |**2025-04-07**|**Find A Winning Sign: Sign Is All We Need to Win the Lottery**|Junghun Oh et.al.|[2504.05357](http://arxiv.org/abs/2504.05357)|null|
 |**2025-03-31**|**AutoML Algorithms for Online Generalized Additive Model Selection: Application to Electricity Demand Forecasting**|Keshav Das et.al.|[2503.24019](http://arxiv.org/abs/2503.24019)|null|
@@ -7792,6 +7805,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Transformer Learns Optimal Variable Selection in Group-Sparse Classification**|Chenyang Zhang et.al.|[2504.08638](http://arxiv.org/abs/2504.08638)|null|
+|**2025-04-11**|**Gradient Descent Robustly Learns the Intrinsic Dimension of Data in Training Convolutional Neural Networks**|Chenyang Zhang et.al.|[2504.08628](http://arxiv.org/abs/2504.08628)|null|
+|**2025-04-11**|**Statistically guided deep learning**|Michael Kohler et.al.|[2504.08489](http://arxiv.org/abs/2504.08489)|null|
+|**2025-04-11**|**A Piecewise Lyapunov Analysis of sub--quadratic SGD: Applications to Robust and Quantile Regression**|Yixuan Zhang et.al.|[2504.08178](http://arxiv.org/abs/2504.08178)|null|
+|**2025-04-07**|**Comparative analysis of Realistic EMF Exposure Estimation from Low Density Sensor Network by Finite & Infinite Neural Networks**|Mohammed Mallik et.al.|[2504.07990](http://arxiv.org/abs/2504.07990)|null|
 |**2025-04-10**|**Smoothed Distance Kernels for MMDs and Applications in Wasserstein Gradient Flows**|Nicolaj Rux et.al.|[2504.07820](http://arxiv.org/abs/2504.07820)|null|
 |**2025-04-10**|**A Riemannian Gradient Descent Method for the Least Squares Inverse Eigenvalue Problem**|Alban Bloor Riley et.al.|[2504.07809](http://arxiv.org/abs/2504.07809)|**[link](https://github.com/albanbloorriley/rgd_lp)**|
 |**2025-04-10**|**Numerical solution by shape optimization method to an inverse shape problem in multi-dimensional advection-diffusion problem with space dependent coefficients**|Elmehdi Cherrat et.al.|[2504.07796](http://arxiv.org/abs/2504.07796)|null|
@@ -9912,6 +9930,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
+|**2025-04-11**|**Pobogot -- An Open-Hardware Open-Source Low Cost Robot for Swarm Robotics**|Alessia Loi et.al.|[2504.08686](http://arxiv.org/abs/2504.08686)|null|
+|**2025-04-11**|**Reinforcement Learning-Driven Plant-Wide Refinery Planning Using Model Decomposition**|Zhouchang Li et.al.|[2504.08642](http://arxiv.org/abs/2504.08642)|null|
+|**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
+|**2025-04-11**|**SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning**|Peixian Ma et.al.|[2504.08600](http://arxiv.org/abs/2504.08600)|null|
+|**2025-04-11**|**Playpen: An Environment for Exploring Learning Through Conversational Interaction**|Nicola Horst et.al.|[2504.08590](http://arxiv.org/abs/2504.08590)|null|
+|**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|null|
+|**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
+|**2025-04-11**|**Belief States for Cooperative Multi-Agent Reinforcement Learning under Partial Observability**|Paul J. Pritz et.al.|[2504.08417](http://arxiv.org/abs/2504.08417)|null|
+|**2025-04-11**|**Scalable Conflict-free Decision Making with Photons**|Kohei Konaka et.al.|[2504.08331](http://arxiv.org/abs/2504.08331)|null|
+|**2025-04-11**|**DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search**|Shubing Xie et.al.|[2504.08310](http://arxiv.org/abs/2504.08310)|null|
+|**2025-04-11**|**Spectral Normalization for Lipschitz-Constrained Policies on Learning Humanoid Locomotion**|Jaeyong Shin et.al.|[2504.08246](http://arxiv.org/abs/2504.08246)|null|
+|**2025-04-11**|**Deep Distributional Learning with Non-crossing Quantile Network**|Guohao Shen et.al.|[2504.08215](http://arxiv.org/abs/2504.08215)|null|
+|**2025-04-11**|**Optimizing Power Grid Topologies with Reinforcement Learning: A Survey of Methods and Challenges**|Erica van der Sar et.al.|[2504.08210](http://arxiv.org/abs/2504.08210)|null|
+|**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
+|**2025-04-11**|**Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention**|Qiuwu Sha et.al.|[2504.08183](http://arxiv.org/abs/2504.08183)|null|
+|**2025-04-10**|**Rethinking the Foundations for Continual Reinforcement Learning**|Michael Bowling et.al.|[2504.08161](http://arxiv.org/abs/2504.08161)|null|
+|**2025-04-10**|**Hybrid Reinforcement Learning-based Sustainable Multi-User Computation Offloading for Mobile Edge-Quantum Computing**|Minrui Xu et.al.|[2504.08134](http://arxiv.org/abs/2504.08134)|null|
+|**2025-04-10**|**RL-based Control of UAS Subject to Significant Disturbance**|Kousheek Chakraborty et.al.|[2504.08114](http://arxiv.org/abs/2504.08114)|null|
+|**2025-04-10**|**Deep Reinforcement Learning for Day-to-day Dynamic Tolling in Tradable Credit Schemes**|Xiaoyi Wu et.al.|[2504.08074](http://arxiv.org/abs/2504.08074)|null|
+|**2025-04-09**|**Neuron-level Balance between Stability and Plasticity in Deep Reinforcement Learning**|Jiahua Lan et.al.|[2504.08000](http://arxiv.org/abs/2504.08000)|null|
 |**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954](http://arxiv.org/abs/2504.07954)|**[link](https://github.com/linkangheng/pr1)**|
 |**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
 |**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896](http://arxiv.org/abs/2504.07896)|null|
