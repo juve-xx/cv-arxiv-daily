@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
+|**2025-04-15**|**Tabular foundation model to detect empathy from visual cues**|Md Rakibul Hasan et.al.|[2504.10808](http://arxiv.org/abs/2504.10808)|null|
+|**2025-04-14**|**Improving In-Context Learning with Reasoning Distillation**|Nafis Sadeq et.al.|[2504.10647](http://arxiv.org/abs/2504.10647)|null|
 |**2025-04-14**|**Assessing Judging Bias in Large Reasoning Models: An Empirical Study**|Qian Wang et.al.|[2504.09946](http://arxiv.org/abs/2504.09946)|null|
 |**2025-04-13**|**Integrating Large Language Models for Automated Structural Analysis**|Haoran Liang et.al.|[2504.09754](http://arxiv.org/abs/2504.09754)|null|
 |**2025-04-13**|**Mitigating Many-Shot Jailbreaking**|Christopher M. Ackerman et.al.|[2504.09604](http://arxiv.org/abs/2504.09604)|null|
@@ -3955,6 +3958,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|null|
+|**2025-04-15**|**DeepMLF: Multimodal language model with learnable tokens for deep fusion in sentiment analysis**|Efthymios Georgiou et.al.|[2504.11082](http://arxiv.org/abs/2504.11082)|null|
+|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|null|
+|**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916](http://arxiv.org/abs/2504.10916)|null|
+|**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|null|
+|**2025-03-25**|**GPT Meets Graphs and KAN Splines: Testing Novel Frameworks on Multitask Fine-Tuned GPT-2 with LoRA**|Gabriel Bo et.al.|[2504.10490](http://arxiv.org/abs/2504.10490)|null|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
 |**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
 |**2025-04-13**|**Revisiting Self-Attentive Sequential Recommendation**|Zan Huang et.al.|[2504.09596](http://arxiv.org/abs/2504.09596)|null|
@@ -5655,6 +5664,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Projected Gradient Descent Method for Tropical Principal Component Analysis over Tree Space**|Ruriko Yoshida et.al.|[2504.11201](http://arxiv.org/abs/2504.11201)|null|
+|**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
 |**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
 |**2025-04-14**|**Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**|Yu Zhang et.al.|[2504.10113](http://arxiv.org/abs/2504.10113)|null|
@@ -7832,6 +7843,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Projected Gradient Descent Method for Tropical Principal Component Analysis over Tree Space**|Ruriko Yoshida et.al.|[2504.11201](http://arxiv.org/abs/2504.11201)|null|
+|**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
 |**2025-04-14**|**PG-DPIR: An efficient plug-and-play method for high-count Poisson-Gaussian inverse problems**|Maud Biquard et.al.|[2504.10375](http://arxiv.org/abs/2504.10375)|null|
 |**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
 |**2025-04-14**|**Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**|Yu Zhang et.al.|[2504.10113](http://arxiv.org/abs/2504.10113)|null|
@@ -9967,6 +9980,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
+|**2025-04-15**|**A Clean Slate for Offline Reinforcement Learning**|Matthew Thomas Jackson et.al.|[2504.11453](http://arxiv.org/abs/2504.11453)|null|
+|**2025-04-15**|**Embodied World Models Emerge from Navigational Task in Open-Ended Environments**|Li Jin et.al.|[2504.11419](http://arxiv.org/abs/2504.11419)|null|
+|**2025-04-15**|**Measures of Variability for Risk-averse Policy Gradient**|Yudong Luo et.al.|[2504.11412](http://arxiv.org/abs/2504.11412)|null|
+|**2025-04-15**|**Kimina-Prover Preview: Towards Large Formal Reasoning Models with Reinforcement Learning**|Haiming Wang et.al.|[2504.11354](http://arxiv.org/abs/2504.11354)|null|
+|**2025-04-15**|**A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce**|Wei Xiong et.al.|[2504.11343](http://arxiv.org/abs/2504.11343)|null|
+|**2025-04-15**|**Multi-Agent Reinforcement Learning for Greenhouse Gas Offset Credit Markets**|Liam Welsh et.al.|[2504.11258](http://arxiv.org/abs/2504.11258)|null|
+|**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250](http://arxiv.org/abs/2504.11250)|null|
+|**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
+|**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
+|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054](http://arxiv.org/abs/2504.11054)|null|
+|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026](http://arxiv.org/abs/2504.11026)|null|
+|**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001](http://arxiv.org/abs/2504.11001)|null|
+|**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978](http://arxiv.org/abs/2504.10978)|null|
+|**2025-04-15**|**Efficient Reasoning Models: A Survey**|Sicheng Feng et.al.|[2504.10903](http://arxiv.org/abs/2504.10903)|null|
+|**2025-04-15**|**Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control**|Hyojun Ahn et.al.|[2504.10831](http://arxiv.org/abs/2504.10831)|null|
+|**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
+|**2025-04-14**|**Better Estimation of the KL Divergence Between Language Models**|Afra Amini et.al.|[2504.10637](http://arxiv.org/abs/2504.10637)|null|
 |**2025-04-15**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
 |**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474](http://arxiv.org/abs/2504.10474)|null|
 |**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
