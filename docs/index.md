@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5723,7 +5723,7 @@ layout: default
 |**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
 |**2025-03-25**|**Quality-focused Active Adversarial Policy for Safe Grasping in Human-Robot Interaction**|Chenghao Li et.al.|[2503.19397](http://arxiv.org/abs/2503.19397)|**[link](https://github.com/clee-jaist/QFAAP)**|
 |**2025-03-25**|**Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent**|Philip Doldo et.al.|[2503.19347](http://arxiv.org/abs/2503.19347)|null|
-|**2025-03-24**|**Byzantine Resilient Federated Multi-Task Representation Learning**|Tuan Le et.al.|[2503.19209](http://arxiv.org/abs/2503.19209)|null|
+|**2025-04-15**|**Byzantine Resilient Federated Multi-Task Representation Learning**|Tuan Le et.al.|[2503.19209](http://arxiv.org/abs/2503.19209)|null|
 |**2025-03-31**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
 |**2025-03-24**|**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**|Wenxi Chen et.al.|[2503.18784](http://arxiv.org/abs/2503.18784)|**[link](https://github.com/wenxichen2746/Perturbation-Rectified-OOD-Detection)**|
 |**2025-03-24**|**Dynamically Learning to Integrate in Recurrent Neural Networks**|Blake Bordelon et.al.|[2503.18754](http://arxiv.org/abs/2503.18754)|**[link](https://github.com/Pehlevan-Group/rnn-learning-dynamics-theory)**|
@@ -7906,7 +7906,7 @@ layout: default
 |**2025-03-25**|**Interpretable Deep Regression Models with Interval-Censored Failure Time Data**|Changhui Yuan et.al.|[2503.19763](http://arxiv.org/abs/2503.19763)|null|
 |**2025-03-25**|**Quality-focused Active Adversarial Policy for Safe Grasping in Human-Robot Interaction**|Chenghao Li et.al.|[2503.19397](http://arxiv.org/abs/2503.19397)|**[link](https://github.com/clee-jaist/QFAAP)**|
 |**2025-03-25**|**Stop Walking in Circles! Bailing Out Early in Projected Gradient Descent**|Philip Doldo et.al.|[2503.19347](http://arxiv.org/abs/2503.19347)|null|
-|**2025-03-24**|**Byzantine Resilient Federated Multi-Task Representation Learning**|Tuan Le et.al.|[2503.19209](http://arxiv.org/abs/2503.19209)|null|
+|**2025-04-15**|**Byzantine Resilient Federated Multi-Task Representation Learning**|Tuan Le et.al.|[2503.19209](http://arxiv.org/abs/2503.19209)|null|
 |**2025-03-31**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
 |**2025-03-24**|**Leveraging Perturbation Robustness to Enhance Out-of-Distribution Detection**|Wenxi Chen et.al.|[2503.18784](http://arxiv.org/abs/2503.18784)|**[link](https://github.com/wenxichen2746/Perturbation-Rectified-OOD-Detection)**|
 |**2025-03-24**|**Dynamically Learning to Integrate in Recurrent Neural Networks**|Blake Bordelon et.al.|[2503.18754](http://arxiv.org/abs/2503.18754)|**[link](https://github.com/Pehlevan-Group/rnn-learning-dynamics-theory)**|
@@ -9966,7 +9966,7 @@ layout: default
 |**2025-04-14**|**Co-optimizing Physical Reconfiguration Parameters and Controllers for an Origami-inspired Reconfigurable Manipulator**|Zhe Chen et.al.|[2504.10474](http://arxiv.org/abs/2504.10474)|null|
 |**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**The Communication and Computation Trade-off in Wireless Semantic Communications**|Xuyang Chen et.al.|[2504.10357](http://arxiv.org/abs/2504.10357)|null|
-|**2025-04-14**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337](http://arxiv.org/abs/2504.10337)|null|
+|**2025-04-16**|**Heimdall: test-time scaling on the generative verification**|Wenlei Shi et.al.|[2504.10337](http://arxiv.org/abs/2504.10337)|null|
 |**2025-04-14**|**InstructEngine: Instruction-driven Text-to-Image Alignment**|Xingyu Lu et.al.|[2504.10329](http://arxiv.org/abs/2504.10329)|null|
 |**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[2504.10266](http://arxiv.org/abs/2504.10266)|null|
 |**2025-04-14**|**Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins**|Collins O. Ogbodo et.al.|[2504.10248](http://arxiv.org/abs/2504.10248)|null|
@@ -10034,7 +10034,7 @@ layout: default
 |**2025-04-10**|**2D-Curri-DPO: Two-Dimensional Curriculum Learning for Direct Preference Optimization**|Mengyang Li et.al.|[2504.07856](http://arxiv.org/abs/2504.07856)|null|
 |**2025-04-10**|**Genetic Programming with Reinforcement Learning Trained Transformer for Real-World Dynamic Scheduling Problems**|Xian Chen et.al.|[2504.07779](http://arxiv.org/abs/2504.07779)|null|
 |**2025-04-10**|**Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks**|Marius Kurz et.al.|[2504.07741](http://arxiv.org/abs/2504.07741)|null|
-|**2025-04-10**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
+|**2025-04-16**|**Relaxing the Markov Requirements on Reinforcement Learning Under Weak Partial Ignorability**|MaryLena Bleile et.al.|[2504.07722](http://arxiv.org/abs/2504.07722)|null|
 |**2025-04-10**|**Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV**|Zhikun Wang et.al.|[2504.07694](http://arxiv.org/abs/2504.07694)|null|
 |**2025-04-14**|**VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**|Haozhan Shen et.al.|[2504.07615](http://arxiv.org/abs/2504.07615)|**[link](https://github.com/om-ai-lab/vlm-r1)**|
 |**2025-04-11**|**Boosting Universal LLM Reward Design through Heuristic Reward Observation Space Evolution**|Zen Kit Heng et.al.|[2504.07596](http://arxiv.org/abs/2504.07596)|null|
