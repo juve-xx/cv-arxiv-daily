@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3947,7 +3947,7 @@ layout: default
 |**2025-03-25**|**GPT Meets Graphs and KAN Splines: Testing Novel Frameworks on Multitask Fine-Tuned GPT-2 with LoRA**|Gabriel Bo et.al.|[2504.10490](http://arxiv.org/abs/2504.10490)|null|
 |**2025-04-14**|**Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing**|Taihang Hu et.al.|[2504.10434](http://arxiv.org/abs/2504.10434)|null|
 |**2025-04-14**|**Analysis of Attention in Video Diffusion Transformers**|Yuxin Wen et.al.|[2504.10317](http://arxiv.org/abs/2504.10317)|null|
-|**2025-04-13**|**Revisiting Self-Attentive Sequential Recommendation**|Zan Huang et.al.|[2504.09596](http://arxiv.org/abs/2504.09596)|null|
+|**2025-04-13**|**Revisiting Self-Attentive Sequential Recommendation**|Zan Huang et.al.|[2504.09596](http://arxiv.org/abs/2504.09596)|**[link](https://github.com/pmixer/SASRec.pytorch)**|
 |**2025-04-12**|**Beyond Degradation Conditions: All-in-One Image Restoration via HOG Transformers**|Jiawei Wu et.al.|[2504.09377](http://arxiv.org/abs/2504.09377)|null|
 |**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
 |**2025-04-12**|**Multi-Modal Brain Tumor Segmentation via 3D Multi-Scale Self-attention and Cross-attention**|Yonghao Huang et.al.|[2504.09088](http://arxiv.org/abs/2504.09088)|null|
@@ -5643,7 +5643,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189](http://arxiv.org/abs/2504.12189)|null|
+|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189](http://arxiv.org/abs/2504.12189)|**[link](https://github.com/KiljaeL/LOO-StabCP)**|
 |**2025-04-16**|**Online Training and Inference System on Edge FPGA Using Delayed Feedback Reservoir**|Sosei Ikeda et.al.|[2504.11970](http://arxiv.org/abs/2504.11970)|null|
 |**2025-04-16**|**Trajectory Dispersion Control for Precision Landing Guidance of Reusable Rockets**|Xinglun Chen et.al.|[2504.11894](http://arxiv.org/abs/2504.11894)|null|
 |**2025-04-16**|**MDHP-Net: Detecting an Emerging Time-exciting Threat in IVN**|Qi Liu et.al.|[2504.11867](http://arxiv.org/abs/2504.11867)|null|
@@ -5696,7 +5696,7 @@ layout: default
 |**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483](http://arxiv.org/abs/2504.03483)|null|
 |**2025-04-04**|**A Polynomial-Time Algorithm for Variational Inequalities under the Minty Condition**|Ioannis Anagnostides et.al.|[2504.03432](http://arxiv.org/abs/2504.03432)|null|
 |**2025-04-04**|**On the rate of convergence of an over-parametrized deep neural network regression estimate learned by gradient descent**|Michael Kohler et.al.|[2504.03405](http://arxiv.org/abs/2504.03405)|null|
-|**2025-04-08**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
+|**2025-04-08**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|**[link](https://github.com/aaltoml/nsvqgs)**|
 |**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040](http://arxiv.org/abs/2504.03040)|null|
 |**2025-04-08**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
 |**2025-03-19**|**Enhanced ECG Arrhythmia Detection Accuracy by Optimizing Divergence-Based Data Fusion**|Baozhuo Su et.al.|[2504.02842](http://arxiv.org/abs/2504.02842)|null|
@@ -7823,7 +7823,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189](http://arxiv.org/abs/2504.12189)|null|
+|**2025-04-16**|**Leave-One-Out Stable Conformal Prediction**|Kiljae Lee et.al.|[2504.12189](http://arxiv.org/abs/2504.12189)|**[link](https://github.com/KiljaeL/LOO-StabCP)**|
 |**2025-04-16**|**Online Training and Inference System on Edge FPGA Using Delayed Feedback Reservoir**|Sosei Ikeda et.al.|[2504.11970](http://arxiv.org/abs/2504.11970)|null|
 |**2025-04-16**|**Trajectory Dispersion Control for Precision Landing Guidance of Reusable Rockets**|Xinglun Chen et.al.|[2504.11894](http://arxiv.org/abs/2504.11894)|null|
 |**2025-04-16**|**MDHP-Net: Detecting an Emerging Time-exciting Threat in IVN**|Qi Liu et.al.|[2504.11867](http://arxiv.org/abs/2504.11867)|null|
@@ -7879,7 +7879,7 @@ layout: default
 |**2025-04-04**|**Online Traffic Density Estimation using Physics-Informed Neural Networks**|Dennis Wilkman et.al.|[2504.03483](http://arxiv.org/abs/2504.03483)|null|
 |**2025-04-04**|**A Polynomial-Time Algorithm for Variational Inequalities under the Minty Condition**|Ioannis Anagnostides et.al.|[2504.03432](http://arxiv.org/abs/2504.03432)|null|
 |**2025-04-04**|**On the rate of convergence of an over-parametrized deep neural network regression estimate learned by gradient descent**|Michael Kohler et.al.|[2504.03405](http://arxiv.org/abs/2504.03405)|null|
-|**2025-04-08**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|null|
+|**2025-04-08**|**Compressing 3D Gaussian Splatting by Noise-Substituted Vector Quantization**|Haishan Wang et.al.|[2504.03059](http://arxiv.org/abs/2504.03059)|**[link](https://github.com/aaltoml/nsvqgs)**|
 |**2025-04-03**|**Safety Modulation: Enhancing Safety in Reinforcement Learning through Cost-Modulated Rewards**|Hanping Zhang et.al.|[2504.03040](http://arxiv.org/abs/2504.03040)|null|
 |**2025-04-08**|**Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis**|Sijia Zhou et.al.|[2504.02957](http://arxiv.org/abs/2504.02957)|null|
 |**2025-03-19**|**Enhanced ECG Arrhythmia Detection Accuracy by Optimizing Divergence-Based Data Fusion**|Baozhuo Su et.al.|[2504.02842](http://arxiv.org/abs/2504.02842)|null|
@@ -9969,7 +9969,7 @@ layout: default
 |**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023](http://arxiv.org/abs/2504.12023)|null|
 |**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|null|
 |**2025-04-16**|**A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs**|Kihyuk Hong et.al.|[2504.11997](http://arxiv.org/abs/2504.11997)|null|
-|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
+|**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-16**|**VIPO: Value Function Inconsistency Penalized Offline Reinforcement Learning**|Xuyang Chen et.al.|[2504.11944](http://arxiv.org/abs/2504.11944)|null|
 |**2025-04-16**|**A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration**|Gabriele Calzolari et.al.|[2504.11907](http://arxiv.org/abs/2504.11907)|null|
@@ -9980,7 +9980,7 @@ layout: default
 |**2025-04-15**|**Achieving Tighter Finite-Time Rates for Heterogeneous Federated Stochastic Approximation under Markovian Sampling**|Feng Zhu et.al.|[2504.11645](http://arxiv.org/abs/2504.11645)|null|
 |**2025-04-15**|**Dueling Deep Reinforcement Learning for Financial Time Series**|Bruno Giorgio et.al.|[2504.11601](http://arxiv.org/abs/2504.11601)|null|
 |**2025-04-15**|**Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence**|Heming Fu et.al.|[2504.11569](http://arxiv.org/abs/2504.11569)|null|
-|**2025-04-15**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536](http://arxiv.org/abs/2504.11536)|null|
+|**2025-04-17**|**ReTool: Reinforcement Learning for Strategic Tool Use in LLMs**|Jiazhan Feng et.al.|[2504.11536](http://arxiv.org/abs/2504.11536)|null|
 |**2025-04-15**|**Position Paper: Rethinking Privacy in RL for Sequential Decision-making in the Age of LLMs**|Flint Xiaofeng Fan et.al.|[2504.11511](http://arxiv.org/abs/2504.11511)|null|
 |**2025-04-15**|**Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning**|Hongliang Lu et.al.|[2504.11506](http://arxiv.org/abs/2504.11506)|null|
 |**2025-04-15**|**DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning**|Zhiwei He et.al.|[2504.11456](http://arxiv.org/abs/2504.11456)|null|
@@ -9993,7 +9993,7 @@ layout: default
 |**2025-04-15**|**A Rollout-Based Algorithm and Reward Function for Efficient Resource Allocation in Business Processes**|Jeroen Middelhuis et.al.|[2504.11250](http://arxiv.org/abs/2504.11250)|null|
 |**2025-04-15**|**Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks**|Fikrican Özgür et.al.|[2504.11247](http://arxiv.org/abs/2504.11247)|null|
 |**2025-04-15**|**Revealing Covert Attention by Analyzing Human and Reinforcement Learning Agent Gameplay**|Henrik Krauss et.al.|[2504.11118](http://arxiv.org/abs/2504.11118)|null|
-|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054](http://arxiv.org/abs/2504.11054)|null|
+|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054](http://arxiv.org/abs/2504.11054)|**[link](https://github.com/facebookresearch/metamotivo)**|
 |**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026](http://arxiv.org/abs/2504.11026)|null|
 |**2025-04-15**|**ReZero: Enhancing LLM search ability by trying one-more-time**|Alan Dao et.al.|[2504.11001](http://arxiv.org/abs/2504.11001)|null|
 |**2025-04-15**|**AgentPolyp: Accurate Polyp Segmentation via Image Enhancement Agent**|Pu Wang et.al.|[2504.10978](http://arxiv.org/abs/2504.10978)|null|
@@ -10022,7 +10022,7 @@ layout: default
 |**2025-04-14**|**PreCi: Pretraining and Continual Improvement of Humanoid Locomotion via Model-Assumption-Based Regularization**|Hyunyoung Jung et.al.|[2504.09833](http://arxiv.org/abs/2504.09833)|null|
 |**2025-04-14**|**Offline Dynamic Inventory and Pricing Strategy: Addressing Censored and Dependent Demand**|Korel Gundem et.al.|[2504.09831](http://arxiv.org/abs/2504.09831)|null|
 |**2025-04-13**|**DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training**|Zhenting Wang et.al.|[2504.09710](http://arxiv.org/abs/2504.09710)|null|
-|**2025-04-13**|**GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models**|Jixiao Zhang et.al.|[2504.09696](http://arxiv.org/abs/2504.09696)|null|
+|**2025-04-13**|**GRPO-LEAD: A Difficulty-Aware Reinforcement Learning Approach for Concise Mathematical Reasoning in Language Models**|Jixiao Zhang et.al.|[2504.09696](http://arxiv.org/abs/2504.09696)|**[link](https://github.com/aeroplanepaper/GRPO-LEAD)**|
 |**2025-04-13**|**TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**|Xingjian Zhang et.al.|[2504.09641](http://arxiv.org/abs/2504.09641)|null|
 |**2025-04-13**|**Slow Thinking for Sequential Recommendation**|Junjie Zhang et.al.|[2504.09627](http://arxiv.org/abs/2504.09627)|null|
 |**2025-04-13**|**ERL-MPP: Evolutionary Reinforcement Learning with Multi-head Puzzle Perception for Solving Large-scale Jigsaw Puzzles of Eroded Gaps**|Xingke Song et.al.|[2504.09608](http://arxiv.org/abs/2504.09608)|null|
