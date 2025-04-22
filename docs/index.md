@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3954,7 +3954,7 @@ layout: default
 |**2025-04-15**|**ConvShareViT: Enhancing Vision Transformers with Convolutional Attention Mechanisms for Free-Space Optical Accelerators**|Riad Ibadulla et.al.|[2504.11517](http://arxiv.org/abs/2504.11517)|null|
 |**2025-04-15**|**Deep Learning-based Bathymetry Retrieval without In-situ Depths using Remote Sensing Imagery and SfM-MVS DSMs with Data Gaps**|Panagiotis Agrafiotis et.al.|[2504.11416](http://arxiv.org/abs/2504.11416)|**[link](https://github.com/pagraf/swin-bathyunet)**|
 |**2025-04-15**|**DeepMLF: Multimodal language model with learnable tokens for deep fusion in sentiment analysis**|Efthymios Georgiou et.al.|[2504.11082](http://arxiv.org/abs/2504.11082)|null|
-|**2025-04-15**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|**[link](https://github.com/climbin/restormixer)**|
+|**2025-04-20**|**An Efficient and Mixed Heterogeneous Model for Image Restoration**|Yubin Gu et.al.|[2504.10967](http://arxiv.org/abs/2504.10967)|**[link](https://github.com/climbin/restormixer)**|
 |**2025-04-15**|**Embedding Radiomics into Vision Transformers for Multimodal Medical Image Classification**|Zhenyu Yang et.al.|[2504.10916](http://arxiv.org/abs/2504.10916)|null|
 |**2025-04-15**|**Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs**|Rui Dai et.al.|[2504.10902](http://arxiv.org/abs/2504.10902)|**[link](https://github.com/deep-analysis-research/slta)**|
 |**2025-03-25**|**GPT Meets Graphs and KAN Splines: Testing Novel Frameworks on Multitask Fine-Tuned GPT-2 with LoRA**|Gabriel Bo et.al.|[2504.10490](http://arxiv.org/abs/2504.10490)|null|
@@ -10034,7 +10034,7 @@ layout: default
 |**2025-04-17**|**Image-Editing Specialists: An RLAIF Approach for Diffusion Models**|Elior Benarous et.al.|[2504.12833](http://arxiv.org/abs/2504.12833)|**[link](https://github.com/ebenarous/editspecialists)**|
 |**2025-04-17**|**Multi-Agent Reinforcement Learning Simulation for Environmental Policy Synthesis**|James Rudd-Jones et.al.|[2504.12777](http://arxiv.org/abs/2504.12777)|null|
 |**2025-04-17**|**GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**|Hao Xu et.al.|[2504.12764](http://arxiv.org/abs/2504.12764)|null|
-|**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714](http://arxiv.org/abs/2504.12714)|null|
+|**2025-04-20**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714](http://arxiv.org/abs/2504.12714)|null|
 |**2025-04-17**|**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**|Baining Zhao et.al.|[2504.12680](http://arxiv.org/abs/2504.12680)|**[link](https://github.com/embodiedcity/embodied-r.code)**|
 |**2025-04-17**|**Autonomous Drone for Dynamic Smoke Plume Tracking**|Srijan Kumar Pal et.al.|[2504.12664](http://arxiv.org/abs/2504.12664)|null|
 |**2025-04-17**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Tyler Ga Wei Lum et.al.|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
