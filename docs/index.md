@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3958,7 +3958,7 @@ layout: default
 |**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441](http://arxiv.org/abs/2504.16441)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
 |**2025-04-22**|**Quantum Doubly Stochastic Transformers**|Jannis Born et.al.|[2504.16275](http://arxiv.org/abs/2504.16275)|null|
-|**2025-04-13**|**SeizureFormer: A Transformer Model for IEA-Based Seizure Risk Forecasting**|Tianning Feng et.al.|[2504.16098](http://arxiv.org/abs/2504.16098)|null|
+|**2025-04-24**|**SeizureFormer: A Transformer Model for IEA-Based Seizure Risk Forecasting**|Tianning Feng et.al.|[2504.16098](http://arxiv.org/abs/2504.16098)|null|
 |**2025-04-13**|**A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for Hierarchical ECG Analysis**|Arthur Buzelin et.al.|[2504.16097](http://arxiv.org/abs/2504.16097)|null|
 |**2025-04-22**|**Universal Approximation with Softmax Attention**|Jerry Yao-Chieh Hu et.al.|[2504.15956](http://arxiv.org/abs/2504.15956)|null|
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
@@ -5690,7 +5690,7 @@ layout: default
 |**2025-04-23**|**Adaptive Gradient Descent on Riemannian Manifolds with Nonnegative Curvature**|Aban Ansari-Önnestam et.al.|[2504.16724](http://arxiv.org/abs/2504.16724)|null|
 |**2025-04-23**|**Least-Squares-Embedded Optimization for Accelerated Convergence of PINNs in Acoustic Wavefield Simulations**|Mohammad Mahdi Abedi et.al.|[2504.16553](http://arxiv.org/abs/2504.16553)|null|
 |**2025-04-23**|**Preconditioning Natural and Second Order Gradient Descent in Quantum Optimization: A Performance Benchmark**|Théo Lisart-Liebermann et.al.|[2504.16518](http://arxiv.org/abs/2504.16518)|null|
-|**2025-04-23**|**An Effective Gram Matrix Characterizes Generalization in Deep Networks**|Rubing Yang et.al.|[2504.16450](http://arxiv.org/abs/2504.16450)|null|
+|**2025-04-24**|**An Effective Gram Matrix Characterizes Generalization in Deep Networks**|Rubing Yang et.al.|[2504.16450](http://arxiv.org/abs/2504.16450)|null|
 |**2025-04-23**|**Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks**|Mao Wang et.al.|[2504.16360](http://arxiv.org/abs/2504.16360)|null|
 |**2025-04-22**|**Gradient-Optimized Fuzzy Classifier: A Benchmark Study Against State-of-the-Art Models**|Magnus Sieverding et.al.|[2504.16263](http://arxiv.org/abs/2504.16263)|null|
 |**2025-04-22**|**CGD: Modifying the Loss Landscape by Gradient Regularization**|Shikhar Saxena et.al.|[2504.16182](http://arxiv.org/abs/2504.16182)|null|
@@ -7907,7 +7907,7 @@ layout: default
 |**2025-04-23**|**Adaptive Gradient Descent on Riemannian Manifolds with Nonnegative Curvature**|Aban Ansari-Önnestam et.al.|[2504.16724](http://arxiv.org/abs/2504.16724)|null|
 |**2025-04-23**|**Least-Squares-Embedded Optimization for Accelerated Convergence of PINNs in Acoustic Wavefield Simulations**|Mohammad Mahdi Abedi et.al.|[2504.16553](http://arxiv.org/abs/2504.16553)|null|
 |**2025-04-23**|**Preconditioning Natural and Second Order Gradient Descent in Quantum Optimization: A Performance Benchmark**|Théo Lisart-Liebermann et.al.|[2504.16518](http://arxiv.org/abs/2504.16518)|null|
-|**2025-04-23**|**An Effective Gram Matrix Characterizes Generalization in Deep Networks**|Rubing Yang et.al.|[2504.16450](http://arxiv.org/abs/2504.16450)|null|
+|**2025-04-24**|**An Effective Gram Matrix Characterizes Generalization in Deep Networks**|Rubing Yang et.al.|[2504.16450](http://arxiv.org/abs/2504.16450)|null|
 |**2025-04-23**|**Disentangled Graph Representation Based on Substructure-Aware Graph Optimal Matching Kernel Convolutional Networks**|Mao Wang et.al.|[2504.16360](http://arxiv.org/abs/2504.16360)|null|
 |**2025-04-22**|**Gradient-Optimized Fuzzy Classifier: A Benchmark Study Against State-of-the-Art Models**|Magnus Sieverding et.al.|[2504.16263](http://arxiv.org/abs/2504.16263)|null|
 |**2025-04-22**|**CGD: Modifying the Loss Landscape by Gradient Regularization**|Shikhar Saxena et.al.|[2504.16182](http://arxiv.org/abs/2504.16182)|null|
@@ -10153,7 +10153,7 @@ layout: default
 |**2025-04-21**|**Dynamic Contrastive Skill Learning with State-Transition Based Skill Clustering and Dynamic Length Adjustment**|Jinwoo Choi et.al.|[2504.14805](http://arxiv.org/abs/2504.14805)|null|
 |**2025-04-20**|**PPO-EPO: Energy and Performance Optimization for O-RAN Using Reinforcement Learning**|Rawlings Ntassah et.al.|[2504.14749](http://arxiv.org/abs/2504.14749)|null|
 |**2025-04-20**|**Interference-Aware PMI selection for MIMO systems in an O-RAN scenario**|Rawlings Ntassah et.al.|[2504.14745](http://arxiv.org/abs/2504.14745)|null|
-|**2025-04-20**|**Reinforcement Learning from Multi-level and Episodic Human Feedback**|Muhammad Qasim Elahi et.al.|[2504.14732](http://arxiv.org/abs/2504.14732)|null|
+|**2025-04-23**|**Reinforcement Learning from Multi-level and Episodic Human Feedback**|Muhammad Qasim Elahi et.al.|[2504.14732](http://arxiv.org/abs/2504.14732)|null|
 |**2025-04-20**|**Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based Evaluation**|Tuhina Tripathi et.al.|[2504.14716](http://arxiv.org/abs/2504.14716)|null|
 |**2025-04-20**|**Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline**|Hui Zhou et.al.|[2504.14709](http://arxiv.org/abs/2504.14709)|null|
 |**2025-04-20**|**Surrogate Fitness Metrics for Interpretable Reinforcement Learning**|Philipp Altmann et.al.|[2504.14645](http://arxiv.org/abs/2504.14645)|null|
