@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Does Knowledge Distillation Matter for Large Language Model based Bundle Generation?**|Kaidong Feng et.al.|[2504.17220](http://arxiv.org/abs/2504.17220)|null|
+|**2025-04-23**|**In-Context Learning can distort the relationship between sequence likelihoods and biological fitness**|Pranav Kantroo et.al.|[2504.17068](http://arxiv.org/abs/2504.17068)|null|
 |**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
 |**2025-04-22**|**Investigating LLMs in Clinical Triage: Promising Capabilities, Persistent Intersectional Biases**|Joseph Lee et.al.|[2504.16273](http://arxiv.org/abs/2504.16273)|null|
 |**2025-04-22**|**How Private is Your Attention? Bridging Privacy with In-Context Learning**|Soham Bonnerjee et.al.|[2504.16000](http://arxiv.org/abs/2504.16000)|null|
@@ -3951,6 +3953,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
+|**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
 |**2025-04-23**|**Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation**|Lakshita Agarwal et.al.|[2504.16788](http://arxiv.org/abs/2504.16788)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
@@ -5686,6 +5690,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
+|**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
+|**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
 |**2025-04-23**|**Computing Optimal Transport Plans via Min-Max Gradient Flows**|Lauren Conger et.al.|[2504.16890](http://arxiv.org/abs/2504.16890)|null|
 |**2025-04-23**|**Adaptive Gradient Descent on Riemannian Manifolds with Nonnegative Curvature**|Aban Ansari-Önnestam et.al.|[2504.16724](http://arxiv.org/abs/2504.16724)|null|
 |**2025-04-23**|**Least-Squares-Embedded Optimization for Accelerated Convergence of PINNs in Acoustic Wavefield Simulations**|Mohammad Mahdi Abedi et.al.|[2504.16553](http://arxiv.org/abs/2504.16553)|null|
@@ -7903,6 +7910,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**The effects of Hessian eigenvalue spectral density type on the applicability of Hessian analysis to generalization capability assessment of neural networks**|Nikita Gabdullin et.al.|[2504.17618](http://arxiv.org/abs/2504.17618)|null|
+|**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
+|**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
+|**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
 |**2025-04-23**|**Computing Optimal Transport Plans via Min-Max Gradient Flows**|Lauren Conger et.al.|[2504.16890](http://arxiv.org/abs/2504.16890)|null|
 |**2025-04-23**|**Adaptive Gradient Descent on Riemannian Manifolds with Nonnegative Curvature**|Aban Ansari-Önnestam et.al.|[2504.16724](http://arxiv.org/abs/2504.16724)|null|
 |**2025-04-23**|**Least-Squares-Embedded Optimization for Accelerated Convergence of PINNs in Acoustic Wavefield Simulations**|Mohammad Mahdi Abedi et.al.|[2504.16553](http://arxiv.org/abs/2504.16553)|null|
@@ -10081,6 +10092,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
+|**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700](http://arxiv.org/abs/2504.17700)|null|
+|**2025-04-24**|**SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning**|Peng Ye et.al.|[2504.17603](http://arxiv.org/abs/2504.17603)|null|
+|**2025-04-24**|**Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach**|Sihem Bakri et.al.|[2504.17590](http://arxiv.org/abs/2504.17590)|null|
+|**2025-04-24**|**Advancing CMA-ES with Learning-Based Cooperative Coevolution for Scalable Optimization**|Hongshu Guo et.al.|[2504.17578](http://arxiv.org/abs/2504.17578)|null|
+|**2025-04-24**|**Cooperative Task Offloading through Asynchronous Deep Reinforcement Learning in Mobile Edge Computing for Future Networks**|Yuelin Liu et.al.|[2504.17526](http://arxiv.org/abs/2504.17526)|null|
+|**2025-04-24**|**Plasticine: Accelerating Research in Plasticity-Motivated Deep Reinforcement Learning**|Mingqi Yuan et.al.|[2504.17490](http://arxiv.org/abs/2504.17490)|null|
+|**2025-04-24**|**Comprehend, Divide, and Conquer: Feature Subspace Exploration via Multi-Agent Hierarchical Reinforcement Learning**|Weiliang Zhang et.al.|[2504.17356](http://arxiv.org/abs/2504.17356)|null|
+|**2025-04-24**|**Collaborative Multi-Agent Reinforcement Learning for Automated Feature Transformation with Graph-Driven Path Optimization**|Xiaohan Huang et.al.|[2504.17355](http://arxiv.org/abs/2504.17355)|null|
+|**2025-04-24**|**Cracking the Code of Action: a Generative Approach to Affordances for Reinforcement Learning**|Lynn Cherif et.al.|[2504.17282](http://arxiv.org/abs/2504.17282)|null|
+|**2025-04-24**|**Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot**|Yufeng Chi et.al.|[2504.17249](http://arxiv.org/abs/2504.17249)|null|
+|**2025-04-23**|**Reinforcement learning framework for the mechanical design of microelectronic components under multiphysics constraints**|Siddharth Nair et.al.|[2504.17142](http://arxiv.org/abs/2504.17142)|null|
+|**2025-04-23**|**Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments**|Yuran Li et.al.|[2504.17087](http://arxiv.org/abs/2504.17087)|null|
+|**2025-04-23**|**A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs**|Jalal Arabneydi et.al.|[2504.17006](http://arxiv.org/abs/2504.17006)|null|
+|**2025-04-23**|**(Im)possibility of Automated Hallucination Detection in Large Language Models**|Amin Karbasi et.al.|[2504.17004](http://arxiv.org/abs/2504.17004)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
 |**2025-04-23**|**Hybrid Reinforcement Learning and Model Predictive Control for Adaptive Control of Hydrogen-Diesel Dual-Fuel Combustion**|Julian Bedei et.al.|[2504.16875](http://arxiv.org/abs/2504.16875)|null|
 |**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
