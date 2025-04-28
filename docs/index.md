@@ -7824,7 +7824,7 @@ layout: default
 |**2023-10-31**|**Initialization Matters: Privacy-Utility Analysis of Overparameterized Neural Networks**|Jiayuan Ye et.al.|[2310.20579](http://arxiv.org/abs/2310.20579)|null|
 |**2023-10-31**|**Predictive Control for Autonomous Driving with Uncertain, Multi-modal Predictions**|Siddharth H. Nair et.al.|[2310.20561](http://arxiv.org/abs/2310.20561)|null|
 |**2023-10-26**|**Implicit Regularization in Over-Parameterized Support Vector Machine**|Yang Sui et.al.|[2310.17124](http://arxiv.org/abs/2310.17124)|null|
-|**2023-10-23**|**Delayed Memory Unit: Modelling Temporal Dependency Through Delay Gate**|Pengfei Sun et.al.|[2310.14982](http://arxiv.org/abs/2310.14982)|null|
+|**2023-10-23**|**Delayed Memory Unit: Modelling Temporal Dependency Through Delay Gate**|Pengfei Sun et.al.|[2310.14982](http://arxiv.org/abs/2310.14982)|**[link](https://github.com/sunpengfei1122/DMU)**|
 |**2023-10-20**|**Linear matrix inequality based Type-III compensator synthesis for DC-DC converters**|Rıdvan Keskin et.al.|[2310.14910](http://arxiv.org/abs/2310.14910)|null|
 |**2024-04-25**|**Unraveling the Enigma of Double Descent: An In-depth Analysis through the Lens of Learned Feature Space**|Yufei Gu et.al.|[2310.13572](http://arxiv.org/abs/2310.13572)|**[link](https://github.com/yufei-gu-451/double_descent_inference)**|
 |**2023-10-11**|**Domain Generalization Guided by Gradient Signal to Noise Ratio of Parameters**|Mateusz Michalkiewicz et.al.|[2310.07361](http://arxiv.org/abs/2310.07361)|null|
@@ -8469,7 +8469,7 @@ layout: default
 |**2024-12-29**|**EM algorithms for optimization problems with polynomial objectives**|Kensuke Asai et.al.|[2412.20481](http://arxiv.org/abs/2412.20481)|null|
 |**2024-12-29**|**Movable Antenna Array Aided Ultra Reliable Covert Communications**|Yida Wang et.al.|[2412.20417](http://arxiv.org/abs/2412.20417)|null|
 |**2024-12-29**|**A market-based efficient matching mechanism for crowdsourced delivery systems with demand/supply elasticities**|Yuki Oyama et.al.|[2412.20395](http://arxiv.org/abs/2412.20395)|null|
-|**2024-12-29**|**EXAdam: The Power of Adaptive Cross-Moments**|Ahmed M. Adly et.al.|[2412.20302](http://arxiv.org/abs/2412.20302)|null|
+|**2024-12-29**|**EXAdam: The Power of Adaptive Cross-Moments**|Ahmed M. Adly et.al.|[2412.20302](http://arxiv.org/abs/2412.20302)|**[link](https://github.com/AhmedMostafa16/EXAdam)**|
 |**2024-12-28**|**Federated Unlearning with Gradient Descent and Conflict Mitigation**|Zibin Pan et.al.|[2412.20200](http://arxiv.org/abs/2412.20200)|**[link](https://github.com/zibinpan/FedOSD)**|
 |**2024-12-28**|**Gradient Descent Methods for Regularized Optimization**|Filip Nikolovski et.al.|[2412.20115](http://arxiv.org/abs/2412.20115)|null|
 |**2024-12-28**|**Self-Assembly of a Biologically Plausible Learning Circuit**|Qianli Liao et.al.|[2412.20018](http://arxiv.org/abs/2412.20018)|null|
@@ -10371,7 +10371,7 @@ layout: default
 |**2025-04-09**|**Better Decisions through the Right Causal World Model**|Elisabeth Dillies et.al.|[2504.07257](http://arxiv.org/abs/2504.07257)|null|
 |**2025-04-09**|**Reinforcement Learning Dynamics of Network Vaccination and Hysteresis: A Double-Edged Sword for Addressing Vaccine Hesitancy**|Atticus McWhorter et.al.|[2504.07254](http://arxiv.org/abs/2504.07254)|**[link](https://github.com/amcwhorter/vaccine_games)**|
 |**2025-04-09**|**Kernpiler: Compiler Optimization for Quantum Hamiltonian Simulation with Partial Trotterization**|Ethan Decker et.al.|[2504.07214](http://arxiv.org/abs/2504.07214)|null|
-|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|null|
+|**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095](http://arxiv.org/abs/2504.07095)|**[link](https://github.com/OamIcs/MoSim)**|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091](http://arxiv.org/abs/2504.07091)|**[link](https://github.com/cassidylaidlaw/minecraft-building-assistance-game)**|
 |**2025-04-09**|**A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility**|Andreas Hochlehnert et.al.|[2504.07086](http://arxiv.org/abs/2504.07086)|null|
 |**2025-04-09**|**To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning**|Tian Qin et.al.|[2504.07052](http://arxiv.org/abs/2504.07052)|null|
@@ -10502,7 +10502,7 @@ layout: default
 |**2025-04-07**|**Probabilistic Pontryagin's Maximum Principle for Continuous-Time Model-Based Reinforcement Learning**|David Leeftink et.al.|[2504.02543](http://arxiv.org/abs/2504.02543)|**[link](https://github.com/DavidLeeftink/probabilistic-pontryagin-control)**|
 |**2025-04-05**|**Inference-Time Scaling for Generalist Reward Modeling**|Zijun Liu et.al.|[2504.02495](http://arxiv.org/abs/2504.02495)|null|
 |**2025-04-03**|**Hierarchical Policy-Gradient Reinforcement Learning for Multi-Agent Shepherding Control of Non-Cohesive Targets**|Stefano Covone et.al.|[2504.02479](http://arxiv.org/abs/2504.02479)|**[link](https://github.com/sincrogroup/hierarchical-policy-gradient-rl-for-multi-agent-shepherding-control-of-non-cohesive-targets)**|
-|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|**[link](https://github.com/wutad-wjy/charms)**|
 |**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[2504.02420](http://arxiv.org/abs/2504.02420)|null|
 |**2025-04-03**|**F5R-TTS: Improving Flow Matching based Text-to-Speech with Group Relative Policy Optimization**|Xiaohui Sun et.al.|[2504.02407](http://arxiv.org/abs/2504.02407)|null|
 |**2025-04-03**|**Reinforcement Learning for Solving the Pricing Problem in Column Generation: Applications to Vehicle Routing**|Abdo Abouelrous et.al.|[2504.02383](http://arxiv.org/abs/2504.02383)|null|
@@ -12735,7 +12735,7 @@ layout: default
 |**2024-11-26**|**Multi-Objective Reinforcement Learning for Automated Resilient Cyber Defence**|Ross O'Driscoll et.al.|[2411.17585](http://arxiv.org/abs/2411.17585)|null|
 |**2024-11-26**|**Ensuring Safety in Target Pursuit Control: A CBF-Safe Reinforcement Learning Approach**|Yaosheng Deng et.al.|[2411.17552](http://arxiv.org/abs/2411.17552)|null|
 |**2024-11-26**|**IMPROVE: Improving Medical Plausibility without Reliance on HumanValidation -- An Enhanced Prototype-Guided Diffusion Framework**|Anurag Shandilya et.al.|[2411.17535](http://arxiv.org/abs/2411.17535)|null|
-|**2024-12-03**|**BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving**|Teng Wang et.al.|[2411.17404](http://arxiv.org/abs/2411.17404)|null|
+|**2024-12-03**|**BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving**|Teng Wang et.al.|[2411.17404](http://arxiv.org/abs/2411.17404)|**[link](https://github.com/tengwang0318/structuredor)**|
 |**2024-11-26**|**Joint Combinatorial Node Selection and Resource Allocations in the Lightning Network using Attention-based Reinforcement Learning**|Mahdi Salahshour et.al.|[2411.17353](http://arxiv.org/abs/2411.17353)|null|
 |**2024-11-26**|**Self-reconfiguration Strategies for Space-distributed Spacecraft**|Tianle Liu et.al.|[2411.17137](http://arxiv.org/abs/2411.17137)|null|
 |**2024-11-26**|**LLM-Based Offline Learning for Embodied Agents via Consistency-Guided Reward Ensemble**|Yujeong Lee et.al.|[2411.17135](http://arxiv.org/abs/2411.17135)|null|
@@ -13702,7 +13702,7 @@ layout: default
 |**2024-10-02**|**Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models**|Angela Lopez-Cardona et.al.|[2410.01532](http://arxiv.org/abs/2410.01532)|**[link](https://github.com/telefonica-scientific-research/gaze_reward)**|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
 |**2024-10-02**|**From Reward Shaping to Q-Shaping: Achieving Unbiased Learning with LLM-Guided Knowledge**|Xiefeng Wu et.al.|[2410.01458](http://arxiv.org/abs/2410.01458)|null|
-|**2024-10-02**|**Adaptive teachers for amortized samplers**|Minsu Kim et.al.|[2410.01432](http://arxiv.org/abs/2410.01432)|null|
+|**2024-10-02**|**Adaptive teachers for amortized samplers**|Minsu Kim et.al.|[2410.01432](http://arxiv.org/abs/2410.01432)|**[link](https://github.com/alstn12088/adaptive-teacher)**|
 |**2024-10-02**|**Scalable Reinforcement Learning-based Neural Architecture Search**|Amber Cassimon et.al.|[2410.01431](http://arxiv.org/abs/2410.01431)|null|
 |**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/abs/2410.01364)|null|
 |**2024-10-02**|**Life, uh, Finds a Way: Systematic Neural Search**|Alex Baranski et.al.|[2410.01349](http://arxiv.org/abs/2410.01349)|null|
@@ -17004,7 +17004,7 @@ layout: default
 |**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
 |**2024-02-25**|**How Can LLM Guide RL? A Value-Based Approach**|Shenao Zhang et.al.|[2402.16181](http://arxiv.org/abs/2402.16181)|**[link](https://github.com/agentification/language-integrated-vi)**|
 |**2024-02-25**|**GenNBV: Generalizable Next-Best-View Policy for Active 3D Reconstruction**|Xiao Chen et.al.|[2402.16174](http://arxiv.org/abs/2402.16174)|**[link](https://github.com/zjwzcx/GenNBV)**|
-|**2024-02-27**|**Citation-Enhanced Generation for LLM-based Chatbot**|Weitao Li et.al.|[2402.16063](http://arxiv.org/abs/2402.16063)|null|
+|**2024-02-27**|**Citation-Enhanced Generation for LLM-based Chatbot**|Weitao Li et.al.|[2402.16063](http://arxiv.org/abs/2402.16063)|**[link](https://github.com/tsinghua-dhy/ceg)**|
 |**2024-02-25**|**LLMs with Chain-of-Thought Are Non-Causal Reasoners**|Guangsheng Bao et.al.|[2402.16048](http://arxiv.org/abs/2402.16048)|**[link](https://github.com/stevenzhb/cot_causal_analysis)**|
 |**2024-02-25**|**Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios**|Hamidreza Kasaei et.al.|[2402.16045](http://arxiv.org/abs/2402.16045)|null|
 |**2024-02-25**|**Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration**|Xin Mao et.al.|[2402.16030](http://arxiv.org/abs/2402.16030)|**[link](https://github.com/maoxinn/vcb)**|
