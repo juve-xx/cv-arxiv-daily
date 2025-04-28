@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**E-InMeMo: Enhanced Prompting for Visual In-Context Learning**|Jiahao Zhang et.al.|[2504.18158](http://arxiv.org/abs/2504.18158)|null|
+|**2025-04-25**|**Application and Optimization of Large Models Based on Prompt Tuning for Fact-Check-Worthiness Estimation**|Yinglong Yu et.al.|[2504.18104](http://arxiv.org/abs/2504.18104)|null|
 |**2025-04-24**|**Does Knowledge Distillation Matter for Large Language Model based Bundle Generation?**|Kaidong Feng et.al.|[2504.17220](http://arxiv.org/abs/2504.17220)|null|
 |**2025-04-23**|**In-Context Learning can distort the relationship between sequence likelihoods and biological fitness**|Pranav Kantroo et.al.|[2504.17068](http://arxiv.org/abs/2504.17068)|null|
 |**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801](http://arxiv.org/abs/2504.16801)|null|
@@ -3953,6 +3955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**STNet: Prediction of Underwater Sound Speed Profiles with An Advanced Semi-Transformer Neural Network**|Wei Huang et.al.|[2504.17912](http://arxiv.org/abs/2504.17912)|null|
 |**2025-04-24**|**Beyond Labels: Zero-Shot Diabetic Foot Ulcer Wound Segmentation with Self-attention Diffusion Models and the Potential for Text-Guided Customization**|Abderrachid Hamrani et.al.|[2504.17628](http://arxiv.org/abs/2504.17628)|null|
 |**2025-04-24**|**RAGAT-Mind: A Multi-Granular Modeling Approach for Rumor Detection Based on MindSpore**|Zhenkai Qin et.al.|[2504.17574](http://arxiv.org/abs/2504.17574)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
@@ -5690,6 +5693,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**The Symmetry Coefficient of Positively Homogeneous Functions**|Max Nilsson et.al.|[2504.18296](http://arxiv.org/abs/2504.18296)|null|
+|**2025-04-25**|**Gradient Descent as a Shrinkage Operator for Spectral Bias**|Simon Lucey et.al.|[2504.18207](http://arxiv.org/abs/2504.18207)|null|
+|**2025-04-25**|**Learning Operators by Regularized Stochastic Gradient Descent with Operator-valued Kernels**|Jia-Qi Yang et.al.|[2504.18184](http://arxiv.org/abs/2504.18184)|null|
+|**2025-04-25**|**Optimal Power Allocation for OFDM-based Ranging Using Random Communication Signals**|Ying Zhang et.al.|[2504.18016](http://arxiv.org/abs/2504.18016)|null|
+|**2025-04-25**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance, for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003](http://arxiv.org/abs/2504.18003)|null|
 |**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
 |**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
 |**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
@@ -7910,6 +7919,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**The Symmetry Coefficient of Positively Homogeneous Functions**|Max Nilsson et.al.|[2504.18296](http://arxiv.org/abs/2504.18296)|null|
+|**2025-04-25**|**Studying Small Language Models with Susceptibilities**|Garrett Baker et.al.|[2504.18274](http://arxiv.org/abs/2504.18274)|null|
+|**2025-04-25**|**Gradient Descent as a Shrinkage Operator for Spectral Bias**|Simon Lucey et.al.|[2504.18207](http://arxiv.org/abs/2504.18207)|null|
+|**2025-04-25**|**Learning Operators by Regularized Stochastic Gradient Descent with Operator-valued Kernels**|Jia-Qi Yang et.al.|[2504.18184](http://arxiv.org/abs/2504.18184)|null|
+|**2025-04-25**|**A Model Zoo on Phase Transitions in Neural Networks**|Konstantin Schürholt et.al.|[2504.18072](http://arxiv.org/abs/2504.18072)|null|
+|**2025-04-25**|**Modes of Sequence Models and Learning Coefficients**|Zhongtian Chen et.al.|[2504.18048](http://arxiv.org/abs/2504.18048)|null|
+|**2025-04-25**|**Optimal Power Allocation for OFDM-based Ranging Using Random Communication Signals**|Ying Zhang et.al.|[2504.18016](http://arxiv.org/abs/2504.18016)|null|
+|**2025-04-25**|**Self-Balancing, Memory Efficient, Dynamic Metric Space Data Maintenance, for Rapid Multi-Kernel Estimation**|Aditya S Ellendula et.al.|[2504.18003](http://arxiv.org/abs/2504.18003)|null|
 |**2025-04-24**|**The effects of Hessian eigenvalue spectral density type on the applicability of Hessian analysis to generalization capability assessment of neural networks**|Nikita Gabdullin et.al.|[2504.17618](http://arxiv.org/abs/2504.17618)|null|
 |**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
 |**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
@@ -10092,6 +10110,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376](http://arxiv.org/abs/2504.18376)|null|
+|**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371](http://arxiv.org/abs/2504.18371)|null|
+|**2025-04-25**|**Deep Reinforcement Learning Based Navigation with Macro Actions and Topological Maps**|Simon Hakenes et.al.|[2504.18300](http://arxiv.org/abs/2504.18300)|null|
+|**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253](http://arxiv.org/abs/2504.18253)|null|
+|**2025-04-25**|**Aligning Language Models for Icelandic Legal Text Summarization**|Þórir Hrafn Harðarson et.al.|[2504.18180](http://arxiv.org/abs/2504.18180)|null|
+|**2025-04-25**|**Learning from Less: SINDy Surrogates in RL**|Aniket Dixit et.al.|[2504.18113](http://arxiv.org/abs/2504.18113)|null|
+|**2025-04-25**|**RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping**|Atsushi Kanehira et.al.|[2504.18084](http://arxiv.org/abs/2504.18084)|null|
+|**2025-04-25**|**LLM-Guided Open RAN: Empowering Hierarchical RAN Intelligent Control**|Lingyan Bao et.al.|[2504.18062](http://arxiv.org/abs/2504.18062)|null|
+|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053](http://arxiv.org/abs/2504.18053)|null|
+|**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[2504.18010](http://arxiv.org/abs/2504.18010)|null|
+|**2025-04-24**|**Do We Need Transformers to Play FPS Video Games?**|Karmanbir Batth et.al.|[2504.17891](http://arxiv.org/abs/2504.17891)|null|
+|**2025-04-24**|**High-Performance Reinforcement Learning on Spot: Optimizing Simulation Parameters with Distributional Measures**|A. J Miller et.al.|[2504.17857](http://arxiv.org/abs/2504.17857)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
+|**2025-04-24**|**The Role of Open-Source LLMs in Shaping the Future of GeoAI**|Xiao Huang et.al.|[2504.17833](http://arxiv.org/abs/2504.17833)|null|
 |**2025-04-24**|**Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control**|Haochen Wang et.al.|[2504.17771](http://arxiv.org/abs/2504.17771)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
 |**2025-04-24**|**Applied Sheaf Theory For Multi-agent Artificial Intelligence (Reinforcement Learning) Systems: A Prospectus**|Eric Schmid et.al.|[2504.17700](http://arxiv.org/abs/2504.17700)|null|
