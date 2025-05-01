@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2447,7 +2447,7 @@ layout: default
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
-|**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
+|**2025-04-30**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
 |**2025-04-28**|**ICL CIPHERS: Quantifying "Learning'' in In-Context Learning via Substitution Ciphers**|Zhouxiang Fang et.al.|[2504.19395](http://arxiv.org/abs/2504.19395)|null|
 |**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|null|
 |**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827](http://arxiv.org/abs/2504.18827)|null|
@@ -10201,10 +10201,10 @@ layout: default
 |**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
 |**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
-|**2025-04-27**|**LLMs for Engineering: Teaching Models to Design High Powered Rockets**|Toby Simonds et.al.|[2504.19394](http://arxiv.org/abs/2504.19394)|null|
+|**2025-04-29**|**LLMs for Engineering: Teaching Models to Design High Powered Rockets**|Toby Simonds et.al.|[2504.19394](http://arxiv.org/abs/2504.19394)|null|
 |**2025-04-27**|**HyperController: A Hyperparameter Controller for Fast and Stable Training of Reinforcement Learning Neural Networks**|Jonathan Gornet et.al.|[2504.19382](http://arxiv.org/abs/2504.19382)|null|
 |**2025-04-27**|**$O(1/k)$ Finite-Time Bound for Non-Linear Two-Time-Scale Stochastic Approximation**|Siddharth Chandak et.al.|[2504.19375](http://arxiv.org/abs/2504.19375)|null|
-|**2025-04-27**|**Contextual Online Uncertainty-Aware Preference Learning for Human Feedback**|Nan Lu et.al.|[2504.19342](http://arxiv.org/abs/2504.19342)|null|
+|**2025-04-29**|**Contextual Online Uncertainty-Aware Preference Learning for Human Feedback**|Nan Lu et.al.|[2504.19342](http://arxiv.org/abs/2504.19342)|null|
 |**2025-04-27**|**Deep Reinforcement Learning for Automated Web GUI Testing**|Zhiyu Gu et.al.|[2504.19237](http://arxiv.org/abs/2504.19237)|null|
 |**2025-04-27**|**SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**|Jiaqi Chen et.al.|[2504.19162](http://arxiv.org/abs/2504.19162)|null|
 |**2025-04-27**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142](http://arxiv.org/abs/2504.19142)|null|
