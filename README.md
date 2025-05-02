@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661](http://arxiv.org/abs/2505.00661)|null|
+|**2025-04-30**|**AdaptMI: Adaptive Skill-based In-context Math Instruction for Small Language Models**|Yinghui He et.al.|[2505.00147](http://arxiv.org/abs/2505.00147)|null|
 |**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
 |**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
 |**2025-04-30**|**In a Few Words: Comparing Weak Supervision and LLMs for Short Query Intent Classification**|Daria Alexander et.al.|[2504.21398](http://arxiv.org/abs/2504.21398)|null|
@@ -3996,6 +3998,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
+|**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
+|**2025-05-01**|**Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting**|Xinlong Zhao et.al.|[2505.00302](http://arxiv.org/abs/2505.00302)|null|
+|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186](http://arxiv.org/abs/2505.00186)|null|
+|**2025-04-29**|**From Attention to Atoms: Spectral Dictionary Learning for Fast, Interpretable Language Models**|Andrew Kiruluta et.al.|[2505.00033](http://arxiv.org/abs/2505.00033)|null|
 |**2025-04-30**|**MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**|Mengting Wei et.al.|[2504.21497](http://arxiv.org/abs/2504.21497)|null|
 |**2025-04-30**|**Can We Achieve Efficient Diffusion without Self-Attention? Distilling Self-Attention into Convolutions**|ZiYi Dong et.al.|[2504.21292](http://arxiv.org/abs/2504.21292)|null|
 |**2025-04-30**|**A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation**|Zhikai Wang et.al.|[2504.21270](http://arxiv.org/abs/2504.21270)|null|
@@ -5753,6 +5760,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Functional Multidimensional Scaling**|Liting Li et.al.|[2505.00253](http://arxiv.org/abs/2505.00253)|null|
 |**2025-04-30**|**Deep Learning Optimization Using Self-Adaptive Weighted Auxiliary Variables**|Yaru Liu et.al.|[2504.21501](http://arxiv.org/abs/2504.21501)|null|
 |**2025-04-29**|**MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability**|Wenxin Chen et.al.|[2504.20908](http://arxiv.org/abs/2504.20908)|null|
 |**2025-04-28**|**The Dark Side of Digital Twins: Adversarial Attacks on AI-Driven Water Forecasting**|Mohammadhossein Homaei et.al.|[2504.20295](http://arxiv.org/abs/2504.20295)|null|
@@ -8000,6 +8008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Functional Multidimensional Scaling**|Liting Li et.al.|[2505.00253](http://arxiv.org/abs/2505.00253)|null|
 |**2025-04-30**|**Deep Learning Optimization Using Self-Adaptive Weighted Auxiliary Variables**|Yaru Liu et.al.|[2504.21501](http://arxiv.org/abs/2504.21501)|null|
 |**2025-04-29**|**MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability**|Wenxin Chen et.al.|[2504.20908](http://arxiv.org/abs/2504.20908)|null|
 |**2025-04-29**|**Physics-Informed Neural Network for Parameter Identification: a Buck Converter Case Study**|Shuyu Ou et.al.|[2504.20528](http://arxiv.org/abs/2504.20528)|null|
@@ -10208,6 +10217,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
+|**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671](http://arxiv.org/abs/2505.00671)|null|
+|**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668](http://arxiv.org/abs/2505.00668)|null|
+|**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663](http://arxiv.org/abs/2505.00663)|null|
+|**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/abs/2505.00662)|null|
+|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
+|**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
+|**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
+|**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
+|**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
+|**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
+|**2025-05-01**|**MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**|Vamshi Kumar Kurva et.al.|[2505.00488](http://arxiv.org/abs/2505.00488)|null|
+|**2025-05-01**|**Approximation to Deep Q-Network by Stochastic Delay Differential Equations**|Jianya Lu et.al.|[2505.00382](http://arxiv.org/abs/2505.00382)|null|
+|**2025-05-01**|**Reinforcement Learning with Continuous Actions Under Unmeasured Confounding**|Yuhan Li et.al.|[2505.00304](http://arxiv.org/abs/2505.00304)|null|
+|**2025-05-01**|**Intelligent Task Scheduling for Microservices via A3C-Based Reinforcement Learning**|Yang Wang et.al.|[2505.00299](http://arxiv.org/abs/2505.00299)|null|
+|**2025-04-30**|**Investigating Adaptive Tuning of Assistive Exoskeletons Using Offline Reinforcement Learning: Challenges and Insights**|Yasin Findik et.al.|[2505.00201](http://arxiv.org/abs/2505.00201)|null|
+|**2025-04-30**|**Neuroevolution of Self-Attention Over Proto-Objects**|Rafael C. Pinto et.al.|[2505.00186](http://arxiv.org/abs/2505.00186)|null|
+|**2025-04-30**|**Deep Reinforcement Learning Policies for Underactuated Satellite Attitude Control**|Matteo El Hariry et.al.|[2505.00165](http://arxiv.org/abs/2505.00165)|null|
+|**2025-04-30**|**TinyMA-IEI-PPO: Exploration Incentive-Driven Multi-Agent DRL with Self-Adaptive Pruning for Vehicular Embodied AI Agent Twins Migration**|Zhuoqi Zeng et.al.|[2505.00055](http://arxiv.org/abs/2505.00055)|null|
+|**2025-04-30**|**Base Models Beat Aligned Models at Randomness and Creativity**|Peter West et.al.|[2505.00047](http://arxiv.org/abs/2505.00047)|null|
 |**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/abs/2504.21801)|null|
 |**2025-04-30**|**Reconciling Discrete-Time Mixed Policies and Continuous-Time Relaxed Controls in Reinforcement Learning and Stochastic Control**|Rene Carmona et.al.|[2504.21793](http://arxiv.org/abs/2504.21793)|null|
 |**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
