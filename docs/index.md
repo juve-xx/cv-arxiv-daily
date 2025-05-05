@@ -10799,7 +10799,7 @@ layout: default
 |**2025-03-28**|**Policy Optimization and Multi-agent Reinforcement Learning for Mean-variance Team Stochastic Games**|Junkai Hu et.al.|[2503.22779](http://arxiv.org/abs/2503.22779)|null|
 |**2025-03-28**|**Invariant Control Strategies for Active Flow Control using Graph Neural Networks**|Marius Kurz et.al.|[2503.22775](http://arxiv.org/abs/2503.22775)|null|
 |**2025-03-26**|**Reasoning Beyond Limits: Advances and Open Problems for LLMs**|Mohamed Amine Ferrag et.al.|[2503.22732](http://arxiv.org/abs/2503.22732)|null|
-|**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|null|
+|**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|**[link](https://github.com/RizanSM/zero_shot_llms_in_HIL_RL)**|
 |**2025-03-26**|**PlatMetaX: An Integrated MATLAB platform for Meta-Black-Box Optimization**|Xu Yang et.al.|[2503.22722](http://arxiv.org/abs/2503.22722)|**[link](https://github.com/yxxx616/platmetax)**|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Reinforcement Learning for Machine Learning Model Deployment: Evaluating Multi-Armed Bandits in ML Ops Environments**|S. Aaron McClendon et.al.|[2503.22595](http://arxiv.org/abs/2503.22595)|null|
