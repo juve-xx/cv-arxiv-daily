@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4047,7 +4047,7 @@ layout: default
 |**2025-04-12**|**Multi-modal and Multi-view Fundus Image Fusion for Retinopathy Diagnosis via Multi-scale Cross-attention and Shifted Window Self-attention**|Yonghao Huang et.al.|[2504.09106](http://arxiv.org/abs/2504.09106)|null|
 |**2025-04-12**|**Multi-Modal Brain Tumor Segmentation via 3D Multi-Scale Self-attention and Cross-attention**|Yonghao Huang et.al.|[2504.09088](http://arxiv.org/abs/2504.09088)|null|
 |**2025-04-12**|**A Visual Self-attention Mechanism Facial Expression Recognition Network beyond Convnext**|Bingyu Nan et.al.|[2504.09077](http://arxiv.org/abs/2504.09077)|null|
-|**2025-04-11**|**Adaptive Additive Parameter Updates of Vision Transformers for Few-Shot Continual Learning**|Kyle Stein et.al.|[2504.08982](http://arxiv.org/abs/2504.08982)|null|
+|**2025-05-04**|**Adaptive Additive Parameter Updates of Vision Transformers for Few-Shot Continual Learning**|Kyle Stein et.al.|[2504.08982](http://arxiv.org/abs/2504.08982)|null|
 |**2025-04-08**|**A temporal scale transformer framework for precise remaining useful life prediction in fuel cells**|Zezhi Tang et.al.|[2504.08803](http://arxiv.org/abs/2504.08803)|null|
 |**2025-04-08**|**Learnable Multi-Scale Wavelet Transformer: A Novel Alternative to Self-Attention**|Andrew Kiruluta et.al.|[2504.08801](http://arxiv.org/abs/2504.08801)|null|
 |**2025-03-23**|**Recommendation System in Advertising and Streaming Media: Unsupervised Data Enhancement Sequence Suggestions**|Kowei Shih et.al.|[2504.08740](http://arxiv.org/abs/2504.08740)|null|
@@ -10216,7 +10216,7 @@ layout: default
 |**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
 |**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
 |**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
-|**2025-05-01**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
+|**2025-05-05**|**Variational OOD State Correction for Offline Reinforcement Learning**|Ke Jiang et.al.|[2505.00503](http://arxiv.org/abs/2505.00503)|null|
 |**2025-05-01**|**Implicit Neural-Representation Learning for Elastic Deformable-Object Manipulations**|Minseok Song et.al.|[2505.00500](http://arxiv.org/abs/2505.00500)|null|
 |**2025-05-01**|**MULE: Multi-terrain and Unknown Load Adaptation for Effective Quadrupedal Locomotion**|Vamshi Kumar Kurva et.al.|[2505.00488](http://arxiv.org/abs/2505.00488)|null|
 |**2025-05-01**|**Approximation to Deep Q-Network by Stochastic Delay Differential Equations**|Jianya Lu et.al.|[2505.00382](http://arxiv.org/abs/2505.00382)|null|
