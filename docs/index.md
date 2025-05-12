@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4042,7 +4042,7 @@ layout: default
 |**2025-04-23**|**SoCov: Semi-Orthogonal Parametric Pooling of Covariance Matrix for Speaker Recognition**|Rongjin Li et.al.|[2504.16441](http://arxiv.org/abs/2504.16441)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
 |**2025-04-22**|**Quantum Doubly Stochastic Transformers**|Jannis Born et.al.|[2504.16275](http://arxiv.org/abs/2504.16275)|null|
-|**2025-04-24**|**SeizureFormer: A Transformer Model for IEA-Based Seizure Risk Forecasting**|Tianning Feng et.al.|[2504.16098](http://arxiv.org/abs/2504.16098)|null|
+|**2025-05-09**|**SeizureFormer: A Transformer Model for IEA-Based Seizure Risk Forecasting**|Tianning Feng et.al.|[2504.16098](http://arxiv.org/abs/2504.16098)|null|
 |**2025-04-13**|**A CNN-based Local-Global Self-Attention via Averaged Window Embeddings for Hierarchical ECG Analysis**|Arthur Buzelin et.al.|[2504.16097](http://arxiv.org/abs/2504.16097)|null|
 |**2025-04-22**|**Universal Approximation with Softmax Attention**|Jerry Yao-Chieh Hu et.al.|[2504.15956](http://arxiv.org/abs/2504.15956)|null|
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
@@ -10349,7 +10349,7 @@ layout: default
 |**2025-05-06**|**Sustainable Smart Farm Networks: Enhancing Resilience and Efficiency with Decision Theory-Guided Deep Reinforcement Learning**|Dian Chen et.al.|[2505.03721](http://arxiv.org/abs/2505.03721)|null|
 |**2025-05-06**|**Actor-Critics Can Achieve Optimal Sample Efficiency**|Kevin Tan et.al.|[2505.03710](http://arxiv.org/abs/2505.03710)|null|
 |**2025-05-06**|**Policy Gradient Adaptive Control for the LQR: Indirect and Direct Approaches**|Feiran Zhao et.al.|[2505.03706](http://arxiv.org/abs/2505.03706)|null|
-|**2025-05-06**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586](http://arxiv.org/abs/2505.03586)|null|
+|**2025-05-09**|**Rainbow Delay Compensation: A Multi-Agent Reinforcement Learning Framework for Mitigating Delayed Observation**|Songchen Fu et.al.|[2505.03586](http://arxiv.org/abs/2505.03586)|null|
 |**2025-05-06**|**Ergodic Generative Flows**|Leo Maxime Brunswic et.al.|[2505.03561](http://arxiv.org/abs/2505.03561)|null|
 |**2025-05-06**|**Multi-Agent Reinforcement Learning Scheduling to Support Low Latency in Teleoperated Driving**|Giacomo Avanzi et.al.|[2505.03558](http://arxiv.org/abs/2505.03558)|null|
 |**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
@@ -10371,7 +10371,7 @@ layout: default
 |**2025-05-05**|**Direct Retrieval-augmented Optimization: Synergizing Knowledge Selection and Language Models**|Zhengliang Shi et.al.|[2505.03075](http://arxiv.org/abs/2505.03075)|**[link](https://github.com/mangopy/direct-rag-learning)**|
 |**2025-05-05**|**A Fully Data-Driven Value Iteration for Stochastic LQR: Convergence, Robustness and Stability**|Leilei Cui et.al.|[2505.02970](http://arxiv.org/abs/2505.02970)|null|
 |**2025-05-05**|**A Wireless Collaborated Inference Acceleration Framework for Plant Disease Recognition**|Hele Zhu et.al.|[2505.02877](http://arxiv.org/abs/2505.02877)|null|
-|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|**[link](https://github.com/yfzhang114/r1_reward)**|
+|**2025-05-09**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|**[link](https://github.com/yfzhang114/r1_reward)**|
 |**2025-05-05**|**TWIST: Teleoperated Whole-Body Imitation System**|Yanjie Ze et.al.|[2505.02833](http://arxiv.org/abs/2505.02833)|null|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|**[link](https://github.com/ucscirkm/sim-rag)**|
 |**2025-05-05**|**Teaching the social media generation: rethinking learning without sacrificing quality**|Sepinoud Azimi et.al.|[2505.02770](http://arxiv.org/abs/2505.02770)|null|
