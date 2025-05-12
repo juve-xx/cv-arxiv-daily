@@ -3692,7 +3692,7 @@
 |**2024-04-01**|**Self-Demos: Eliciting Out-of-Demonstration Generalizability in Large Language Models**|Wei He et.al.|[2404.00884](http://arxiv.org/abs/2404.00884)|**[link](https://github.com/hewei2001/Self-Demos)**|
 |**2024-04-04**|**Extracting Social Determinants of Health from Pediatric Patient Notes Using Large Language Models: Novel Corpus and Methods**|Yujuan Fu et.al.|[2404.00826](http://arxiv.org/abs/2404.00826)|**[link](https://github.com/uw-bionlp/pedshac)**|
 |**2024-03-31**|**RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation**|Chi-Min Chan et.al.|[2404.00610](http://arxiv.org/abs/2404.00610)|null|
-|**2024-03-31**|**ParaICL: Towards Robust Parallel In-Context Learning**|Xingxuan Li et.al.|[2404.00570](http://arxiv.org/abs/2404.00570)|null|
+|**2024-03-31**|**ParaICL: Towards Robust Parallel In-Context Learning**|Xingxuan Li et.al.|[2404.00570](http://arxiv.org/abs/2404.00570)|**[link](https://github.com/xingxuanli/paraicl)**|
 |**2024-03-30**|**Edinburgh Clinical NLP at SemEval-2024 Task 2: Fine-tune your model unless you have access to GPT-4**|Aryo Pradipta Gema et.al.|[2404.00484](http://arxiv.org/abs/2404.00484)|**[link](https://github.com/EdinburghClinicalNLP/semeval_nli4ct)**|
 |**2024-03-30**|**Exploring Unseen Environments with Robots using Large Language and Vision Models through a Procedurally Generated 3D Scene Representation**|Arjun P S et.al.|[2404.00318](http://arxiv.org/abs/2404.00318)|null|
 |**2024-03-30**|**DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation**|Aru Maekawa et.al.|[2404.00264](http://arxiv.org/abs/2404.00264)|**[link](https://github.com/arumaekawa/dilm)**|
@@ -3856,7 +3856,7 @@
 |**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|**[link](https://github.com/fangyihao/hgot)**|
 |**2024-02-14**|**ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization**|Feifan Song et.al.|[2402.09320](http://arxiv.org/abs/2402.09320)|**[link](https://github.com/f2-song/icdpo)**|
 |**2024-02-14**|**GrounDial: Human-norm Grounded Safe Dialog Response Generation**|Siwon Kim et.al.|[2402.08968](http://arxiv.org/abs/2402.08968)|null|
-|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
+|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|**[link](https://github.com/jlrussin/icl-iwl-interplay)**|
 |**2024-02-12**|**Text-centric Alignment for Multi-Modality Learning**|Yun-Da Tsai et.al.|[2402.08086](http://arxiv.org/abs/2402.08086)|null|
 |**2024-01-29**|**Prompt4Vis: Prompting Large Language Models with Example Mining and Schema Filtering for Tabular Data Visualization**|Shuaimin Li et.al.|[2402.07909](http://arxiv.org/abs/2402.07909)|null|
 |**2024-02-15**|**Universal Link Predictor By In-Context Learning on Graphs**|Kaiwen Dong et.al.|[2402.07738](http://arxiv.org/abs/2402.07738)|null|
@@ -3977,7 +3977,7 @@
 |**2023-12-22**|**ICD-LM: Configuring Vision-Language In-Context Demonstrations by Language Modeling**|Yingzhe Peng et.al.|[2312.10104](http://arxiv.org/abs/2312.10104)|**[link](https://github.com/forjadeforest/icd-lm)**|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251](http://arxiv.org/abs/2312.09251)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis**|Sorouralsadat Fatemi et.al.|[2312.08725](http://arxiv.org/abs/2312.08725)|null|
-|**2023-12-14**|**MotherNet: A Foundational Hypernetwork for Tabular Classification**|Andreas Müller et.al.|[2312.08598](http://arxiv.org/abs/2312.08598)|null|
+|**2023-12-14**|**MotherNet: A Foundational Hypernetwork for Tabular Classification**|Andreas Müller et.al.|[2312.08598](http://arxiv.org/abs/2312.08598)|**[link](https://github.com/microsoft/ticl)**|
 |**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303](http://arxiv.org/abs/2312.08303)|null|
 |**2023-12-12**|**Can LLM find the green circle? Investigation and Human-guided tool manipulation for compositional generalization**|Min Zhang et.al.|[2312.07763](http://arxiv.org/abs/2312.07763)|null|
 |**2023-12-12**|**Designing with Language: Wireframing UI Design Intent with Generative Large Language Models**|Sidong Feng et.al.|[2312.07755](http://arxiv.org/abs/2312.07755)|null|
@@ -4372,7 +4372,7 @@
 |**2025-02-04**|**Memory Efficient Transformer Adapter for Dense Predictions**|Dong Zhang et.al.|[2502.01962](http://arxiv.org/abs/2502.01962)|null|
 |**2025-02-04**|**Rethinking Homogeneity of Vision and Text Tokens in Large Vision-and-Language Models**|Chia-Wen Kuo et.al.|[2502.01906](http://arxiv.org/abs/2502.01906)|null|
 |**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
-|**2025-02-03**|**Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563](http://arxiv.org/abs/2502.01563)|null|
+|**2025-02-03**|**Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563](http://arxiv.org/abs/2502.01563)|**[link](https://github.com/mingyuj666/rope_with_llm)**|
 |**2025-02-03**|**Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention**|Arya Honarpisheh et.al.|[2502.01473](http://arxiv.org/abs/2502.01473)|null|
 |**2025-02-20**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[2502.01387](http://arxiv.org/abs/2502.01387)|null|
 |**2025-02-03**|**Partial Channel Network: Compute Fewer, Perform Better**|Haiduo Huang et.al.|[2502.01303](http://arxiv.org/abs/2502.01303)|**[link](https://github.com/haiduo/PartialNet)**|
@@ -4658,7 +4658,7 @@
 |**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411](http://arxiv.org/abs/2411.10411)|null|
 |**2024-11-15**|**Morpho-Aware Global Attention for Image Matting**|Jingru Yang et.al.|[2411.10251](http://arxiv.org/abs/2411.10251)|null|
 |**2024-11-15**|**A Low-Resolution Image is Worth 1x1 Words: Enabling Fine Image Super-Resolution with Transformers and TaylorShift**|Sanath Budakegowdanadoddi Nagaraju et.al.|[2411.10231](http://arxiv.org/abs/2411.10231)|null|
-|**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
+|**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|**[link](https://github.com/zdk258/CorrCLIP)**|
 |**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|**[link](https://github.com/swagshaw/xlsr-mamba)**|
 |**2024-11-15**|**Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs**|Xiaofeng Zhang et.al.|[2411.09968](http://arxiv.org/abs/2411.09968)|null|
 |**2024-12-10**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420](http://arxiv.org/abs/2411.09420)|**[link](https://github.com/shravan-18/SAG-ViT)**|
@@ -4809,7 +4809,7 @@
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500](http://arxiv.org/abs/2409.20500)|null|
 |**2024-09-30**|**Neural Click Models for Recommender Systems**|Mikhail Shirokikh et.al.|[2409.20055](http://arxiv.org/abs/2409.20055)|**[link](https://github.com/arabel1a/Neural-Click-Models-for-Recommender-Systems)**|
 |**2024-09-30**|**A Self-attention Residual Convolutional Neural Network for Health Condition Classification of Cow Teat Images**|Minghao Wang et.al.|[2409.19963](http://arxiv.org/abs/2409.19963)|null|
-|**2024-09-30**|**SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers**|Nick Nikzad et.al.|[2409.19850](http://arxiv.org/abs/2409.19850)|null|
+|**2024-09-30**|**SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers**|Nick Nikzad et.al.|[2409.19850](http://arxiv.org/abs/2409.19850)|**[link](https://github.com/nick-nikzad/SATA)**|
 |**2024-09-29**|**Spiking Transformer with Spatial-Temporal Attention**|Donghyun Lee et.al.|[2409.19764](http://arxiv.org/abs/2409.19764)|**[link](https://github.com/intelligent-computing-lab-yale/statten)**|
 |**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen et.al.|[2409.19757](http://arxiv.org/abs/2409.19757)|null|
 |**2024-09-29**|**OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images**|Jiaqi Zhao et.al.|[2409.19648](http://arxiv.org/abs/2409.19648)|**[link](https://github.com/wokaikaixinxin/OrientedFormer)**|
@@ -6065,7 +6065,7 @@
 |**2025-03-04**|**Generalized Tree-Informed Mixed Model Regression**|Jeremiah Allis et.al.|[2503.02266](http://arxiv.org/abs/2503.02266)|null|
 |**2025-03-04**|**Online Inference for Quantiles by Constant Learning-Rate Stochastic Gradient Descent**|Ziyang Wei et.al.|[2503.02178](http://arxiv.org/abs/2503.02178)|null|
 |**2025-03-05**|**Nonconvex optimization and convergence of stochastic gradient descent, and solution of asynchronous game**|Kevin Buck et.al.|[2503.02155](http://arxiv.org/abs/2503.02155)|**[link](https://github.com/kevmbuck/SGD)**|
-|**2025-03-04**|**Frankenstein Optimizer: Harnessing the Potential by Revisiting Optimization Tricks**|Chia-Wei Hsu et.al.|[2503.02147](http://arxiv.org/abs/2503.02147)|null|
+|**2025-03-04**|**Frankenstein Optimizer: Harnessing the Potential by Revisiting Optimization Tricks**|Chia-Wei Hsu et.al.|[2503.02147](http://arxiv.org/abs/2503.02147)|**[link](https://github.com/acctouhou/frankenstein_optimizer)**|
 |**2025-03-03**|**Gradient-free stochastic optimization for additive models**|Arya Akhavan et.al.|[2503.02131](http://arxiv.org/abs/2503.02131)|null|
 |**2025-03-05**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|**[link](https://github.com/xchang1121/prompt_ICL)**|
 |**2025-02-26**|**Contextual Quantum Neural Networks for Stock Price Prediction**|Sharan Mourya et.al.|[2503.01884](http://arxiv.org/abs/2503.01884)|null|
@@ -7166,7 +7166,7 @@
 |**2024-06-09**|**Symmetric Matrix Completion with ReLU Sampling**|Huikang Liu et.al.|[2406.05822](http://arxiv.org/abs/2406.05822)|null|
 |**2024-06-09**|**A Generalized Version of Chung's Lemma and its Applications**|Li Jiang et.al.|[2406.05637](http://arxiv.org/abs/2406.05637)|null|
 |**2024-06-08**|**Optimal control of linear Gaussian quantum systems via quantum learning control**|Yu-Hong Liu et.al.|[2406.05597](http://arxiv.org/abs/2406.05597)|null|
-|**2024-06-11**|**Adversarial flows: A gradient flow characterization of adversarial attacks**|Lukas Weigand et.al.|[2406.05376](http://arxiv.org/abs/2406.05376)|null|
+|**2024-06-11**|**Adversarial flows: A gradient flow characterization of adversarial attacks**|Lukas Weigand et.al.|[2406.05376](http://arxiv.org/abs/2406.05376)|**[link](https://github.com/timroith/adversarialflows)**|
 |**2024-06-11**|**Exploiting Monotonicity to Design an Adaptive PI Passivity-Based Controller for a Fuel-Cell System**|Carlo A. Beltran et.al.|[2406.05350](http://arxiv.org/abs/2406.05350)|null|
 |**2024-06-07**|**Corpus Poisoning via Approximate Greedy Gradient Descent**|Jinyan Su et.al.|[2406.05087](http://arxiv.org/abs/2406.05087)|**[link](https://github.com/jinyansu1/aggd)**|
 |**2024-06-07**|**Gradient Descent on Logistic Regression with Non-Separable Data and Large Step Sizes**|Si Yi Meng et.al.|[2406.05033](http://arxiv.org/abs/2406.05033)|null|
@@ -7473,7 +7473,7 @@
 |**2024-03-25**|**Stochastic Gradient Langevin Unlearning**|Eli Chien et.al.|[2403.17105](http://arxiv.org/abs/2403.17105)|**[link](https://github.com/graph-com/sgd_unlearning)**|
 |**2024-03-25**|**Practical Acceleration of the Condat-Vũ Algorithm**|Derek Driggs et.al.|[2403.17100](http://arxiv.org/abs/2403.17100)|null|
 |**2024-03-25**|**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2403.16937](http://arxiv.org/abs/2403.16937)|**[link](https://github.com/msed-ebrahimi/dl2pa_cvpr24)**|
-|**2024-03-25**|**Backpropagation through space, time, and the brain**|Benjamin Ellenberger et.al.|[2403.16933](http://arxiv.org/abs/2403.16933)|null|
+|**2024-03-25**|**Backpropagation through space, time, and the brain**|Benjamin Ellenberger et.al.|[2403.16933](http://arxiv.org/abs/2403.16933)|**[link](https://github.com/unibe-cns/gle-code)**|
 |**2024-04-23**|**Convergence of a model-free entropy-regularized inverse reinforcement learning algorithm**|Titouan Renard et.al.|[2403.16829](http://arxiv.org/abs/2403.16829)|null|
 |**2024-03-24**|**Multi-Task Learning with Multi-Task Optimization**|Lu Bai et.al.|[2403.16162](http://arxiv.org/abs/2403.16162)|null|
 |**2024-03-24**|**Rearranged Stochastic Heat Equation: Ergodicity and Related Gradient Descent on the Space of Probability Measures**|François Delarue et.al.|[2403.16140](http://arxiv.org/abs/2403.16140)|null|
@@ -8377,7 +8377,7 @@
 |**2025-03-04**|**Sharpness-Aware Minimization: General Analysis and Improved Rates**|Dimitris Oikonomou et.al.|[2503.02225](http://arxiv.org/abs/2503.02225)|**[link](https://github.com/dimitris-oik/unifiedsam)**|
 |**2025-03-04**|**Online Inference for Quantiles by Constant Learning-Rate Stochastic Gradient Descent**|Ziyang Wei et.al.|[2503.02178](http://arxiv.org/abs/2503.02178)|null|
 |**2025-03-05**|**Nonconvex optimization and convergence of stochastic gradient descent, and solution of asynchronous game**|Kevin Buck et.al.|[2503.02155](http://arxiv.org/abs/2503.02155)|**[link](https://github.com/kevmbuck/SGD)**|
-|**2025-03-04**|**Frankenstein Optimizer: Harnessing the Potential by Revisiting Optimization Tricks**|Chia-Wei Hsu et.al.|[2503.02147](http://arxiv.org/abs/2503.02147)|null|
+|**2025-03-04**|**Frankenstein Optimizer: Harnessing the Potential by Revisiting Optimization Tricks**|Chia-Wei Hsu et.al.|[2503.02147](http://arxiv.org/abs/2503.02147)|**[link](https://github.com/acctouhou/frankenstein_optimizer)**|
 |**2025-03-03**|**Gradient-free stochastic optimization for additive models**|Arya Akhavan et.al.|[2503.02131](http://arxiv.org/abs/2503.02131)|null|
 |**2025-03-05**|**Provable Benefits of Task-Specific Prompts for In-context Learning**|Xiangyu Chang et.al.|[2503.02102](http://arxiv.org/abs/2503.02102)|**[link](https://github.com/xchang1121/prompt_ICL)**|
 |**2025-02-26**|**Contextual Quantum Neural Networks for Stock Price Prediction**|Sharan Mourya et.al.|[2503.01884](http://arxiv.org/abs/2503.01884)|null|
@@ -8684,7 +8684,7 @@
 |**2025-01-06**|**Evolved Quantum Boltzmann Machines**|Michele Minervini et.al.|[2501.03367](http://arxiv.org/abs/2501.03367)|null|
 |**2024-12-31**|**A novel STAP algorithm via volume cross-correlation function on the Grassmann manifold**|Jia-Mian Li et.al.|[2501.03255](http://arxiv.org/abs/2501.03255)|null|
 |**2025-01-06**|**Approximating N-Player Nash Equilibrium through Gradient Descent**|Dongge Wang et.al.|[2501.03001](http://arxiv.org/abs/2501.03001)|null|
-|**2025-01-06**|**Persistence of Backdoor-based Watermarks for Neural Networks: A Comprehensive Evaluation**|Anh Tu Ngo et.al.|[2501.02704](http://arxiv.org/abs/2501.02704)|null|
+|**2025-01-06**|**Persistence of Backdoor-based Watermarks for Neural Networks: A Comprehensive Evaluation**|Anh Tu Ngo et.al.|[2501.02704](http://arxiv.org/abs/2501.02704)|**[link](https://github.com/anhtu96/dnn-watermark-persistence)**|
 |**2025-01-05**|**Nonmonotone Spectral Analysis for Variational Inclusions**|Oday Hazaimah et.al.|[2501.02657](http://arxiv.org/abs/2501.02657)|null|
 |**2025-01-05**|**A Novel Comprehensive Multiport Network Model for Stacked Intelligent Metasurfaces (SIM) Characterization and OptimizationA**|Andrea Abrardo et.al.|[2501.02597](http://arxiv.org/abs/2501.02597)|null|
 |**2025-01-10**|**Balanced Multi-view Clustering**|Zhenglai Li et.al.|[2501.02564](http://arxiv.org/abs/2501.02564)|null|
@@ -9598,7 +9598,7 @@
 |**2024-06-09**|**Symmetric Matrix Completion with ReLU Sampling**|Huikang Liu et.al.|[2406.05822](http://arxiv.org/abs/2406.05822)|null|
 |**2024-06-09**|**A Generalized Version of Chung's Lemma and its Applications**|Li Jiang et.al.|[2406.05637](http://arxiv.org/abs/2406.05637)|null|
 |**2024-06-08**|**Optimal control of linear Gaussian quantum systems via quantum learning control**|Yu-Hong Liu et.al.|[2406.05597](http://arxiv.org/abs/2406.05597)|null|
-|**2024-06-11**|**Adversarial flows: A gradient flow characterization of adversarial attacks**|Lukas Weigand et.al.|[2406.05376](http://arxiv.org/abs/2406.05376)|null|
+|**2024-06-11**|**Adversarial flows: A gradient flow characterization of adversarial attacks**|Lukas Weigand et.al.|[2406.05376](http://arxiv.org/abs/2406.05376)|**[link](https://github.com/timroith/adversarialflows)**|
 |**2024-06-11**|**Exploiting Monotonicity to Design an Adaptive PI Passivity-Based Controller for a Fuel-Cell System**|Carlo A. Beltran et.al.|[2406.05350](http://arxiv.org/abs/2406.05350)|null|
 |**2024-06-07**|**Corpus Poisoning via Approximate Greedy Gradient Descent**|Jinyan Su et.al.|[2406.05087](http://arxiv.org/abs/2406.05087)|**[link](https://github.com/jinyansu1/aggd)**|
 |**2024-06-07**|**Gradient Descent on Logistic Regression with Non-Separable Data and Large Step Sizes**|Si Yi Meng et.al.|[2406.05033](http://arxiv.org/abs/2406.05033)|null|
@@ -9939,7 +9939,7 @@
 |**2024-03-25**|**Stochastic Gradient Langevin Unlearning**|Eli Chien et.al.|[2403.17105](http://arxiv.org/abs/2403.17105)|**[link](https://github.com/graph-com/sgd_unlearning)**|
 |**2024-03-25**|**Practical Acceleration of the Condat-Vũ Algorithm**|Derek Driggs et.al.|[2403.17100](http://arxiv.org/abs/2403.17100)|null|
 |**2024-03-25**|**Hyperspherical Classification with Dynamic Label-to-Prototype Assignment**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2403.16937](http://arxiv.org/abs/2403.16937)|**[link](https://github.com/msed-ebrahimi/dl2pa_cvpr24)**|
-|**2024-03-25**|**Backpropagation through space, time, and the brain**|Benjamin Ellenberger et.al.|[2403.16933](http://arxiv.org/abs/2403.16933)|null|
+|**2024-03-25**|**Backpropagation through space, time, and the brain**|Benjamin Ellenberger et.al.|[2403.16933](http://arxiv.org/abs/2403.16933)|**[link](https://github.com/unibe-cns/gle-code)**|
 |**2024-04-23**|**Convergence of a model-free entropy-regularized inverse reinforcement learning algorithm**|Titouan Renard et.al.|[2403.16829](http://arxiv.org/abs/2403.16829)|null|
 |**2024-03-24**|**Multi-Task Learning with Multi-Task Optimization**|Lu Bai et.al.|[2403.16162](http://arxiv.org/abs/2403.16162)|null|
 |**2024-03-24**|**Rearranged Stochastic Heat Equation: Ergodicity and Related Gradient Descent on the Space of Probability Measures**|François Delarue et.al.|[2403.16140](http://arxiv.org/abs/2403.16140)|null|
@@ -10438,7 +10438,7 @@
 |**2025-05-04**|**D3HRL: A Distributed Hierarchical Reinforcement Learning Approach Based on Causal Discovery and Spurious Correlation Detection**|Chenran Zhao et.al.|[2505.01979](http://arxiv.org/abs/2505.01979)|null|
 |**2025-05-04**|**A Goal-Oriented Reinforcement Learning-Based Path Planning Algorithm for Modular Self-Reconfigurable Satellites**|Bofei Liu et.al.|[2505.01966](http://arxiv.org/abs/2505.01966)|null|
 |**2025-05-04**|**Training Environment for High Performance Reinforcement Learning**|Greg Search et.al.|[2505.01953](http://arxiv.org/abs/2505.01953)|null|
-|**2025-05-03**|**Quantum Many-body Simulations from a Reinforcement-Learned Exponential Ansatz**|Yuchen Wang et.al.|[2505.01935](http://arxiv.org/abs/2505.01935)|null|
+|**2025-05-03**|**Quantum Many-body Simulations from a Reinforcement-Learned Exponential Ansatz**|Yuchen Wang et.al.|[2505.01935](http://arxiv.org/abs/2505.01935)|**[link](https://github.com/damazz/ml-cqe)**|
 |**2025-05-03**|**A Generalised and Adaptable Reinforcement Learning Stopping Method**|Reem Bin-Hezam et.al.|[2505.01907](http://arxiv.org/abs/2505.01907)|null|
 |**2025-05-03**|**Securing 5G and Beyond-Enabled UAV Networks: Resilience Through Multiagent Learning and Transformers Detection**|Joseanne Viana et.al.|[2505.01885](http://arxiv.org/abs/2505.01885)|null|
 |**2025-05-03**|**Deep Reinforcement Learning-Aided Frequency Control of LCC-S Resonant Converters for Wireless Power Transfer Systems**|Reza Safari et.al.|[2505.01850](http://arxiv.org/abs/2505.01850)|null|
@@ -10459,7 +10459,7 @@
 |**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
 |**2025-05-05**|**Llama-Nemotron: Efficient Reasoning Models**|Akhiad Bercovich et.al.|[2505.00949](http://arxiv.org/abs/2505.00949)|null|
 |**2025-05-01**|**Learning Neural Control Barrier Functions from Offline Data with Conservatism**|Ihab Tabbara et.al.|[2505.00908](http://arxiv.org/abs/2505.00908)|null|
-|**2025-05-07**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
+|**2025-05-07**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|**[link](https://github.com/quangpham2006/SmallPlan)**|
 |**2025-05-01**|**Constructing an Optimal Behavior Basis for the Option Keyboard**|Lucas N. Alegre et.al.|[2505.00787](http://arxiv.org/abs/2505.00787)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|**[link](https://github.com/caraj7/t2i-r1)**|
 |**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671](http://arxiv.org/abs/2505.00671)|null|
@@ -10509,7 +10509,7 @@
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
 |**2025-04-29**|**Improvements of Dark Experience Replay and Reservoir Sampling towards Better Balance between Consolidation and Plasticity**|Taisuke Kobayashi et.al.|[2504.20932](http://arxiv.org/abs/2504.20932)|null|
-|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
+|**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|**[link](https://github.com/MAGIC-AI4Med/ChestX-Reasoner)**|
 |**2025-04-29**|**Exploiting inter-agent coupling information for efficient reinforcement learning of cooperative LQR**|Shahbaz P Qadri Syed et.al.|[2504.20927](http://arxiv.org/abs/2504.20927)|null|
 |**2025-04-30**|**A Domain-Agnostic Scalable AI Safety Ensuring Framework**|Beomjun Kim et.al.|[2504.20924](http://arxiv.org/abs/2504.20924)|null|
 |**2025-04-29**|**Reinforcement Learning for LLM Reasoning Under Memory Constraints**|Alan Lee et.al.|[2504.20834](http://arxiv.org/abs/2504.20834)|null|
@@ -10520,22 +10520,22 @@
 |**2025-04-29**|**Intelligent Task Offloading in VANETs: A Hybrid AI-Driven Approach for Low-Latency and Energy Efficiency**|Tariq Qayyum et.al.|[2504.20735](http://arxiv.org/abs/2504.20735)|null|
 |**2025-04-29**|**Quantum-Enhanced Hybrid Reinforcement Learning Framework for Dynamic Path Planning in Autonomous Systems**|Sahil Tomar et.al.|[2504.20660](http://arxiv.org/abs/2504.20660)|null|
 |**2025-04-29**|**Independent Learning in Performative Markov Potential Games**|Rilind Sahitaj et.al.|[2504.20593](http://arxiv.org/abs/2504.20593)|null|
-|**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|null|
+|**2025-04-29**|**Reinforcement Learning for Reasoning in Large Language Models with One Training Example**|Yiping Wang et.al.|[2504.20571](http://arxiv.org/abs/2504.20571)|**[link](https://github.com/ypwang61/one-shot-rlvr)**|
 |**2025-04-29**|**Safe Bottom-Up Flexibility Provision from Distributed Energy Resources**|Costas Mylonas et.al.|[2504.20529](http://arxiv.org/abs/2504.20529)|null|
 |**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Haowen Sun et.al.|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
 |**2025-04-29**|**A Summary on GUI Agents with Foundation Models Enhanced by Reinforcement Learning**|Jiahao Li et.al.|[2504.20464](http://arxiv.org/abs/2504.20464)|null|
 |**2025-05-02**|**Reinforcement-learning-assisted control of four-roll mills: geometric symmetry and inertial effect**|Xuan Dai et.al.|[2504.20336](http://arxiv.org/abs/2504.20336)|null|
 |**2025-04-28**|**AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**|Weihao Sun et.al.|[2504.20187](http://arxiv.org/abs/2504.20187)|null|
 |**2025-04-27**|**Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors**|Ren-Wei Liang et.al.|[2504.20106](http://arxiv.org/abs/2504.20106)|null|
-|**2025-04-24**|**RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**|Zihan Wang et.al.|[2504.20073](http://arxiv.org/abs/2504.20073)|null|
+|**2025-04-24**|**RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**|Zihan Wang et.al.|[2504.20073](http://arxiv.org/abs/2504.20073)|**[link](https://github.com/ragen-ai/ragen)**|
 |**2025-04-28**|**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**|Wufei Ma et.al.|[2504.20024](http://arxiv.org/abs/2504.20024)|null|
 |**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[2504.20004](http://arxiv.org/abs/2504.20004)|null|
 |**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981](http://arxiv.org/abs/2504.19981)|null|
-|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
+|**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|**[link](https://github.com/hku-mars/mesh-learner)**|
 |**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933](http://arxiv.org/abs/2504.19933)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
 |**2025-04-28**|**Optimizing the Charging of Open Quantum Batteries using Long Short-Term Memory-Driven Reinforcement Learning**|Shadab Zakavati et.al.|[2504.19840](http://arxiv.org/abs/2504.19840)|null|
-|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838](http://arxiv.org/abs/2504.19838)|null|
+|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838](http://arxiv.org/abs/2504.19838)|**[link](https://github.com/phonellm/awesome-llm-powered-phone-gui-agents)**|
 |**2025-04-28**|**Reinforcement Learning-Based Heterogeneous Multi-Task Optimization in Semantic Broadcast Communications**|Zhilin Lu et.al.|[2504.19806](http://arxiv.org/abs/2504.19806)|null|
 |**2025-04-28**|**Model-based controller assisted domain randomization in deep reinforcement learning: application to nonlinear powertrain control**|Heisei Yonezawa et.al.|[2504.19715](http://arxiv.org/abs/2504.19715)|null|
 |**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
@@ -10575,7 +10575,7 @@
 |**2025-04-25**|**Learning from Less: SINDy Surrogates in RL**|Aniket Dixit et.al.|[2504.18113](http://arxiv.org/abs/2504.18113)|null|
 |**2025-04-25**|**RL-Driven Data Generation for Robust Vision-Based Dexterous Grasping**|Atsushi Kanehira et.al.|[2504.18084](http://arxiv.org/abs/2504.18084)|null|
 |**2025-04-25**|**LLM-Guided Open RAN: Empowering Hierarchical RAN Intelligent Control**|Lingyan Bao et.al.|[2504.18062](http://arxiv.org/abs/2504.18062)|null|
-|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053](http://arxiv.org/abs/2504.18053)|null|
+|**2025-04-25**|**DREAM: Disentangling Risks to Enhance Safety Alignment in Multimodal Large Language Models**|Jianyu Liu et.al.|[2504.18053](http://arxiv.org/abs/2504.18053)|**[link](https://github.com/kizna1ver/dream)**|
 |**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[2504.18010](http://arxiv.org/abs/2504.18010)|null|
 |**2025-04-24**|**Do We Need Transformers to Play FPS Video Games?**|Karmanbir Batth et.al.|[2504.17891](http://arxiv.org/abs/2504.17891)|null|
 |**2025-04-29**|**High-Performance Reinforcement Learning on Spot: Optimizing Simulation Parameters with Distributional Measures**|AJ Miller et.al.|[2504.17857](http://arxiv.org/abs/2504.17857)|null|
@@ -10619,7 +10619,7 @@
 |**2025-04-22**|**Learning Explainable Dense Reward Shapes via Bayesian Optimization**|Ryan Koo et.al.|[2504.16272](http://arxiv.org/abs/2504.16272)|null|
 |**2025-04-22**|**Quantum reinforcement learning of classical rare dynamics: Enhancement by intrinsic Fourier features**|Alissa Wilms et.al.|[2504.16258](http://arxiv.org/abs/2504.16258)|null|
 |**2025-04-22**|**Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications**|Chuang Zhang et.al.|[2504.16146](http://arxiv.org/abs/2504.16146)|null|
-|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
+|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|**[link](https://github.com/prime-rl/ttrl)**|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
 |**2025-04-22**|**Reinforcement Learning and Metaheuristics for Feynman Integral Reduction**|Mao Zeng et.al.|[2504.16045](http://arxiv.org/abs/2504.16045)|null|
 |**2025-04-22**|**The Formation of Production Networks: How Supply Chains Arise from Simple Learning with Minimal Information**|Tuong Manh Vu et.al.|[2504.16010](http://arxiv.org/abs/2504.16010)|null|
@@ -10643,7 +10643,7 @@
 |**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
 |**2025-04-22**|**Real-Time Optimal Design of Experiment for Parameter Identification of Li-Ion Cell Electrochemical Model**|Ian Mikesell et.al.|[2504.15578](http://arxiv.org/abs/2504.15578)|null|
 |**2025-04-21**|**LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning**|Pingcheng Jian et.al.|[2504.15472](http://arxiv.org/abs/2504.15472)|null|
-|**2025-04-21**|**Learning Adaptive Parallel Reasoning with Language Models**|Jiayi Pan et.al.|[2504.15466](http://arxiv.org/abs/2504.15466)|null|
+|**2025-04-21**|**Learning Adaptive Parallel Reasoning with Language Models**|Jiayi Pan et.al.|[2504.15466](http://arxiv.org/abs/2504.15466)|**[link](https://github.com/parallel-reasoning/apr)**|
 |**2025-04-21**|**Solving Multi-Agent Safe Optimal Control with Distributed Epigraph Form MARL**|Songyuan Zhang et.al.|[2504.15425](http://arxiv.org/abs/2504.15425)|null|
 |**2025-04-21**|**Post-Convergence Sim-to-Real Policy Transfer: A Principled Alternative to Cherry-Picking**|Dylan Khor et.al.|[2504.15414](http://arxiv.org/abs/2504.15414)|null|
 |**2025-04-23**|**Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**|Tianliang Yao et.al.|[2504.15327](http://arxiv.org/abs/2504.15327)|null|
@@ -10661,7 +10661,7 @@
 |**2025-04-21**|**Dynamic Legged Ball Manipulation on Rugged Terrains with Hierarchical Reinforcement Learning**|Dongjie Zhu et.al.|[2504.14989](http://arxiv.org/abs/2504.14989)|null|
 |**2025-04-21**|**Symmetry-Preserving Architecture for Multi-NUMA Environments (SPANE): A Deep Reinforcement Learning Approach for Dynamic VM Scheduling**|Tin Ping Chan et.al.|[2504.14946](http://arxiv.org/abs/2504.14946)|null|
 |**2025-04-22**|**Learning to Reason under Off-Policy Guidance**|Jianhao Yan et.al.|[2504.14945](http://arxiv.org/abs/2504.14945)|null|
-|**2025-04-21**|**Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions**|Jingzehua Xu et.al.|[2504.14894](http://arxiv.org/abs/2504.14894)|null|
+|**2025-04-21**|**Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions**|Jingzehua Xu et.al.|[2504.14894](http://arxiv.org/abs/2504.14894)|**[link](https://github.com/360zmem/usv-auv-colab)**|
 |**2025-04-21**|**OTC: Optimal Tool Calls via Reinforcement Learning**|Hongru Wang et.al.|[2504.14870](http://arxiv.org/abs/2504.14870)|null|
 |**2025-04-21**|**Establishing Reliability Metrics for Reward Models in Large Language Models**|Yizhou Chen et.al.|[2504.14838](http://arxiv.org/abs/2504.14838)|null|
 |**2025-04-21**|**An Enhanced Dual-Currency VCG Auction Mechanism for Resource Allocation in IoV: A Value of Information Perspective**|Wei Wang et.al.|[2504.14824](http://arxiv.org/abs/2504.14824)|null|
@@ -10701,14 +10701,14 @@
 |**2025-04-18**|**Not All Rollouts are Useful: Down-Sampling Rollouts in LLM Reinforcement Learning**|Yixuan Even Xu et.al.|[2504.13818](http://arxiv.org/abs/2504.13818)|null|
 |**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
 |**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
-|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Rohan P. Singh et.al.|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
+|**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Rohan P. Singh et.al.|[2504.13619](http://arxiv.org/abs/2504.13619)|**[link](https://github.com/rohanpsingh/learninghumanoidwalking)**|
 |**2025-04-18**|**Compile Scene Graphs with Reinforcement Learning**|Zuyao Chen et.al.|[2504.13617](http://arxiv.org/abs/2504.13617)|**[link](https://github.com/gpt4vision/r1-sgg)**|
 |**2025-04-21**|**Improving Generalization in Intent Detection: GRPO with Reward-Based Curriculum Sampling**|Zihao Feng et.al.|[2504.13592](http://arxiv.org/abs/2504.13592)|null|
 |**2025-04-18**|**Hysteresis-Aware Neural Network Modeling and Whole-Body Reinforcement Learning Control of Soft Robots**|Zongyuan Chen et.al.|[2504.13582](http://arxiv.org/abs/2504.13582)|null|
 |**2025-04-18**|**Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning**|Xin Tang et.al.|[2504.13554](http://arxiv.org/abs/2504.13554)|null|
 |**2025-04-18**|**SwitchMT: An Adaptive Context Switching Methodology for Scalable Multi-Task Learning in Intelligent Autonomous Agents**|Avaneesh Devkota et.al.|[2504.13541](http://arxiv.org/abs/2504.13541)|null|
-|**2025-04-18**|**Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning**|Jianing Wang et.al.|[2504.13500](http://arxiv.org/abs/2504.13500)|null|
-|**2025-04-18**|**Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure**|Ziqi Zhao et.al.|[2504.13482](http://arxiv.org/abs/2504.13482)|null|
+|**2025-04-18**|**Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning**|Jianing Wang et.al.|[2504.13500](http://arxiv.org/abs/2504.13500)|**[link](https://github.com/wjn1996/prejudge-before-think)**|
+|**2025-04-18**|**Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure**|Ziqi Zhao et.al.|[2504.13482](http://arxiv.org/abs/2504.13482)|**[link](https://github.com/ziqizhao1/caserec)**|
 |**2025-04-18**|**From Large to Super-Tiny: End-to-End Optimization for Cost-Efficient LLMs**|Jiliang Ni et.al.|[2504.13471](http://arxiv.org/abs/2504.13471)|null|
 |**2025-04-18**|**Decentralized Handover Parameter Optimization with MARL for Load Balancing in 5G Networks**|Yang Shen et.al.|[2504.13424](http://arxiv.org/abs/2504.13424)|null|
 |**2025-04-17**|**An Optimal Discriminator Weighted Imitation Perspective for Reinforcement Learning**|Haoran Xu et.al.|[2504.13368](http://arxiv.org/abs/2504.13368)|null|
@@ -10737,7 +10737,7 @@
 |**2025-04-16**|**Reasoning-Based AI for Startup Evaluation (R.A.I.S.E.): A Memory-Augmented, Multi-Step Decision Framework**|Jack Preuveneers et.al.|[2504.12090](http://arxiv.org/abs/2504.12090)|null|
 |**2025-04-16**|**pix2pockets: Shot Suggestions in 8-Ball Pool from a Single Image in the Wild**|Jonas Myhre Schiøtt et.al.|[2504.12045](http://arxiv.org/abs/2504.12045)|null|
 |**2025-04-16**|**Evolutionary Reinforcement Learning for Interpretable Decision-Making in Supply Chain Management**|Stefano Genetti et.al.|[2504.12023](http://arxiv.org/abs/2504.12023)|null|
-|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|null|
+|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|**[link](https://github.com/HammerLabML/RBC-Control-SARL)**|
 |**2025-04-16**|**A Computationally Efficient Algorithm for Infinite-Horizon Average-Reward Linear MDPs**|Kihyuk Hong et.al.|[2504.11997](http://arxiv.org/abs/2504.11997)|null|
 |**2025-04-17**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
 |**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
@@ -10822,7 +10822,7 @@
 |**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
 |**2025-04-11**|**SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning**|Peixian Ma et.al.|[2504.08600](http://arxiv.org/abs/2504.08600)|null|
 |**2025-04-11**|**Playpen: An Environment for Exploring Learning Through Conversational Interaction**|Nicola Horst et.al.|[2504.08590](http://arxiv.org/abs/2504.08590)|null|
-|**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|null|
+|**2025-04-11**|**Slicing the Gaussian Mixture Wasserstein Distance**|Moritz Piening et.al.|[2504.08544](http://arxiv.org/abs/2504.08544)|**[link](https://github.com/moepien/sliced_ot_for_gmms)**|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**Belief States for Cooperative Multi-Agent Reinforcement Learning under Partial Observability**|Paul J. Pritz et.al.|[2504.08417](http://arxiv.org/abs/2504.08417)|null|
 |**2025-04-11**|**Scalable Conflict-free Decision Making with Photons**|Kohei Konaka et.al.|[2504.08331](http://arxiv.org/abs/2504.08331)|null|
@@ -10885,7 +10885,7 @@
 |**2025-04-08**|**Accelerating Vehicle Routing via AI-Initialized Genetic Algorithms**|Ido Greenberg et.al.|[2504.06126](http://arxiv.org/abs/2504.06126)|null|
 |**2025-04-09**|**Robo-taxi Fleet Coordination at Scale via Reinforcement Learning**|Luigi Tresca et.al.|[2504.06125](http://arxiv.org/abs/2504.06125)|**[link](https://github.com/stanfordasl/rl4amod)**|
 |**2025-04-09**|**Leanabell-Prover: Posttraining Scaling in Formal Reasoning**|Jingyuan Zhang et.al.|[2504.06122](http://arxiv.org/abs/2504.06122)|null|
-|**2025-04-08**|**Trust-Region Twisted Policy Improvement**|Joery A. de Vries et.al.|[2504.06048](http://arxiv.org/abs/2504.06048)|null|
+|**2025-04-08**|**Trust-Region Twisted Policy Improvement**|Joery A. de Vries et.al.|[2504.06048](http://arxiv.org/abs/2504.06048)|**[link](https://github.com/joeryjoery/trtpi)**|
 |**2025-04-08**|**Information-Theoretic Reward Decomposition for Generalizable RLHF**|Liyuan Mao et.al.|[2504.06020](http://arxiv.org/abs/2504.06020)|null|
 |**2025-04-08**|**Smart Exploration in Reinforcement Learning using Bounded Uncertainty Models**|J. S. van Hulst et.al.|[2504.05978](http://arxiv.org/abs/2504.05978)|null|
 |**2025-04-08**|**AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems**|Zhuoli Zhuang et.al.|[2504.05950](http://arxiv.org/abs/2504.05950)|null|
@@ -10910,7 +10910,7 @@
 |**2025-04-05**|**Impact of Price Inflation on Algorithmic Collusion Through Reinforcement Learning Agents**|Sebastián Tinoco et.al.|[2504.05335](http://arxiv.org/abs/2504.05335)|null|
 |**2025-04-04**|**Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**|Tianliang Yao et.al.|[2504.05330](http://arxiv.org/abs/2504.05330)|null|
 |**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287](http://arxiv.org/abs/2504.05287)|null|
-|**2025-04-07**|**Concise Reasoning via Reinforcement Learning**|Mehdi Fatemi et.al.|[2504.05185](http://arxiv.org/abs/2504.05185)|null|
+|**2025-04-07**|**Concise Reasoning via Reinforcement Learning**|Mehdi Fatemi et.al.|[2504.05185](http://arxiv.org/abs/2504.05185)|**[link](https://github.com/ai-wand/concise-reasoning)**|
 |**2025-04-07**|**Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**|Kidist Amde Mekonnen et.al.|[2504.05181](http://arxiv.org/abs/2504.05181)|**[link](https://github.com/kidist-amde/ddro-direct-document-relevance-optimization)**|
 |**2025-04-07**|**RLBayes: a Bayesian Network Structure Learning Algorithm via Reinforcement Learning-Based Search Strategy**|Mingcan Wang et.al.|[2504.05167](http://arxiv.org/abs/2504.05167)|null|
 |**2025-04-11**|**A Reinforcement Learning Method for Environments with Stochastic Variables: Post-Decision Proximal Policy Optimization with Dual Critic Networks**|Leonardo Kanashiro Felizardo et.al.|[2504.05150](http://arxiv.org/abs/2504.05150)|**[link](https://github.com/leokan92/pdppo)**|
@@ -10936,7 +10936,7 @@
 |**2025-04-06**|**DRAMA: A Dynamic Packet Routing Algorithm using Multi-Agent Reinforcement Learning with Emergent Communication**|Wang Zhang et.al.|[2504.04438](http://arxiv.org/abs/2504.04438)|null|
 |**2025-04-06**|**Deliberate Planning of 3D Bin Packing on Packing Configuration Trees**|Hang Zhao et.al.|[2504.04421](http://arxiv.org/abs/2504.04421)|null|
 |**2025-04-06**|**Human-Level Competitive Pokémon via Scalable Offline Reinforcement Learning with Transformers**|Jake Grigsby et.al.|[2504.04395](http://arxiv.org/abs/2504.04395)|null|
-|**2025-04-06**|**Solving Sokoban using Hierarchical Reinforcement Learning with Landmarks**|Sergey Pastukhov et.al.|[2504.04366](http://arxiv.org/abs/2504.04366)|null|
+|**2025-04-06**|**Solving Sokoban using Hierarchical Reinforcement Learning with Landmarks**|Sergey Pastukhov et.al.|[2504.04366](http://arxiv.org/abs/2504.04366)|**[link](https://github.com/omikad/halfweg)**|
 |**2025-04-06**|**Economic Battery Storage Dispatch with Deep Reinforcement Learning from Rule-Based Demonstrations**|Manuel Sage et.al.|[2504.04326](http://arxiv.org/abs/2504.04326)|null|
 |**2025-04-05**|**Generative Market Equilibrium Models with Stable Adversarial Learning via Reinforcement**|Anastasis Kratsios et.al.|[2504.04300](http://arxiv.org/abs/2504.04300)|**[link](https://github.com/xf-shi/Reinforced-GAN)**|
 |**2025-04-05**|**ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning**|Clemens C. Christoph et.al.|[2504.04259](http://arxiv.org/abs/2504.04259)|null|
@@ -11504,7 +11504,7 @@
 |**2025-03-09**|**Precise Insulin Delivery for Artificial Pancreas: A Reinforcement Learning Optimized Adaptive Fuzzy Control Approach**|Omar Mameche et.al.|[2503.06701](http://arxiv.org/abs/2503.06701)|null|
 |**2025-03-09**|**Censoring-Aware Tree-Based Reinforcement Learning for Estimating Dynamic Treatment Regimes with Censored Outcomes**|Animesh Kumar Paul et.al.|[2503.06690](http://arxiv.org/abs/2503.06690)|null|
 |**2025-03-09**|**Reinforcement Learning with Verifiable Rewards: GRPO's Effective Loss, Dynamics, and Success Amplification**|Youssef Mroueh et.al.|[2503.06639](http://arxiv.org/abs/2503.06639)|null|
-|**2025-03-09**|**Revisiting Early Detection of Sexual Predators via Turn-level Optimization**|Jinmyeong An et.al.|[2503.06627](http://arxiv.org/abs/2503.06627)|null|
+|**2025-03-09**|**Revisiting Early Detection of Sexual Predators via Turn-level Optimization**|Jinmyeong An et.al.|[2503.06627](http://arxiv.org/abs/2503.06627)|**[link](https://github.com/jinmyeongan/scorl)**|
 |**2025-03-09**|**Inverse Reinforcement Learning for Minimum-Exposure Paths in Spatiotemporally Varying Scalar Fields**|Alexandra E. Ballentine et.al.|[2503.06611](http://arxiv.org/abs/2503.06611)|null|
 |**2025-03-09**|**Automated Proof of Polynomial Inequalities via Reinforcement Learning**|Banglong Liu et.al.|[2503.06592](http://arxiv.org/abs/2503.06592)|**[link](https://github.com/blliu6/appirl)**|
 |**2025-03-09**|**Agent models: Internalizing Chain-of-Action Generation into Reasoning models**|Yuxiang Zhang et.al.|[2503.06580](http://arxiv.org/abs/2503.06580)|**[link](https://github.com/adam-bjtu/autocoa)**|
@@ -11549,7 +11549,7 @@
 |**2025-03-10**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132](http://arxiv.org/abs/2503.05132)|**[link](https://github.com/turningpoint-ai/visualthinker-r1-zero)**|
 |**2025-03-10**|**Multi-Task Reinforcement Learning Enables Parameter Scaling**|Reginald McLean et.al.|[2503.05126](http://arxiv.org/abs/2503.05126)|null|
 |**2025-03-07**|**Multi-Robot Collaboration through Reinforcement Learning and Abstract Simulation**|Adam Labiosa et.al.|[2503.05092](http://arxiv.org/abs/2503.05092)|null|
-|**2025-03-07**|**On a Connection Between Imitation Learning and RLHF**|Teng Xiao et.al.|[2503.05079](http://arxiv.org/abs/2503.05079)|null|
+|**2025-03-07**|**On a Connection Between Imitation Learning and RLHF**|Teng Xiao et.al.|[2503.05079](http://arxiv.org/abs/2503.05079)|**[link](https://github.com/tengxiao1/DIL)**|
 |**2025-03-06**|**Provably Correct Automata Embeddings for Optimal Automata-Conditioned Reinforcement Learning**|Beyazit Yalcinkaya et.al.|[2503.05042](http://arxiv.org/abs/2503.05042)|null|
 |**2025-03-10**|**Lessons learned from field demonstrations of model predictive control and reinforcement learning for residential and commercial HVAC: A review**|Arash J. Khabbazi et.al.|[2503.05022](http://arxiv.org/abs/2503.05022)|null|
 |**2025-03-06**|**Energy-Weighted Flow Matching for Offline Reinforcement Learning**|Shiyuan Zhang et.al.|[2503.04975](http://arxiv.org/abs/2503.04975)|null|
@@ -11729,7 +11729,7 @@
 |**2025-02-27**|**Deep Reinforcement Learning based Autonomous Decision-Making for Cooperative UAVs: A Search and Rescue Real World Application**|Thomas Hickling et.al.|[2502.20326](http://arxiv.org/abs/2502.20326)|null|
 |**2025-03-03**|**On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+( $λ$,$λ$ ))-GA**|Tai Nguyen et.al.|[2502.20265](http://arxiv.org/abs/2502.20265)|null|
 |**2025-03-03**|**Explainable physics-based constraints on reinforcement learning for accelerator controls**|Jonathan Colen et.al.|[2502.20247](http://arxiv.org/abs/2502.20247)|null|
-|**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217](http://arxiv.org/abs/2502.20217)|null|
+|**2025-02-27**|**MARVEL: Multi-Agent Reinforcement Learning for constrained field-of-View multi-robot Exploration in Large-scale environments**|Jimmy Chiun et.al.|[2502.20217](http://arxiv.org/abs/2502.20217)|**[link](https://github.com/marmotlab/marvel)**|
 |**2025-02-27**|**Highly Parallelized Reinforcement Learning Training with Relaxed Assignment Dependencies**|Zhouyu He et.al.|[2502.20190](http://arxiv.org/abs/2502.20190)|**[link](https://github.com/hiprl/tianji)**|
 |**2025-02-27**|**Accelerating Model-Based Reinforcement Learning with State-Space World Models**|Maria Krinner et.al.|[2502.20168](http://arxiv.org/abs/2502.20168)|null|
 |**2025-02-27**|**SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning**|Zexiong Ma et.al.|[2502.20127](http://arxiv.org/abs/2502.20127)|null|
@@ -11879,7 +11879,7 @@
 |**2025-02-20**|**Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning**|Austin Yubo He et.al.|[2502.14372](http://arxiv.org/abs/2502.14372)|null|
 |**2025-02-20**|**PPO-MI: Efficient Black-Box Model Inversion via Proximal Policy Optimization**|Xinpeng Shou et.al.|[2502.14370](http://arxiv.org/abs/2502.14370)|null|
 |**2025-02-21**|**Is Q-learning an Ill-posed Problem?**|Philipp Wissmann et.al.|[2502.14365](http://arxiv.org/abs/2502.14365)|null|
-|**2025-02-20**|**Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective**|Ruichen Shao et.al.|[2502.14340](http://arxiv.org/abs/2502.14340)|null|
+|**2025-02-20**|**Earlier Tokens Contribute More: Learning Direct Preference Optimization From Temporal Decay Perspective**|Ruichen Shao et.al.|[2502.14340](http://arxiv.org/abs/2502.14340)|**[link](https://github.com/lotusrc/d2po)**|
 |**2025-02-20**|**Data-Driven Cooperative Output Regulation via Distributed Internal Model**|Liquan Lin et.al.|[2502.14336](http://arxiv.org/abs/2502.14336)|null|
 |**2025-02-20**|**μRL: Discovering Transient Execution Vulnerabilities Using Reinforcement Learning**|M. Caner Tol et.al.|[2502.14307](http://arxiv.org/abs/2502.14307)|null|
 |**2025-02-21**|**Drift: Decoding-time Personalized Alignments with Implicit User Preferences**|Minbeom Kim et.al.|[2502.14289](http://arxiv.org/abs/2502.14289)|null|
@@ -12126,7 +12126,7 @@
 |**2025-02-09**|**Sustainable Adaptation for Autonomous Driving with the Mixture of Progressive Experts Networ**|Yixin Cui et.al.|[2502.05943](http://arxiv.org/abs/2502.05943)|null|
 |**2025-02-09**|**Aerial Reliable Collaborative Communications for Terrestrial Mobile Users via Evolutionary Multi-Objective Deep Reinforcement Learning**|Geng Sun et.al.|[2502.05824](http://arxiv.org/abs/2502.05824)|null|
 |**2025-02-09**|**Multi-Agent Reinforcement Learning in Wireless Distributed Networks for 6G**|Jiayi Zhang et.al.|[2502.05812](http://arxiv.org/abs/2502.05812)|null|
-|**2025-02-09**|**Dynamic Pricing in the Linear Valuation Model using Shape Constraints**|Daniele Bracale et.al.|[2502.05776](http://arxiv.org/abs/2502.05776)|null|
+|**2025-02-09**|**Dynamic Pricing in the Linear Valuation Model using Shape Constraints**|Daniele Bracale et.al.|[2502.05776](http://arxiv.org/abs/2502.05776)|**[link](https://github.com/dbracale/DP_via_Antitonic_TMLR_2025)**|
 |**2025-02-09**|**PIPA: Preference Alignment as Prior-Informed Statistical Estimation**|Junbo Li et.al.|[2502.05773](http://arxiv.org/abs/2502.05773)|null|
 |**2025-02-09**|**Reinforced Lifelong Editing for Language Models**|Zherui Li et.al.|[2502.05759](http://arxiv.org/abs/2502.05759)|**[link](https://github.com/zhrli324/rledit)**|
 |**2025-02-08**|**Using agent-based models and EXplainable Artificial Intelligence (XAI) to simulate social behaviors and policy intervention scenarios: A case study of private well users in Ireland**|Rabia Asghar et.al.|[2502.05718](http://arxiv.org/abs/2502.05718)|null|
@@ -12257,7 +12257,7 @@
 |**2025-02-04**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932](http://arxiv.org/abs/2502.01932)|null|
 |**2025-02-03**|**Reinforcement Learning with Segment Feedback**|Yihan Du et.al.|[2502.01876](http://arxiv.org/abs/2502.01876)|null|
 |**2025-02-03**|**Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning**|Hanyang Zhao et.al.|[2502.01819](http://arxiv.org/abs/2502.01819)|null|
-|**2025-02-03**|**Flow-based Domain Randomization for Learning and Sequencing Robotic Skills**|Aidan Curtis et.al.|[2502.01800](http://arxiv.org/abs/2502.01800)|null|
+|**2025-02-03**|**Flow-based Domain Randomization for Learning and Sequencing Robotic Skills**|Aidan Curtis et.al.|[2502.01800](http://arxiv.org/abs/2502.01800)|**[link](https://github.com/aidan-curtis/goflow)**|
 |**2025-02-03**|**GNN-DT: Graph Neural Network Enhanced Decision Transformer for Efficient Optimization in Dynamic Environments**|Stavros Orfanoudakis et.al.|[2502.01778](http://arxiv.org/abs/2502.01778)|**[link](https://github.com/stavrosorf/dt4evs)**|
 |**2025-02-06**|**ACECODER: Acing Coder RL via Automated Test-Case Synthesis**|Huaye Zeng et.al.|[2502.01718](http://arxiv.org/abs/2502.01718)|null|
 |**2025-02-03**|**Process-Supervised Reinforcement Learning for Code Generation**|Yufan Ye et.al.|[2502.01715](http://arxiv.org/abs/2502.01715)|null|
@@ -12407,7 +12407,7 @@
 |**2025-01-27**|**The Sample Complexity of Online Reinforcement Learning: A Multi-model Perspective**|Michael Muehlebach et.al.|[2501.15910](http://arxiv.org/abs/2501.15910)|null|
 |**2025-01-27**|**MPC4RL -- A Software Package for Reinforcement Learning based on Model Predictive Control**|Dirk Reinhardt et.al.|[2501.15897](http://arxiv.org/abs/2501.15897)|null|
 |**2025-01-27**|**Benchmarking Quantum Reinforcement Learning**|Nico Meyer et.al.|[2501.15893](http://arxiv.org/abs/2501.15893)|**[link](https://github.com/nicomeyer96/qrl-benchmark)**|
-|**2025-01-27**|**FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities**|Mingyuan Li et.al.|[2501.15820](http://arxiv.org/abs/2501.15820)|null|
+|**2025-01-27**|**FuzzyLight: A Robust Two-Stage Fuzzy Approach for Traffic Signal Control Works in Real Cities**|Mingyuan Li et.al.|[2501.15820](http://arxiv.org/abs/2501.15820)|**[link](https://github.com/AdvancedAI-ComplexSystem/SmartCity)**|
 |**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802](http://arxiv.org/abs/2501.15802)|null|
 |**2025-01-27**|**Selective Experience Sharing in Reinforcement Learning Enhances Interference Management**|Madan Dahal et.al.|[2501.15735](http://arxiv.org/abs/2501.15735)|null|
 |**2025-01-26**|**Contextual Knowledge Sharing in Multi-Agent Reinforcement Learning with Decentralized Communication and Coordination**|Hung Du et.al.|[2501.15695](http://arxiv.org/abs/2501.15695)|null|
@@ -13302,7 +13302,7 @@
 |**2024-11-20**|**DRL-Based Optimization for AoI and Energy Consumption in C-V2X Enabled IoV**|Zheng Zhang et.al.|[2411.13104](http://arxiv.org/abs/2411.13104)|**[link](https://github.com/qiongwu86/drl-based-optimization-for-information-of-age-and-energy-consumption-in-c-v2x-enabled-iov)**|
 |**2024-11-25**|**ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**|Xulong Zhang et.al.|[2411.13089](http://arxiv.org/abs/2411.13089)|null|
 |**2024-11-20**|**AsymDex: Leveraging Asymmetry and Relative Motion in Learning Bimanual Dexterity**|Zhaodong Yang et.al.|[2411.13020](http://arxiv.org/abs/2411.13020)|null|
-|**2024-11-19**|**LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits**|Dimple Vijay Kochar et.al.|[2411.12930](http://arxiv.org/abs/2411.12930)|null|
+|**2024-11-19**|**LEDRO: LLM-Enhanced Design Space Reduction and Optimization for Analog Circuits**|Dimple Vijay Kochar et.al.|[2411.12930](http://arxiv.org/abs/2411.12930)|**[link](https://github.com/dimplekochar/LEDRO)**|
 |**2024-11-19**|**GenAI Assistance for Deep Reinforcement Learning-based VNF Placement and SFC Provisioning in 5G Cores**|Murat Arda Onsu et.al.|[2411.12851](http://arxiv.org/abs/2411.12851)|null|
 |**2024-11-19**|**DIETS: Diabetic Insulin Management System in Everyday Life**|Hanyu Zeng et.al.|[2411.12812](http://arxiv.org/abs/2411.12812)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|**[link](https://github.com/salmakh1/ACING)**|
@@ -13575,7 +13575,7 @@
 |**2024-11-01**|**Distributed Computation Offloading for Energy Provision Minimization in WP-MEC Networks with Multiple HAPs**|Xiaoying Liu et.al.|[2411.00397](http://arxiv.org/abs/2411.00397)|null|
 |**2024-11-01**|**Hierarchical Preference Optimization: Learning to achieve goals via feasible subgoals prediction**|Utsav Singh et.al.|[2411.00361](http://arxiv.org/abs/2411.00361)|null|
 |**2024-11-01**|**StepCountJITAI: simulation environment for RL with application to physical activity adaptive intervention**|Karine Karine et.al.|[2411.00336](http://arxiv.org/abs/2411.00336)|**[link](https://github.com/reml-lab/stepcountjitai)**|
-|**2024-10-31**|**From Easy to Hard: Tackling Quantum Problems with Learned Gadgets For Real Hardware**|Akash Kundu et.al.|[2411.00230](http://arxiv.org/abs/2411.00230)|null|
+|**2024-10-31**|**From Easy to Hard: Tackling Quantum Problems with Learned Gadgets For Real Hardware**|Akash Kundu et.al.|[2411.00230](http://arxiv.org/abs/2411.00230)|**[link](https://github.com/aqasch/gadget_rl)**|
 |**2024-10-31**|**Compositional Automata Embeddings for Goal-Conditioned Reinforcement Learning**|Beyazit Yalcinkaya et.al.|[2411.00205](http://arxiv.org/abs/2411.00205)|null|
 |**2024-10-31**|**EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization**|Mujin Cheon et.al.|[2411.00171](http://arxiv.org/abs/2411.00171)|null|
 |**2024-10-31**|**Teaching Embodied Reinforcement Learning Agents: Informativeness and Diversity of Language Use**|Jiajun Xi et.al.|[2410.24218](http://arxiv.org/abs/2410.24218)|**[link](https://github.com/sled-group/teachable_rl)**|
@@ -13967,7 +13967,7 @@
 |**2024-10-13**|**Generalization of Compositional Tasks with Logical Specification via Implicit Planning**|Duo Xu et.al.|[2410.09686](http://arxiv.org/abs/2410.09686)|null|
 |**2024-10-13**|**Integrating Reinforcement Learning and Large Language Models for Crop Production Process Management Optimization and Control through A New Knowledge-Based Deep Learning Paradigm**|Dong Chen et.al.|[2410.09680](http://arxiv.org/abs/2410.09680)|null|
 |**2024-10-12**|**OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models**|Jun Wang et.al.|[2410.09671](http://arxiv.org/abs/2410.09671)|null|
-|**2024-10-12**|**SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search**|Hanwen Du et.al.|[2410.09580](http://arxiv.org/abs/2410.09580)|null|
+|**2024-10-12**|**SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search**|Hanwen Du et.al.|[2410.09580](http://arxiv.org/abs/2410.09580)|**[link](https://github.com/ninglab/sapient)**|
 |**2024-10-12**|**TOP-ERL: Transformer-based Off-Policy Episodic Reinforcement Learning**|Ge Li et.al.|[2410.09536](http://arxiv.org/abs/2410.09536)|**[link](https://github.com/brucegeli/top_erl_iclr25)**|
 |**2024-10-12**|**HG2P: Hippocampus-inspired High-reward Graph and Model-Free Q-Gradient Penalty for Path Planning and Motion Control**|Haoran Wang et.al.|[2410.09505](http://arxiv.org/abs/2410.09505)|**[link](https://github.com/haoranwang-tj/hg2p_aclg_official)**|
 |**2024-10-12**|**ActSafe: Active Exploration with Safety Constraints for Reinforcement Learning**|Yarden As et.al.|[2410.09486](http://arxiv.org/abs/2410.09486)|null|
@@ -14162,7 +14162,7 @@
 |**2024-10-03**|**Federated Reinforcement Learning to Optimize Teleoperated Driving Networks**|Filippo Bragato et.al.|[2410.02312](http://arxiv.org/abs/2410.02312)|null|
 |**2024-10-03**|**Unsupervised Meta-Learning via Dynamic Head and Heterogeneous Task Construction for Few-Shot Classification**|Yunchuan Guan et.al.|[2410.02267](http://arxiv.org/abs/2410.02267)|**[link](https://github.com/tuantuange/dhm-uht)**|
 |**2024-10-03**|**End-to-end Driving in High-Interaction Traffic Scenarios with Reinforcement Learning**|Yueyuan Li et.al.|[2410.02253](http://arxiv.org/abs/2410.02253)|null|
-|**2024-10-03**|**C-MORL: Multi-Objective Reinforcement Learning through Efficient Discovery of Pareto Front**|Ruohong Liu et.al.|[2410.02236](http://arxiv.org/abs/2410.02236)|null|
+|**2024-10-03**|**C-MORL: Multi-Objective Reinforcement Learning through Efficient Discovery of Pareto Front**|Ruohong Liu et.al.|[2410.02236](http://arxiv.org/abs/2410.02236)|**[link](https://github.com/ruohliuq/c-morl)**|
 |**2024-10-03**|**CodePMP: Scalable Preference Model Pretraining for Large Language Model Reasoning**|Huimu Yu et.al.|[2410.02229](http://arxiv.org/abs/2410.02229)|null|
 |**2024-10-03**|**Doubly Optimal Policy Evaluation for Reinforcement Learning**|Shuze Liu et.al.|[2410.02226](http://arxiv.org/abs/2410.02226)|null|
 |**2024-10-03**|**General Preference Modeling with Preference Representations for Aligning Language Models**|Yifan Zhang et.al.|[2410.02197](http://arxiv.org/abs/2410.02197)|**[link](https://github.com/general-preference/general-preference-model)**|
@@ -14402,7 +14402,7 @@
 |**2024-09-20**|**From Cognition to Precognition: A Future-Aware Framework for Social Navigation**|Zeying Gong et.al.|[2409.13244](http://arxiv.org/abs/2409.13244)|**[link](https://github.com/Zeying-Gong/Falcon)**|
 |**2024-09-25**|**RLHFuse: Efficient RLHF Training for Large Language Models with Inter- and Intra-Stage Fusion**|Yinmin Zhong et.al.|[2409.13221](http://arxiv.org/abs/2409.13221)|null|
 |**2024-09-20**|**Guaranteed Reach-Avoid for Black-Box Systems through Narrow Gaps via Neural Network Reachability**|Long Kiu Chung et.al.|[2409.13195](http://arxiv.org/abs/2409.13195)|null|
-|**2024-09-20**|**ProxFly: Robust Control for Close Proximity Quadcopter Flight via Residual Reinforcement Learning**|Ruiqi Zhang et.al.|[2409.13193](http://arxiv.org/abs/2409.13193)|null|
+|**2024-09-20**|**ProxFly: Robust Control for Close Proximity Quadcopter Flight via Residual Reinforcement Learning**|Ruiqi Zhang et.al.|[2409.13193](http://arxiv.org/abs/2409.13193)|**[link](https://github.com/ruiqizhang99/proxfly)**|
 |**2024-09-20**|**RPAF: A Reinforcement Prediction-Allocation Framework for Cache Allocation in Large-Scale Recommender Systems**|Shuo Su et.al.|[2409.13175](http://arxiv.org/abs/2409.13175)|null|
 |**2024-09-20**|**Autonomous Driving at Unsignalized Intersections: A Review of Decision-Making Challenges and Reinforcement Learning-Based Solutions**|Mohammad Al-Sharman et.al.|[2409.13144](http://arxiv.org/abs/2409.13144)|null|
 |**2024-09-23**|**RepoGenReflex: Enhancing Repository-Level Code Completion with Verbal Reinforcement and Retrieval-Augmented Generation**|Jicheng Wang et.al.|[2409.13122](http://arxiv.org/abs/2409.13122)|null|
@@ -14769,7 +14769,7 @@
 |**2024-08-22**|**Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities**|Yousef Emami et.al.|[2408.12548](http://arxiv.org/abs/2408.12548)|null|
 |**2024-08-22**|**PCGRL+: Scaling, Control and Generalization in Reinforcement Learning Level Generators**|Sam Earle et.al.|[2408.12525](http://arxiv.org/abs/2408.12525)|null|
 |**2024-08-27**|**EX-DRL: Hedging Against Heavy Losses with EXtreme Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2408.12446](http://arxiv.org/abs/2408.12446)|**[link](https://github.com/pmalekzadeh/ex-drl)**|
-|**2024-08-22**|**Leveraging Unlabeled Data Sharing through Kernel Function Approximation in Offline Reinforcement Learning**|Yen-Ru Lai et.al.|[2408.12307](http://arxiv.org/abs/2408.12307)|null|
+|**2024-08-22**|**Leveraging Unlabeled Data Sharing through Kernel Function Approximation in Offline Reinforcement Learning**|Yen-Ru Lai et.al.|[2408.12307](http://arxiv.org/abs/2408.12307)|**[link](https://github.com/d09942015ntu/leveraging_unlabeled_offline_rl)**|
 |**2024-08-22**|**Domino-cooling Oscillator Networks with Deep Reinforcement Learning**|Sampreet Kalita et.al.|[2408.12271](http://arxiv.org/abs/2408.12271)|null|
 |**2024-08-22**|**UNCO: Towards Unifying Neural Combinatorial Optimization through Large Language Model**|Xia Jiang et.al.|[2408.12214](http://arxiv.org/abs/2408.12214)|null|
 |**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/abs/2408.12190)|null|
@@ -16278,7 +16278,7 @@
 |**2024-05-22**|**Offline RL via Feature-Occupancy Gradient Ascent**|Gergely Neu et.al.|[2405.13755](http://arxiv.org/abs/2405.13755)|null|
 |**2024-05-22**|**ConcertoRL: An Innovative Time-Interleaved Reinforcement Learning Approach for Enhanced Control in Direct-Drive Tandem-Wing Vehicles**|Minghao Zhang et.al.|[2405.13651](http://arxiv.org/abs/2405.13651)|null|
 |**2024-05-22**|**Knowledge Graph Reasoning with Self-supervised Reinforcement Learning**|Ying Ma et.al.|[2405.13640](http://arxiv.org/abs/2405.13640)|**[link](https://github.com/owenonline/knowledge-graph-reasoning-with-self-supervised-reinforcement-learning)**|
-|**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
+|**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|**[link](https://github.com/croitorualin/curriculum-dpo)**|
 |**2024-05-22**|**Maximum Entropy Reinforcement Learning via Energy-Based Normalizing Flow**|Chen-Hao Chao et.al.|[2405.13629](http://arxiv.org/abs/2405.13629)|**[link](https://github.com/ChienFeng-hub/meow)**|
 |**2024-05-22**|**Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics**|Bartomeu Pou et.al.|[2405.13610](http://arxiv.org/abs/2405.13610)|**[link](https://github.com/tomeu7/integrating-sl-and-rl-for-ao)**|
 |**2024-05-22**|**Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement Learning**|Maximilian Nägele et.al.|[2405.13609](http://arxiv.org/abs/2405.13609)|**[link](https://github.com/maxnaeg/zxreinforce)**|
@@ -16626,7 +16626,7 @@
 |**2024-04-25**|**RUMOR: Reinforcement learning for Understanding a Model of the Real World for Navigation in Dynamic Environments**|Diego Martinez-Baselga et.al.|[2404.16672](http://arxiv.org/abs/2404.16672)|null|
 |**2024-04-25**|**Hippocrates: An Open-Source Framework for Advancing Large Language Models in Healthcare**|Emre Can Acikgoz et.al.|[2404.16621](http://arxiv.org/abs/2404.16621)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-04-25**|**Exploring the Dynamics of Data Transmission in 5G Networks: A Conceptual Analysis**|Nikita Smirnov et.al.|[2404.16508](http://arxiv.org/abs/2404.16508)|null|
-|**2024-04-25**|**A Dual Perspective of Reinforcement Learning for Imposing Policy Constraints**|Bram De Cooman et.al.|[2404.16468](http://arxiv.org/abs/2404.16468)|null|
+|**2024-04-25**|**A Dual Perspective of Reinforcement Learning for Imposing Policy Constraints**|Bram De Cooman et.al.|[2404.16468](http://arxiv.org/abs/2404.16468)|**[link](https://github.com/dcbr/dualcrl)**|
 |**2024-04-25**|**Offline Reinforcement Learning with Behavioral Supervisor Tuning**|Padmanaba Srinivasan et.al.|[2404.16399](http://arxiv.org/abs/2404.16399)|null|
 |**2024-04-25**|**SwarmRL: Building the Future of Smart Active Systems**|Samuel Tovey et.al.|[2404.16388](http://arxiv.org/abs/2404.16388)|**[link](https://github.com/swarmrl/swarmrl)**|
 |**2024-04-25**|**Reinforcement Learning with Generative Models for Compact Support Sets**|Nico Schiavone et.al.|[2404.16300](http://arxiv.org/abs/2404.16300)|**[link](https://github.com/mesophil/deeprl)**|
@@ -17303,7 +17303,7 @@
 |**2024-03-08**|**RLPeri: Accelerating Visual Perimetry Test with Reinforcement Learning and Convolutional Feature Extraction**|Tanvi Verma et.al.|[2403.05112](http://arxiv.org/abs/2403.05112)|null|
 |**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106](http://arxiv.org/abs/2403.05106)|null|
 |**2024-03-08**|**Reset & Distill: A Recipe for Overcoming Negative Transfer in Continual Reinforcement Learning**|Hongjoon Ahn et.al.|[2403.05066](http://arxiv.org/abs/2403.05066)|null|
-|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
+|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-08**|**Provable Multi-Party Reinforcement Learning with Diverse Human Feedback**|Huiying Zhong et.al.|[2403.05006](http://arxiv.org/abs/2403.05006)|null|
 |**2024-03-08**|**DiffChat: Learning to Chat with Text-to-Image Synthesis Models for Interactive Image Creation**|Jiapeng Wang et.al.|[2403.04997](http://arxiv.org/abs/2403.04997)|null|
 |**2024-03-07**|**Aligning GPTRec with Beyond-Accuracy Goals with Reinforcement Learning**|Aleksandr Petrov et.al.|[2403.04875](http://arxiv.org/abs/2403.04875)|**[link](https://github.com/asash/gptrec_rl)**|
