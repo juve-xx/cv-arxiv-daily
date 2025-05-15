@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4003,12 +4003,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739](http://arxiv.org/abs/2505.08739)|null|
 |**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
-|**2025-05-12**|**OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain**|Wenzhen Yue et.al.|[2505.08550](http://arxiv.org/abs/2505.08550)|**[link](https://github.com/jackyue1994/OLinear)**|
+|**2025-05-14**|**OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain**|Wenzhen Yue et.al.|[2505.08550](http://arxiv.org/abs/2505.08550)|**[link](https://github.com/jackyue1994/OLinear)**|
 |**2025-05-13**|**Learning Advanced Self-Attention for Linear Transformers in the Singular Value Domain**|Hyowon Wi et.al.|[2505.08516](http://arxiv.org/abs/2505.08516)|null|
 |**2025-05-13**|**GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI**|Lei Su et.al.|[2505.08430](http://arxiv.org/abs/2505.08430)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**A Reproduction Study: The Kernel PCA Interpretation of Self-Attention Fails Under Scrutiny**|Karahan Sarıtaş et.al.|[2505.07908](http://arxiv.org/abs/2505.07908)|null|
-|**2025-05-11**|**TSLFormer: A Lightweight Transformer Model for Turkish Sign Language Recognition Using Skeletal Landmarks**|Kutay Ertürk et.al.|[2505.07890](http://arxiv.org/abs/2505.07890)|null|
+|**2025-05-14**|**TSLFormer: A Lightweight Transformer Model for Turkish Sign Language Recognition Using Skeletal Landmarks**|Kutay Ertürk et.al.|[2505.07890](http://arxiv.org/abs/2505.07890)|null|
 |**2025-05-09**|**Graph Laplacian Wavelet Transformer via Learnable Spectral Decomposition**|Andrew Kiruluta et.al.|[2505.07862](http://arxiv.org/abs/2505.07862)|null|
 |**2025-05-11**|**Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures**|Francesco Cagnetta et.al.|[2505.07070](http://arxiv.org/abs/2505.07070)|null|
 |**2025-05-10**|**Symbolic Rule Extraction from Attention-Guided Sparse Representations in Vision Transformers**|Parth Padalkar et.al.|[2505.06745](http://arxiv.org/abs/2505.06745)|null|
@@ -10397,14 +10397,14 @@ layout: default
 |**2025-05-12**|**Explainable Reinforcement Learning Agents Using World Models**|Madhuri Singh et.al.|[2505.08073](http://arxiv.org/abs/2505.08073)|null|
 |**2025-05-12**|**Online Learning-based Adaptive Beam Switching for 6G Networks: Enhancing Efficiency and Resilience**|Seyed Bagher Hashemi Natanzi et.al.|[2505.08032](http://arxiv.org/abs/2505.08032)|null|
 |**2025-05-12**|**MilChat: Introducing Chain of Thought Reasoning and GRPO to a Multimodal Small Language Model for Remote Sensing**|Aybora Koksal et.al.|[2505.07984](http://arxiv.org/abs/2505.07984)|null|
-|**2025-05-12**|**Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**|Xuechen Zhang et.al.|[2505.07961](http://arxiv.org/abs/2505.07961)|null|
+|**2025-05-14**|**Making Small Language Models Efficient Reasoners: Intervention, Supervision, Reinforcement**|Xuechen Zhang et.al.|[2505.07961](http://arxiv.org/abs/2505.07961)|null|
 |**2025-05-12**|**Combining Bayesian Inference and Reinforcement Learning for Agent Decision Making: A Review**|Chengmin Zhou et.al.|[2505.07911](http://arxiv.org/abs/2505.07911)|null|
 |**2025-05-12**|**SEM: Reinforcement Learning for Search-Efficient Large Language Models**|Zeyang Sha et.al.|[2505.07903](http://arxiv.org/abs/2505.07903)|null|
 |**2025-05-12**|**VoI-Driven Joint Optimization of Control and Communication in Vehicular Digital Twin Network**|Lei Lei et.al.|[2505.07892](http://arxiv.org/abs/2505.07892)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**A Theoretical Framework for Explaining Reinforcement Learning with Shapley Values**|Daniel Beechey et.al.|[2505.07797](http://arxiv.org/abs/2505.07797)|**[link](https://github.com/djeb20/sverl)**|
 |**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
-|**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
+|**2025-05-14**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/yyht/openrlhf_async_pipline)**|
 |**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
 |**2025-05-12**|**A comparative study of Bitcoin and Ripple cryptocurrencies trading using Deep Reinforcement Learning algorithms**|Dieu-Donne Fangnon et.al.|[2505.07660](http://arxiv.org/abs/2505.07660)|null|
 |**2025-05-12**|**MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining**|Xiaomi LLM-Core Team et.al.|[2505.07608](http://arxiv.org/abs/2505.07608)|**[link](https://github.com/xiaomimimo/mimo)**|
