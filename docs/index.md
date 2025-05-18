@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4030,12 +4030,12 @@ layout: default
 |**2025-05-11**|**Scaling Laws and Representation Learning in Simple Hierarchical Languages: Transformers vs. Convolutional Architectures**|Francesco Cagnetta et.al.|[2505.07070](http://arxiv.org/abs/2505.07070)|null|
 |**2025-05-10**|**Symbolic Rule Extraction from Attention-Guided Sparse Representations in Vision Transformers**|Parth Padalkar et.al.|[2505.06745](http://arxiv.org/abs/2505.06745)|null|
 |**2025-05-10**|**TACFN: Transformer-based Adaptive Cross-modal Fusion Network for Multimodal Emotion Recognition**|Feng Liu et.al.|[2505.06536](http://arxiv.org/abs/2505.06536)|**[link](https://github.com/shuzihuaiyu/tacfn)**|
-|**2025-05-02**|**SpectrumFM: A Foundation Model for Intelligent Spectrum Management**|Fuhui Zhou et.al.|[2505.06256](http://arxiv.org/abs/2505.06256)|null|
+|**2025-05-02**|**SpectrumFM: A Foundation Model for Intelligent Spectrum Management**|Fuhui Zhou et.al.|[2505.06256](http://arxiv.org/abs/2505.06256)|**[link](https://github.com/ChunyuLiu188/SpectrumFM)**|
 |**2025-04-28**|**A Transformer-Based Approach for Diagnosing Fault Cases in Optical Fiber Amplifiers**|Dominic Schneider et.al.|[2505.06245](http://arxiv.org/abs/2505.06245)|null|
 |**2025-05-09**|**Towards Robust Few-Shot Text Classification Using Transformer Architectures and Dual Loss Strategies**|Xu Han et.al.|[2505.06145](http://arxiv.org/abs/2505.06145)|null|
 |**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794](http://arxiv.org/abs/2505.05794)|null|
 |**2025-05-08**|**Cardioformer: Advancing AI in ECG Analysis with Multi-Granularity Patching and ResNet**|Md Kamrujjaman Mobin et.al.|[2505.05538](http://arxiv.org/abs/2505.05538)|**[link](https://github.com/kmobin555/cardioformer)**|
-|**2025-05-07**|**Image Restoration via Multi-domain Learning**|Xingyu Jiang et.al.|[2505.05504](http://arxiv.org/abs/2505.05504)|null|
+|**2025-05-07**|**Image Restoration via Multi-domain Learning**|Xingyu Jiang et.al.|[2505.05504](http://arxiv.org/abs/2505.05504)|**[link](https://github.com/deng-ai-lab/swformer)**|
 |**2025-05-08**|**Pro2SAM: Mask Prompt to SAM with Grid Points for Weakly Supervised Object Localization**|Xi Yang et.al.|[2505.04905](http://arxiv.org/abs/2505.04905)|null|
 |**2025-05-07**|**ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling**|Xiao Wang et.al.|[2505.04802](http://arxiv.org/abs/2505.04802)|null|
 |**2025-05-07**|**Personalized Risks and Regulatory Strategies of Large Language Models in Digital Advertising**|Haoyang Feng et.al.|[2505.04665](http://arxiv.org/abs/2505.04665)|null|
@@ -10409,7 +10409,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/abs/2505.10554)|null|
+|**2025-05-15**|**Beyond 'Aha!': Toward Systematic Meta-Abilities Alignment in Large Reasoning Models**|Zhiyuan Hu et.al.|[2505.10554](http://arxiv.org/abs/2505.10554)|**[link](https://github.com/zhiyuanhubj/meta-ability-alignment)**|
 |**2025-05-15**|**Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation**|Xinrui Wang et.al.|[2505.10522](http://arxiv.org/abs/2505.10522)|null|
 |**2025-05-15**|**Fixing Incomplete Value Function Decomposition for Multi-Agent Reinforcement Learning**|Andrea Baisero et.al.|[2505.10484](http://arxiv.org/abs/2505.10484)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
