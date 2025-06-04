@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8244,7 +8244,7 @@ layout: default
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-10-23**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|**[link](https://github.com/erfanhatefi/pruning-by-explaining-in-pytorch)**|
 |**2024-08-16**|**Unsupervised Transfer Learning via Adversarial Contrastive Training**|Chenguang Duan et.al.|[2408.08533](http://arxiv.org/abs/2408.08533)|null|
-|**2025-01-10**|**eGAD! double descent is explained by Generalized Aliasing Decomposition**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
+|**2025-06-03**|**eGAD! double descent is explained by Generalized Aliasing Decomposition**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
 |**2025-05-24**|**Convergence Analysis of Natural Gradient Descent for Over-parameterized Physics-Informed Neural Networks**|Xianliang Xu et.al.|[2408.00573](http://arxiv.org/abs/2408.00573)|null|
 |**2024-07-29**|**Generalization bounds for regression and classification on adaptive covering input domains**|Wen-Liang Hwang et.al.|[2407.19715](http://arxiv.org/abs/2407.19715)|null|
 |**2025-03-14**|**Robust Comparative Statics with Misspecified Bayesian Learning**|Aniruddha Ghosh et.al.|[2407.17037](http://arxiv.org/abs/2407.17037)|null|
@@ -10827,7 +10827,7 @@ layout: default
 |**2025-05-30**|**Diffusion-Based Symbolic Regression**|Zachary Bastiani et.al.|[2505.24776](http://arxiv.org/abs/2505.24776)|null|
 |**2025-05-30**|**REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards**|Zafir Stojanovski et.al.|[2505.24760](http://arxiv.org/abs/2505.24760)|null|
 |**2025-05-30**|**Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning**|Shelly Bensal et.al.|[2505.24726](http://arxiv.org/abs/2505.24726)|null|
-|**2025-05-30**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
+|**2025-06-03**|**Reinforcing Video Reasoning with Focused Thinking**|Jisheng Dang et.al.|[2505.24718](http://arxiv.org/abs/2505.24718)|null|
 |**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
 |**2025-05-30**|**On Symmetric Losses for Robust Policy Optimization with Noisy Preferences**|Soichiro Nishimori et.al.|[2505.24709](http://arxiv.org/abs/2505.24709)|null|
 |**2025-05-30**|**The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for Large Reasoning Models**|Junyi Li et.al.|[2505.24630](http://arxiv.org/abs/2505.24630)|null|
@@ -10867,7 +10867,7 @@ layout: default
 |**2025-05-29**|**Combining Deep Architectures for Information Gain estimation and Reinforcement Learning for multiagent field exploration**|Emanuele Masiero et.al.|[2505.23865](http://arxiv.org/abs/2505.23865)|null|
 |**2025-05-29**|**DATD3: Depthwise Attention Twin Delayed Deep Deterministic Policy Gradient For Model Free Reinforcement Learning Under Output Feedback Control**|Wuhao Wang et.al.|[2505.23857](http://arxiv.org/abs/2505.23857)|null|
 |**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|**[link](https://github.com/opengvlab/zerogui)**|
-|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
+|**2025-06-03**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|**[link](https://github.com/jiahao004/deeptheorem)**|
 |**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|**[link](https://github.com/zeroxleo/ml-agent)**|
 |**2025-05-29**|**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**|Lucas N. Alegre et.al.|[2505.23708](http://arxiv.org/abs/2505.23708)|null|
@@ -10889,7 +10889,7 @@ layout: default
 |**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
 |**2025-05-29**|**Diffusion Guidance Is a Controllable Policy Improvement Operator**|Kevin Frans et.al.|[2505.23458](http://arxiv.org/abs/2505.23458)|**[link](https://github.com/kvfrans/cfgrl)**|
 |**2025-05-29**|**Diversity-Aware Policy Optimization for Large Language Model Reasoning**|Jian Yao et.al.|[2505.23433](http://arxiv.org/abs/2505.23433)|null|
-|**2025-05-30**|**Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization**|Mingzhe Du et.al.|[2505.23387](http://arxiv.org/abs/2505.23387)|null|
+|**2025-06-03**|**Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization**|Mingzhe Du et.al.|[2505.23387](http://arxiv.org/abs/2505.23387)|null|
 |**2025-05-29**|**UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning**|Weijia Mao et.al.|[2505.23380](http://arxiv.org/abs/2505.23380)|**[link](https://github.com/showlab/unirl)**|
 |**2025-05-29**|**Discriminative Policy Optimization for Token-Level Reward Models**|Hongzhan Chen et.al.|[2505.23363](http://arxiv.org/abs/2505.23363)|**[link](https://github.com/homzer/q-rm)**|
 |**2025-05-29**|**Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control**|Maxiu Xiao et.al.|[2505.23355](http://arxiv.org/abs/2505.23355)|null|
