@@ -4216,7 +4216,7 @@
 |**2025-06-12**|**On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention**|Yeonju Ro et.al.|[2506.09316](http://arxiv.org/abs/2506.09316)|null|
 |**2025-06-10**|**IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections**|Yash Ranjan et.al.|[2506.08957](http://arxiv.org/abs/2506.08957)|null|
 |**2025-06-10**|**Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|[2506.08596](http://arxiv.org/abs/2506.08596)|null|
-|**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|null|
+|**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|**[link](https://github.com/srinivas-512/pnp_nystra)**|
 |**2025-06-09**|**Seeing Voices: Generating A-Roll Video from Audio with Mirage**|Aditi Sundararaman et.al.|[2506.08279](http://arxiv.org/abs/2506.08279)|null|
 |**2025-06-11**|**Physics-Informed Teleconnection-Aware Transformer for Global Subseasonal-to-Seasonal Forecasting**|Tengfei Lyu et.al.|[2506.08049](http://arxiv.org/abs/2506.08049)|null|
 |**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937](http://arxiv.org/abs/2506.07937)|null|
@@ -4263,7 +4263,7 @@
 |**2025-05-31**|**Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach**|Mehdi Bejani et.al.|[2506.00545](http://arxiv.org/abs/2506.00545)|null|
 |**2025-05-31**|**TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer**|Jie Peng et.al.|[2506.00431](http://arxiv.org/abs/2506.00431)|null|
 |**2025-05-31**|**Channel-Imposed Fusion: A Simple yet Effective Method for Medical Time Series Classification**|Ming Hu et.al.|[2506.00337](http://arxiv.org/abs/2506.00337)|null|
-|**2025-05-30**|**Applying Vision Transformers on Spectral Analysis of Astronomical Objects**|Luis Felipe Strano Moraes et.al.|[2506.00294](http://arxiv.org/abs/2506.00294)|null|
+|**2025-05-30**|**Applying Vision Transformers on Spectral Analysis of Astronomical Objects**|Luis Felipe Strano Moraes et.al.|[2506.00294](http://arxiv.org/abs/2506.00294)|**[link](https://github.com/astromer-science/spectromer)**|
 |**2025-05-30**|**PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations**|Benjamin Holzschuh et.al.|[2505.24717](http://arxiv.org/abs/2505.24717)|**[link](https://github.com/tum-pbs/pde-transformer)**|
 |**2025-05-30**|**RT-X Net: RGB-Thermal cross attention network for Low-Light Image Enhancement**|Raman Jha et.al.|[2505.24705](http://arxiv.org/abs/2505.24705)|**[link](https://github.com/jhakrraman/rt-xnet)**|
 |**2025-05-30**|**Cross-Attention Speculative Decoding**|Wei Zhong et.al.|[2505.24544](http://arxiv.org/abs/2505.24544)|null|
@@ -11186,16 +11186,16 @@
 |**2025-06-11**|**Patient-Specific Deep Reinforcement Learning for Automatic Replanning in Head-and-Neck Cancer Proton Therapy**|Malvern Madondo et.al.|[2506.10073](http://arxiv.org/abs/2506.10073)|null|
 |**2025-06-11**|**Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs**|Shangpin Peng et.al.|[2506.10054](http://arxiv.org/abs/2506.10054)|null|
 |**2025-06-11**|**GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models**|Zilong Wang et.al.|[2506.10047](http://arxiv.org/abs/2506.10047)|null|
-|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
-|**2025-06-11**|**VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**|Hao Peng et.al.|[2506.09942](http://arxiv.org/abs/2506.09942)|null|
+|**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|**[link](https://github.com/antresearchnlp/vilasr)**|
+|**2025-06-11**|**VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**|Hao Peng et.al.|[2506.09942](http://arxiv.org/abs/2506.09942)|**[link](https://github.com/thu-keg/verif)**|
 |**2025-06-11**|**The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability**|Jiachen Hu et.al.|[2506.09940](http://arxiv.org/abs/2506.09940)|null|
 |**2025-06-11**|**"What are my options?": Explaining RL Agents with Diverse Near-Optimal Alternatives (Extended)**|Noel Brindise et.al.|[2506.09901](http://arxiv.org/abs/2506.09901)|null|
 |**2025-06-11**|**Hierarchical Learning-Enhanced MPC for Safe Crowd Navigation with Heterogeneous Constraints**|Huajian Liu et.al.|[2506.09859](http://arxiv.org/abs/2506.09859)|null|
 |**2025-06-11**|**Foundation Model-Aided Deep Reinforcement Learning for RIS-Assisted Wireless Communication**|Mohammad Ghassemi et.al.|[2506.09855](http://arxiv.org/abs/2506.09855)|null|
-|**2025-06-12**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/abs/2506.09820)|null|
+|**2025-06-12**|**CoRT: Code-integrated Reasoning within Thinking**|Chengpeng Li et.al.|[2506.09820](http://arxiv.org/abs/2506.09820)|**[link](https://github.com/chengpengli1003/cort)**|
 |**2025-06-11**|**Automatic Treatment Planning using Reinforcement Learning for High-dose-rate Prostate Brachytherapy**|Tonghe Wang et.al.|[2506.09805](http://arxiv.org/abs/2506.09805)|null|
 |**2025-06-11**|**Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving**|Haochen Liu et.al.|[2506.09800](http://arxiv.org/abs/2506.09800)|null|
-|**2025-06-11**|**ComfyUI-R1: Exploring Reasoning Models for Workflow Generation**|Zhenran Xu et.al.|[2506.09790](http://arxiv.org/abs/2506.09790)|null|
+|**2025-06-11**|**ComfyUI-R1: Exploring Reasoning Models for Workflow Generation**|Zhenran Xu et.al.|[2506.09790](http://arxiv.org/abs/2506.09790)|**[link](https://github.com/aidc-ai/comfyui-copilot)**|
 |**2025-06-11**|**Bridging Continuous-time LQR and Reinforcement Learning via Gradient Flow of the Bellman Error**|Armin Gießler et.al.|[2506.09685](http://arxiv.org/abs/2506.09685)|null|
 |**2025-06-11**|**Intent Factored Generation: Unleashing the Diversity in Your Language Model**|Eltayeb Ahmed et.al.|[2506.09659](http://arxiv.org/abs/2506.09659)|null|
 |**2025-06-11**|**Attention-Based Map Encoding for Learning Generalized Legged Locomotion**|Junzhe He et.al.|[2506.09588](http://arxiv.org/abs/2506.09588)|null|
