@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2472,7 +2472,7 @@ layout: default
 |**2025-06-07**|**WorldLLM: Improving LLMs' world modeling using curiosity-driven theory-making**|Guillaume Levy et.al.|[2506.06725](http://arxiv.org/abs/2506.06725)|null|
 |**2025-06-07**|**MarginSel : Max-Margin Demonstration Selection for LLMs**|Rajeev Bhatt Ambati et.al.|[2506.06699](http://arxiv.org/abs/2506.06699)|null|
 |**2025-06-06**|**Prompting Wireless Networks: Reinforced In-Context Learning for Power Control**|Hao Zhou et.al.|[2506.06526](http://arxiv.org/abs/2506.06526)|null|
-|**2025-06-09**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
+|**2025-06-13**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
 |**2025-06-06**|**ENMA: Tokenwise Autoregression for Generative Neural PDE Operators**|Armand Kassaï Koupaï et.al.|[2506.06158](http://arxiv.org/abs/2506.06158)|null|
 |**2025-06-06**|**Bridging the Gap: In-Context Learning for Modeling Human Disagreement**|Benedetta Muscato et.al.|[2506.06113](http://arxiv.org/abs/2506.06113)|null|
 |**2025-06-06**|**Do-PFN: In-Context Learning for Causal Effect Estimation**|Jake Robertson et.al.|[2506.06039](http://arxiv.org/abs/2506.06039)|null|
@@ -2486,7 +2486,7 @@ layout: default
 |**2025-06-05**|**Counterfactual reasoning: an analysis of in-context emergence**|Moritz Miller et.al.|[2506.05188](http://arxiv.org/abs/2506.05188)|null|
 |**2025-06-05**|**On Automating Security Policies with Contemporary LLMs**|Pablo Fernández Saura et.al.|[2506.04838](http://arxiv.org/abs/2506.04838)|null|
 |**2025-06-05**|**Using In-Context Learning for Automatic Defect Labelling of Display Manufacturing Data**|Babar Hussain et.al.|[2506.04717](http://arxiv.org/abs/2506.04717)|null|
-|**2025-06-05**|**Neural Network Reprogrammability: A Unified Theme on Model Reprogramming, Prompt Tuning, and Prompt Instruction**|Zesheng Ye et.al.|[2506.04650](http://arxiv.org/abs/2506.04650)|null|
+|**2025-06-13**|**Neural Network Reprogrammability: A Unified Theme on Model Reprogramming, Prompt Tuning, and Prompt Instruction**|Zesheng Ye et.al.|[2506.04650](http://arxiv.org/abs/2506.04650)|null|
 |**2025-06-05**|**Selecting Demonstrations for Many-Shot In-Context Learning via Gradient Matching**|Jianfei Zhang et.al.|[2506.04579](http://arxiv.org/abs/2506.04579)|null|
 |**2025-06-05**|**Are LLMs Reliable Translators of Logical Reasoning Across Lexically Diversified Contexts?**|Qingchuan Li et.al.|[2506.04575](http://arxiv.org/abs/2506.04575)|null|
 |**2025-06-04**|**BEAR: BGP Event Analysis and Reporting**|Hanqing Li et.al.|[2506.04514](http://arxiv.org/abs/2506.04514)|**[link](https://github.com/hanklee97121/bear_bgp_event_analysis)**|
@@ -4230,7 +4230,7 @@ layout: default
 |**2025-06-03**|**Multi-modal brain MRI synthesis based on SwinUNETR**|Haowen Pang et.al.|[2506.02467](http://arxiv.org/abs/2506.02467)|null|
 |**2025-06-02**|**Are Mamba-based Audio Foundation Models the Best Fit for Non-Verbal Emotion Recognition?**|Mohd Mujtaba Akhtar et.al.|[2506.02258](http://arxiv.org/abs/2506.02258)|null|
 |**2025-06-01**|**Source Tracing of Synthetic Speech Systems Through Paralinguistic Pre-Trained Representations**|Girish et.al.|[2506.01157](http://arxiv.org/abs/2506.01157)|null|
-|**2025-06-01**|**Attention Retrieves, MLP Memorizes: Disentangling Trainable Components in the Transformer**|Yihe Dong et.al.|[2506.01115](http://arxiv.org/abs/2506.01115)|null|
+|**2025-06-12**|**Attention Retrieves, MLP Memorizes: Disentangling Trainable Components in the Transformer**|Yihe Dong et.al.|[2506.01115](http://arxiv.org/abs/2506.01115)|null|
 |**2025-05-31**|**Seg2Any: Open-set Segmentation-Mask-to-Image Generation with Precise Shape and Semantic Control**|Danfeng li et.al.|[2506.00596](http://arxiv.org/abs/2506.00596)|null|
 |**2025-05-31**|**Imputation of Missing Data in Smooth Pursuit Eye Movements Using a Self-Attention-based Deep Learning Approach**|Mehdi Bejani et.al.|[2506.00545](http://arxiv.org/abs/2506.00545)|null|
 |**2025-05-31**|**TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer**|Jie Peng et.al.|[2506.00431](http://arxiv.org/abs/2506.00431)|null|
@@ -11127,7 +11127,7 @@ layout: default
 |**2025-06-12**|**Magistral**|Mistral-AI et.al.|[2506.10910](http://arxiv.org/abs/2506.10910)|null|
 |**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
 |**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|null|
-|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
+|**2025-06-13**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
 |**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
 |**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741](http://arxiv.org/abs/2506.10741)|null|
 |**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630](http://arxiv.org/abs/2506.10630)|null|
@@ -11135,7 +11135,7 @@ layout: default
 |**2025-06-12**|**Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**|Zehui Ling et.al.|[2506.10446](http://arxiv.org/abs/2506.10446)|null|
 |**2025-06-12**|**PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier**|Yuhua Jiang et.al.|[2506.10406](http://arxiv.org/abs/2506.10406)|null|
 |**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
-|**2025-06-12**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
+|**2025-06-13**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
 |**2025-06-12**|**A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pokémon**|Cameron Angliss et.al.|[2506.10326](http://arxiv.org/abs/2506.10326)|null|
 |**2025-06-12**|**Multi-Timescale Dynamics Model Bayesian Optimization for Plasma Stabilization in Tokamaks**|Rohit Sonker et.al.|[2506.10287](http://arxiv.org/abs/2506.10287)|null|
 |**2025-06-11**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
@@ -11183,7 +11183,7 @@ layout: default
 |**2025-06-10**|**Robust Noise Attenuation via Adaptive Pooling of Transformer Outputs**|Greyson Brothers et.al.|[2506.09215](http://arxiv.org/abs/2506.09215)|null|
 |**2025-06-12**|**Policy-Based Trajectory Clustering in Offline Reinforcement Learning**|Hao Hu et.al.|[2506.09202](http://arxiv.org/abs/2506.09202)|null|
 |**2025-06-10**|**Multi-Task Reward Learning from Human Ratings**|Mingkang Wu et.al.|[2506.09183](http://arxiv.org/abs/2506.09183)|null|
-|**2025-06-10**|**Intra-Trajectory Consistency for Reward Modeling**|Chaoyang Zhou et.al.|[2506.09096](http://arxiv.org/abs/2506.09096)|null|
+|**2025-06-13**|**Intra-Trajectory Consistency for Reward Modeling**|Chaoyang Zhou et.al.|[2506.09096](http://arxiv.org/abs/2506.09096)|null|
 |**2025-06-10**|**VersaVid-R1: A Versatile Video Understanding and Reasoning Model from Question Answering to Captioning Tasks**|Xinlong Chen et.al.|[2506.09079](http://arxiv.org/abs/2506.09079)|null|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
 |**2025-06-10**|**Deep Reinforcement Learning-Based RAN Slicing with Efficient Inter-Slice Isolation in Tactical Wireless Networks**|Abderrahime Filali et.al.|[2506.09039](http://arxiv.org/abs/2506.09039)|null|
