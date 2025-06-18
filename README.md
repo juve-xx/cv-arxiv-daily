@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -468,7 +468,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## SFM
 
@@ -631,7 +631,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1279,7 +1279,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1488,7 +1488,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1687,7 +1687,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## NeRF
 
@@ -2464,7 +2464,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## ICL
 
@@ -2473,7 +2473,7 @@
 |**2025-06-16**|**Assessing the Limits of In-Context Learning beyond Functions using Partially Ordered Relation**|Debanjan Dutta et.al.|[2506.13608](http://arxiv.org/abs/2506.13608)|null|
 |**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253](http://arxiv.org/abs/2506.13253)|null|
 |**2025-06-16**|**Leveraging In-Context Learning for Language Model Agents**|Shivanshu Gupta et.al.|[2506.13109](http://arxiv.org/abs/2506.13109)|null|
-|**2025-06-15**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
+|**2025-06-17**|**Surprise Calibration for Better In-Context Learning**|Zhihang Tan et.al.|[2506.12796](http://arxiv.org/abs/2506.12796)|null|
 |**2025-06-15**|**Evaluating Cell Type Inference in Vision Language Models Under Varying Visual Context**|Samarth Singhal et.al.|[2506.12683](http://arxiv.org/abs/2506.12683)|null|
 |**2025-06-14**|**Refract ICL: Rethinking Example Selection in the Era of Million-Token Models**|Arjun R. Akula et.al.|[2506.12346](http://arxiv.org/abs/2506.12346)|null|
 |**2025-06-13**|**Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI**|Eva Paraschou et.al.|[2506.12240](http://arxiv.org/abs/2506.12240)|null|
@@ -4214,7 +4214,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Transformer
 
@@ -4224,7 +4224,7 @@
 |**2025-06-16**|**Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing**|Xiang Zhang et.al.|[2506.13485](http://arxiv.org/abs/2506.13485)|null|
 |**2025-06-16**|**HELENA: High-Efficiency Learning-based channel Estimation using dual Neural Attention**|Miguel Camelo Botero et.al.|[2506.13408](http://arxiv.org/abs/2506.13408)|null|
 |**2025-06-16**|**AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing**|Biao Yang et.al.|[2506.13301](http://arxiv.org/abs/2506.13301)|null|
-|**2025-06-16**|**SeqPE: Transformer with Sequential Position Encoding**|Huyang Li et.al.|[2506.13277](http://arxiv.org/abs/2506.13277)|null|
+|**2025-06-17**|**SeqPE: Transformer with Sequential Position Encoding**|Huayang Li et.al.|[2506.13277](http://arxiv.org/abs/2506.13277)|null|
 |**2025-06-16**|**Detecting Hard-Coded Credentials in Software Repositories via LLMs**|Chidera Biringa et.al.|[2506.13090](http://arxiv.org/abs/2506.13090)|null|
 |**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836](http://arxiv.org/abs/2506.12836)|null|
 |**2025-06-15**|**A Review of the Long Horizon Forecasting Problem in Time Series Analysis**|Hans Krupakar et.al.|[2506.12809](http://arxiv.org/abs/2506.12809)|null|
@@ -4249,7 +4249,7 @@
 |**2025-06-11**|**DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding**|Shubham Srivastava et.al.|[2506.10166](http://arxiv.org/abs/2506.10166)|null|
 |**2025-06-12**|**TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding**|Bingheng Wu et.al.|[2506.09507](http://arxiv.org/abs/2506.09507)|null|
 |**2025-06-11**|**Attention-Bayesian Hybrid Approach to Modular Multiple Particle Tracking**|Piyush Mishra et.al.|[2506.09441](http://arxiv.org/abs/2506.09441)|null|
-|**2025-06-12**|**On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention**|Yeonju Ro et.al.|[2506.09316](http://arxiv.org/abs/2506.09316)|null|
+|**2025-06-17**|**On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention**|Yeonju Ro et.al.|[2506.09316](http://arxiv.org/abs/2506.09316)|null|
 |**2025-06-10**|**IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections**|Yash Ranjan et.al.|[2506.08957](http://arxiv.org/abs/2506.08957)|null|
 |**2025-06-10**|**Transformers Meet Hyperspectral Imaging: A Comprehensive Study of Models, Challenges and Open Problems**|Guyang Zhang et.al.|[2506.08596](http://arxiv.org/abs/2506.08596)|null|
 |**2025-06-10**|**Plug-and-Play Linear Attention for Pre-trained Image and Video Restoration Models**|Srinivasan Kidambi et.al.|[2506.08520](http://arxiv.org/abs/2506.08520)|**[link](https://github.com/srinivas-512/pnp_nystra)**|
@@ -6185,7 +6185,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Optimization
 
@@ -8448,7 +8448,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -8723,7 +8723,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -11231,7 +11231,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -11250,7 +11250,7 @@
 |**2025-06-16**|**Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning**|Shulin Tian et.al.|[2506.13654](http://arxiv.org/abs/2506.13654)|null|
 |**2025-06-16**|**MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention**|MiniMax et.al.|[2506.13585](http://arxiv.org/abs/2506.13585)|null|
 |**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583](http://arxiv.org/abs/2506.13583)|null|
-|**2025-06-16**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
+|**2025-06-17**|**A Production Scheduling Framework for Reinforcement Learning Under Real-World Constraints**|Jonathan Hoss et.al.|[2506.13566](http://arxiv.org/abs/2506.13566)|null|
 |**2025-06-16**|**Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework**|Hemjyoti Das et.al.|[2506.13478](http://arxiv.org/abs/2506.13478)|null|
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
 |**2025-06-16**|**A Two-stage Optimization Method for Wide-range Single-electron Quantum Magnetic Sensing**|Shiqian Guo et.al.|[2506.13469](http://arxiv.org/abs/2506.13469)|null|
@@ -11260,7 +11260,7 @@
 |**2025-06-16**|**Direct Reasoning Optimization: LLMs Can Reward And Refine Their Own Reasoning for Open-Ended Tasks**|Yifei Xu et.al.|[2506.13351](http://arxiv.org/abs/2506.13351)|null|
 |**2025-06-16**|**Learning to Explore in Diverse Reward Settings via Temporal-Difference-Error Maximization**|Sebastian Griesbach et.al.|[2506.13345](http://arxiv.org/abs/2506.13345)|null|
 |**2025-06-16**|**Active Multimodal Distillation for Few-shot Action Recognition**|Weijia Feng et.al.|[2506.13322](http://arxiv.org/abs/2506.13322)|null|
-|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
+|**2025-06-17**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
 |**2025-06-16**|**AceReason-Nemotron 1.1: Advancing Math and Code Reasoning through SFT and RL Synergy**|Zihan Liu et.al.|[2506.13284](http://arxiv.org/abs/2506.13284)|null|
 |**2025-06-16**|**RL-Guided MPC for Autonomous Greenhouse Control**|Salim Msaad et.al.|[2506.13278](http://arxiv.org/abs/2506.13278)|null|
 |**2025-06-16**|**Reconstruction-free magnetic control of DIII-D plasma with deep reinforcement learning**|G. F. Subbotin et.al.|[2506.13267](http://arxiv.org/abs/2506.13267)|null|
@@ -20285,7 +20285,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
