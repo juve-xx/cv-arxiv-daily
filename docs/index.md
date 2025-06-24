@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2495,7 +2495,7 @@ layout: default
 |**2025-06-09**|**Difference Inversion: Interpolate and Isolate the Difference with Token Consistency for Image Analogy Generation**|Hyunsoo Kim et.al.|[2506.07750](http://arxiv.org/abs/2506.07750)|null|
 |**2025-06-09**|**DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**|Solee Im et.al.|[2506.07510](http://arxiv.org/abs/2506.07510)|null|
 |**2025-06-09**|**Federated In-Context Learning: Iterative Refinement for Improved Answer Quality**|Ruhan Wang et.al.|[2506.07440](http://arxiv.org/abs/2506.07440)|null|
-|**2025-06-09**|**LG-ANNA-Embedding technical report**|Jooyoung Choi et.al.|[2506.07438](http://arxiv.org/abs/2506.07438)|null|
+|**2025-06-22**|**LGAI-EMBEDDING-Preview Technical Report**|Jooyoung Choi et.al.|[2506.07438](http://arxiv.org/abs/2506.07438)|null|
 |**2025-06-11**|**Pre-trained Large Language Models Learn Hidden Markov Models In-context**|Yijia Dai et.al.|[2506.07298](http://arxiv.org/abs/2506.07298)|null|
 |**2025-06-08**|**Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs**|Atahan Özer et.al.|[2506.07270](http://arxiv.org/abs/2506.07270)|null|
 |**2025-06-10**|**Meta-Adaptive Prompt Distillation for Few-Shot Visual Question Answering**|Akash Gupta et.al.|[2506.06905](http://arxiv.org/abs/2506.06905)|null|
@@ -11285,7 +11285,7 @@ layout: default
 |**2025-06-20**|**Robust Reinforcement Learning for Discrete Compositional Generation via General Soft Operators**|Marco Jiralerspong et.al.|[2506.17007](http://arxiv.org/abs/2506.17007)|null|
 |**2025-06-20**|**Learning Dexterous Object Handover**|Daniel Frau-Alfaro et.al.|[2506.16822](http://arxiv.org/abs/2506.16822)|null|
 |**2025-06-20**|**Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting**|Michał Wawer et.al.|[2506.16813](http://arxiv.org/abs/2506.16813)|null|
-|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
 |**2025-06-20**|**Robust Dynamic Material Handling via Adaptive Constrained Evolutionary Reinforcement Learning**|Chengpeng Hu et.al.|[2506.16795](http://arxiv.org/abs/2506.16795)|null|
 |**2025-06-20**|**Reinforcement learning for hybrid charging stations planning and operation considering fixed and mobile chargers**|Yanchen Zhu et.al.|[2506.16764](http://arxiv.org/abs/2506.16764)|null|
 |**2025-06-20**|**Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation**|Kosuke Nakanishi et.al.|[2506.16753](http://arxiv.org/abs/2506.16753)|null|
@@ -11302,7 +11302,7 @@ layout: default
 |**2025-06-19**|**Data-Driven Policy Mapping for Safe RL-based Energy Management Systems**|Theo Zangato et.al.|[2506.16352](http://arxiv.org/abs/2506.16352)|null|
 |**2025-06-19**|**Goal-conditioned Hierarchical Reinforcement Learning for Sample-efficient and Safe Autonomous Driving at Intersections**|Yiou Huang et.al.|[2506.16336](http://arxiv.org/abs/2506.16336)|null|
 |**2025-06-19**|**Towards Emergency Scenarios: An Integrated Decision-making Framework of Multi-lane Platoon Reorganization**|Aijing Kong et.al.|[2506.16311](http://arxiv.org/abs/2506.16311)|null|
-|**2025-06-19**|**Multi-Task Lifelong Reinforcement Learning for Wireless Sensor Networks**|Hossein Mohammadi Firouzjaei et.al.|[2506.16254](http://arxiv.org/abs/2506.16254)|null|
+|**2025-06-23**|**Multi-Task Lifelong Reinforcement Learning for Wireless Sensor Networks**|Hossein Mohammadi Firouzjaei et.al.|[2506.16254](http://arxiv.org/abs/2506.16254)|null|
 |**2025-06-19**|**From Pixels to CSI: Distilling Latent Dynamics For Efficient Wireless Resource Management**|Charbel Bou Chaaya et.al.|[2506.16216](http://arxiv.org/abs/2506.16216)|null|
 |**2025-06-19**|**GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning**|Yi Chen et.al.|[2506.16141](http://arxiv.org/abs/2506.16141)|null|
 |**2025-06-19**|**Joint User Priority and Power Scheduling for QoS-Aware WMMSE Precoding: A Constrained-Actor Attentive-Critic Approach**|Kexuan Wang et.al.|[2506.16074](http://arxiv.org/abs/2506.16074)|null|
@@ -11311,7 +11311,7 @@ layout: default
 |**2025-06-19**|**EvoLM: In Search of Lost Language Model Training Dynamics**|Zhenting Qi et.al.|[2506.16029](http://arxiv.org/abs/2506.16029)|null|
 |**2025-06-19**|**From General to Targeted Rewards: Surpassing GPT-4 in Open-Ended Long-Context Generation**|Zhihan Guo et.al.|[2506.16024](http://arxiv.org/abs/2506.16024)|null|
 |**2025-06-19**|**Dual-Objective Reinforcement Learning with Novel Hamilton-Jacobi-Bellman Formulations**|William Sharpless et.al.|[2506.16016](http://arxiv.org/abs/2506.16016)|null|
-|**2025-06-19**|**VRAIL: Vectorized Reward-based Attribution for Interpretable Learning**|Jina Kim et.al.|[2506.16014](http://arxiv.org/abs/2506.16014)|null|
+|**2025-06-23**|**VRAIL: Vectorized Reward-based Attribution for Interpretable Learning**|Jina Kim et.al.|[2506.16014](http://arxiv.org/abs/2506.16014)|null|
 |**2025-06-19**|**Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal**|Hemanth Kannamarlapudi et.al.|[2506.16000](http://arxiv.org/abs/2506.16000)|null|
 |**2025-06-19**|**KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping**|Kowndinya Boyalakuntla et.al.|[2506.15945](http://arxiv.org/abs/2506.15945)|null|
 |**2025-06-18**|**Optimal Navigation in Microfluidics via the Optimization of a Discrete Loss**|Petr Karnakov et.al.|[2506.15902](http://arxiv.org/abs/2506.15902)|null|
