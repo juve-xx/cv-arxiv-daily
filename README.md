@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
+|**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
+|**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
 |**2025-06-25**|**Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios**|Wenbin Gan et.al.|[2506.20531](http://arxiv.org/abs/2506.20531)|null|
 |**2025-06-25**|**Automatic Demonstration Selection for LLM-based Tabular Data Classification**|Shuchu Han et.al.|[2506.20451](http://arxiv.org/abs/2506.20451)|null|
 |**2025-06-25**|**SV-LLM: An Agentic Approach for SoC Security Verification using Large Language Models**|Dipayan Saha et.al.|[2506.20415](http://arxiv.org/abs/2506.20415)|null|
@@ -4250,6 +4253,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Real-Time ESFP: Estimating, Smoothing, Filtering, and Pose-Mapping**|Qifei Cui et.al.|[2506.21234](http://arxiv.org/abs/2506.21234)|null|
+|**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
+|**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
+|**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-25**|**A foundation model with multi-variate parallel attention to generate neuronal activity**|Francesco Carzaniga et.al.|[2506.20354](http://arxiv.org/abs/2506.20354)|null|
 |**2025-06-25**|**Attack Smarter: Attention-Driven Fine-Grained Webpage Fingerprinting Attacks**|Yali Yuan et.al.|[2506.20082](http://arxiv.org/abs/2506.20082)|null|
 |**2025-06-24**|**MILAAP: Mobile Link Allocation via Attention-based Prediction**|Yung-Fu Chen et.al.|[2506.19947](http://arxiv.org/abs/2506.19947)|null|
@@ -6268,6 +6275,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems**|Lena Baumann et.al.|[2506.21405](http://arxiv.org/abs/2506.21405)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-26**|**Can Gradient Descent Simulate Prompting?**|Eric Zhang et.al.|[2506.20989](http://arxiv.org/abs/2506.20989)|null|
+|**2025-06-26**|**Co-Design of Sensing, Communications, and Control for Low-Altitude Wireless Networks**|Haijia Jin et.al.|[2506.20970](http://arxiv.org/abs/2506.20970)|null|
+|**2025-06-25**|**Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon**|Tongtong Liang et.al.|[2506.20779](http://arxiv.org/abs/2506.20779)|null|
 |**2025-06-25**|**Efficient Feedback Design for Unsourced Random Access with Integrated Sensing and Communication**|Mohammad Javad Ahmadi et.al.|[2506.20262](http://arxiv.org/abs/2506.20262)|null|
 |**2025-06-25**|**On gradient descent-ascent flows in metric spaces**|Noboru Isobe et.al.|[2506.20258](http://arxiv.org/abs/2506.20258)|null|
 |**2025-06-24**|**Toward Decision-Oriented Prognostics: An Integrated Estimate-Optimize Framework for Predictive Maintenance**|Zhuojun Xie et.al.|[2506.19698](http://arxiv.org/abs/2506.19698)|null|
@@ -8841,6 +8854,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems**|Lena Baumann et.al.|[2506.21405](http://arxiv.org/abs/2506.21405)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-26**|**SharpZO: Hybrid Sharpness-Aware Vision Language Model Prompt Tuning via Forward-Only Passes**|Yifan Yang et.al.|[2506.20990](http://arxiv.org/abs/2506.20990)|null|
+|**2025-06-26**|**Can Gradient Descent Simulate Prompting?**|Eric Zhang et.al.|[2506.20989](http://arxiv.org/abs/2506.20989)|null|
+|**2025-06-26**|**Co-Design of Sensing, Communications, and Control for Low-Altitude Wireless Networks**|Haijia Jin et.al.|[2506.20970](http://arxiv.org/abs/2506.20970)|null|
+|**2025-06-25**|**Stable Minima of ReLU Neural Networks Suffer from the Curse of Dimensionality: The Neural Shattering Phenomenon**|Tongtong Liang et.al.|[2506.20779](http://arxiv.org/abs/2506.20779)|null|
 |**2025-06-25**|**A Complete Loss Landscape Analysis of Regularized Deep Matrix Factorization**|Po Chen et.al.|[2506.20344](http://arxiv.org/abs/2506.20344)|null|
 |**2025-06-25**|**Efficient Feedback Design for Unsourced Random Access with Integrated Sensing and Communication**|Mohammad Javad Ahmadi et.al.|[2506.20262](http://arxiv.org/abs/2506.20262)|null|
 |**2025-06-25**|**On gradient descent-ascent flows in metric spaces**|Noboru Isobe et.al.|[2506.20258](http://arxiv.org/abs/2506.20258)|null|
@@ -11387,6 +11407,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Joint Scheduling of DER under Demand Charges: Structure and Approximation**|Ruixiao Yang et.al.|[2506.21510](http://arxiv.org/abs/2506.21510)|null|
+|**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
+|**2025-06-26**|**Reinforcement Learning for Optimal Control of Spin Magnetometers**|Logan W. Cooke et.al.|[2506.21475](http://arxiv.org/abs/2506.21475)|null|
+|**2025-06-26**|**Optimising 4th-Order Runge-Kutta Methods: A Dynamic Heuristic Approach for Efficiency and Low Storage**|Gavin Lee Goodship et.al.|[2506.21465](http://arxiv.org/abs/2506.21465)|null|
+|**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Baiqiao Yin et.al.|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
+|**2025-06-26**|**Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning**|Prajwal Koirala et.al.|[2506.21427](http://arxiv.org/abs/2506.21427)|null|
+|**2025-06-26**|**rQdia: Regularizing Q-Value Distributions With Image Augmentation**|Sam Lerman et.al.|[2506.21367](http://arxiv.org/abs/2506.21367)|null|
+|**2025-06-26**|**HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context**|Qize Yang et.al.|[2506.21277](http://arxiv.org/abs/2506.21277)|null|
+|**2025-06-26**|**Diverse Mini-Batch Selection in Reinforcement Learning for Efficient Chemical Exploration in de novo Drug Design**|Hampus Gummesson Svensson et.al.|[2506.21158](http://arxiv.org/abs/2506.21158)|null|
+|**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
+|**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
+|**2025-06-26**|**GoIRL: Graph-Oriented Inverse Reinforcement Learning for Multimodal Trajectory Prediction**|Muleilan Pei et.al.|[2506.21121](http://arxiv.org/abs/2506.21121)|null|
+|**2025-06-26**|**Homogenization of Multi-agent Learning Dynamics in Finite-state Markov Games**|Yann Kerzreho et.al.|[2506.21079](http://arxiv.org/abs/2506.21079)|null|
+|**2025-06-26**|**Efficient Skill Discovery via Regret-Aware Optimization**|He Zhang et.al.|[2506.21044](http://arxiv.org/abs/2506.21044)|null|
+|**2025-06-26**|**Strict Subgoal Execution: Reliable Long-Horizon Planning in Hierarchical Reinforcement Learning**|Jaebak Hwang et.al.|[2506.21039](http://arxiv.org/abs/2506.21039)|null|
+|**2025-06-26**|**RL-Selector: Reinforcement Learning-Guided Data Selection via Redundancy Assessment**|Suorong Yang et.al.|[2506.21037](http://arxiv.org/abs/2506.21037)|null|
+|**2025-06-26**|**Quantum Reinforcement Learning Trading Agent for Sector Rotation in the Taiwan Stock Market**|Chi-Sheng Chen et.al.|[2506.20930](http://arxiv.org/abs/2506.20930)|null|
+|**2025-06-26**|**Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning**|Ziyang Lu et.al.|[2506.20916](http://arxiv.org/abs/2506.20916)|null|
+|**2025-06-26**|**Optimal Single-Policy Sample Complexity and Transient Coverage for Average-Reward Offline RL**|Matthew Zurek et.al.|[2506.20904](http://arxiv.org/abs/2506.20904)|null|
+|**2025-06-25**|**Complex Model Transformations by Reinforcement Learning with Uncertain Human Guidance**|Kyanna Dagenais et.al.|[2506.20883](http://arxiv.org/abs/2506.20883)|null|
+|**2025-06-25**|**Multi-Objective Reinforcement Learning for Cognitive Radar Resource Management**|Ziyang Lu et.al.|[2506.20853](http://arxiv.org/abs/2506.20853)|null|
+|**2025-06-25**|**Learning-Based Resource Management in Integrated Sensing and Communication Systems**|Ziyang Lu et.al.|[2506.20849](http://arxiv.org/abs/2506.20849)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
