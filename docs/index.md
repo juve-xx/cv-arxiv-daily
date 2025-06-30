@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2465,7 +2465,7 @@ layout: default
 |**2025-06-20**|**Chain-of-Trust: A Progressive Trust Evaluation Framework Enabled by Generative AI**|Botao Zhu et.al.|[2506.17130](http://arxiv.org/abs/2506.17130)|null|
 |**2025-06-20**|**Latent Concept Disentanglement in Transformer-based Language Models**|Guan Zhe Hong et.al.|[2506.16975](http://arxiv.org/abs/2506.16975)|null|
 |**2025-06-19**|**Relic: Enhancing Reward Model Generalization for Low-Resource Indic Languages with Few-Shot Examples**|Soumya Suvra Ghosal et.al.|[2506.16502](http://arxiv.org/abs/2506.16502)|null|
-|**2025-06-19**|**Large Language Models in Argument Mining: A Survey**|Hao Li et.al.|[2506.16383](http://arxiv.org/abs/2506.16383)|null|
+|**2025-06-27**|**Large Language Models in Argument Mining: A Survey**|Hao Li et.al.|[2506.16383](http://arxiv.org/abs/2506.16383)|null|
 |**2025-06-19**|**Self-Critique-Guided Curiosity Refinement: Enhancing Honesty and Helpfulness in Large Language Models via In-Context Learning**|Duc Hieu Ho et.al.|[2506.16064](http://arxiv.org/abs/2506.16064)|null|
 |**2025-06-19**|**DIGMAPPER: A Modular System for Automated Geologic Map Digitization**|Weiwei Duan et.al.|[2506.16006](http://arxiv.org/abs/2506.16006)|null|
 |**2025-06-18**|**When and How Unlabeled Data Provably Improve In-Context Learning**|Yingcong Li et.al.|[2506.15329](http://arxiv.org/abs/2506.15329)|null|
@@ -11405,7 +11405,7 @@ layout: default
 |**2025-06-25**|**ReCode: Updating Code API Knowledge with Reinforcement Learning**|Haoze Wu et.al.|[2506.20495](http://arxiv.org/abs/2506.20495)|null|
 |**2025-06-25**|**POLAR: A Pessimistic Model-based Policy Learning Algorithm for Dynamic Treatment Regimes**|Ruijia Zhang et.al.|[2506.20406](http://arxiv.org/abs/2506.20406)|null|
 |**2025-06-25**|**GymPN: A Library for Decision-Making in Process Management Systems**|Riccardo Lo Bianco et.al.|[2506.20404](http://arxiv.org/abs/2506.20404)|null|
-|**2025-06-25**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
+|**2025-06-27**|**Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards**|Jihao Gu et.al.|[2506.20332](http://arxiv.org/abs/2506.20332)|null|
 |**2025-06-25**|**Robust estimation of a Markov chain transition matrix from multiple sample paths**|Lasse Leskelä et.al.|[2506.20325](http://arxiv.org/abs/2506.20325)|null|
 |**2025-06-25**|**Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration**|Heyang Zhao et.al.|[2506.20307](http://arxiv.org/abs/2506.20307)|null|
 |**2025-06-25**|**Exploration-Exploitation Tradeoff in Universal Lossy Compression**|Nir Weinberger et.al.|[2506.20261](http://arxiv.org/abs/2506.20261)|null|
@@ -11436,7 +11436,7 @@ layout: default
 |**2025-06-24**|**ADDQ: Adaptive Distributional Double Q-Learning**|Leif Döring et.al.|[2506.19478](http://arxiv.org/abs/2506.19478)|null|
 |**2025-06-24**|**Surgery-R1: Advancing Surgical-VQLA with Reasoning Multimodal Large Language Model via Reinforcement Learning**|Pengfei Hao et.al.|[2506.19469](http://arxiv.org/abs/2506.19469)|null|
 |**2025-06-24**|**Can Large Language Models Capture Human Annotator Disagreements?**|Jingwei Ni et.al.|[2506.19467](http://arxiv.org/abs/2506.19467)|null|
-|**2025-06-24**|**KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models**|Cheng Li et.al.|[2506.19466](http://arxiv.org/abs/2506.19466)|null|
+|**2025-06-27**|**KunLunBaizeRAG: Reinforcement Learning Driven Inference Performance Leap for Large Language Models**|Cheng Li et.al.|[2506.19466](http://arxiv.org/abs/2506.19466)|null|
 |**2025-06-24**|**Center of Gravity-Guided Focusing Influence Mechanism for Multi-Agent Reinforcement Learning**|Yisak Park et.al.|[2506.19417](http://arxiv.org/abs/2506.19417)|null|
 |**2025-06-24**|**Path Learning with Trajectory Advantage Regression**|Kohei Miyaguchi et.al.|[2506.19375](http://arxiv.org/abs/2506.19375)|null|
 |**2025-06-24**|**Partially Observable Residual Reinforcement Learning for PV-Inverter-Based Voltage Control in Distribution Grids**|Sarra Bouchkati et.al.|[2506.19353](http://arxiv.org/abs/2506.19353)|null|
