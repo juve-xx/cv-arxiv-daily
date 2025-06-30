@@ -2470,6 +2470,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Leveraging In-Context Learning for Political Bias Testing of LLMs**|Patrick Haller et.al.|[2506.22232](http://arxiv.org/abs/2506.22232)|null|
+|**2025-06-11**|**GraphLAMA: Enabling Efficient Adaptation of Graph Language Models with Limited Annotations**|Junze Chen et.al.|[2506.21559](http://arxiv.org/abs/2506.21559)|null|
 |**2025-06-26**|**Early Stopping Tabular In-Context Learning**|Jaris Küken et.al.|[2506.21387](http://arxiv.org/abs/2506.21387)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-26**|**Chain-of-Thought Enhanced Shallow Transformers for Wireless Symbol Detection**|Li Fan et.al.|[2506.21093](http://arxiv.org/abs/2506.21093)|null|
@@ -4253,6 +4255,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**OutDreamer: Video Outpainting with a Diffusion Transformer**|Linhao Zhong et.al.|[2506.22298](http://arxiv.org/abs/2506.22298)|null|
+|**2025-06-27**|**Transformers are Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2506.22084](http://arxiv.org/abs/2506.22084)|null|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**3D-Telepathy: Reconstructing 3D Objects from EEG Signals**|Yuxiang Ge et.al.|[2506.21843](http://arxiv.org/abs/2506.21843)|null|
+|**2025-06-25**|**Quantum Variational Transformer Model for Enhanced Cancer Classification**|Don Roosan et.al.|[2506.21641](http://arxiv.org/abs/2506.21641)|null|
 |**2025-06-26**|**Real-Time ESFP: Estimating, Smoothing, Filtering, and Pose-Mapping**|Qifei Cui et.al.|[2506.21234](http://arxiv.org/abs/2506.21234)|null|
 |**2025-06-26**|**Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection**|Luosheng Xu et.al.|[2506.21109](http://arxiv.org/abs/2506.21109)|null|
 |**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991](http://arxiv.org/abs/2506.20991)|null|
@@ -6275,6 +6282,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**A gradient flow that is none: Heat flow with Wentzell boundary condition**|Marie Bormann et.al.|[2506.22093](http://arxiv.org/abs/2506.22093)|null|
 |**2025-06-26**|**An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems**|Lena Baumann et.al.|[2506.21405](http://arxiv.org/abs/2506.21405)|null|
 |**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
 |**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
@@ -8854,6 +8862,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**A gradient flow that is none: Heat flow with Wentzell boundary condition**|Marie Bormann et.al.|[2506.22093](http://arxiv.org/abs/2506.22093)|null|
 |**2025-06-26**|**An adaptive dynamical low-rank optimizer for solving kinetic parameter identification inverse problems**|Lena Baumann et.al.|[2506.21405](http://arxiv.org/abs/2506.21405)|null|
 |**2025-06-26**|**Curriculum-Guided Antifragile Reinforcement Learning for Secure UAV Deconfliction under Observation-Space Attacks**|Deepak Kumar Panda et.al.|[2506.21129](http://arxiv.org/abs/2506.21129)|null|
 |**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
@@ -11407,6 +11416,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**MiCo: Multi-image Contrast for Reinforcement Visual Reasoning**|Xi Chen et.al.|[2506.22434](http://arxiv.org/abs/2506.22434)|null|
+|**2025-06-27**|**ARMOR: Robust Reinforcement Learning-based Control for UAVs under Physical Attacks**|Pritam Dash et.al.|[2506.22423](http://arxiv.org/abs/2506.22423)|null|
+|**2025-06-27**|**HyperCLOVA X THINK Technical Report**|NAVER Cloud HyperCLOVA X Team et.al.|[2506.22403](http://arxiv.org/abs/2506.22403)|null|
+|**2025-06-27**|**Exploration from a Primal-Dual Lens: Value-Incentivized Actor-Critic Methods for Sample-Efficient Online RL**|Tong Yang et.al.|[2506.22401](http://arxiv.org/abs/2506.22401)|null|
+|**2025-06-27**|**Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation**|Tao Li et.al.|[2506.22365](http://arxiv.org/abs/2506.22365)|null|
+|**2025-06-27**|**Education-Oriented Graph Retrieval-Augmented Generation for Learning Path Recommendation**|Xinghe Cheng et.al.|[2506.22303](http://arxiv.org/abs/2506.22303)|null|
+|**2025-06-27**|**ReF-LLE: Personalized Low-Light Enhancement via Reference-Guided Deep Reinforcement Learning**|Ming Zhao et.al.|[2506.22216](http://arxiv.org/abs/2506.22216)|null|
+|**2025-06-27**|**A Reinforcement Learning Framework for Some Singular Stochastic Control Problems**|Zongxia Liang et.al.|[2506.22203](http://arxiv.org/abs/2506.22203)|null|
+|**2025-06-27**|**EFRame: Deeper Reasoning via Exploration-Filtering-Replay Reinforcement Learning Framework**|Chen Wang et.al.|[2506.22200](http://arxiv.org/abs/2506.22200)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems**|Wenzheng Shu et.al.|[2506.22112](http://arxiv.org/abs/2506.22112)|null|
+|**2025-06-27**|**Reasoning in machine vision: learning to think fast and slow**|Shaheer U. Saeed et.al.|[2506.22075](http://arxiv.org/abs/2506.22075)|null|
+|**2025-06-27**|**TROFI: Trajectory-Ranked Offline Inverse Reinforcement Learning**|Alessandro Sestini et.al.|[2506.22008](http://arxiv.org/abs/2506.22008)|null|
+|**2025-06-27**|**LeanConjecturer: Automatic Generation of Mathematical Conjectures for Theorem Proving**|Naoto Onda et.al.|[2506.22005](http://arxiv.org/abs/2506.22005)|null|
+|**2025-06-27**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
+|**2025-06-27**|**TOAST: Task-Oriented Adaptive Semantic Transmission over Dynamic Wireless Environments**|Sheng Yun et.al.|[2506.21900](http://arxiv.org/abs/2506.21900)|null|
+|**2025-06-27**|**Advancements and Challenges in Continual Reinforcement Learning: A Comprehensive Review**|Amara Zuffer et.al.|[2506.21899](http://arxiv.org/abs/2506.21899)|null|
+|**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
+|**2025-06-27**|**Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface**|Dewei Wang et.al.|[2506.21853](http://arxiv.org/abs/2506.21853)|null|
+|**2025-06-26**|**M3PO: Massively Multi-Task Model-Based Policy Optimization**|Aditya Narendra et.al.|[2506.21782](http://arxiv.org/abs/2506.21782)|null|
+|**2025-06-26**|**Gradient-Based Neuroplastic Adaptation for Concurrent Optimization of Neuro-Fuzzy Networks**|John Wesley Hostetter et.al.|[2506.21771](http://arxiv.org/abs/2506.21771)|null|
+|**2025-06-26**|**Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation**|Ameya Salvi et.al.|[2506.21732](http://arxiv.org/abs/2506.21732)|null|
+|**2025-06-26**|**Risk-Averse Total-Reward Reinforcement Learning**|Xihong Su et.al.|[2506.21683](http://arxiv.org/abs/2506.21683)|null|
+|**2025-06-26**|**APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization**|Minjie Hong et.al.|[2506.21655](http://arxiv.org/abs/2506.21655)|null|
+|**2025-06-25**|**IRanker: Towards Ranking Foundation Model**|Tao Feng et.al.|[2506.21638](http://arxiv.org/abs/2506.21638)|null|
 |**2025-06-26**|**Joint Scheduling of DER under Demand Charges: Structure and Approximation**|Ruixiao Yang et.al.|[2506.21510](http://arxiv.org/abs/2506.21510)|null|
 |**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
 |**2025-06-26**|**Reinforcement Learning for Optimal Control of Spin Magnetometers**|Logan W. Cooke et.al.|[2506.21475](http://arxiv.org/abs/2506.21475)|null|
