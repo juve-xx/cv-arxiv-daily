@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4284,7 +4284,7 @@ layout: default
 |**2025-06-03**|**Data-Driven Heat Pump Management: Combining Machine Learning with Anomaly Detection for Residential Hot Water Systems**|Manal Rahal et.al.|[2506.15719](http://arxiv.org/abs/2506.15719)|null|
 |**2025-06-01**|**Adaptive Two Sided Laplace Transforms: A Learnable, Interpretable, and Scalable Replacement for Self-Attention**|Andrew Kiruluta et.al.|[2506.15714](http://arxiv.org/abs/2506.15714)|null|
 |**2025-06-18**|**Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity**|Oluwadamilola Fasina et.al.|[2506.15541](http://arxiv.org/abs/2506.15541)|**[link](https://github.com/obfasina/organizedattention)**|
-|**2025-06-18**|**Learning to Maximize Quantum Neural Network Expressivity via Effective Rank**|Juan Yao et.al.|[2506.15375](http://arxiv.org/abs/2506.15375)|null|
+|**2025-07-02**|**Learning to Maximize Quantum Neural Network Expressivity via Effective Rank**|Juan Yao et.al.|[2506.15375](http://arxiv.org/abs/2506.15375)|null|
 |**2025-06-18**|**Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?**|Gary Song Yan et.al.|[2506.15033](http://arxiv.org/abs/2506.15033)|null|
 |**2025-06-16**|**Improving Prostate Gland Segmenting Using Transformer based Architectures**|Shatha Abudalou et.al.|[2506.14844](http://arxiv.org/abs/2506.14844)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835](http://arxiv.org/abs/2506.14835)|null|
