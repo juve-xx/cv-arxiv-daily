@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2444,6 +2444,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**IC-Custom: Diverse Image Customization via In-Context Learning**|Yaowei Li et.al.|[2507.01926](http://arxiv.org/abs/2507.01926)|null|
+|**2025-07-02**|**LLMs for Legal Subsumption in German Employment Contracts**|Oliver Wardas et.al.|[2507.01734](http://arxiv.org/abs/2507.01734)|null|
+|**2025-07-02**|**Decomposing Prediction Mechanisms for In-Context Recall**|Sultan Daniels et.al.|[2507.01414](http://arxiv.org/abs/2507.01414)|null|
+|**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|
+|**2025-07-02**|**ICLShield: Exploring and Mitigating In-Context Learning Backdoor Attacks**|Zhiyao Ren et.al.|[2507.01321](http://arxiv.org/abs/2507.01321)|null|
+|**2025-07-02**|**Is Visual in-Context Learning for Compositional Medical Tasks within Reach?**|Simon Reiß et.al.|[2507.00868](http://arxiv.org/abs/2507.00868)|null|
 |**2025-07-01**|**Exposing and Mitigating Calibration Biases and Demographic Unfairness in MLLM Few-Shot In-Context Learning for Medical Image Classification**|Xing Shen et.al.|[2506.23298](http://arxiv.org/abs/2506.23298)|null|
 |**2025-06-29**|**V-SYNTHESIS: Task-Agnostic Synthesis of Consistent and Diverse In-Context Demonstrations from Scratch via V-Entropy**|Dingzirui Wang et.al.|[2506.23149](http://arxiv.org/abs/2506.23149)|null|
 |**2025-07-01**|**Learning-to-Context Slope: Evaluating In-Context Learning Effectiveness Beyond Performance Illusions**|Dingzriui Wang et.al.|[2506.23146](http://arxiv.org/abs/2506.23146)|null|
@@ -4232,6 +4238,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
+|**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
+|**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437](http://arxiv.org/abs/2507.01437)|null|
+|**2025-07-02**|**Learning an Ensemble Token from Task-driven Priors in Facial Analysis**|Sunyong Seo et.al.|[2507.01290](http://arxiv.org/abs/2507.01290)|null|
+|**2025-07-01**|**MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2507.00966](http://arxiv.org/abs/2507.00966)|null|
+|**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
+|**2025-06-24**|**Evolutionary computing-based image segmentation method to detect defects and features in Additive Friction Stir Deposition Process**|Akshansh Mishra et.al.|[2507.00046](http://arxiv.org/abs/2507.00046)|null|
 |**2025-06-29**|**Transformer-Based Person Search with High-Frequency Augmentation and Multi-Wave Mixing**|Qilin Shu et.al.|[2506.23202](http://arxiv.org/abs/2506.23202)|null|
 |**2025-06-29**|**DEL: Dense Event Localization for Multi-modal Audio-Visual Understanding**|Mona Ahmadian et.al.|[2506.23196](http://arxiv.org/abs/2506.23196)|null|
 |**2025-06-28**|**Attention to Burstiness: Low-Rank Bilinear Prompt Tuning**|Yuzhu Wang et.al.|[2506.22908](http://arxiv.org/abs/2506.22908)|null|
@@ -6263,6 +6276,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**Soft Self-labeling and Potts Relaxations for Weakly-Supervised Segmentation**|Zhongwen Zhang et.al.|[2507.01721](http://arxiv.org/abs/2507.01721)|null|
+|**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
+|**2025-07-01**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
+|**2025-07-02**|**Generalization performance of narrow one-hidden layer networks in the teacher-student setting**|Jean Barbier et.al.|[2507.00629](http://arxiv.org/abs/2507.00629)|null|
+|**2025-06-18**|**Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing**|Grey Kuling et.al.|[2507.00032](http://arxiv.org/abs/2507.00032)|null|
+|**2025-06-13**|**Vision Transformer with Adversarial Indicator Token against Adversarial Attacks in Radio Signal Classifications**|Lu Zhang et.al.|[2507.00015](http://arxiv.org/abs/2507.00015)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
 |**2025-06-30**|**Random Distributionally Robust Optimization under Phi-divergence**|Guohui Guan et.al.|[2506.23839](http://arxiv.org/abs/2506.23839)|null|
 |**2025-06-30**|**SGD with Adaptive Preconditioning: Unified Analysis and Momentum Acceleration**|Dmitry Kovalev et.al.|[2506.23803](http://arxiv.org/abs/2506.23803)|null|
@@ -6304,7 +6324,7 @@ layout: default
 |**2025-06-19**|**Multigroup Multicast Design for Pinching-Antenna Systems: Waveguide-Division or Waveguide-Multiplexing?**|Shan Shan et.al.|[2506.16184](http://arxiv.org/abs/2506.16184)|null|
 |**2025-06-19**|**Solving Zero-Sum Convex Markov Games**|Fivos Kalogiannis et.al.|[2506.16120](http://arxiv.org/abs/2506.16120)|null|
 |**2025-06-19**|**A Scalable Factorization Approach for High-Order Structured Tensor Recovery**|Zhen Qin et.al.|[2506.16032](http://arxiv.org/abs/2506.16032)|null|
-|**2025-06-26**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
+|**2025-07-02**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
 |**2025-06-17**|**A Study of Hybrid and Evolutionary Metaheuristics for Single Hidden Layer Feedforward Neural Network Architecture**|Gautam Siddharth Kashyap et.al.|[2506.15737](http://arxiv.org/abs/2506.15737)|null|
 |**2025-06-18**|**A Simplified Analysis of SGD for Linear Regression with Weight Averaging**|Alexandru Meterez et.al.|[2506.15535](http://arxiv.org/abs/2506.15535)|null|
 |**2025-06-18**|**Optimal Control of Thin-Film Flow on a Flexible Topography**|S. Alrashidy et.al.|[2506.15340](http://arxiv.org/abs/2506.15340)|null|
@@ -8576,6 +8596,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
 |**2025-06-21**|**Physically motivated decompositions of single qutrit gates**|Aryan Iliat et.al.|[2506.17797](http://arxiv.org/abs/2506.17797)|null|
 |**2025-06-20**|**Optimal Implicit Bias in Linear Regression**|Kanumuri Nithin Varma et.al.|[2506.17187](http://arxiv.org/abs/2506.17187)|null|
 |**2025-06-13**|**Data-driven approaches to inverse problems**|Carola-Bibiane Schönlieb et.al.|[2506.11732](http://arxiv.org/abs/2506.11732)|null|
@@ -8851,6 +8872,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization**|Yihang Gao et.al.|[2507.01841](http://arxiv.org/abs/2507.01841)|null|
+|**2025-07-02**|**Soft Self-labeling and Potts Relaxations for Weakly-Supervised Segmentation**|Zhongwen Zhang et.al.|[2507.01721](http://arxiv.org/abs/2507.01721)|null|
+|**2025-07-02**|**GradMetaNet: An Equivariant Architecture for Learning on Gradients**|Yoav Gelberg et.al.|[2507.01649](http://arxiv.org/abs/2507.01649)|null|
+|**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
+|**2025-07-01**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
+|**2025-07-01**|**GANs Secretly Perform Approximate Bayesian Model Selection**|Maurizio Filippone et.al.|[2507.00651](http://arxiv.org/abs/2507.00651)|null|
+|**2025-07-02**|**Generalization performance of narrow one-hidden layer networks in the teacher-student setting**|Jean Barbier et.al.|[2507.00629](http://arxiv.org/abs/2507.00629)|null|
+|**2025-06-18**|**Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing**|Grey Kuling et.al.|[2507.00032](http://arxiv.org/abs/2507.00032)|null|
+|**2025-06-13**|**Vision Transformer with Adversarial Indicator Token against Adversarial Attacks in Radio Signal Classifications**|Lu Zhang et.al.|[2507.00015](http://arxiv.org/abs/2507.00015)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
 |**2025-06-30**|**Random Distributionally Robust Optimization under Phi-divergence**|Guohui Guan et.al.|[2506.23839](http://arxiv.org/abs/2506.23839)|null|
 |**2025-06-30**|**SGD with Adaptive Preconditioning: Unified Analysis and Momentum Acceleration**|Dmitry Kovalev et.al.|[2506.23803](http://arxiv.org/abs/2506.23803)|null|
@@ -8897,7 +8928,7 @@ layout: default
 |**2025-06-19**|**Multigroup Multicast Design for Pinching-Antenna Systems: Waveguide-Division or Waveguide-Multiplexing?**|Shan Shan et.al.|[2506.16184](http://arxiv.org/abs/2506.16184)|null|
 |**2025-06-19**|**Solving Zero-Sum Convex Markov Games**|Fivos Kalogiannis et.al.|[2506.16120](http://arxiv.org/abs/2506.16120)|null|
 |**2025-06-19**|**A Scalable Factorization Approach for High-Order Structured Tensor Recovery**|Zhen Qin et.al.|[2506.16032](http://arxiv.org/abs/2506.16032)|null|
-|**2025-06-26**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
+|**2025-07-02**|**Rethinking LLM Training through Information Geometry and Quantum Metrics**|Riccardo Di Sipio et.al.|[2506.15830](http://arxiv.org/abs/2506.15830)|null|
 |**2025-06-17**|**A Study of Hybrid and Evolutionary Metaheuristics for Single Hidden Layer Feedforward Neural Network Architecture**|Gautam Siddharth Kashyap et.al.|[2506.15737](http://arxiv.org/abs/2506.15737)|null|
 |**2025-06-18**|**A Simplified Analysis of SGD for Linear Regression with Weight Averaging**|Alexandru Meterez et.al.|[2506.15535](http://arxiv.org/abs/2506.15535)|null|
 |**2025-06-18**|**Optimal Control of Thin-Film Flow on a Flexible Topography**|S. Alrashidy et.al.|[2506.15340](http://arxiv.org/abs/2506.15340)|null|
@@ -11417,6 +11448,58 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks**|Yang Li et.al.|[2507.01921](http://arxiv.org/abs/2507.01921)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
+|**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
+|**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
+|**2025-07-03**|**Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
+|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
+|**2025-07-02**|**Zero-Incentive Dynamics: a look at reward sparsity through the lens of unrewarded subgoals**|Yannick Molinghen et.al.|[2507.01470](http://arxiv.org/abs/2507.01470)|null|
+|**2025-07-02**|**Reinforcement Learning for Discrete-time LQG Mean Field Social Control Problems with Unknown Dynamics**|Hanfang Zhang et.al.|[2507.01420](http://arxiv.org/abs/2507.01420)|null|
+|**2025-07-03**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
+|**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|
+|**2025-07-03**|**Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy**|Chris Yuhao Liu et.al.|[2507.01352](http://arxiv.org/abs/2507.01352)|null|
+|**2025-07-02**|**Multi-User Generative Semantic Communication with Intent-Aware Semantic-Splitting Multiple Access**|Jiayi Lu et.al.|[2507.01333](http://arxiv.org/abs/2507.01333)|null|
+|**2025-07-02**|**Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy**|Xiaoyun Zhang et.al.|[2507.01327](http://arxiv.org/abs/2507.01327)|null|
+|**2025-07-02**|**An Error Bound for Aggregation in Approximate Dynamic Programming**|Yuchao Li et.al.|[2507.01324](http://arxiv.org/abs/2507.01324)|null|
+|**2025-07-01**|**Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion**|Ziang Zheng et.al.|[2507.01243](http://arxiv.org/abs/2507.01243)|null|
+|**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
+|**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
+|**2025-06-30**|**Optimizing Conversational Product Recommendation via Reinforcement Learning**|Kang Liu et.al.|[2507.01060](http://arxiv.org/abs/2507.01060)|null|
+|**2025-07-02**|**GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning**|GLM-V Team et.al.|[2507.01006](http://arxiv.org/abs/2507.01006)|null|
+|**2025-07-01**|**Reasoning as an Adaptive Defense for Safety**|Taeyoun Kim et.al.|[2507.00971](http://arxiv.org/abs/2507.00971)|null|
+|**2025-07-01**|**Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact**|Rizwan Qureshi et.al.|[2507.00951](http://arxiv.org/abs/2507.00951)|null|
+|**2025-07-01**|**Enhancing Vehicular Platooning with Wireless Federated Learning: A Resource-Aware Control Framework**|Beining Wu et.al.|[2507.00856](http://arxiv.org/abs/2507.00856)|null|
+|**2025-07-01**|**Aligning Learning and Endogenous Decision-Making**|Rares Cristian et.al.|[2507.00851](http://arxiv.org/abs/2507.00851)|null|
+|**2025-07-02**|**Leveraging Genetic Algorithms for Efficient Demonstration Generation in Real-World Reinforcement Learning Environments**|Tom Maus et.al.|[2507.00762](http://arxiv.org/abs/2507.00762)|null|
+|**2025-07-01**|**Improving the Reasoning of Multi-Image Grounding in MLLMs via Reinforcement Learning**|Bob Zhang et.al.|[2507.00748](http://arxiv.org/abs/2507.00748)|null|
+|**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
+|**2025-07-01**|**Large Reasoning Models are not thinking straight: on the unreliability of thinking trajectories**|Jhouben Cuesta-Ramirez et.al.|[2507.00711](http://arxiv.org/abs/2507.00711)|null|
+|**2025-07-01**|**A Test-Function Approach to Incremental Stability**|Daniel Pfrommer et.al.|[2507.00695](http://arxiv.org/abs/2507.00695)|null|
+|**2025-07-01**|**Learning Steerable Imitation Controllers from Unstructured Animal Motions**|Dongho Kang et.al.|[2507.00677](http://arxiv.org/abs/2507.00677)|null|
+|**2025-07-01**|**Harnessing the Power of Reinforcement Learning for Adaptive MCMC**|Congye Wang et.al.|[2507.00671](http://arxiv.org/abs/2507.00671)|null|
+|**2025-07-01**|**SAFER: Probing Safety in Reward Models with Sparse Autoencoder**|Sihang Li et.al.|[2507.00665](http://arxiv.org/abs/2507.00665)|null|
+|**2025-07-01**|**Price Aware Power Split Control in Heterogeneous Battery Storage Systems**|Sheng Yin et.al.|[2507.00628](http://arxiv.org/abs/2507.00628)|null|
+|**2025-07-01**|**Residual Reward Models for Preference-based Reinforcement Learning**|Chenyang Cao et.al.|[2507.00611](http://arxiv.org/abs/2507.00611)|null|
+|**2025-07-01**|**Quantum Circuit Structure Optimization for Quantum Reinforcement Learning**|Seok Bin Son et.al.|[2507.00589](http://arxiv.org/abs/2507.00589)|null|
+|**2025-07-01**|**Collaborative Multi-Agent Reinforcement Learning Approach for Elastic Cloud Resource Scaling**|Bruce Fang et.al.|[2507.00550](http://arxiv.org/abs/2507.00550)|null|
+|**2025-07-01**|**Exploring Large Action Sets with Hyperspherical Embeddings using von Mises-Fisher Sampling**|Walid Bendada et.al.|[2507.00518](http://arxiv.org/abs/2507.00518)|null|
+|**2025-07-01**|**PNAct: Crafting Backdoor Attacks in Safe Reinforcement Learning**|Weiran Guo et.al.|[2507.00485](http://arxiv.org/abs/2507.00485)|null|
+|**2025-07-01**|**The impact of the following vehicles behaviors on the car following behaviors of the ego-vehicle**|Yang Liu et.al.|[2507.00452](http://arxiv.org/abs/2507.00452)|null|
+|**2025-07-01**|**Does Math Reasoning Improve General LLM Capabilities? Understanding Transferability of LLM Reasoning**|Maggie Huan et.al.|[2507.00432](http://arxiv.org/abs/2507.00432)|null|
+|**2025-07-01**|**ASTRO: Teaching Language Models to Reason by Reflecting and Backtracking In-Context**|Joongwon Kim et.al.|[2507.00417](http://arxiv.org/abs/2507.00417)|null|
+|**2025-07-01**|**Data-Driven Exploration for a Class of Continuous-Time Linear--Quadratic Reinforcement Learning Problems**|Yilie Huang et.al.|[2507.00358](http://arxiv.org/abs/2507.00358)|null|
+|**2025-06-30**|**Double Q-learning for Value-based Deep Reinforcement Learning, Revisited**|Prabhat Nagarajan et.al.|[2507.00275](http://arxiv.org/abs/2507.00275)|null|
+|**2025-06-30**|**Mechanical Intelligence-Aware Curriculum Reinforcement Learning for Humanoids with Parallel Actuation**|Yusuke Tanaka et.al.|[2507.00273](http://arxiv.org/abs/2507.00273)|null|
+|**2025-06-30**|**Control-Optimized Deep Reinforcement Learning for Artificially Intelligent Autonomous Systems**|Oren Fivel et.al.|[2507.00268](http://arxiv.org/abs/2507.00268)|null|
+|**2025-06-30**|**Gym4ReaL: A Suite for Benchmarking Real-World Reinforcement Learning**|Davide Salaorni et.al.|[2507.00257](http://arxiv.org/abs/2507.00257)|null|
+|**2025-06-30**|**Linearly Decoding Refused Knowledge in Aligned Language Models**|Aryan Shrivastava et.al.|[2507.00239](http://arxiv.org/abs/2507.00239)|null|
+|**2025-06-30**|**BlackBoxToBlueprint: Extracting Interpretable Logic from Legacy Systems using Reinforcement Learning and Counterfactual Analysis**|Vidhi Rathore et.al.|[2507.00180](http://arxiv.org/abs/2507.00180)|null|
+|**2025-06-29**|**Fractional Policy Gradients: Reinforcement Learning with Long-Term Memory**|Urvi Pawar et.al.|[2507.00073](http://arxiv.org/abs/2507.00073)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
