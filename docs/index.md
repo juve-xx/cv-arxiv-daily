@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8959,7 +8959,7 @@ layout: default
 |**2025-06-24**|**Toward Decision-Oriented Prognostics: An Integrated Estimate-Optimize Framework for Predictive Maintenance**|Zhuojun Xie et.al.|[2506.19698](http://arxiv.org/abs/2506.19698)|null|
 |**2025-06-24**|**Extreme Learning Machines for Exoplanet Simulations: A Faster, Lightweight Alternative to Deep Learning**|Tara P. A. Tahseen et.al.|[2506.19679](http://arxiv.org/abs/2506.19679)|null|
 |**2025-06-24**|**Learning to Solve Parametric Mixed-Integer Optimal Control Problems via Differentiable Predictive Control**|Ján Boldocký et.al.|[2506.19646](http://arxiv.org/abs/2506.19646)|null|
-|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256](http://arxiv.org/abs/2506.19256)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
+|**2025-07-08**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256](http://arxiv.org/abs/2506.19256)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|
 |**2025-06-23**|**Enhancing Biosecurity in Tamper-Resistant Large Language Models With Quantum Gradient Descent**|Fahmida Hai et.al.|[2506.19086](http://arxiv.org/abs/2506.19086)|null|
 |**2025-06-23**|**Tight Generalization Error Bounds for Stochastic Gradient Descent in Non-convex Learning**|Wenjun Xiong et.al.|[2506.18645](http://arxiv.org/abs/2506.18645)|null|
 |**2025-06-23**|**Optimization-Induced Dynamics of Lipschitz Continuity in Neural Networks**|Róisín Luo et.al.|[2506.18588](http://arxiv.org/abs/2506.18588)|null|
