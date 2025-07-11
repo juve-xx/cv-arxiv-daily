@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4276,7 +4276,7 @@ layout: default
 |**2025-07-03**|**Lightweight Shrimp Disease Detection Research Based on YOLOv8n**|Fei Yuhuan et.al.|[2507.02354](http://arxiv.org/abs/2507.02354)|null|
 |**2025-06-18**|**Ghost in the Machine: Examining the Philosophical Implications of Recursive Algorithms in Artificial Intelligence Systems**|Llewellin RG Jegels et.al.|[2507.01967](http://arxiv.org/abs/2507.01967)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
-|**2025-07-02**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
+|**2025-07-10**|**Are Vision Transformer Representations Semantically Meaningful? A Case Study in Medical Imaging**|Montasir Shams et.al.|[2507.01788](http://arxiv.org/abs/2507.01788)|null|
 |**2025-07-02**|**Clinical NLP with Attention-Based Deep Learning for Multi-Disease Prediction**|Ting Xu et.al.|[2507.01437](http://arxiv.org/abs/2507.01437)|null|
 |**2025-07-02**|**Learning an Ensemble Token from Task-driven Priors in Facial Analysis**|Sunyong Seo et.al.|[2507.01290](http://arxiv.org/abs/2507.01290)|null|
 |**2025-07-01**|**MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2507.00966](http://arxiv.org/abs/2507.00966)|null|
@@ -6325,7 +6325,7 @@ layout: default
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
 |**2025-07-07**|**Fast and Provable Hankel Tensor Completion for Multi-measurement Spectral Compressed Sensing**|Jinsheng Li et.al.|[2507.04847](http://arxiv.org/abs/2507.04847)|null|
 |**2025-07-07**|**Riemannian Inexact Gradient Descent for Quadratic Discrimination**|Uday Talwar et.al.|[2507.04670](http://arxiv.org/abs/2507.04670)|null|
-|**2025-07-06**|**Solving the Gross-Pitaevskii Equation with Quantic Tensor Trains: Ground States and Nonlinear Dynamics**|Qian-Can Chen et.al.|[2507.04279](http://arxiv.org/abs/2507.04279)|null|
+|**2025-07-10**|**Solving the Gross-Pitaevskii Equation with Quantic Tensor Trains: Ground States and Nonlinear Dynamics**|Qian-Can Chen et.al.|[2507.04279](http://arxiv.org/abs/2507.04279)|null|
 |**2025-07-04**|**Sequential Regression Learning with Randomized Algorithms**|Dorival Leão et.al.|[2507.03759](http://arxiv.org/abs/2507.03759)|null|
 |**2025-07-04**|**The Monge optimal transport barycenter problem**|Andrew D. Lipnick et.al.|[2507.03669](http://arxiv.org/abs/2507.03669)|null|
 |**2025-07-04**|**On the Effectiveness of the $z$ -Transform Method in Quadratic Optimization**|Francis Bach et.al.|[2507.03404](http://arxiv.org/abs/2507.03404)|null|
@@ -6337,7 +6337,7 @@ layout: default
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
 |**2025-07-02**|**Soft Self-labeling and Potts Relaxations for Weakly-Supervised Segmentation**|Zhongwen Zhang et.al.|[2507.01721](http://arxiv.org/abs/2507.01721)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
-|**2025-07-01**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
+|**2025-07-09**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
 |**2025-07-02**|**Generalization performance of narrow one-hidden layer networks in the teacher-student setting**|Jean Barbier et.al.|[2507.00629](http://arxiv.org/abs/2507.00629)|null|
 |**2025-06-18**|**Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing**|Grey Kuling et.al.|[2507.00032](http://arxiv.org/abs/2507.00032)|null|
 |**2025-06-13**|**Vision Transformer with Adversarial Indicator Token against Adversarial Attacks in Radio Signal Classifications**|Lu Zhang et.al.|[2507.00015](http://arxiv.org/abs/2507.00015)|null|
@@ -8944,7 +8944,7 @@ layout: default
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
 |**2025-07-07**|**Fast and Provable Hankel Tensor Completion for Multi-measurement Spectral Compressed Sensing**|Jinsheng Li et.al.|[2507.04847](http://arxiv.org/abs/2507.04847)|null|
 |**2025-07-07**|**Riemannian Inexact Gradient Descent for Quadratic Discrimination**|Uday Talwar et.al.|[2507.04670](http://arxiv.org/abs/2507.04670)|null|
-|**2025-07-06**|**Solving the Gross-Pitaevskii Equation with Quantic Tensor Trains: Ground States and Nonlinear Dynamics**|Qian-Can Chen et.al.|[2507.04279](http://arxiv.org/abs/2507.04279)|null|
+|**2025-07-10**|**Solving the Gross-Pitaevskii Equation with Quantic Tensor Trains: Ground States and Nonlinear Dynamics**|Qian-Can Chen et.al.|[2507.04279](http://arxiv.org/abs/2507.04279)|null|
 |**2025-07-06**|**Mpemba Effect in Large-Language Model Training Dynamics: A Minimal Analysis of the Valley-River model**|Sibei Liu et.al.|[2507.04206](http://arxiv.org/abs/2507.04206)|null|
 |**2025-07-05**|**Attributing Data for Sharpness-Aware Minimization**|Chenyang Ren et.al.|[2507.04059](http://arxiv.org/abs/2507.04059)|null|
 |**2025-07-04**|**Sequential Regression Learning with Randomized Algorithms**|Dorival Leão et.al.|[2507.03759](http://arxiv.org/abs/2507.03759)|null|
@@ -8960,7 +8960,7 @@ layout: default
 |**2025-07-02**|**Soft Self-labeling and Potts Relaxations for Weakly-Supervised Segmentation**|Zhongwen Zhang et.al.|[2507.01721](http://arxiv.org/abs/2507.01721)|null|
 |**2025-07-02**|**GradMetaNet: An Equivariant Architecture for Learning on Gradients**|Yoav Gelberg et.al.|[2507.01649](http://arxiv.org/abs/2507.01649)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
-|**2025-07-01**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
+|**2025-07-09**|**Description of the Training Process of Neural Networks via Ergodic Theorem : Ghost nodes**|Eun-Ji Park et.al.|[2507.01003](http://arxiv.org/abs/2507.01003)|null|
 |**2025-07-01**|**GANs Secretly Perform Approximate Bayesian Model Selection**|Maurizio Filippone et.al.|[2507.00651](http://arxiv.org/abs/2507.00651)|null|
 |**2025-07-02**|**Generalization performance of narrow one-hidden layer networks in the teacher-student setting**|Jean Barbier et.al.|[2507.00629](http://arxiv.org/abs/2507.00629)|null|
 |**2025-06-18**|**Ken Utilization Layer: Hebbian Replay Within a Student's Ken for Adaptive Knowledge Tracing**|Grey Kuling et.al.|[2507.00032](http://arxiv.org/abs/2507.00032)|null|
@@ -11536,11 +11536,11 @@ layout: default
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-09**|**Optimizing Cognitive Networks: Reinforcement Learning Meets Energy Harvesting Over Cascaded Channels**|Deemah H. Tashman et.al.|[2507.06981](http://arxiv.org/abs/2507.06981)|null|
 |**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
-|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
 |**2025-07-09**|**Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams**|Abolfazl Zarghani et.al.|[2507.06901](http://arxiv.org/abs/2507.06901)|null|
-|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
-|**2025-07-09**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
+|**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
 |**2025-07-09**|**QoE Optimization for Semantic Self-Correcting Video Transmission in Multi-UAV Networks**|Xuyang Chen et.al.|[2507.06717](http://arxiv.org/abs/2507.06717)|null|
@@ -11554,7 +11554,7 @@ layout: default
 |**2025-07-09**|**Generalization in Reinforcement Learning for Radio Access Networks**|Burak Demirel et.al.|[2507.06602](http://arxiv.org/abs/2507.06602)|null|
 |**2025-07-09**|**Learning controllable dynamics through informative exploration**|Peter N. Loxley et.al.|[2507.06582](http://arxiv.org/abs/2507.06582)|null|
 |**2025-07-09**|**From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization**|Xinjie Chen et.al.|[2507.06573](http://arxiv.org/abs/2507.06573)|null|
-|**2025-07-09**|**KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing**|Keita Yoneda et.al.|[2507.06562](http://arxiv.org/abs/2507.06562)|null|
+|**2025-07-10**|**KLEIYN : A Quadruped Robot with an Active Waist for Both Locomotion and Wall Climbing**|Keita Yoneda et.al.|[2507.06562](http://arxiv.org/abs/2507.06562)|null|
 |**2025-07-09**|**Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies**|Yuhan Liu et.al.|[2507.06519](http://arxiv.org/abs/2507.06519)|null|
 |**2025-07-09**|**Video-RTS: Rethinking Reinforcement Learning and Test-Time Scaling for Efficient and Enhanced Video Reasoning**|Ziyang Wang et.al.|[2507.06485](http://arxiv.org/abs/2507.06485)|null|
 |**2025-07-09**|**Foundation Model Self-Play: Open-Ended Strategy Innovation via Foundation Models**|Aaron Dharna et.al.|[2507.06466](http://arxiv.org/abs/2507.06466)|null|
@@ -11576,7 +11576,7 @@ layout: default
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-08**|**Stable Acoustic Relay Assignment with High Throughput via Lase Chaos-based Reinforcement Learning**|Zengjing Chen et.al.|[2507.05900](http://arxiv.org/abs/2507.05900)|null|
 |**2025-07-08**|**OLAF: Programmable Data Plane Acceleration for Asynchronous Distributed Reinforcement Learning**|Nehal Baganal Krishna et.al.|[2507.05876](http://arxiv.org/abs/2507.05876)|null|
-|**2025-07-09**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-10**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
 |**2025-07-08**|**Robust Bandwidth Estimation for Real-Time Communication with Offline Reinforcement Learning**|Jian Kai et.al.|[2507.05785](http://arxiv.org/abs/2507.05785)|null|
 |**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
 |**2025-07-08**|**MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment**|Yucheng Shi et.al.|[2507.05720](http://arxiv.org/abs/2507.05720)|null|
