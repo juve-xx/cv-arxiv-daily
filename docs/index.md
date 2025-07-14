@@ -2444,6 +2444,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**AbbIE: Autoregressive Block-Based Iterative Encoder for Efficient Sequence Modeling**|Preslav Aleksandrov et.al.|[2507.08567](http://arxiv.org/abs/2507.08567)|null|
+|**2025-07-11**|**InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching**|Yilun Wang et.al.|[2507.08523](http://arxiv.org/abs/2507.08523)|null|
+|**2025-07-11**|**Cycle Context Verification for In-Context Medical Image Segmentation**|Shishuai Hu et.al.|[2507.08357](http://arxiv.org/abs/2507.08357)|null|
+|**2025-07-08**|**Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**|Li Li et.al.|[2507.08021](http://arxiv.org/abs/2507.08021)|null|
 |**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
 |**2025-07-10**|**Understanding and Controlling Repetition Neurons and Induction Heads in In-Context Learning**|Nhi Hoai Doan et.al.|[2507.07810](http://arxiv.org/abs/2507.07810)|null|
 |**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997](http://arxiv.org/abs/2507.05997)|null|
@@ -4257,6 +4261,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
+|**2025-07-11**|**DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures**|Benno Uthayasooriyar et.al.|[2507.08606](http://arxiv.org/abs/2507.08606)|null|
+|**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
 |**2025-07-10**|**Pay Attention to Attention Distribution: A New Local Lipschitz Bound for Transformers**|Nikolay Yudin et.al.|[2507.07814](http://arxiv.org/abs/2507.07814)|null|
 |**2025-07-10**|**Robust and Generalizable Heart Rate Estimation via Deep Learning for Remote Photoplethysmography in Complex Scenarios**|Kang Cen et.al.|[2507.07795](http://arxiv.org/abs/2507.07795)|null|
 |**2025-07-10**|**Sparse-Dense Side-Tuner for efficient Video Temporal Grounding**|David Pujol-Perich et.al.|[2507.07744](http://arxiv.org/abs/2507.07744)|null|
@@ -6325,6 +6332,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Genericity of Polyak-Lojasiewicz Inequalities for Entropic Mean-Field Neural ODEs**|Samuel Daudin et.al.|[2507.08486](http://arxiv.org/abs/2507.08486)|null|
+|**2025-07-11**|**PGD-based optimization of 3D bobsleigh track centerlines from 2D centerlines for simulation applications**|Zhe Chen et.al.|[2507.08393](http://arxiv.org/abs/2507.08393)|null|
+|**2025-07-11**|**Data Generation without Function Estimation**|Hadi Daneshmand et.al.|[2507.08239](http://arxiv.org/abs/2507.08239)|null|
+|**2025-07-10**|**An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis**|Ming Wang et.al.|[2507.08050](http://arxiv.org/abs/2507.08050)|null|
 |**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907](http://arxiv.org/abs/2507.07907)|null|
 |**2025-07-10**|**Optimization Guarantees for Square-Root Natural-Gradient Variational Inference**|Navish Kumar et.al.|[2507.07853](http://arxiv.org/abs/2507.07853)|null|
 |**2025-07-10**|**An Adaptive Order Caputo Fractional Gradient Descent Method for Multi-objective Optimization Problems**|Barsha Shaw et.al.|[2507.07674](http://arxiv.org/abs/2507.07674)|null|
@@ -8949,6 +8960,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Catastrophic Forgetting Mitigation Through Plateau Phase Activity Profiling**|Idan Mashiach et.al.|[2507.08736](http://arxiv.org/abs/2507.08736)|null|
+|**2025-07-11**|**Genericity of Polyak-Lojasiewicz Inequalities for Entropic Mean-Field Neural ODEs**|Samuel Daudin et.al.|[2507.08486](http://arxiv.org/abs/2507.08486)|null|
+|**2025-07-11**|**PGD-based optimization of 3D bobsleigh track centerlines from 2D centerlines for simulation applications**|Zhe Chen et.al.|[2507.08393](http://arxiv.org/abs/2507.08393)|null|
+|**2025-07-11**|**Data Generation without Function Estimation**|Hadi Daneshmand et.al.|[2507.08239](http://arxiv.org/abs/2507.08239)|null|
+|**2025-07-10**|**An Enhanced Privacy-preserving Federated Few-shot Learning Framework for Respiratory Disease Diagnosis**|Ming Wang et.al.|[2507.08050](http://arxiv.org/abs/2507.08050)|null|
 |**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907](http://arxiv.org/abs/2507.07907)|null|
 |**2025-07-11**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
 |**2025-07-10**|**Optimization Guarantees for Square-Root Natural-Gradient Variational Inference**|Navish Kumar et.al.|[2507.07853](http://arxiv.org/abs/2507.07853)|null|
@@ -11557,6 +11573,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
+|**2025-07-11**|**Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning**|James McCarthy et.al.|[2507.08793](http://arxiv.org/abs/2507.08793)|null|
+|**2025-07-11**|**Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data**|Jeonghye Kim et.al.|[2507.08761](http://arxiv.org/abs/2507.08761)|null|
+|**2025-07-11**|**On the Effect of Regularization in Policy Mirror Descent**|Jan Felix Kleuker et.al.|[2507.08718](http://arxiv.org/abs/2507.08718)|null|
+|**2025-07-11**|**SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations**|Peter Crowley et.al.|[2507.08707](http://arxiv.org/abs/2507.08707)|null|
+|**2025-07-11**|**elsciRL: Integrating Language Solutions into Reinforcement Learning Problem Settings**|Philip Osborne et.al.|[2507.08705](http://arxiv.org/abs/2507.08705)|null|
+|**2025-07-11**|**Multi-critic Learning for Whole-body End-effector Twist Tracking**|Aravind Elanjimattathil Vijayan et.al.|[2507.08656](http://arxiv.org/abs/2507.08656)|null|
+|**2025-07-11**|**Safe Deep Reinforcement Learning for Resource Allocation with Peak Age of Information Violation Guarantees**|Berire Gunes Reyhan et.al.|[2507.08653](http://arxiv.org/abs/2507.08653)|null|
+|**2025-07-11**|**Leanabell-Prover-V2: Verifier-integrated Reasoning for Formal Theorem Proving via Reinforcement Learning**|Xingguang Ji et.al.|[2507.08649](http://arxiv.org/abs/2507.08649)|null|
+|**2025-07-11**|**Emergent Natural Language with Communication Games for Improving Image Captioning Capabilities without Additional Data**|Parag Dutta et.al.|[2507.08610](http://arxiv.org/abs/2507.08610)|null|
+|**2025-07-11**|**SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2**|Alen Adamyan et.al.|[2507.08548](http://arxiv.org/abs/2507.08548)|null|
+|**2025-07-11**|**Recursive Reward Aggregation**|Yuting Tang et.al.|[2507.08537](http://arxiv.org/abs/2507.08537)|null|
+|**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
+|**2025-07-11**|**Age of Information Optimization in Laser-charged UAV-assisted IoT Networks: A Multi-agent Deep Reinforcement Learning Method**|Geng Sun et.al.|[2507.08429](http://arxiv.org/abs/2507.08429)|null|
+|**2025-07-11**|**Online Pre-Training for Offline-to-Online Reinforcement Learning**|Yongjae Shin et.al.|[2507.08387](http://arxiv.org/abs/2507.08387)|null|
+|**2025-07-11**|**Intelligent Control of Spacecraft Reaction Wheel Attitude Using Deep Reinforcement Learning**|Ghaith El-Dalahmeh et.al.|[2507.08366](http://arxiv.org/abs/2507.08366)|null|
+|**2025-07-11**|**M2-Reasoning: Empowering MLLMs with Unified General and Spatial Reasoning**|Inclusion AI et.al.|[2507.08306](http://arxiv.org/abs/2507.08306)|null|
+|**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
+|**2025-07-11**|**KAT-V1: Kwai-AutoThink Technical Report**|Zizheng Zhan et.al.|[2507.08297](http://arxiv.org/abs/2507.08297)|null|
+|**2025-07-11**|**Lightweight Safety Guardrails via Synthetic Data and RL-guided Adversarial Training**|Aleksei Ilin et.al.|[2507.08284](http://arxiv.org/abs/2507.08284)|null|
+|**2025-07-11**|**Agent Safety Alignment via Reinforcement Learning**|Zeyang Sha et.al.|[2507.08270](http://arxiv.org/abs/2507.08270)|null|
+|**2025-07-11**|**A Practical Two-Stage Recipe for Mathematical LLMs: Maximizing Accuracy with SFT and Efficiency with Reinforcement Learning**|Hiroshi Yoshihara et.al.|[2507.08267](http://arxiv.org/abs/2507.08267)|null|
+|**2025-07-10**|**From Curiosity to Competence: How World Models Interact with the Dynamics of Exploration**|Fryderyk Mantiuk et.al.|[2507.08210](http://arxiv.org/abs/2507.08210)|null|
+|**2025-07-10**|**Deep Reinforcement Learning in Applied Control: Challenges, Analysis, and Insights**|Klinsmann Agyei et.al.|[2507.08196](http://arxiv.org/abs/2507.08196)|null|
+|**2025-07-10**|**CTRLS: Chain-of-Thought Reasoning via Latent State-Transition**|Junda Wu et.al.|[2507.08182](http://arxiv.org/abs/2507.08182)|null|
+|**2025-07-08**|**"Amazing, They All Lean Left" -- Analyzing the Political Temperaments of Current LLMs**|W. Russell Neuman et.al.|[2507.08027](http://arxiv.org/abs/2507.08027)|null|
 |**2025-07-10**|**Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and Methodology**|Haochen Wang et.al.|[2507.07999](http://arxiv.org/abs/2507.07999)|null|
 |**2025-07-10**|**Single-pass Adaptive Image Tokenization for Minimum Program Search**|Shivam Duggal et.al.|[2507.07995](http://arxiv.org/abs/2507.07995)|null|
 |**2025-07-10**|**EXPO: Stable Reinforcement Learning with Expressive Policies**|Perry Dong et.al.|[2507.07986](http://arxiv.org/abs/2507.07986)|null|
