@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6339,7 +6339,7 @@ layout: default
 |**2025-07-08**|**KPFlow: An Operator Perspective on Dynamic Collapse Under Gradient Descent Training of Recurrent Networks**|James Hazelden et.al.|[2507.06381](http://arxiv.org/abs/2507.06381)|null|
 |**2025-07-08**|**Simple Convergence Proof of Adam From a Sign-like Descent Perspective**|Hanyang Peng et.al.|[2507.05966](http://arxiv.org/abs/2507.05966)|null|
 |**2025-07-09**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610](http://arxiv.org/abs/2507.05610)|null|
-|**2025-07-07**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
+|**2025-07-11**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
 |**2025-07-07**|**Fast and Provable Hankel Tensor Completion for Multi-measurement Spectral Compressed Sensing**|Jinsheng Li et.al.|[2507.04847](http://arxiv.org/abs/2507.04847)|null|
 |**2025-07-07**|**Riemannian Inexact Gradient Descent for Quadratic Discrimination**|Uday Talwar et.al.|[2507.04670](http://arxiv.org/abs/2507.04670)|null|
@@ -8684,7 +8684,7 @@ layout: default
 |**2025-06-08**|**A Layered Self-Supervised Knowledge Distillation Framework for Efficient Multimodal Learning on the Edge**|Tarique Dahri et.al.|[2506.07055](http://arxiv.org/abs/2506.07055)|null|
 |**2025-06-07**|**Curvature Enhanced Data Augmentation for Regression**|Ilya Kaufman Sirot et.al.|[2506.06853](http://arxiv.org/abs/2506.06853)|null|
 |**2025-06-06**|**Global Convergence of Gradient EM for Over-Parameterized Gaussian Mixtures**|Mo Zhou et.al.|[2506.06584](http://arxiv.org/abs/2506.06584)|null|
-|**2025-06-06**|**Grokking Beyond the Euclidean Norm of Model Parameters**|Pascal Jr Tikeng Notsawo et.al.|[2506.05718](http://arxiv.org/abs/2506.05718)|null|
+|**2025-07-10**|**Grokking Beyond the Euclidean Norm of Model Parameters**|Pascal Jr Tikeng Notsawo et.al.|[2506.05718](http://arxiv.org/abs/2506.05718)|null|
 |**2025-06-05**|**Complexity reduction of physical models: an equation-free approach by means of scaling**|Simone Rusconi et.al.|[2506.05029](http://arxiv.org/abs/2506.05029)|null|
 |**2025-06-04**|**Replay Can Provably Increase Forgetting**|Yasaman Mahdaviyeh et.al.|[2506.04377](http://arxiv.org/abs/2506.04377)|null|
 |**2025-07-04**|**High-Dimensional Learning in Finance**|Hasan Fallahgoul et.al.|[2506.03780](http://arxiv.org/abs/2506.03780)|null|
@@ -8950,7 +8950,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-10**|**A statistical physics framework for optimal learning**|Francesca Mignacco et.al.|[2507.07907](http://arxiv.org/abs/2507.07907)|null|
-|**2025-07-10**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
+|**2025-07-11**|**SAMO: A Lightweight Sharpness-Aware Approach for Multi-Task Optimization with Joint Global-Local Perturbation**|Hao Ban et.al.|[2507.07883](http://arxiv.org/abs/2507.07883)|null|
 |**2025-07-10**|**Optimization Guarantees for Square-Root Natural-Gradient Variational Inference**|Navish Kumar et.al.|[2507.07853](http://arxiv.org/abs/2507.07853)|null|
 |**2025-07-10**|**An Adaptive Order Caputo Fractional Gradient Descent Method for Multi-objective Optimization Problems**|Barsha Shaw et.al.|[2507.07674](http://arxiv.org/abs/2507.07674)|null|
 |**2025-07-10**|**Online Quantum State Tomography via Stochastic Gradient Descent**|Jian-Feng Cai et.al.|[2507.07601](http://arxiv.org/abs/2507.07601)|null|
@@ -8966,7 +8966,7 @@ layout: default
 |**2025-07-08**|**KPFlow: An Operator Perspective on Dynamic Collapse Under Gradient Descent Training of Recurrent Networks**|James Hazelden et.al.|[2507.06381](http://arxiv.org/abs/2507.06381)|null|
 |**2025-07-08**|**Simple Convergence Proof of Adam From a Sign-like Descent Perspective**|Hanyang Peng et.al.|[2507.05966](http://arxiv.org/abs/2507.05966)|null|
 |**2025-07-09**|**On the Inherent Privacy of Zeroth Order Projected Gradient Descent**|Devansh Gupta et.al.|[2507.05610](http://arxiv.org/abs/2507.05610)|null|
-|**2025-07-07**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
+|**2025-07-11**|**Introducing Image-Space Preconditioning in the Variational Formulation of MRI Reconstructions**|Bastien Milani et.al.|[2507.05312](http://arxiv.org/abs/2507.05312)|null|
 |**2025-07-07**|**A Dynamical Systems Perspective on the Analysis of Neural Networks**|Dennis Chemnitz et.al.|[2507.05164](http://arxiv.org/abs/2507.05164)|null|
 |**2025-07-07**|**Fast and Provable Hankel Tensor Completion for Multi-measurement Spectral Compressed Sensing**|Jinsheng Li et.al.|[2507.04847](http://arxiv.org/abs/2507.04847)|null|
 |**2025-07-07**|**Riemannian Inexact Gradient Descent for Quadratic Discrimination**|Uday Talwar et.al.|[2507.04670](http://arxiv.org/abs/2507.04670)|null|
@@ -11578,7 +11578,7 @@ layout: default
 |**2025-07-10**|**PILOC: A Pheromone Inverse Guidance Mechanism and Local-Communication Framework for Dynamic Target Search of Multi-Agent in Unknown Environments**|Hengrui Liu et.al.|[2507.07376](http://arxiv.org/abs/2507.07376)|null|
 |**2025-07-10**|**Bradley-Terry and Multi-Objective Reward Modeling Are Complementary**|Zhiwei Zhang et.al.|[2507.07375](http://arxiv.org/abs/2507.07375)|null|
 |**2025-07-10**|**Zero-Shot Context Generalization in Reinforcement Learning from Few Training Contexts**|James Chapman et.al.|[2507.07348](http://arxiv.org/abs/2507.07348)|null|
-|**2025-07-09**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
+|**2025-07-11**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
 |**2025-07-09**|**Optimizing Model Splitting and Device Task Assignment for Deceptive Signal Assisted Private Multi-hop Split Learning**|Dongyu Wei et.al.|[2507.07323](http://arxiv.org/abs/2507.07323)|null|
 |**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
 |**2025-07-09**|**Application of LLMs to Multi-Robot Path Planning and Task Allocation**|Ashish Kumar et.al.|[2507.07302](http://arxiv.org/abs/2507.07302)|null|
@@ -11591,7 +11591,7 @@ layout: default
 |**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
 |**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
 |**2025-07-09**|**Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams**|Abolfazl Zarghani et.al.|[2507.06901](http://arxiv.org/abs/2507.06901)|null|
-|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-11**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
 |**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
