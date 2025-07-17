@@ -2444,6 +2444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Improving Data and Parameter Efficiency of Neural Language Models Using Representation Analysis**|Josip Jukić et.al.|[2507.12004](http://arxiv.org/abs/2507.12004)|null|
+|**2025-07-15**|**LLMs are Bayesian, in Expectation, not in Realization**|Leon Chlon et.al.|[2507.11768](http://arxiv.org/abs/2507.11768)|null|
 |**2025-07-16**|**Journalism-Guided Agentic In-Context Learning for News Stance Detection**|Dahyun Lee et.al.|[2507.11049](http://arxiv.org/abs/2507.11049)|null|
 |**2025-07-14**|**Semantic Context for Tool Orchestration**|Robert Müller et.al.|[2507.10820](http://arxiv.org/abs/2507.10820)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
@@ -4269,6 +4271,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-16**|**PRISM: Distributed Inference for Foundation Models at Edge**|Muhammad Azlan Qazi et.al.|[2507.12145](http://arxiv.org/abs/2507.12145)|null|
 |**2025-07-15**|**EditGen: Harnessing Cross-Attention Control for Instruction-Based Auto-Regressive Audio Editing**|Vassilis Sioros et.al.|[2507.11096](http://arxiv.org/abs/2507.11096)|null|
 |**2025-07-14**|**Machine-learning inference of stellar properties using integrated photometric and spectroscopic data**|Ilay Kamai et.al.|[2507.10666](http://arxiv.org/abs/2507.10666)|null|
 |**2025-07-11**|**Universal Approximation Theorem for a Single-Layer Transformer**|Esmail Gumaan et.al.|[2507.10581](http://arxiv.org/abs/2507.10581)|null|
@@ -6352,6 +6356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Non-Adaptive Adversarial Face Generation**|Sunpill Kim et.al.|[2507.12107](http://arxiv.org/abs/2507.12107)|null|
+|**2025-07-16**|**Algorithm Design and Comparative Test of Natural Gradient Gaussian Approximation Filter**|Wenhan Cao et.al.|[2507.11872](http://arxiv.org/abs/2507.11872)|null|
 |**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461](http://arxiv.org/abs/2507.11461)|null|
 |**2025-07-15**|**A Parallelizable Approach for Characterizing NE in Zero-Sum Games After a Linear Number of Iterations of Gradient Descent**|Taemin Kim et.al.|[2507.11366](http://arxiv.org/abs/2507.11366)|null|
 |**2025-07-15**|**Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime**|Amit Attia et.al.|[2507.11274](http://arxiv.org/abs/2507.11274)|null|
@@ -8996,6 +9002,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models**|Yiqi Tian et.al.|[2507.12201](http://arxiv.org/abs/2507.12201)|null|
+|**2025-07-16**|**Non-Adaptive Adversarial Face Generation**|Sunpill Kim et.al.|[2507.12107](http://arxiv.org/abs/2507.12107)|null|
+|**2025-07-16**|**Algorithm Design and Comparative Test of Natural Gradient Gaussian Approximation Filter**|Wenhan Cao et.al.|[2507.11872](http://arxiv.org/abs/2507.11872)|null|
 |**2025-07-15**|**Deep Equilibrium models for Poisson Imaging Inverse problems via Mirror Descent**|Christian Daniele et.al.|[2507.11461](http://arxiv.org/abs/2507.11461)|null|
 |**2025-07-15**|**A Parallelizable Approach for Characterizing NE in Zero-Sum Games After a Linear Number of Iterations of Gradient Descent**|Taemin Kim et.al.|[2507.11366](http://arxiv.org/abs/2507.11366)|null|
 |**2025-07-15**|**Fast Last-Iterate Convergence of SGD in the Smooth Interpolation Regime**|Amit Attia et.al.|[2507.11274](http://arxiv.org/abs/2507.11274)|null|
@@ -11625,6 +11634,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Improving Reinforcement Learning Sample-Efficiency using Local Approximation**|Mohit Prashant et.al.|[2507.12383](http://arxiv.org/abs/2507.12383)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**Efficient Preparation of Fermionic Superfluids in an Optical Dipole Trap through Reinforcement Learning**|Yueyang Min et.al.|[2507.12152](http://arxiv.org/abs/2507.12152)|null|
+|**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
+|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083](http://arxiv.org/abs/2507.12083)|null|
+|**2025-07-16**|**Towards Ultra-Reliable 6G in-X Subnetworks: Dynamic Link Adaptation by Deep Reinforcement Learning**|Fateme Salehi et.al.|[2507.12031](http://arxiv.org/abs/2507.12031)|null|
+|**2025-07-16**|**QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks**|Siddhant Dutta et.al.|[2507.12013](http://arxiv.org/abs/2507.12013)|null|
+|**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
+|**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975](http://arxiv.org/abs/2507.11975)|null|
+|**2025-07-16**|**Kevin: Multi-Turn RL for Generating CUDA Kernels**|Carlo Baronio et.al.|[2507.11948](http://arxiv.org/abs/2507.11948)|null|
+|**2025-07-16**|**Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs**|Mohammad Shahab Sepehri et.al.|[2507.11932](http://arxiv.org/abs/2507.11932)|null|
+|**2025-07-16**|**From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning**|Max Hopkins et.al.|[2507.11926](http://arxiv.org/abs/2507.11926)|null|
+|**2025-07-16**|**DualReward: A Dynamic Reinforcement Learning Framework for Cloze Tests Distractor Generation**|Tianyou Huang et.al.|[2507.11875](http://arxiv.org/abs/2507.11875)|null|
+|**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
+|**2025-07-16**|**MNIST-Gen: A Modular MNIST-Style Dataset Generation Using Hierarchical Semantics, Reinforcement Learning, and Category Theory**|Pouya Shaeri et.al.|[2507.11821](http://arxiv.org/abs/2507.11821)|null|
+|**2025-07-15**|**A Deep Reinforcement Learning Method for Multi-objective Transmission Switching**|Ding Lin et.al.|[2507.11726](http://arxiv.org/abs/2507.11726)|null|
+|**2025-07-15**|**Reinforcement Learning from Adversarial Preferences in Tabular MDPs**|Taira Tsuchiya et.al.|[2507.11706](http://arxiv.org/abs/2507.11706)|null|
+|**2025-07-15**|**A Study on the Application of Artificial Intelligence in Ecological Design**|Hengyue Zhao et.al.|[2507.11595](http://arxiv.org/abs/2507.11595)|null|
+|**2025-07-14**|**Emergent Heterogeneous Swarm Control Through Hebbian Learning**|Fuda van Diggelen et.al.|[2507.11566](http://arxiv.org/abs/2507.11566)|null|
 |**2025-07-16**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
 |**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
 |**2025-07-15**|**Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light**|Mani Hamidi et.al.|[2507.11482](http://arxiv.org/abs/2507.11482)|null|
