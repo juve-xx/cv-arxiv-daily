@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4285,7 +4285,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
 |**2025-07-21**|**SAIGFormer: A Spatially-Adaptive Illumination-Guided Network for Low-Light Image Enhancement**|Hanting Li et.al.|[2507.15520](http://arxiv.org/abs/2507.15520)|null|
-|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
+|**2025-07-22**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
 |**2025-07-20**|**Latent-attention Based Transformer for Near ML Polar Decoding in Short-code Regime**|Hongzhi Zhu et.al.|[2507.14951](http://arxiv.org/abs/2507.14951)|null|
 |**2025-07-20**|**Partial Symmetry Enforced Attention Decomposition (PSEAD): A Group-Theoretic Framework for Equivariant Transformers in Biological Systems**|Daniel Ayomide Olanrewaju et.al.|[2507.14908](http://arxiv.org/abs/2507.14908)|null|
 |**2025-07-20**|**Hybrid-supervised Hypergraph-enhanced Transformer for Micro-gesture Based Emotion Recognition**|Zhaoqiang Xia et.al.|[2507.14867](http://arxiv.org/abs/2507.14867)|null|
@@ -4306,7 +4306,7 @@ layout: default
 |**2025-07-14**|**Machine-learning inference of stellar properties using integrated photometric and spectroscopic data**|Ilay Kamai et.al.|[2507.10666](http://arxiv.org/abs/2507.10666)|null|
 |**2025-07-11**|**Universal Approximation Theorem for a Single-Layer Transformer**|Esmail Gumaan et.al.|[2507.10581](http://arxiv.org/abs/2507.10581)|null|
 |**2025-07-14**|**FTCFormer: Fuzzy Token Clustering Transformer for Image Classification**|Muyi Bao et.al.|[2507.10283](http://arxiv.org/abs/2507.10283)|null|
-|**2025-07-18**|**Rethinking Inductive Bias in Geographically Neural Network Weighted Regression**|Zhenyuan Chen et.al.|[2507.09958](http://arxiv.org/abs/2507.09958)|null|
+|**2025-07-21**|**Rethinking Inductive Bias in Geographically Neural Network Weighted Regression**|Zhenyuan Chen et.al.|[2507.09958](http://arxiv.org/abs/2507.09958)|null|
 |**2025-07-14**|**MCGA: Mixture of Codebooks Hyperspectral Reconstruction via Grayscale-Aware Attention**|Zhanjiang Yang et.al.|[2507.09885](http://arxiv.org/abs/2507.09885)|null|
 |**2025-07-14**|**Effective Self-Attention-Based Deep Learning Model with Evolutionary Grid Search for Robust Wave Farm Energy Forecasting**|Amin Abdollahi Dehkordi et.al.|[2507.09847](http://arxiv.org/abs/2507.09847)|null|
 |**2025-07-13**|**Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights**|Mohamadreza Akbari Pour et.al.|[2507.09766](http://arxiv.org/abs/2507.09766)|null|
@@ -6389,9 +6389,9 @@ layout: default
 |**2025-07-21**|**Stochastic Quantum Hamiltonian Descent**|Sirui Peng et.al.|[2507.15424](http://arxiv.org/abs/2507.15424)|null|
 |**2025-07-21**|**MAP Estimation with Denoisers: Convergence Rates and Guarantees**|Scott Pesme et.al.|[2507.15397](http://arxiv.org/abs/2507.15397)|null|
 |**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song et.al.|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
-|**2025-07-18**|**Interpretable Gradient Descent for Kalman Gain**|M. A. Belabbas et.al.|[2507.14354](http://arxiv.org/abs/2507.14354)|null|
+|**2025-07-22**|**Interpretable Gradient Descent for Kalman Gain**|M. A. Belabbas et.al.|[2507.14354](http://arxiv.org/abs/2507.14354)|null|
 |**2025-07-18**|**Comparative Analysis of Algorithms for the Fitting of Tessellations to 3D Image Data**|Andreas Alpers et.al.|[2507.14268](http://arxiv.org/abs/2507.14268)|null|
-|**2025-07-10**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
+|**2025-07-22**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
 |**2025-07-18**|**Last-Iterate Complexity of SGD for Convex and Smooth Stochastic Problems**|Guillaume Garrigos et.al.|[2507.14122](http://arxiv.org/abs/2507.14122)|null|
 |**2025-07-18**|**A stochastic column-block gradient descent method for solving nonlinear systems of equations**|Naiyu Jiang et.al.|[2507.13855](http://arxiv.org/abs/2507.13855)|null|
 |**2025-07-18**|**Gradient descent avoids strict saddles with a simple line-search method too**|Andreea-Alexandra Muşat et.al.|[2507.13804](http://arxiv.org/abs/2507.13804)|null|
@@ -9049,9 +9049,9 @@ layout: default
 |**2025-07-21**|**Stochastic Quantum Hamiltonian Descent**|Sirui Peng et.al.|[2507.15424](http://arxiv.org/abs/2507.15424)|null|
 |**2025-07-21**|**MAP Estimation with Denoisers: Convergence Rates and Guarantees**|Scott Pesme et.al.|[2507.15397](http://arxiv.org/abs/2507.15397)|null|
 |**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song et.al.|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
-|**2025-07-18**|**Interpretable Gradient Descent for Kalman Gain**|M. A. Belabbas et.al.|[2507.14354](http://arxiv.org/abs/2507.14354)|null|
+|**2025-07-22**|**Interpretable Gradient Descent for Kalman Gain**|M. A. Belabbas et.al.|[2507.14354](http://arxiv.org/abs/2507.14354)|null|
 |**2025-07-18**|**Comparative Analysis of Algorithms for the Fitting of Tessellations to 3D Image Data**|Andreas Alpers et.al.|[2507.14268](http://arxiv.org/abs/2507.14268)|null|
-|**2025-07-10**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
+|**2025-07-22**|**IPPRO: Importance-based Pruning with PRojective Offset for Magnitude-indifferent Structural Pruning**|Jaeheun Jung et.al.|[2507.14171](http://arxiv.org/abs/2507.14171)|null|
 |**2025-07-18**|**Last-Iterate Complexity of SGD for Convex and Smooth Stochastic Problems**|Guillaume Garrigos et.al.|[2507.14122](http://arxiv.org/abs/2507.14122)|null|
 |**2025-07-18**|**A stochastic column-block gradient descent method for solving nonlinear systems of equations**|Naiyu Jiang et.al.|[2507.13855](http://arxiv.org/abs/2507.13855)|null|
 |**2025-07-18**|**Gradient descent avoids strict saddles with a simple line-search method too**|Andreea-Alexandra Muşat et.al.|[2507.13804](http://arxiv.org/abs/2507.13804)|null|
@@ -11692,8 +11692,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
-|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
-|**2025-07-21**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844](http://arxiv.org/abs/2507.15844)|null|
+|**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-22**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844](http://arxiv.org/abs/2507.15844)|null|
 |**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
 |**2025-07-21**|**Power-Constrained Policy Gradient Methods for LQR**|Ashwin Verma et.al.|[2507.15806](http://arxiv.org/abs/2507.15806)|null|
 |**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
@@ -11750,13 +11750,13 @@ layout: default
 |**2025-07-19**|**Federated Reinforcement Learning in Heterogeneous Environments**|Ukjo Hwang et.al.|[2507.14487](http://arxiv.org/abs/2507.14487)|null|
 |**2025-07-19**|**Deep RL Dual Sourcing Inventory Management with Supply and Capacity Risk Awareness**|Feng Liu et.al.|[2507.14446](http://arxiv.org/abs/2507.14446)|null|
 |**2025-07-19**|**Statistical and Algorithmic Foundations of Reinforcement Learning**|Yuejie Chi et.al.|[2507.14444](http://arxiv.org/abs/2507.14444)|null|
-|**2025-07-19**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
+|**2025-07-22**|**X-Intelligence 3.0: Training and Evaluating Reasoning LLM for Semiconductor Display**|Xiaolin Yan et.al.|[2507.14430](http://arxiv.org/abs/2507.14430)|null|
 |**2025-07-19**|**It's Not That Simple. An Analysis of Simple Test-Time Scaling**|Guojun Wu et.al.|[2507.14419](http://arxiv.org/abs/2507.14419)|null|
 |**2025-07-18**|**Influence Functions for Preference Dataset Pruning**|Daniel Fein et.al.|[2507.14344](http://arxiv.org/abs/2507.14344)|null|
 |**2025-07-18**|**Age of Information Minimization in UAV-Enabled Integrated Sensing and Communication Systems**|Yu Bai et.al.|[2507.14299](http://arxiv.org/abs/2507.14299)|null|
 |**2025-07-18**|**A Simple "Try Again" Can Elicit Multi-Turn LLM Reasoning**|Licheng Liu et.al.|[2507.14295](http://arxiv.org/abs/2507.14295)|null|
 |**2025-07-18**|**Real-Time Communication-Aware Ride-Sharing Route Planning for Urban Air Mobility: A Multi-Source Hybrid Attention Reinforcement Learning Approach**|Yuejiao Xie et.al.|[2507.14249](http://arxiv.org/abs/2507.14249)|null|
-|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-22**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[2507.14066](http://arxiv.org/abs/2507.14066)|null|
 |**2025-07-18**|**Reframing attention as a reinforcement learning problem for causal discovery**|Turan Orujlu et.al.|[2507.13920](http://arxiv.org/abs/2507.13920)|null|
 |**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
@@ -11766,7 +11766,7 @@ layout: default
 |**2025-07-18**|**LLaPipe: LLM-Guided Reinforcement Learning for Automated Data Preparation Pipeline Construction**|Jing Chang et.al.|[2507.13712](http://arxiv.org/abs/2507.13712)|null|
 |**2025-07-18**|**CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation**|Jing Chang et.al.|[2507.13710](http://arxiv.org/abs/2507.13710)|null|
 |**2025-07-18**|**State Space Models Naturally Produce Traveling Waves, Time Cells, and Scale to Abstract Cognitive Functions**|Sen Lu et.al.|[2507.13638](http://arxiv.org/abs/2507.13638)|null|
-|**2025-07-18**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
+|**2025-07-22**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
 |**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579](http://arxiv.org/abs/2507.13579)|null|
 |**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
 |**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
