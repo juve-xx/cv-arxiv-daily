@@ -2470,6 +2470,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Risk In Context: Benchmarking Privacy Leakage of Foundation Models in Synthetic Tabular Data Generation**|Jessup Byun et.al.|[2507.17066](http://arxiv.org/abs/2507.17066)|null|
+|**2025-07-22**|**Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning**|Aleksandr Perevalov et.al.|[2507.16971](http://arxiv.org/abs/2507.16971)|null|
+|**2025-07-21**|**Pixels, Patterns, but No Poetry: To See The World like Humans**|Hongcheng Gao et.al.|[2507.16863](http://arxiv.org/abs/2507.16863)|null|
 |**2025-07-22**|**PICACO: Pluralistic In-Context Value Alignment of LLMs via Total Correlation Optimization**|Han Jiang et.al.|[2507.16679](http://arxiv.org/abs/2507.16679)|null|
 |**2025-07-22**|**Towards Compute-Optimal Many-Shot In-Context Learning**|Shahriar Golchin et.al.|[2507.16217](http://arxiv.org/abs/2507.16217)|null|
 |**2025-07-21**|**Learning without training: The implicit dynamics of in-context learning**|Benoit Dherin et.al.|[2507.16003](http://arxiv.org/abs/2507.16003)|null|
@@ -4314,6 +4317,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
+|**2025-07-23**|**MyGO: Make your Goals Obvious, Avoiding Semantic Confusion in Prostate Cancer Lesion Region Segmentation**|Zhengcheng Lin et.al.|[2507.17269](http://arxiv.org/abs/2507.17269)|null|
+|**2025-07-23**|**DistrAttention: An Efficient and Flexible Self-Attention Mechanism on Modern GPUs**|Haolin Jin et.al.|[2507.17245](http://arxiv.org/abs/2507.17245)|null|
+|**2025-07-23**|**Met $^2$ Net: A Decoupled Two-Stage Spatio-Temporal Forecasting Model for Complex Meteorological Systems**|Shaohan Li et.al.|[2507.17189](http://arxiv.org/abs/2507.17189)|null|
+|**2025-07-22**|**ResKACNNet: A Residual ChebyKAN Network for Inertial Odometry**|Shanshan Zhang et.al.|[2507.16865](http://arxiv.org/abs/2507.16865)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743](http://arxiv.org/abs/2507.16743)|null|
 |**2025-07-22**|**HarmonPaint: Harmonized Training-Free Diffusion Inpainting**|Ying Li et.al.|[2507.16732](http://arxiv.org/abs/2507.16732)|null|
 |**2025-07-22**|**ToFe: Lagged Token Freezing and Reusing for Efficient Vision Transformer Inference**|Haoyue Zhang et.al.|[2507.16260](http://arxiv.org/abs/2507.16260)|null|
@@ -6423,6 +6431,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Information Entropy-Based Scheduling for Communication-Efficient Decentralized Learning**|Jaiprakash Nagar et.al.|[2507.17426](http://arxiv.org/abs/2507.17426)|null|
+|**2025-07-23**|**SLASH: Self-Supervised Speech Pitch Estimation Leveraging DSP-derived Absolute Pitch**|Ryo Terashima et.al.|[2507.17208](http://arxiv.org/abs/2507.17208)|null|
+|**2025-07-22**|**Fractional Spike Differential Equations Neural Network with Efficient Adjoint Parameters Training**|Chengjie Ge et.al.|[2507.16937](http://arxiv.org/abs/2507.16937)|null|
 |**2025-07-22**|**Multi-objective Portfolio Optimization Via Gradient Descent**|Christian Oliva et.al.|[2507.16717](http://arxiv.org/abs/2507.16717)|null|
 |**2025-07-22**|**On the Worst-Case Analysis of Cyclic Block Coordinate Descent type Algorithms**|Yassine Kamri et.al.|[2507.16675](http://arxiv.org/abs/2507.16675)|null|
 |**2025-07-22**|**Optimization and generalization analysis for two-layer physics-informed neural networks without over-parametrization**|Zhihan Zeng et.al.|[2507.16380](http://arxiv.org/abs/2507.16380)|null|
@@ -9096,6 +9107,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Information Entropy-Based Scheduling for Communication-Efficient Decentralized Learning**|Jaiprakash Nagar et.al.|[2507.17426](http://arxiv.org/abs/2507.17426)|null|
+|**2025-07-23**|**SLASH: Self-Supervised Speech Pitch Estimation Leveraging DSP-derived Absolute Pitch**|Ryo Terashima et.al.|[2507.17208](http://arxiv.org/abs/2507.17208)|null|
+|**2025-07-23**|**ZORMS-LfD: Learning from Demonstrations with Zeroth-Order Random Matrix Search**|Olivia Dry et.al.|[2507.17096](http://arxiv.org/abs/2507.17096)|null|
+|**2025-07-22**|**Fractional Spike Differential Equations Neural Network with Efficient Adjoint Parameters Training**|Chengjie Ge et.al.|[2507.16937](http://arxiv.org/abs/2507.16937)|null|
 |**2025-07-22**|**Multi-objective Portfolio Optimization Via Gradient Descent**|Christian Oliva et.al.|[2507.16717](http://arxiv.org/abs/2507.16717)|null|
 |**2025-07-22**|**On the Worst-Case Analysis of Cyclic Block Coordinate Descent type Algorithms**|Yassine Kamri et.al.|[2507.16675](http://arxiv.org/abs/2507.16675)|null|
 |**2025-07-22**|**Optimization and generalization analysis for two-layer physics-informed neural networks without over-parametrization**|Zhihan Zeng et.al.|[2507.16380](http://arxiv.org/abs/2507.16380)|null|
@@ -11750,6 +11765,31 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**How Should We Meta-Learn Reinforcement Learning Algorithms?**|Alexander David Goldie et.al.|[2507.17668](http://arxiv.org/abs/2507.17668)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Generalized Advantage Estimation for Distributional Policy Gradients**|Shahil Shaik et.al.|[2507.17530](http://arxiv.org/abs/2507.17530)|null|
+|**2025-07-23**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning**|Yu Li et.al.|[2507.17512](http://arxiv.org/abs/2507.17512)|null|
+|**2025-07-23**|**Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning**|Situo Zhang et.al.|[2507.17448](http://arxiv.org/abs/2507.17448)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning**|Po-Yen Wu et.al.|[2507.17275](http://arxiv.org/abs/2507.17275)|null|
+|**2025-07-23**|**LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks**|Lijie Zheng et.al.|[2507.17188](http://arxiv.org/abs/2507.17188)|null|
+|**2025-07-23**|**CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learning with Implicit Rule-Based Rewards**|Cheng Liu et.al.|[2507.17147](http://arxiv.org/abs/2507.17147)|null|
+|**2025-07-23**|**Reinforcement Learning Fine-Tunes a Sparse Subnetwork in Large Language Models**|Andrii Balashov et.al.|[2507.17107](http://arxiv.org/abs/2507.17107)|null|
+|**2025-07-22**|**Deformable Cluster Manipulation via Whole-Arm Policy Learning**|Jayadeep Jacob et.al.|[2507.17085](http://arxiv.org/abs/2507.17085)|null|
+|**2025-07-22**|**Advancing Robustness in Deep Reinforcement Learning with an Ensemble Defense Approach**|Adithya Mohan et.al.|[2507.17070](http://arxiv.org/abs/2507.17070)|null|
+|**2025-07-22**|**Pragmatic Policy Development via Interpretable Behavior Cloning**|Anton Matsson et.al.|[2507.17056](http://arxiv.org/abs/2507.17056)|null|
+|**2025-07-22**|**Shared Control of Holonomic Wheelchairs through Reinforcement Learning**|Jannis Bähler et.al.|[2507.17055](http://arxiv.org/abs/2507.17055)|null|
+|**2025-07-22**|**PPAAS: PVT and Pareto Aware Analog Sizing via Goal-conditioned Reinforcement Learning**|Seunggeun Kim et.al.|[2507.17003](http://arxiv.org/abs/2507.17003)|null|
+|**2025-07-22**|**Hierarchical Reinforcement Learning Framework for Adaptive Walking Control Using General Value Functions of Lower-Limb Sensor Signals**|Sonny T. Jones et.al.|[2507.16983](http://arxiv.org/abs/2507.16983)|null|
+|**2025-07-22**|**Harnessing RLHF for Robust Unanswerability Recognition and Trustworthy Response Generation in LLMs**|Shuyuan Lin et.al.|[2507.16951](http://arxiv.org/abs/2507.16951)|null|
+|**2025-07-22**|**Multi-agent Reinforcement Learning for Robotized Coral Reef Sample Collection**|Daniel Correa et.al.|[2507.16941](http://arxiv.org/abs/2507.16941)|null|
+|**2025-07-22**|**Diffusion-Modeled Reinforcement Learning for Carbon and Risk-Aware Microgrid Optimization**|Yunyi Zhao et.al.|[2507.16867](http://arxiv.org/abs/2507.16867)|null|
+|**2025-07-21**|**Reinforcement Learning in hyperbolic space for multi-step reasoning**|Tao Xu et.al.|[2507.16864](http://arxiv.org/abs/2507.16864)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
